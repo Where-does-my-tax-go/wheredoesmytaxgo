@@ -33,9 +33,11 @@ RAW = HERE / "news_raw.json"
 CACHE = HERE / "news_llm_cache.json"
 OUT = HERE / "news_stories.json"
 
-# Tried in order; a busy (503) or out-of-quota (429) model falls through to the next. All busy -> wait and retry.
+# Tried in order; a busy (5xx), out-of-quota (429) or dropped call falls through to the next. All down -> wait and
+# retry. Still down -> skip the rest; unread articles stay uncached, so the next run reads them.
 MODELS = ["gemini-3.8-flash", "gemini-3.7-flash", "gemini-3.6-flash", "gemini-3.5-flash"]
 ROUNDS, WAIT_S = 3, 30
+TIMEOUT_S = 90
 BATCH = 30
 CATALOG_YEAR = 2024
 
@@ -160,6 +162,8 @@ def dedupe(stories):
 
 
 def extract(client, system, articles):
+    """Gemini's reading of each article, or None if every model stayed down."""
+    import httpx
     from google.genai import errors, types
 
     # Short ids: Gemini garbles Google's long base64 ids when echoing them back.
@@ -175,12 +179,14 @@ def extract(client, system, articles):
             try:
                 return client.models.generate_content(model=model, contents=prompt, config=config).parsed or []
             except errors.APIError as e:
-                if e.code not in (429, 503):
+                if e.code != 429 and e.code < 500:
                     raise
                 print(f"  {model} unavailable ({e.code}), trying next")
+            except httpx.TransportError as e:  # dropped connection or timeout
+                print(f"  {model} unreachable ({type(e).__name__}), trying next")
         if round_ < ROUNDS - 1:
             time.sleep(WAIT_S)
-    raise SystemExit("All Gemini models busy, try again later (cached results are kept)")
+    return None
 
 
 def main():
@@ -197,11 +203,16 @@ def main():
     if todo:
         from google import genai
 
-        client = genai.Client(api_key=env_key())
+        client = genai.Client(api_key=env_key(), http_options={"timeout": TIMEOUT_S * 1000})
         print(f"Reading {len(todo)} new articles with Gemini ({len(articles) - len(todo)} cached)")
         for i in range(0, len(todo), BATCH):
             batch = todo[i : i + BATCH]
-            for e in extract(client, system, batch):
+            extracted = extract(client, system, batch)
+            if extracted is None:
+                # ::warning:: shows up as a yellow note on the GitHub Actions run, without failing it.
+                print(f"::warning::Gemini unavailable, skipped {len(todo) - i} new articles (next run retries them)")
+                break
+            for e in extracted:
                 if e.article_id.isdigit() and int(e.article_id) < len(batch):
                     results[batch[int(e.article_id)]["id"]] = e.model_dump() | {"article_id": batch[int(e.article_id)]["id"]}
             CACHE.write_text(json.dumps(cache, indent=2, ensure_ascii=False) + "\n")
