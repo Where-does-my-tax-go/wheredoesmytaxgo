@@ -91,6 +91,12 @@ flowchart LR
 - Pydantic for structured LLM output
 - Pillow for images
 
+## Deployment
+
+- **Web app:** Vercel
+- **Database:** Postgres on Neon
+- **News stories:** GitHub Actions runs the news pipeline every 6 hours and commits the results back to the repo (`.github/workflows/news-pipeline.yml`)
+
 ## Local setup
 
 You need Node.js 22.12 or newer (Vitest 5 requires it), Python 3.11, and a Postgres database (Neon or local).
