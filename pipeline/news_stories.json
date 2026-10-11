@@ -1,5 +1,27 @@
 [
   {
+    "id": "news-7c5246ab4051",
+    "title": "French and Swiss firms to build new VIA Rail fleet in $6.7-billion overhaul",
+    "summary": "French and Swiss firms will build new passenger cars and locomotives for VIA Rail. The procurement is part of a $6.7-billion fleet overhaul.",
+    "amount": 6700000000,
+    "date": "2026-10-11",
+    "fiscal_year": "2026-27",
+    "department": "VIA Rail Canada Inc.",
+    "dept_code": "VIA",
+    "program_code": "BTZ00",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Daily Hive",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDVjb3l3VWNPRE9OR19LSWVEU2xTbmlxcnJoSTQ1blg3WnJiVzlrVXRmYUtRd1FGZktIN2FOU1lURUszM3ZFUWpOVUFnb2d0MzB1VDRkYXdMZXlKU3FLMWxMYUtHUk9wNnZleWRvMC0xXzZYZjJucTVxcUZJb0NMM2dweFRlWGRPT2c?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-7c5246ab4051.webp",
+    "image_source_url": "https://dailyhive.com/vancouver/via-rail-new-train-locomotive-order-alstom-stadler",
+    "image_credit": "Daily Hive"
+  },
+  {
     "id": "news-bf40a45e6cda",
     "title": "Ottawa to provide $2B in rebates for heat pump installations",
     "summary": "The federal government plans to provide $2 billion in rebates for homeowners who install heat pumps.",
@@ -187,9 +209,9 @@
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOGdXQ3hkZS1xSVBaei1NV2cwYmgtdEJnM1UxYUhpZDZOek5nSFIxZHVMZGw3OEpOV19HOVVsOTkzTmZYd01IU21jOElLWlRiT1hRNTcwXzZvYmxJRmVJTlI2dHR4ZDdrbWxFV3hrQkJHeWdiWHVOaW54dU1tOGwySHllWDRFVWY3Tk5uVUxxZmZjaURRdnJRdmdkNElwWm5XTmFUXzhSTWFIQzhrS2FabWY0MV9DcUpBVXJyQ3gzdk5FUkdMdC02RHNoMFJRRlVaallPSFNTV0RoNjdsblF4OWYwOEZfS3R6NU9QYjlZUWpyMEk5cTNKS0ZtVQ?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-e087d04d21b3.webp",
-    "image_source_url": "https://www.hilltimes.com/2026/10/04/fintrac-redacted-details-for-26-7-million-in-contracts-since-2021-as-watchdog-warns-there-is-no-oversight-over-disclosures/515071/",
-    "image_credit": "The Hill Times"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-bef811e8b8e4",
@@ -225,9 +247,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-84165101ceaf.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-93c940219547.webp",
+    "image_source_url": "https://cedarnews.net/newstasks/1032597/canada-invests-77m-small-craft-harbour-arctic/",
+    "image_credit": "cedarnews.net"
   },
   {
     "id": "news-0d19f4920d96",
@@ -521,9 +543,9 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGg3OUpNMTVPRTNZQkxPRG81NlRidzBPNW4tVkNGbTdWMmVKUGVTaVRtcHZ1cFZCVF9EWjIzRXUzd3VRa05RZllEVXBqTi14amw2X0wweDh1RmRxcDAwUVBkZk9sZmNfYkxmOHRvdXJUXzA1ZE41VmNIbFlBaVRiZlpxSVpDa3dGd0NDOHItb3NEZnljSUhtTHQzeFBhcmVJRGRBbDhVai0tZXJWdHRz?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-f01cf9c0f716.webp",
+    "image_source_url": "https://immigcanada.com/canada-invests-1-2-million-to-strengthen-francophone-immigration-across-three-regions/",
+    "image_credit": "ImmigCanada"
   },
   {
     "id": "news-49759a60c6c4",
@@ -592,7 +614,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=cRSPp4",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=7gQUoC",
     "image_credit": "IntraFish"
   },
   {
@@ -707,9 +729,9 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0JlNjBhMFFDUERlYUstQVluY3JiaGtxaW5UMnNQelNMa25Wc2NfYy1yTlQ3TVEwajlaRGk3bVdHZFpEb0tKRXozb3Z3dnlYYm5FTDNGRnpxN3VTZENqQmUwZDRZRmZjSnNVTlZqVjZ1b002NUp0X25wMENLTk1GOWZmTDdCeldLc2NsLXRFeFUwTXlzbmVubEVKZ3NIcHkzT0Zlbw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-74d5b2562e3b.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-22-4m-in-kelowna-airport-aerospace-infrastructure/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-df2f8d5280e8.webp",
+    "image_source_url": "https://www.castanet.net/news/Kelowna/632702/Federal-government-commits-22-4-million-for-development-of-east-lands-at-Kelowna-International-Airport",
+    "image_credit": "Castanet"
   },
   {
     "id": "news-54680293248a",
@@ -1401,9 +1423,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOaFkzZUIyOXN1MWIzOUxfMFZVblZJRHpEMFgteU5namFYTnUtenRTWlF2Q1VBUVQzdkpLcjdKLTl0VGFCV0RweHBnaEp0ZTRiVFc5VUUxYXNlZUJmSjNDdzJ6NmQ5ZGZhX29HZlJCSDJSNDBBSzZtcXdjN3ByQklXV1FDTXFDQ0Q0VjBQZWs4T1lNQTVLSmlLQ0JGV21naWRxbmo5M3gyT0hwdDFxV250a3AtdzFjaWFYVnhFdl9kWVE2OUdrbjRkdjVkQ3BGQk9kY3VQb3o3dUxjNTdnU2RsWmgwRjlSX0dRZ05iQkdpSUdBbmZMUExIUDdfQmlvYTExaDRvYXk3dmFRYWhmVmtPczl6d0p1dndZSnpn?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-631c30f4a1ce.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-1-172500169.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-961d68580751",
@@ -1769,9 +1791,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
+    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
+    "image_credit": "On-Site Magazine"
   },
   {
     "id": "news-28b59b949d4f",
