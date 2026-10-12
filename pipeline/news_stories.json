@@ -144,6 +144,28 @@
     "image_credit": "BetaKit"
   },
   {
+    "id": "news-550e116b17df",
+    "title": "Ottawa spends over $20M to support business growth in the North",
+    "summary": "The federal government is spending more than $20 million to stimulate business growth in northern Canada.",
+    "amount": 20000000,
+    "date": "2026-10-06",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Northern Economic Development Agency",
+    "dept_code": "CNEDA",
+    "program_code": "BNL02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlgwb25qRmRmbTdGNzNNNThJZkRhWXlRSFJvNlljb28zTXc3V0NUMlItNlUzbTZuTWt0V0x6VzVQY2l0SVB0T3JWT3lqUmU3NEFxb1dycjZuM1lNRWJzVWV5aTEwUlRsc1p3OXFrM3FYLWdPZ1lZeVFkbE5SUUNXSk1pUGh0Zk8wSGhzcjB4SjNfRnRaMEdYSS1OMldtTnp4S0o4aXhCWVkyOEx3dkVZeDlzTkF1cXFnd3pzZ0ZRb3liY1FZLWpjdFF3?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-550e116b17df.webp",
+    "image_source_url": "https://www.ctvnews.ca/northern-ontario/article/ottawa-is-spending-more-than-20-million-to-kickstart-business-growth-in-the-north/",
+    "image_credit": "CTV News"
+  },
+  {
     "id": "news-0115600630fa",
     "title": "Health Canada outlines plans for $144.8 million in N.W.T. healthcare",
     "summary": "Health Canada has outlined plans to invest $144.8 million to support healthcare services in the Northwest Territories.",
@@ -209,9 +231,9 @@
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOGdXQ3hkZS1xSVBaei1NV2cwYmgtdEJnM1UxYUhpZDZOek5nSFIxZHVMZGw3OEpOV19HOVVsOTkzTmZYd01IU21jOElLWlRiT1hRNTcwXzZvYmxJRmVJTlI2dHR4ZDdrbWxFV3hrQkJHeWdiWHVOaW54dU1tOGwySHllWDRFVWY3Tk5uVUxxZmZjaURRdnJRdmdkNElwWm5XTmFUXzhSTWFIQzhrS2FabWY0MV9DcUpBVXJyQ3gzdk5FUkdMdC02RHNoMFJRRlVaallPSFNTV0RoNjdsblF4OWYwOEZfS3R6NU9QYjlZUWpyMEk5cTNKS0ZtVQ?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-e087d04d21b3.webp",
+    "image_source_url": "https://www.hilltimes.com/2026/10/04/fintrac-redacted-details-for-26-7-million-in-contracts-since-2021-as-watchdog-warns-there-is-no-oversight-over-disclosures/515071/",
+    "image_credit": "The Hill Times"
   },
   {
     "id": "news-bef811e8b8e4",
@@ -449,6 +471,10 @@
       {
         "label": "Yahoo News Canada",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd1ZzamhkUEN1YVFYN0RnMlpMZUxLOXRCUEUyaEdKZjE1ZW5yS19EWFdXV0JQa1dKZ0VxbXZrZEdFMVQ4U2Vnb25zbjE2azZqTEdjeW16dDVpZVY4dExVMGZ0ckhIQlE3a09TdTFCeVhlSUw2N0ZWSWJDOWpqeTVueQ?oc=5"
+      },
+      {
+        "label": "National Post",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRHB2ZGJpc2xiUzZSWDBrTUVBT21xX0xYb2kzUjlfblh5OTYtUzkwVHJ0LUF4Q1lULXNoRXBMZzZEMXdRSVRzZWFHUnJ0VG5ReWllZ0phc1J4dktsQXJWelIzSWhLeWREYV9MdWVFa0FOTV9LOTZZZy1reHBrQnB6MTU0dzdLX09KNTVyZ01TY3JzaDJJaEFIRFdPWElCSU9FYll2cThTcEsya3E5ZUJtMEdDemRTWW1DRmxGTGpxYVRGRHIzTGZJWFhJZGw?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-9aba27d46156.webp",
@@ -614,7 +640,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=7gQUoC",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=G3E4sS",
     "image_credit": "IntraFish"
   },
   {
@@ -1423,9 +1449,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOaFkzZUIyOXN1MWIzOUxfMFZVblZJRHpEMFgteU5namFYTnUtenRTWlF2Q1VBUVQzdkpLcjdKLTl0VGFCV0RweHBnaEp0ZTRiVFc5VUUxYXNlZUJmSjNDdzJ6NmQ5ZGZhX29HZlJCSDJSNDBBSzZtcXdjN3ByQklXV1FDTXFDQ0Q0VjBQZWs4T1lNQTVLSmlLQ0JGV21naWRxbmo5M3gyT0hwdDFxV250a3AtdzFjaWFYVnhFdl9kWVE2OUdrbjRkdjVkQ3BGQk9kY3VQb3o3dUxjNTdnU2RsWmgwRjlSX0dRZ05iQkdpSUdBbmZMUExIUDdfQmlvYTExaDRvYXk3dmFRYWhmVmtPczl6d0p1dndZSnpn?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-631c30f4a1ce.webp",
-    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-1-172500169.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-961d68580751",
