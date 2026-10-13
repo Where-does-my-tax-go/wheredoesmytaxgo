@@ -1,5 +1,131 @@
 [
   {
+    "id": "news-8029215986fc",
+    "title": "Ottawa provides $219M loan to New Brunswick for hydroelectric dam repairs",
+    "summary": "The federal government is providing a $219 million loan to New Brunswick for repair work on a hydroelectric dam.",
+    "amount": 219000000,
+    "date": "2026-10-13",
+    "fiscal_year": "2026-27",
+    "department": "Natural Resources Canada",
+    "dept_code": "NR",
+    "program_code": "BTM09",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Toronto Star",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV2YwRFBuNDg0M1o3emVlNmxiX1Z0V3lXSmtiZjNKM3FvYmY1bnBJZklKenhVZTNWaTBCdFl0V1BndmtvWWJNS3VHbUI0NkVZLThZS29GU3h3cWNoQXV2Slhlbnc3WkhrdnUzZFJjZV9QYXRnS3lncV9iU0NEZ1R0cFFLVS1JaWF0ZnF4Yk9vbHlyNEtzUlJ2ZGhKNHE1aXRDSXhIMHY3M1ZnNTVfMEoxNnI4aVZRcEk0NFBTQVlDTzlkRnBsaVN5U3FVZlF5bXZIQUlZWXJjUldVbUtSbXZINmZqT0s5WVZVbjZJNjZ3eVIxYy02Xzhj?oc=5"
+      },
+      {
+        "label": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanQxSjFrbUplS05uQWlhWm9vLWRuekNwcUhHUnpFRkNTR3BYbmhLVmxRUzF0a1FLdUotRWhtaktqTzBLUEdCWEpMNVZoZm5CUENnNjVSNFJyZUZpczhRZWxHbzRsOEJkRFpNQl93ZV9TdzIzQW0wWXlaWFNiOG5Id1hkZGJsZWs?oc=5"
+      },
+      {
+        "label": "Canadian Manufacturing",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY01rcmdSRVZuc2pxZ01CVTA1R04xLVFqd0VhLW5lUFl5SlE2WmM3T0Vqb1JvQXpmVmtjdmNpU21VSl9oMC1UbWdrbHFGallpUzNaYUxxaFpRN1F4ZENZNU5teEtSYk85WjJWRkFrNWw4b2J5REdDSzVFenN6VjFXcXNvVmRmemltbjlPRk50Yy1xYmt5eUVSVmc4NG5SWXZmclR0Q1QwcXZ5eUgzcHFUT3JhS1BWZGdSUktSSVZscVJERUFtUThtRjlONURyUmg2VUFTQXJnTkFSOE5veUJ0ZllRWkU?oc=5"
+      },
+      {
+        "label": "Global News",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWZ2cE9ZRWNsSmJwTmJCYmRqMDlMTFd4YXU3OFFiZUEwRWF6QUVlTWVZY3V0UGtUQy1Yd284VlQwMzVpSDB2V3gtSEI0VXlKZGJHYWk5dTM4RDhRQzVGWGdpT0RfSC1HRTctbUMxdDdZS2NFcVE0bXhkWjFnVm50bWo0WlRPOVk?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-cec2bc7f6a58.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/brunswick-gets-219-million-loan-122134110.html",
+    "image_credit": "Yahoo! Finance Canada"
+  },
+  {
+    "id": "news-7dbcab29cbb6",
+    "title": "Ottawa announces $269M clean energy investment in New Brunswick",
+    "summary": "The federal government is investing $269 million into clean energy projects in New Brunswick.",
+    "amount": 269000000,
+    "date": "2026-10-13",
+    "fiscal_year": "2026-27",
+    "department": "Natural Resources Canada",
+    "dept_code": "NR",
+    "program_code": "BTM09",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "ReNew Canada",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZV9LLUZVaHRkMnFrb2JBYjFNclB5X0VKSUJ4bjN5dW9wRDdlenMxbktlUU51aWxkdDdhZDE5R2VDZ3NpX3N4dlNQY3FiR21ieHU2WGhuVm1fUkdyS1oxRnVuS1NMdldPaG9HY29XQ3RaRG1JZGJvZ0c4Ym9PNkh3M0N6UjUwaXZqV0k0WQ?oc=5"
+      },
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc3dqc0w2cU00X2p3d1ZPR0sybFRSNnNnTll6dEJtX1IwLWVRRlpwTS1RQ2g3MnhYWVZjWWVxTEl1UUhjQXNkSHplYzZUOUxFWVBmdldhOERaNTZENUlMVnBnUEJqcmo2bnJ6YnFFUWZuSjA3N2FadFdqaFd1SFA3SDdHc05mN3pyMlp2OGs1RXM0akUzU3Z1RXVOM0V6cENxdGc0a1BUZlZmTkF0ZmE4RA?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-cfad1312e010.webp",
+    "image_source_url": "https://www.renewcanada.net/feds-make-269m-clean-energy-investment-in-new-brunswick/",
+    "image_credit": "ReNew Canada"
+  },
+  {
+    "id": "news-bd2fc9f6bc33",
+    "title": "Federal government expands AI program with $500M boost",
+    "summary": "The federal government is providing $500 million to expand its artificial intelligence program.",
+    "amount": 500000000,
+    "date": "2026-10-13",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWdBT09wNFpDcWxQclVHNWwybzRBNDZvWGFQLUdyR282b3JFdjJlUUR1cElTWjFmOGlfSFhPV1EtM0gxaUVvVEY0cU83Ym5TOVZLSnZBQnpfYkhlRDEyRTJ2MXNEbEZJZVJsRWxlcmxYMmtUblA3dk13QmxxNE1UaTNyYkItTGpFcVVmNUpEZkRqcVZ4VlFrVmxQTGRQVUdKZ1E?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-bd2fc9f6bc33.webp",
+    "image_source_url": "https://www.ctvnews.ca/london/article/federal-government-expands-ai-program-with-500m-boost/",
+    "image_credit": "CTV News"
+  },
+  {
+    "id": "news-65eb6bc71249",
+    "title": "Construction begins on $357M VIA Rail Montreal maintenance facility",
+    "summary": "Pomerleau has started construction on a $357 million VIA Rail assembly and maintenance facility in Montreal.",
+    "amount": 357000000,
+    "date": "2026-10-13",
+    "fiscal_year": "2026-27",
+    "department": "VIA Rail Canada Inc.",
+    "dept_code": "VIA",
+    "program_code": "BTZ00",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Construction Review",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGJoMFJaa1d2UEJXdmQwYk12MnZGTkp1ajhZOV9aM0pKMHluWkJtOC1HUW03M1BVN0lXTzZZQy0xUmhEeEhhdW1uZC1Zbi1YaTczMHl3VVFzbmZsVkozSUowLVItR1NyeVRyZG5BRnB0N2Q3cUYxd1F4VFJ3Rk04UkZBVXFoNjF6S1UyejlTeUhJejUwc0RuaDI1TXRUMXBmRGJ0Yl9vY3Nva3ZGNmM4MUh6T3N1bmZ4Um80RWVYa1l1VTJNNjZIclZ2NGx3a0dp?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-65eb6bc71249.webp",
+    "image_source_url": "https://constructionreviewonline.com/c357m-via-rail-montreal-assembly-and-maintenance-facility-pomerleau-begins-construction-in-quebec/",
+    "image_credit": "Construction Review"
+  },
+  {
+    "id": "news-9171f2abb740",
+    "title": "Ottawa commits $40M for Atlantic Canadian AI businesses",
+    "summary": "Businesses in Atlantic Canada will receive $40 million in federal funding dedicated to artificial intelligence.",
+    "amount": 40000000,
+    "date": "2026-10-13",
+    "fiscal_year": "2026-27",
+    "department": "Atlantic Canada Opportunities Agency",
+    "dept_code": "ACOA",
+    "program_code": "BED04",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Canada.ca",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZTZUdW9NdGFtRzFrelNnX0dBbUk0WGVTOVp6YW01SUxXV3Z4eGl5dUxGWHRLOWtIQ1ZMSkNhOVh6clFJN3dTa2hJOHk0aXMySFBVTlFycDcyRExzVFMtd1dRMFh3Z0EwZVhRcFhlQ19hcUVFdUwxRVp5MHFhSVFpRE5BWjhaRDBZd25pMVdmUzFLVVE4TnBDUXBxd0x0Wi16T2Job2ExYjJCbW00MFlaQXJIM2gtbTJIRWk5a1Y2VVVlVG9qUVdxUlV1RjhodkJZLWltQjVpMWVHN2xLZGx0VjBLVkpOUWlRYnp1Mng2NXc0TzdwRlFUZVVTc2k?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-9171f2abb740.webp",
+    "image_source_url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/10/atlantic-canadian-businesses-to-benefit-from-an-additional-40-million-in-federal-dollars-for-ai.html",
+    "image_credit": "Canada.ca"
+  },
+  {
     "id": "news-2515cc4e75bb",
     "title": "Canada grants $2.81 million for AlumaPower energy technology",
     "summary": "The federal government is providing $2.81 million to AlumaPower to support its energy-generation technology.",
@@ -317,9 +443,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-93c940219547.webp",
-    "image_source_url": "https://cedarnews.net/newstasks/1032597/canada-invests-77m-small-craft-harbour-arctic/",
-    "image_credit": "cedarnews.net"
+    "image_url": "/story-images/news/news-84165101ceaf.webp",
+    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
+    "image_credit": "Canadian Defence Review"
   },
   {
     "id": "news-0d19f4920d96",
@@ -688,7 +814,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=OKUMkK",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=vGQ7r5",
     "image_credit": "IntraFish"
   },
   {
@@ -803,9 +929,9 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0JlNjBhMFFDUERlYUstQVluY3JiaGtxaW5UMnNQelNMa25Wc2NfYy1yTlQ3TVEwajlaRGk3bVdHZFpEb0tKRXozb3Z3dnlYYm5FTDNGRnpxN3VTZENqQmUwZDRZRmZjSnNVTlZqVjZ1b002NUp0X25wMENLTk1GOWZmTDdCeldLc2NsLXRFeFUwTXlzbmVubEVKZ3NIcHkzT0Zlbw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-df2f8d5280e8.webp",
-    "image_source_url": "https://www.castanet.net/news/Kelowna/632702/Federal-government-commits-22-4-million-for-development-of-east-lands-at-Kelowna-International-Airport",
-    "image_credit": "Castanet"
+    "image_url": "/story-images/news/news-74d5b2562e3b.webp",
+    "image_source_url": "https://canadiandefencereview.com/canada-invests-22-4m-in-kelowna-airport-aerospace-infrastructure/",
+    "image_credit": "Canadian Defence Review"
   },
   {
     "id": "news-54680293248a",
@@ -1393,9 +1519,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjdabEdRZzRqc3hhUk0yVDlrYU5YYUNHNjJuZ3ZoRWZrRThSM3NSb3BlRXFBcHlndnQ0RDZLdExUTi1BTXctb0p4Sktud09yM1h2cE9EOVJLaUQ4eXFmSmUzeF9WQmRKMTVCNmkwM0lnQy1vNV96Z0tvdDl3VlpveDIyN1drSV9PTkxfNXU2QzNQeWRyS2dYZnFYNA?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-07c349ae8aa4.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-1-98-163400092.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-480664abee11",
@@ -1795,9 +1921,9 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaTZrSnNjcjF5Z05vd0hYdzluVFQ0U0ozWnBoQnR2MGFRZXJsNEotV3g5S3RMMW5TS2FCUXlvdmE2TVhXZ2hWZXVGZHRlRzhmbHRTQ1lNb2RxMWh4UlM2eXhyWDJUT0h3OHowdjJHQWlnVlFSdUVKNF9FV1plako3d25Fckp5M3laQWt3VWpvb1Fhb3BMRF96ZER0VldoUERL?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-8a3fbe1df937.webp",
-    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/canada-paid-stellantis-222-million-140000309.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-376176735177",
@@ -1865,9 +1991,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
-    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
-    "image_credit": "On-Site Magazine"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-28b59b949d4f",
