@@ -38,6 +38,28 @@
     "image_credit": "Yahoo! Finance Canada"
   },
   {
+    "id": "news-3082c44a5636",
+    "title": "Ottawa to announce over $350M for skilled trades training and recruitment",
+    "summary": "The federal government plans to announce more than $350 million to support skilled trades worker training and recruitment.",
+    "amount": 350000000,
+    "date": "2026-10-14",
+    "fiscal_year": "2026-27",
+    "department": "Employment and Social Development Canada",
+    "dept_code": "HRSD",
+    "program_code": "BGO29",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByRnQwdjJaNHQ4cWhRcjh5dnNBSGl1WFBrXzlxaXdwb3pMV3BUSnFZNnpWeEEtc3FkNTNwYU43UlBnM1U5a3FuOTh4T0RTR25YQ094VUNFcWcxUk9xZTRJeUZnZnBsVkJhX195XzBaVVFmLTJ5ZzYzUGMwd0V6TkU?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-2fd414882785",
     "title": "Ottawa provides $219M loan to New Brunswick for hydroelectric dam repairs",
     "summary": "The federal government is providing a $219 million loan to New Brunswick for repair work on a hydroelectric dam.",
@@ -864,7 +886,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=N5ZyIS",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=bA5Dxv",
     "image_credit": "IntraFish"
   },
   {
