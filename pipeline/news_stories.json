@@ -1,6 +1,6 @@
 [
   {
-    "id": "news-cc8a1170fa5e",
+    "id": "news-14bc176613dd",
     "title": "Ottawa opens $430M for skilled trades training facilities and equipment",
     "summary": "The federal government is providing $430 million for training facilities and equipment in skilled trades.",
     "amount": 430000000,
@@ -19,11 +19,19 @@
       {
         "label": "CP24",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVNxd3FQNVoyeHdRR25QSFFOZGt6THowbjcxS2J5RXk1a3RnNEplVlE2QVRFQkZnUHNodDg1VlNXeHZvdTdxeFhJdHEydVI0WmhrNTZCSFVTalVGaGwyMGxfMDN6TExxS3JDSlRmTFhBSW5XVU4xRGF1ODFZSHhuMmJOUW9LeVRZVG9hMlVPS3o0UFFpcFVDLWVmUld0M2ltdWhEZA?oc=5"
+      },
+      {
+        "label": "CityNews Winnipeg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbE10VFFJUGJxelhoQUoxVHZ2OENIbzFjQklqVW5ZS1lDOFBVZnJacUNMTHdzcjFUYzc3MXRuenFSa0RPVlVVNmZyMTBIcEUydFFlUnRSZHBnQzdGV19uWGs0TXh4ZVJZRFhULWE0X0JaTF9Ja19BWGJKLWZlVkZObFZLQTlvVHUtYjZkSnRfbjktcU5kempVZEttUFQwQ2ZNOVhZQUVUNnBuYWplTjVjU1l2aw?oc=5"
+      },
+      {
+        "label": "BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeVkwMkd4NGNvRlRwSmppYlpTT1FsV3hzX2RrUl9fLTN2OTZQMlFEYzBOLXA5aGk1Q3VJNnNVdGhjTUp2OUhwdVRIbVE3aXYwV1JGYXdtRzlEQk5uRHdqOC1VdTZ3czhJUzI0bUpyMmFZQVZKMWxDNUE3cm5OWS1UMi1FeWtrY3N4eW8xQVRlM3RNUlJfekFlNEk2TjkzZzFpRzNvaHlDeFRpR2ZZbGdHcFZILUtaZ3c?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-cc8a1170fa5e.webp",
+    "image_url": "/story-images/news/news-14bc176613dd.webp",
     "image_source_url": "https://www.ctvnews.ca/canada/article/ottawa-to-invest-430m-to-train-new-skilled-trades-workers/",
-    "image_credit": "CP24"
+    "image_credit": "BNN Bloomberg"
   },
   {
     "id": "news-65618e625be7",
@@ -46,6 +54,54 @@
     "image_url": "/story-images/news/news-65618e625be7.webp",
     "image_source_url": "https://www.ctvnews.ca/ottawa/article/feds-looking-to-build-15-billion-data-centre-in-ottawa-area/",
     "image_credit": "CTV News"
+  },
+  {
+    "id": "news-492f7eecbc12",
+    "title": "Canada invests $50M in Canadian Food Innovation Network",
+    "summary": "The federal government is investing $50 million into the Canadian Food Innovation Network.",
+    "amount": 50000000,
+    "date": "2026-10-15",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "BetaKit",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjVlY2dDS1l3UVpQMUUyM2xTMUZ1SkNodnpsU2VESDN2Zldzay1OR0I3NGdfVy1RRHg0YTRxa2dDaGRkb2U3dGZHSW1tdnpPazNHajZGVTkzcUhnWU5jVHRxUmVtQzdmNm1ZeW9NOFF4WE1PcUdQcERQZnFvaVJmUEJiNG91WGNlSXJJZA?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-492f7eecbc12.webp",
+    "image_source_url": "https://betakit.com/canada-invests-50-million-into-canadian-food-innovation-network/",
+    "image_credit": "BetaKit"
+  },
+  {
+    "id": "news-1db2858b7b83",
+    "title": "Ottawa to announce $100M for Nova Scotia offshore wind projects",
+    "summary": "The federal government plans to announce $100 million for offshore wind development in Nova Scotia.",
+    "amount": 100000000,
+    "date": "2026-10-15",
+    "fiscal_year": "2026-27",
+    "department": "Natural Resources Canada",
+    "dept_code": "NR",
+    "program_code": "BTM09",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkhta2hJS1ZtODltM0RZdDN3ejNvd1lKaHNQcmxwVGlQUFJId19UUVlidWdCV3gwNUlDUEpLZXFQcl9KcVFLaXNNaHY1dnhua2dQdHEyd1hpZjZSQWZXYlhlR3BWY2RPQ3dWZ0EtSTRkZlE2cEJEanRPRkZVRy1fTGFyN1ZOQzlmYnJXOW5KUE14clpNaURyRjBUS2MzaHJfUmc?oc=5"
+      },
+      {
+        "label": "battlefordsNOW",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWlVNHVGNDZwZFlkSWxHaGs4SFQwRjBDcEtsTGYxbUVyOVl3RFdxT2MybUxVX2hGRlVtN203a0dPRzNPQ1dBU0FrR3l6cG9aYXdfVFctc3RKRUtBUFZTWHY3X0hVWDVtaHVtLVNHVnF1dG5IUlMzelZzN2tkd283REFjQk9vUTRtZXFYWnZudWJqRzh0c0ZSS19EWnFCS0tMMVdRV1J2eGp5cU9wWTNjUXJwanU?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
+    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
+    "image_credit": "battlefordsNOW"
   },
   {
     "id": "news-2244fb9aa8d6",
@@ -131,6 +187,10 @@
       {
         "label": "https://streamlinefeed.co.ke/",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcnllV19uMmp1YWc5dkV6NXJ6NGhJWUxoaWFUSUt1Z29yREN0SzgxRjNBLW9VZkJ4V01WOTZvUDZ6YzZ3R3p6ZFVBcXVsR2l3RW1XaGxFQS1fVTRmZHdSWGwteWdpRUJKclZRb3BxTERGQkVNd2UtSUVfUmMtSk5LMGlmUy1oYmFIRjU2Ty1QNkVMQmpuYWZJ?oc=5"
+      },
+      {
+        "label": "MobileSyrup",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3pWaXNoRVQ1T1Npbm9PbnNUeXFqT2ZBLU4xc1djR1VoZEx1RjdxQVQyemFBUUY5TTYwQnJQeGVvNndDZzZhamtkeDNPa2s4ak0wYVlnNzNvNEF1Qk1uUGZIanBKamFLakJwSnpmcExISHY1bmRmTTNjRktja3B0OElqR0ZodGlMRFJkcmNzNDhna1FjSk1Iai1GSHE?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-18bc8cdb9404.webp",
@@ -335,6 +395,10 @@
       {
         "label": "CTV News",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjNrV0NxOEZoOWJXdlZibDV0UmdoV2tNaWljNEJUYzFmUWNwX09KTS1CcElkRkhVZnRzeVhDc1l2UjdxTGs4RUkxeEVqdTdPRFJaNDY2WGtlUGpySTZ1RjhZdGdkQW5UcmJPOVdHOW5ua2NKME9vUldJSWU2N1VfdjlKZEVrSURFOUpJSXdESlg5NlVZVFlTVm9KMEJOYXkx?oc=5"
+      },
+      {
+        "label": "Ontario Construction News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFZzS2tydzRFYnZQTXNKSFE0RUtBUjNEN0diZzdGeU1xZHMyTDdpR0lvWXZSNzFNbzVKSFpHd2FHMWw2MDFfX3hqZ2hQUXpMNV9TQ3MxUWZGd05aUEtqRVRBZ1dHRHVCLUtPQ2N1bTVWSjFpQkRNTmt3ZTR4Umh1NEVYV0RWdDNKRzJmZG16Rk1kdlN2b1pyLTZ2NA?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-99c99e4cab5b.webp",
@@ -567,9 +631,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-84165101ceaf.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-93c940219547.webp",
+    "image_source_url": "https://cedarnews.net/newstasks/1032597/canada-invests-77m-small-craft-harbour-arctic/",
+    "image_credit": "cedarnews.net"
   },
   {
     "id": "news-0d19f4920d96",
@@ -938,7 +1002,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=BjO8ln",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=Zp7k0L",
     "image_credit": "IntraFish"
   },
   {
@@ -1053,9 +1117,9 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0JlNjBhMFFDUERlYUstQVluY3JiaGtxaW5UMnNQelNMa25Wc2NfYy1yTlQ3TVEwajlaRGk3bVdHZFpEb0tKRXozb3Z3dnlYYm5FTDNGRnpxN3VTZENqQmUwZDRZRmZjSnNVTlZqVjZ1b002NUp0X25wMENLTk1GOWZmTDdCeldLc2NsLXRFeFUwTXlzbmVubEVKZ3NIcHkzT0Zlbw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-74d5b2562e3b.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-22-4m-in-kelowna-airport-aerospace-infrastructure/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-df2f8d5280e8.webp",
+    "image_source_url": "https://www.castanet.net/news/Kelowna/632702/Federal-government-commits-22-4-million-for-development-of-east-lands-at-Kelowna-International-Airport",
+    "image_credit": "Castanet"
   },
   {
     "id": "news-54680293248a",
