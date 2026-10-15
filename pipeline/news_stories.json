@@ -1,5 +1,53 @@
 [
   {
+    "id": "news-cc8a1170fa5e",
+    "title": "Ottawa opens $430M for skilled trades training facilities and equipment",
+    "summary": "The federal government is providing $430 million for training facilities and equipment in skilled trades.",
+    "amount": 430000000,
+    "date": "2026-10-15",
+    "fiscal_year": "2026-27",
+    "department": "Employment and Social Development Canada",
+    "dept_code": "HRSD",
+    "program_code": "BGO29",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWxKYW9VSlh5cS1zWEN1Q0RkTC1oMXZ6bzFwUFlnSWhxTmtsMGg2R3NZcndyVHhpNXI4V05sWVI5cF9GZVNnUUNYcFUxWGI0V3hYWlQ1QmFYbVRvOGJPUjl3R29zU0xaQV96cmFEc3M0QmF4d1RBZnR4OFFVa2xuNUtIYnZPT2RvMmRJYWtZUUNnZk40ZS1qMjhXRWM?oc=5"
+      },
+      {
+        "label": "CP24",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVNxd3FQNVoyeHdRR25QSFFOZGt6THowbjcxS2J5RXk1a3RnNEplVlE2QVRFQkZnUHNodDg1VlNXeHZvdTdxeFhJdHEydVI0WmhrNTZCSFVTalVGaGwyMGxfMDN6TExxS3JDSlRmTFhBSW5XVU4xRGF1ODFZSHhuMmJOUW9LeVRZVG9hMlVPS3o0UFFpcFVDLWVmUld0M2ltdWhEZA?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-cc8a1170fa5e.webp",
+    "image_source_url": "https://www.ctvnews.ca/canada/article/ottawa-to-invest-430m-to-train-new-skilled-trades-workers/",
+    "image_credit": "CP24"
+  },
+  {
+    "id": "news-65618e625be7",
+    "title": "Federal government looking to build $1.5B Ottawa data centre",
+    "summary": "The federal government is planning to construct a $1.5 billion data centre in the Ottawa area.",
+    "amount": 1500000000,
+    "date": "2026-10-15",
+    "fiscal_year": "2026-27",
+    "department": "Shared Services Canada",
+    "dept_code": "SHARE",
+    "program_code": "BYE03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFZBOW1qWlltekJWYWFsejl5UnI4dExBS3dSVkJZN2c5LUZPdF9lRWtJNElRcEpnYl9iN3BIX2sydEZWRHp4b0N5VEVGY0NJVFpDOFNEc05IYlNNa1dKbm81ZENIU1FvTFQ3VUpMMEtHYTVnbmRTUDFvQXNzcUZWQUFFTmhoc29JMExkTERzLUVYVkdBbWJibl82ODE5SzQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-65618e625be7.webp",
+    "image_source_url": "https://www.ctvnews.ca/ottawa/article/feds-looking-to-build-15-billion-data-centre-in-ottawa-area/",
+    "image_credit": "CTV News"
+  },
+  {
     "id": "news-2244fb9aa8d6",
     "title": "Ottawa prepared to spend $50 million on New Brunswick forestry centre",
     "summary": "The federal government is prepared to invest $50 million into a high-tech forestry centre located in New Brunswick.",
@@ -58,6 +106,36 @@
     "image_url": null,
     "image_source_url": null,
     "image_credit": null
+  },
+  {
+    "id": "news-18bc8cdb9404",
+    "title": "Federal government expands AI program with $500M boost",
+    "summary": "The federal government is providing $500 million to expand its artificial intelligence program.",
+    "amount": 500000000,
+    "date": "2026-10-13",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWdBT09wNFpDcWxQclVHNWwybzRBNDZvWGFQLUdyR282b3JFdjJlUUR1cElTWjFmOGlfSFhPV1EtM0gxaUVvVEY0cU83Ym5TOVZLSnZBQnpfYkhlRDEyRTJ2MXNEbEZJZVJsRWxlcmxYMmtUblA3dk13QmxxNE1UaTNyYkItTGpFcVVmNUpEZkRqcVZ4VlFrVmxQTGRQVUdKZ1E?oc=5"
+      },
+      {
+        "label": "Cryptopolitan",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDNMdUhIMVVyV0E2YVRQSWkxcVZZQnZsQ3NhdDN6TmE5YXRPdC1aUlFybmZGeHVLY3kzbFgxcDlHXzRSZ2lILW5wRnFKMUxWblNKRHpqU1BjaXBLYm5Db1VudjV0SzZzNXFPVFE0NkRnczVPYzBhMDFSNmtrdGw1M3dueW1QVV9NMlNMcndidjNBNjQ4dFQwb0VmZG0?oc=5"
+      },
+      {
+        "label": "https://streamlinefeed.co.ke/",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcnllV19uMmp1YWc5dkV6NXJ6NGhJWUxoaWFUSUt1Z29yREN0SzgxRjNBLW9VZkJ4V01WOTZvUDZ6YzZ3R3p6ZFVBcXVsR2l3RW1XaGxFQS1fVTRmZHdSWGwteWdpRUJKclZRb3BxTERGQkVNd2UtSUVfUmMtSk5LMGlmUy1oYmFIRjU2Ty1QNkVMQmpuYWZJ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-18bc8cdb9404.webp",
+    "image_source_url": "https://www.cryptopolitan.com/canada-adds-500-million-to-ai-adoption-fund-total-now-700-million/",
+    "image_credit": "Cryptopolitan"
   },
   {
     "id": "news-2fd414882785",
@@ -126,32 +204,6 @@
     "image_url": "/story-images/news/news-cfad1312e010.webp",
     "image_source_url": "https://www.renewcanada.net/feds-make-269m-clean-energy-investment-in-new-brunswick/",
     "image_credit": "ReNew Canada"
-  },
-  {
-    "id": "news-18bc8cdb9404",
-    "title": "Federal government expands AI program with $500M boost",
-    "summary": "The federal government is providing $500 million to expand its artificial intelligence program.",
-    "amount": 500000000,
-    "date": "2026-10-13",
-    "fiscal_year": "2026-27",
-    "department": "Innovation, Science and Economic Development Canada",
-    "dept_code": "ISC",
-    "program_code": "BNP01",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "CTV News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWdBT09wNFpDcWxQclVHNWwybzRBNDZvWGFQLUdyR282b3JFdjJlUUR1cElTWjFmOGlfSFhPV1EtM0gxaUVvVEY0cU83Ym5TOVZLSnZBQnpfYkhlRDEyRTJ2MXNEbEZJZVJsRWxlcmxYMmtUblA3dk13QmxxNE1UaTNyYkItTGpFcVVmNUpEZkRqcVZ4VlFrVmxQTGRQVUdKZ1E?oc=5"
-      },
-      {
-        "label": "Cryptopolitan",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDNMdUhIMVVyV0E2YVRQSWkxcVZZQnZsQ3NhdDN6TmE5YXRPdC1aUlFybmZGeHVLY3kzbFgxcDlHXzRSZ2lILW5wRnFKMUxWblNKRHpqU1BjaXBLYm5Db1VudjV0SzZzNXFPVFE0NkRnczVPYzBhMDFSNmtrdGw1M3dueW1QVV9NMlNMcndidjNBNjQ4dFQwb0VmZG0?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-18bc8cdb9404.webp",
-    "image_source_url": "https://www.cryptopolitan.com/canada-adds-500-million-to-ai-adoption-fund-total-now-700-million/",
-    "image_credit": "Cryptopolitan"
   },
   {
     "id": "news-65eb6bc71249",
@@ -886,7 +938,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=xViyPb",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=BjO8ln",
     "image_credit": "IntraFish"
   },
   {
@@ -1457,11 +1509,15 @@
       {
         "label": "Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjduYnN5cngzUzlDbjk2dGxSRldXQzFRNS14d1V0YWFUc0ZXRndLMzJ1RTBTaVY4Q1RrVXdrTjBmYjMyQmM0WEZIVVZNX0hWNHFaTVNZaUZJQk1iT1ZpQlJuYnh1UVdGNVY0aFZxXzZ1Z1VqYkt5amdRc2NnWVhhV0d1b2RnY214cG1iY0pTbkFfNXktMzJIU1pYVTNVelV6?oc=5"
+      },
+      {
+        "label": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0833ed8d711b.webp",
-    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-c4625895fe3d.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-15beea9f0e27",
