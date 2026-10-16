@@ -1,5 +1,27 @@
 [
   {
+    "id": "news-086732d628cb",
+    "title": "Federal government announces $258.6M for skilled worker training",
+    "summary": "The federal government has announced a $258.6 million fund to support skilled worker training in critical sectors.",
+    "amount": 258600000,
+    "date": "2026-10-16",
+    "fiscal_year": "2026-27",
+    "department": "Employment and Social Development Canada",
+    "dept_code": "HRSD",
+    "program_code": "BGO13",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNHlUS0hIbUFxaTlWbEpZbS1QZWRSLU5xWXVtZDFMdWFvSkluT1puRlA4VXNCanZvOFozNThZSHZRSHd1YkV4Z1c2ckVTS3hONGtrb1BNNjh1clp0NTNjcU1VdHZhYWM1emRNcnJHZDc4LVAtcUdpTjZXakUzUEVJTC1qc0N5WGRfcEVKMjRLZ1lCS05wZ2NrNTlFemhBeHBNb2JhWVloWmw5WTJfMm9UekhoZENURGV4ZmhqNjN4S1MxRlBuNzNPcVZNTnhzTlZh?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-086732d628cb.webp",
+    "image_source_url": "https://www.ctvnews.ca/canada/article/liberals-announce-2586m-fund-for-skilled-worker-training-in-critical-sectors/",
+    "image_credit": "BNN Bloomberg"
+  },
+  {
     "id": "news-1db2858b7b83",
     "title": "Ottawa to announce $100M for Nova Scotia offshore wind projects",
     "summary": "The federal government plans to announce $100 million for offshore wind development in Nova Scotia.",
@@ -1084,7 +1106,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=hQpoha",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=Xfzq6m",
     "image_credit": "IntraFish"
   },
   {
@@ -1465,6 +1487,10 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNclNRRkxXZzJmS2tkOXlmdUMtQUVOMmF0RlBMNEVjX2V1dnVYd0lVTW9pMWlxZ3dNQV93Q1hnSFVCZFJiSGxwMVl0amx2R2JwVVlHZGFyTTV3QnlDUnJMZlo4RUpZcUZEclhJVHk4QVZGSTJpcjJkcHpUWmQtWVpwanpGN2s0MjZ5OVJTd2lfUjdNTTA?oc=5"
       },
       {
+        "label": "Yahoo News Canada",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pTHU3b3dIS3hCODRkY2ozTmhrMG41dFRGeFVWX05UZnZ5STVfYXFYSF8yd2wzX2RUSHVKZWx5TVJWUThkcFR2aTJrejZkelNUTkhnWVY3a2tWeDN3VzlnSU53ZVJzV21YdmlVYklMSDlZS015RllPU3ZRem9UQQ?oc=5"
+      },
+      {
         "label": "HighRiverOnline",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzZrb2tMQkdNS2NQUnhqdzVSSjdPNkN2SVFvVENDRGdqRGZqM1lDOUtGS0l4LVBPdkdiZ3hpX1NoNGV1UkF3cnVqdEMtU05uYjdFSENQUUtOM01xNGpIYXVxeDdlRGZvSm5pVVZaV2xmaDFpLW5DNjkxMjdaODd1b3g5dVVoMldUMUdqRXVaOGR6cTBZSnhMMWw4U2lLY0JaNlktd3oteG5oTGdyeFhj?oc=5"
       },
@@ -1481,9 +1507,9 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHFxU3BuX3BqNGVRVVRDTmNMRnA0NUYzaVlqUEVpYlFsdjJXWnFvRTF2Q2F5dk1TVXY1V2Nuc3BWWVVJdFV5aG9WRDVweWRvOVZfQmhvamdrVHlmcm04UnliRFZhcHI2Rzd5aW56b2JRU3RDSUlRLTZOOERMWnlMVkJNNWxiOVVfajJRelBlMHJYU2U0S2hWVWJOVVU4Umh1ajBjZGVIY2EyZE8zbVN6Z3dTVjJYODA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0112e97c9338.webp",
-    "image_source_url": "https://highriveronline.com/articles/federal-government-invests-more-than-1-million-in-farm-safety-initiatives",
-    "image_credit": "HighRiverOnline"
+    "image_url": "/story-images/news/news-f310ee215ca5.webp",
+    "image_source_url": "https://ca.news.yahoo.com/extremely-difficult-job-feds-put-211453297.html",
+    "image_credit": "Yahoo News Canada"
   },
   {
     "id": "news-c241b09738bd",
@@ -1661,9 +1687,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0833ed8d711b.webp",
-    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-c4625895fe3d.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-15beea9f0e27",
@@ -1793,9 +1819,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjdabEdRZzRqc3hhUk0yVDlrYU5YYUNHNjJuZ3ZoRWZrRThSM3NSb3BlRXFBcHlndnQ0RDZLdExUTi1BTXctb0p4Sktud09yM1h2cE9EOVJLaUQ4eXFmSmUzeF9WQmRKMTVCNmkwM0lnQy1vNV96Z0tvdDl3VlpveDIyN1drSV9PTkxfNXU2QzNQeWRyS2dYZnFYNA?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-07c349ae8aa4.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-1-98-163400092.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-480664abee11",
@@ -1901,9 +1927,9 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjBsSXAwcGFCcjA0TzdweDBjNmJSTkpza1FKYTBPOGRfaTgxZ3RucTJuTUpVUGdZQWpOUVowN0lPb3JBZFZqUUxxVTJ4OWxZUWtfRV9LU3RGSVU0d2dQWFhKWEd3TG9ONTVpMUIwZmRnYVNPX3ZlNFF6Q2VIcHgzNEdYbE95eDV6?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-631c30f4a1ce.webp",
-    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-1-172500169.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-aec23c9f8e08.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-over-1-172500463.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-961d68580751",
