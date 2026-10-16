@@ -1,5 +1,35 @@
 [
   {
+    "id": "news-1db2858b7b83",
+    "title": "Ottawa to announce $100M for Nova Scotia offshore wind projects",
+    "summary": "The federal government plans to announce $100 million for offshore wind development in Nova Scotia.",
+    "amount": 100000000,
+    "date": "2026-10-15",
+    "fiscal_year": "2026-27",
+    "department": "Natural Resources Canada",
+    "dept_code": "NR",
+    "program_code": "BTM09",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkhta2hJS1ZtODltM0RZdDN3ejNvd1lKaHNQcmxwVGlQUFJId19UUVlidWdCV3gwNUlDUEpLZXFQcl9KcVFLaXNNaHY1dnhua2dQdHEyd1hpZjZSQWZXYlhlR3BWY2RPQ3dWZ0EtSTRkZlE2cEJEanRPRkZVRy1fTGFyN1ZOQzlmYnJXOW5KUE14clpNaURyRjBUS2MzaHJfUmc?oc=5"
+      },
+      {
+        "label": "battlefordsNOW",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWlVNHVGNDZwZFlkSWxHaGs4SFQwRjBDcEtsTGYxbUVyOVl3RFdxT2MybUxVX2hGRlVtN203a0dPRzNPQ1dBU0FrR3l6cG9aYXdfVFctc3RKRUtBUFZTWHY3X0hVWDVtaHVtLVNHVnF1dG5IUlMzelZzN2tkd283REFjQk9vUTRtZXFYWnZudWJqRzh0c0ZSS19EWnFCS0tMMVdRV1J2eGp5cU9wWTNjUXJwanU?oc=5"
+      },
+      {
+        "label": "Canada's National Observer",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFU1alVxMk9sNkFMN1ZUbFc5aV9oM1BWV3hQX1liNFVJQnNrYmprdFhVTW84NzB2ZFlvbUFULW9HYTRkQnlncklmSk9PdkF3TjJKNGRDbzl2aFVGUWwzbno1Z080U2lONjFRcERnM0dGN21DM3JUakZyY1pNR3phdmlWY0o2d2k1dDFabHpkSWNLUTJl?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
+    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
+    "image_credit": "battlefordsNOW"
+  },
+  {
     "id": "news-14bc176613dd",
     "title": "Ottawa opens $430M for skilled trades training facilities and equipment",
     "summary": "The federal government is providing $430 million for training facilities and equipment in skilled trades.",
@@ -71,6 +101,10 @@
       {
         "label": "BetaKit",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjVlY2dDS1l3UVpQMUUyM2xTMUZ1SkNodnpsU2VESDN2Zldzay1OR0I3NGdfVy1RRHg0YTRxa2dDaGRkb2U3dGZHSW1tdnpPazNHajZGVTkzcUhnWU5jVHRxUmVtQzdmNm1ZeW9NOFF4WE1PcUdQcERQZnFvaVJmUEJiNG91WGNlSXJJZA?oc=5"
+      },
+      {
+        "label": "Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQclY3dDkzMTZVZEJ3dnhLdXRBTXFQSUVPVXhuZVVDYWlYZ3hndTBiYWViRHpDSzhTTDBxZUJMNjhVU1ZXRTJqWFBxS2VELWIwNlJOWkItNHBWYm1jbGxpLUdhMGJjWTZHWVBBbDdMbm5lRjY1TjZJS3Jld2RMTGo2RmJUSngtVGlKYmtZVzRIWVZoSG1uaVY3WmJSSVhmbXc?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-492f7eecbc12.webp",
@@ -78,30 +112,48 @@
     "image_credit": "BetaKit"
   },
   {
-    "id": "news-1db2858b7b83",
-    "title": "Ottawa to announce $100M for Nova Scotia offshore wind projects",
-    "summary": "The federal government plans to announce $100 million for offshore wind development in Nova Scotia.",
-    "amount": 100000000,
+    "id": "news-68c1ae6d8999",
+    "title": "Federal government invests $17M in Canadian high-performance sport",
+    "summary": "The federal government is investing $17 million in high-performance sport across Canada.",
+    "amount": 17000000,
     "date": "2026-10-15",
     "fiscal_year": "2026-27",
-    "department": "Natural Resources Canada",
-    "dept_code": "NR",
-    "program_code": "BTM09",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": "BSF01",
     "source_type": "news",
     "level": "federal",
     "sources": [
       {
-        "label": "CBC",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkhta2hJS1ZtODltM0RZdDN3ejNvd1lKaHNQcmxwVGlQUFJId19UUVlidWdCV3gwNUlDUEpLZXFQcl9KcVFLaXNNaHY1dnhua2dQdHEyd1hpZjZSQWZXYlhlR3BWY2RPQ3dWZ0EtSTRkZlE2cEJEanRPRkZVRy1fTGFyN1ZOQzlmYnJXOW5KUE14clpNaURyRjBUS2MzaHJfUmc?oc=5"
-      },
-      {
-        "label": "battlefordsNOW",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWlVNHVGNDZwZFlkSWxHaGs4SFQwRjBDcEtsTGYxbUVyOVl3RFdxT2MybUxVX2hGRlVtN203a0dPRzNPQ1dBU0FrR3l6cG9aYXdfVFctc3RKRUtBUFZTWHY3X0hVWDVtaHVtLVNHVnF1dG5IUlMzelZzN2tkd283REFjQk9vUTRtZXFYWnZudWJqRzh0c0ZSS19EWnFCS0tMMVdRV1J2eGp5cU9wWTNjUXJwanU?oc=5"
+        "label": "Winnipeg Sun",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQVEwU01sN2VjRDlqOXdjT1V3R1lHNXhtV2ltbkdlMHZSb0xpcjdlYjFqcU1hWTF3ZG92TTRHZTg1ZkMxaG9rZVhxMm5GcEhUZXpGM3I5VGhHdXB5cTdBVklPYzdoaDlYS0tieVhYVTFReVJkQlFWcnJhb09iZTljMGV4RjkzVm9pVlYtb2xIR2xLQVpaZTVyOVdTZXBkd1JyZjAzS3NvWkN2Qjhrb0ZKeWRQWnlHZjFYTFplTkJ1WmdTUllRZFFjaHEzRVFIV3BqR2t4dVk1MkV1MERRV2xTaFFHbw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
-    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
-    "image_credit": "battlefordsNOW"
+    "image_url": "/story-images/news/news-68c1ae6d8999.webp",
+    "image_source_url": "https://www.winnipegsun.com/news/manitoba/winnipeg-hosts-announcement-of-new-17-million-sport-boost/article_4aef6a2f-074d-48b7-be27-b9c9c44c8333.html",
+    "image_credit": "Winnipeg Sun"
+  },
+  {
+    "id": "news-647c84241e24",
+    "title": "Ottawa provides additional $5.4M in sports funding for athletes",
+    "summary": "The federal government is providing an additional $5.4 million in sports funding to support athletes.",
+    "amount": 5400000,
+    "date": "2026-10-15",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": "BSF01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Winnipeg Free Press",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSVpIX2pVNk52bWxNcFJQYjk3d3RCN0poRmFJV2EyaWRqUjY1OFMtQ00tNzU5WUY3Q3dqZldMaTZvWXhGZnlrRzEyTzQyYnREaUVsMG9maGJXWUkxTmpYbUJSR3FTYVJUdEwxQ0RyYTl0VElsZEpoOFp1Vnl6a05WRHZ0cGl1b3NvVjZIWWtEV1lPQWRUNWhQanR0cG42M0l3cVBlMDNWZXpDQi1EbFFkRXU1d3FQdFktRUd6ckFFWkY?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-647c84241e24.webp",
+    "image_source_url": "https://www.winnipegfreepress.com/breakingnews/2026/10/15/a-generational-impact-from-playground-to-podium-for-years-to-come",
+    "image_credit": "Winnipeg Free Press"
   },
   {
     "id": "news-2244fb9aa8d6",
@@ -135,6 +187,14 @@
       {
         "label": "Traders Union",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXVZMlVVWkt1SHlPRkY4SFdYYjNtMWJFUi1UV3c1RE5iOEdCWkRrMzVxeGZQQy13bFZOaVpLN0dIMkxhV19tcHlzNzQ2TEtKVXpyckRsNzRCaVZocUtHanNvaHJKSUM3UDNGbi1LREVFUHkwRzdtVThDZGczTmVEWXl2T2xaNWhqVUVVSFBfWWdDQnBhNW1xTHNwZVBtNDFRRUM4?oc=5"
+      },
+      {
+        "label": "CP24",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZU14MTJNdHFYQ3Jaa2FZSXdwVUhqSFp4bXo5N0hzZFhQMWk3YnVvOGw3cm5xbVFtcGxaQW5xbTV2dlpCY2dIVzlScFlIWDVmN296N1ZrR1FxOE9XQ3dEb2FYZzBPeDVTT2dSNXJNQjlDYXBHZENfN3pLS2IxUzNFejdtTC13dzBTRl80ZkYzUUpPU1hsRkpjNlN4d2QyX2FiVEZsd1k2TDU5MlRxRm1VcmNkSHlfWW9JM3c?oc=5"
+      },
+      {
+        "label": "Papnews",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMk1HaFdreE5RUGJydWlpNkl3clBhZGZRVFlnYngzMFI0U3VFTXBfV2FvaDN5UDBDWDFTRC1SM0dpSjBVeC1IMm1vS01zT19DM0t2dU9lV2RqRUkyc01yREJHQXBacDhGM0hUY2hOM2ppLUNiTGdwZ0l4VWNsZmZPa1ZLZjllQ0JjeDV1TEFnUEQ?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-2244fb9aa8d6.webp",
@@ -157,6 +217,28 @@
       {
         "label": "CBC",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByRnQwdjJaNHQ4cWhRcjh5dnNBSGl1WFBrXzlxaXdwb3pMV3BUSnFZNnpWeEEtc3FkNTNwYU43UlBnM1U5a3FuOTh4T0RTR25YQ094VUNFcWcxUk9xZTRJeUZnZnBsVkJhX195XzBaVVFmLTJ5ZzYzUGMwd0V6TkU?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-dea6df21d0f8",
+    "title": "Manitoba to recruit up to 90 doctors with $6M federal funding",
+    "summary": "Manitoba plans to hire up to 90 family doctors by 2029 supported by $6 million in federal funding.",
+    "amount": 6000000,
+    "date": "2026-10-14",
+    "fiscal_year": "2026-27",
+    "department": "Health Canada",
+    "dept_code": "H",
+    "program_code": "BVG21",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQk9hUFZESkFTWkFkWTVCcmJubHNTTEFheTl0STRITS1nbEFPUWt4NGZ0dTNSd2x2NVFLRTg4THRmb1BlcGZzQ042MFctRGtBWnRVUk8wX045VTVibVlxdURaeUl5bHA0QjdzSXExZE9UVlJGQUNnbmVfc1hpYzFjTkVoR3djNjdsREdrNW9DQkFfUQ?oc=5"
       }
     ],
     "image_url": null,
@@ -1002,7 +1084,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=DkGOcA",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=hQpoha",
     "image_credit": "IntraFish"
   },
   {
@@ -1819,9 +1901,9 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjBsSXAwcGFCcjA0TzdweDBjNmJSTkpza1FKYTBPOGRfaTgxZ3RucTJuTUpVUGdZQWpOUVowN0lPb3JBZFZqUUxxVTJ4OWxZUWtfRV9LU3RGSVU0d2dQWFhKWEd3TG9ONTVpMUIwZmRnYVNPX3ZlNFF6Q2VIcHgzNEdYbE95eDV6?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-aec23c9f8e08.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-over-1-172500463.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-631c30f4a1ce.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-1-172500169.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-961d68580751",
