@@ -15,11 +15,63 @@
       {
         "label": "BNN Bloomberg",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNHlUS0hIbUFxaTlWbEpZbS1QZWRSLU5xWXVtZDFMdWFvSkluT1puRlA4VXNCanZvOFozNThZSHZRSHd1YkV4Z1c2ckVTS3hONGtrb1BNNjh1clp0NTNjcU1VdHZhYWM1emRNcnJHZDc4LVAtcUdpTjZXakUzUEVJTC1qc0N5WGRfcEVKMjRLZ1lCS05wZ2NrNTlFemhBeHBNb2JhWVloWmw5WTJfMm9UekhoZENURGV4ZmhqNjN4S1MxRlBuNzNPcVZNTnhzTlZh?oc=5"
+      },
+      {
+        "label": "CityNews Toronto",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1UMWFLU3VvZmlrUXB1QTl4bDZYVGtEYWxGREhNbXN6Rno5anlySlFZV3NWQVdSNDlSMFVWZGpmaVZMLS1tNGdJZWJHTU9oMldxU2drb3JLUnFDRVc4REZRT1AyQ0VJVUN6azQxbEJUYmRSN295QWxadDA3QTdCYWU1ZE55aWFXUF9FMGEzOThhWk13dXlVUjRFX01ER1VMcUROcVhZNDltaE9qLUNQTHBuTm1KbGg2?oc=5"
+      },
+      {
+        "label": "Electrical Business Magazine",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXlxdElMZk1nZHJpY2VhX0lYa0tIN1ROejZ6bVJLeC1ZT1dhNl93anV4SER6aHNVWkRTTGNQOHZhc1hXZjYtWi1lUmxxTUhfSVhGV3EydkxNeUJBUEdfVWNlTkZhVDY3WUtQckFvLUV0Yk5hM3pOQTRXMFFIbElRS0Q2a0lqM2lyZi0zVWRFSVYzOF84UmVzcVlyYzd5UFpKRVpIY2l3WmRhU3Y0bEx2YVdSeVBRUQ?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-086732d628cb.webp",
     "image_source_url": "https://www.ctvnews.ca/canada/article/liberals-announce-2586m-fund-for-skilled-worker-training-in-critical-sectors/",
     "image_credit": "BNN Bloomberg"
+  },
+  {
+    "id": "news-bb6638faed17",
+    "title": "Federal government spent $440M on Microsoft licences",
+    "summary": "The federal government spent $440 million on Microsoft licences but cannot confirm how many are currently in use.",
+    "amount": 440000000,
+    "date": "2026-10-16",
+    "fiscal_year": "2026-27",
+    "department": "Shared Services Canada",
+    "dept_code": "SHARE",
+    "program_code": "BYE01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Toronto Sun",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWJjOXJKbnh5bTJ3dEc0cVFpOGJtcFp1WmNlckhpNl9JbDVpSHhNWGlvOEVHbU81R3l3a0JSNF9KZmNDNEg2M0NINWZLREVmbHl3R1hxbGR5Qm1tUHdBUjN0Z1Z1RWlTdy02eTN4LUFFT0xEcV9XUHZjZkIxTlhNLUpLelJqTHluRXZMamVFVHhUcDZ4TjFTWkdfa2o1ZVFWX205Y05iTQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-bb6638faed17.webp",
+    "image_source_url": "https://torontosun.com/news/national/feds-spent-440-million-on-microsoft-licences-cant-say-how-many-used",
+    "image_credit": "Toronto Sun"
+  },
+  {
+    "id": "news-b2d50b8d9865",
+    "title": "Federal government invests $2.8M in accessible transit in Belleville",
+    "summary": "The federal government has announced a $2.8 million investment to improve accessible transit services in Belleville.",
+    "amount": 2800000,
+    "date": "2026-10-16",
+    "fiscal_year": "2026-27",
+    "department": "Office of Infrastructure of Canada",
+    "dept_code": "OICC",
+    "program_code": "BYC02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Belleville Intelligencer",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaEtpdmRCOUhnSWg1SU9SUlpBQmpVNHdEZWZCOVhpQ09YeXR0QkhJVWFJU1J2dl9qdmtoUmVKZE1aM2l2blZ5MXprNzNMbkNZM0ZKVjd5MTN0eFhicnRaMHhBb0Y0bWR2azdyM3V3OER5V3ZvUkhLMjZwS3BMNV9IMkVQbnMxTGFxS2Jr?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-b2d50b8d9865.webp",
+    "image_source_url": "https://www.intelligencer.ca/news/federal-investment-accessible-transit-belleville/",
+    "image_credit": "Belleville Intelligencer"
   },
   {
     "id": "news-1db2858b7b83",
@@ -43,8 +95,20 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWlVNHVGNDZwZFlkSWxHaGs4SFQwRjBDcEtsTGYxbUVyOVl3RFdxT2MybUxVX2hGRlVtN203a0dPRzNPQ1dBU0FrR3l6cG9aYXdfVFctc3RKRUtBUFZTWHY3X0hVWDVtaHVtLVNHVnF1dG5IUlMzelZzN2tkd283REFjQk9vUTRtZXFYWnZudWJqRzh0c0ZSS19EWnFCS0tMMVdRV1J2eGp5cU9wWTNjUXJwanU?oc=5"
       },
       {
+        "label": "NanaimoNewsNOW",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjRTOE1LVFRZR3NCRGpxMUItNkFIS1dzT29NTjhJaDJiWUN4SmRfc3RUeEVvZ3FxX2JIYjMtd2psclkwaGVZWlYzOXFWcWJqelhFU2kxRHVlbVlkeGQ5LTdwM2l6d3diX1FRM09ERGJZcnRPZUZpbUFPbWFkdmtjdXU0bVlVS21ycjF6SFNRdkRKOTdEUGhQTUtFUmJrVkNrcHFJSmxiekZCNmlnOFFsZTc0bjI?oc=5"
+      },
+      {
         "label": "Canada's National Observer",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFU1alVxMk9sNkFMN1ZUbFc5aV9oM1BWV3hQX1liNFVJQnNrYmprdFhVTW84NzB2ZFlvbUFULW9HYTRkQnlncklmSk9PdkF3TjJKNGRDbzl2aFVGUWwzbno1Z080U2lONjFRcERnM0dGN21DM3JUakZyY1pNR3phdmlWY0o2d2k1dDFabHpkSWNLUTJl?oc=5"
+      },
+      {
+        "label": "Inspenet",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDdxVG15cE1JNTIya3NIbUpqa01iaF81Q0FYeDFiLTBiNzc2djdzNXJjbGp0djh4VnRBN0loYkhzSTFSWXFqcEpvM3lfSjY0ZkhlMTNPYnZsZ1g4SWZpdlJ1T1ZicG9fVFdDU05SSFlqTTJkX2JYYnBscHlRSWtPQQ?oc=5"
+      },
+      {
+        "label": "Castanet",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-f7b0eb18db59.webp",
@@ -106,32 +170,6 @@
     "image_url": "/story-images/news/news-65618e625be7.webp",
     "image_source_url": "https://www.ctvnews.ca/ottawa/article/data-centre-for-canadas-cyber-spy-agency-to-be-built-in-ottawa-area/",
     "image_credit": "CTV News"
-  },
-  {
-    "id": "news-492f7eecbc12",
-    "title": "Canada invests $50M in Canadian Food Innovation Network",
-    "summary": "The federal government is investing $50 million into the Canadian Food Innovation Network.",
-    "amount": 50000000,
-    "date": "2026-10-15",
-    "fiscal_year": "2026-27",
-    "department": "Innovation, Science and Economic Development Canada",
-    "dept_code": "ISC",
-    "program_code": "BNP01",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "BetaKit",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjVlY2dDS1l3UVpQMUUyM2xTMUZ1SkNodnpsU2VESDN2Zldzay1OR0I3NGdfVy1RRHg0YTRxa2dDaGRkb2U3dGZHSW1tdnpPazNHajZGVTkzcUhnWU5jVHRxUmVtQzdmNm1ZeW9NOFF4WE1PcUdQcERQZnFvaVJmUEJiNG91WGNlSXJJZA?oc=5"
-      },
-      {
-        "label": "Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQclY3dDkzMTZVZEJ3dnhLdXRBTXFQSUVPVXhuZVVDYWlYZ3hndTBiYWViRHpDSzhTTDBxZUJMNjhVU1ZXRTJqWFBxS2VELWIwNlJOWkItNHBWYm1jbGxpLUdhMGJjWTZHWVBBbDdMbm5lRjY1TjZJS3Jld2RMTGo2RmJUSngtVGlKYmtZVzRIWVZoSG1uaVY3WmJSSVhmbXc?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-492f7eecbc12.webp",
-    "image_source_url": "https://betakit.com/canada-invests-50-million-into-canadian-food-innovation-network/",
-    "image_credit": "BetaKit"
   },
   {
     "id": "news-68c1ae6d8999",
@@ -213,6 +251,14 @@
       {
         "label": "CP24",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZU14MTJNdHFYQ3Jaa2FZSXdwVUhqSFp4bXo5N0hzZFhQMWk3YnVvOGw3cm5xbVFtcGxaQW5xbTV2dlpCY2dIVzlScFlIWDVmN296N1ZrR1FxOE9XQ3dEb2FYZzBPeDVTT2dSNXJNQjlDYXBHZENfN3pLS2IxUzNFejdtTC13dzBTRl80ZkYzUUpPU1hsRkpjNlN4d2QyX2FiVEZsd1k2TDU5MlRxRm1VcmNkSHlfWW9JM3c?oc=5"
+      },
+      {
+        "label": "BetaKit",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjVlY2dDS1l3UVpQMUUyM2xTMUZ1SkNodnpsU2VESDN2Zldzay1OR0I3NGdfVy1RRHg0YTRxa2dDaGRkb2U3dGZHSW1tdnpPazNHajZGVTkzcUhnWU5jVHRxUmVtQzdmNm1ZeW9NOFF4WE1PcUdQcERQZnFvaVJmUEJiNG91WGNlSXJJZA?oc=5"
+      },
+      {
+        "label": "Global News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2JPUE9kU0UydWRVcG1RcHg4Q1F2YnV2TmVTbzZIN2JBc2ZDaUpxbl9aelktMmxQSldpTWRLNGpGTXlOdkdndDFjN3dWWHRuODYxOGw1VjNSMmJaWDVYb0k2U2JGUHVvbThNMHhyRUdCRDJZMmlxa2dUUnZwT3dhRDRJSmFObndIN21nNWhfRkNvUUQ3YzJMU1BGTnY?oc=5"
       },
       {
         "label": "Papnews",
@@ -1106,7 +1152,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=Xfzq6m",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=4xlePp",
     "image_credit": "IntraFish"
   },
   {
@@ -1687,9 +1733,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-c4625895fe3d.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-0833ed8d711b.webp",
+    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-15beea9f0e27",
