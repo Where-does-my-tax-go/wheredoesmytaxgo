@@ -143,6 +143,10 @@
       {
         "label": "BNN Bloomberg",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeVkwMkd4NGNvRlRwSmppYlpTT1FsV3hzX2RrUl9fLTN2OTZQMlFEYzBOLXA5aGk1Q3VJNnNVdGhjTUp2OUhwdVRIbVE3aXYwV1JGYXdtRzlEQk5uRHdqOC1VdTZ3czhJUzI0bUpyMmFZQVZKMWxDNUE3cm5OWS1UMi1FeWtrY3N4eW8xQVRlM3RNUlJfekFlNEk2TjkzZzFpRzNvaHlDeFRpR2ZZbGdHcFZILUtaZ3c?oc=5"
+      },
+      {
+        "label": "Canadian Manufacturing",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXZud2lURGFJTlJoa2ZzNGk2VGdUcldwQ1Ztc19TR3dWRkRYYm1FZ3FYWmo3QV9qdzdOWE43OHJfT1JQcERiR2Y0ckNqX0FScFRjUTZnaFNsckZoNVk4dzJjVktoY3A1ZDFXandlT25kVlpHdm10TDdsdk93a0NyXzU1U1Y4WXFRc2tFWVZUelkxeXNUdUtHM0NweVFmbHc3Vm5GMEZPRnU5dm5DTWdBLVd6NXVmbTJrV05Mb3NmUGRBVE5jVXhz?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-14bc176613dd.webp",
@@ -1152,7 +1156,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=4xlePp",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=sKitPz",
     "image_credit": "IntraFish"
   },
   {
@@ -1733,9 +1737,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0833ed8d711b.webp",
-    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-c4625895fe3d.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-15beea9f0e27",
@@ -1865,9 +1869,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjdabEdRZzRqc3hhUk0yVDlrYU5YYUNHNjJuZ3ZoRWZrRThSM3NSb3BlRXFBcHlndnQ0RDZLdExUTi1BTXctb0p4Sktud09yM1h2cE9EOVJLaUQ4eXFmSmUzeF9WQmRKMTVCNmkwM0lnQy1vNV96Z0tvdDl3VlpveDIyN1drSV9PTkxfNXU2QzNQeWRyS2dYZnFYNA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-07c349ae8aa4.webp",
-    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-1-98-163400092.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-480664abee11",
