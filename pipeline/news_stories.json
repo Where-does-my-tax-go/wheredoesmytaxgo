@@ -1,5 +1,27 @@
 [
   {
+    "id": "news-79687c7d04fa",
+    "title": "Ottawa announces $162 million for 10,000 AI work placements",
+    "summary": "The federal government announced $162 million to fund 10,000 artificial intelligence work placements across Canada.",
+    "amount": 162000000,
+    "date": "2026-10-18",
+    "fiscal_year": "2026-27",
+    "department": "Employment and Social Development Canada",
+    "dept_code": "HRSD",
+    "program_code": "BGO11",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "WestCentralOnline",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmxzWXJNenkyZ2lmTkphV1ptTFFPU21NS3Y0YlQ0cTJpdHhRUnVmZDRfQ0ZoOV84U2xCMG12R2llTnBWNUpYclN1NUpXTjRsN2FuVVJyOHp6S0tWU2VCWkRSTVZRVjNrWkt6cFlRaHpCa01fa3d6OUNmRk9Wb014Yi1sdDUwcXY1WmJHaGQwalJmWXlKSWVQVXhlaHlpWE1SMXQzQU9XRzVtWUdmV0ZHNHJXcmo?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-79687c7d04fa.webp",
+    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_credit": "WestCentralOnline"
+  },
+  {
     "id": "news-f496e3614fe3",
     "title": "RCMP awarded $84 million in Black Hawk border contracts",
     "summary": "The RCMP awarded $84 million in Black Hawk contracts for border operations that resulted in 73 arrests.",
@@ -1182,7 +1204,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=eWOmLt",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=OuHVFJ",
     "image_credit": "IntraFish"
   },
   {
