@@ -1,5 +1,27 @@
 [
   {
+    "id": "news-de9996fafcab",
+    "title": "RCMP awards $13 million across four firearms contracts with Deloitte",
+    "summary": "The RCMP awarded four firearms-related contracts totaling $13 million to Deloitte.",
+    "amount": 13000000,
+    "date": "2026-10-19",
+    "fiscal_year": "2026-27",
+    "department": "Royal Canadian Mounted Police",
+    "dept_code": "RCMP",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0hST19BTzhyVVdhZUh2Uk41Z3hGS1ByT3hFZGM2bkRCZUVWSFY5SzdZa1ltNjhDc05xUllZZ1FVdmY0ZGdvaGk5MnI3dE9WeXRyTUpRbVVTSDRPaEZyN1BqYk05Nk9LcTVMNWFmR3NfbW9QUFBYQ1p4bThLTmhLOUY4ZGdvMU1WX1JYQlE0WDhwUlRULTk0RHNVOHZHY241NmlFWXMyTQ?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-79687c7d04fa",
     "title": "Ottawa announces $162 million for 10,000 AI work placements",
     "summary": "The federal government announced $162 million to fund 10,000 artificial intelligence work placements across Canada.",
@@ -203,6 +225,10 @@
       {
         "label": "CKPG Today",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGY3eDNHeXBNYzU0b1g4UUtZeWZlXzVZR2FyZldNcnhIRWgzNENvWUMtVnJLNVB3LVBmX2lqMzBfbzBFOHhZRUVMOHF6bVdCVnVXMkZ5NFNVbkV5YjZNVnIzTlo2TmhPNjRpY1dhQ0JuS3RNMl92TFVQd1BtLUc4bXZocXpVb01iSXVzOGhseV92WWRaX3kwZTBBYUtGMTlHT19vby1heFo?oc=5"
+      },
+      {
+        "label": "Castanet",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVhhbTdKSTM1dVU5S25RNks3emVwdVN2Q3FRZm93YUU5em14QnZTN2FubmpyS1E2dTljTlhTc1JsQnE2MDIyNENCbjE2NHVISUsyNWI0VzR5SGI4VlFxbjJBd0hxaWgycFVraGY1cUVBdndyd2ZKdlZPRVpSSGFoUEZnX2tLY3FpQnpMSlhmQ1dWd29FSU56WE1ZUzNtNFJiOEQ4azlHc0hYWTJqNmdwc29Gb1FTd28?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-14bc176613dd.webp",
@@ -1212,7 +1238,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=k0Tx3d",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=hreWQz",
     "image_credit": "IntraFish"
   },
   {
@@ -1793,9 +1819,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-c4625895fe3d.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-0833ed8d711b.webp",
+    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-15beea9f0e27",
