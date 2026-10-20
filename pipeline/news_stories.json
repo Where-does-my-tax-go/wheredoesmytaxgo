@@ -185,9 +185,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
-    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
-    "image_credit": "battlefordsNOW"
+    "image_url": "/story-images/news/news-41e96c8b00eb.webp",
+    "image_source_url": "https://finance.yahoo.com/energy/articles/canada-invest-ca-100-million-140437053.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-14bc176613dd",
@@ -229,6 +229,10 @@
       {
         "label": "Castanet",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVhhbTdKSTM1dVU5S25RNks3emVwdVN2Q3FRZm93YUU5em14QnZTN2FubmpyS1E2dTljTlhTc1JsQnE2MDIyNENCbjE2NHVISUsyNWI0VzR5SGI4VlFxbjJBd0hxaWgycFVraGY1cUVBdndyd2ZKdlZPRVpSSGFoUEZnX2tLY3FpQnpMSlhmQ1dWd29FSU56WE1ZUzNtNFJiOEQ4azlHc0hYWTJqNmdwc29Gb1FTd28?oc=5"
+      },
+      {
+        "label": "CFJC Today Kamloops",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXJqaWRBWlI4TFo5SWVYOXA5UjNNa2VsMTk4Z0d0SzdHZ1pVa2FVSmJXM3FsdVZ4c0JleUtraVh5aGhIVEVZU1Jid0RqcUlua2gtY3JaTENUSm1XWXRQcXAtb1ZMbE5aRkdROV9KU1JrdlhUc2syQjNnRy11U0lhR1JnemdNUnRpdzZOa2daZGItbzhCaHBMOHNROWo1RnplZVE3aGNWQXkzUQ?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-14bc176613dd.webp",
@@ -1238,7 +1242,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=dhvvbZ",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=vBd9PW",
     "image_credit": "IntraFish"
   },
   {
@@ -1295,11 +1299,15 @@
       {
         "label": "Yahoo! Finance Canada",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWW9RRjliR2pSazFJejFIbldSQXh0SDRHOEpPVzYwWkdoV21KY3hONW9UekdfdllpeHZpUE5xaGV6aHZIdzlpZmhfTGNnU2R1ck83dzU2TUc0bEI3SFBiajBBMUx1bW5OUGVjR25ZLWFrRDhmQncyUE1Uc3JBeE82T21CT2p1dw?oc=5"
+      },
+      {
+        "label": "Canada.ca",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQNXRQZHNFanRVSFAxeHUtT3RUOFpyNDBqTHY5SEtlalZ4OU1IY0RtWmtvZ2lMb0Mtc2FQVjh4NTBueWtPa3REelA2dGlvbzY1RC1DLWxFSUJqVFRTOGoxWU54bWtpME5EVUI3T1VfZ1hrVEYxc2RVYTdpUGhJZ0dtS3NKQ0dweUowb2FBNjFvczM0Y3VWeFE2T19zM1hFUnBQdHl1LXhWb084alZFSWV2ZWpEeXNfUUxFX1dtY1RlR1p0M1JpelgwTzhGVzVLYlFWUmpoVlFkU2wtZm5nc2dVbkFhSGZKZG9TLUpFazRTZmY5dXhKaS1fcHdRNFZDaU9BbG5UUUt0SXJkZ3gzZ0RnNC1NekRja3cyb1FIc0tR?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-b2088d71bdcb.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-85-5-145600043.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-75a6eac6995c.webp",
+    "image_source_url": "https://www.canada.ca/en/transport-canada/news/2026/09/the-government-of-canada-invests-855-million-to-rehabilitate-the-rankin-inlet-airport-and-strengthen-arctic-and-northern-connectivity.html",
+    "image_credit": "Canada.ca"
   },
   {
     "id": "news-a9b6f26c6ace",
@@ -2383,9 +2391,9 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWlSdUNNYS0tVzR1cW5nTlpWd0ZIcFpiYnRwaVFsYThMazNFNTNWbFZtRm9oSE80amRKN081TkRYSlZ1UXhJWElGQS1TUGNHSGhYQlp4ZEFBSnFfWTlkX05ZNmVpVUdoNkhreG14cDN0VG9ubGRIWmtMSklkLUJ4ek9fVnI2NXJiWHVidmZ3YThLMDlYWTJTRUxIUVpOclE?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-6a9bc54a3c8a.webp",
-    "image_source_url": "https://www.newswire.ca/news-releases/government-of-canada-invests-over-11-million-to-strengthen-businesses-jobs-and-communities-in-northern-b-c--874252031.html",
-    "image_credit": "PR Newswire Canada"
+    "image_url": "/story-images/news/news-376176735177.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-11-174900700.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-bb75e583d515",
