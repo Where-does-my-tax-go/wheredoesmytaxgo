@@ -1,5 +1,83 @@
 [
   {
+    "id": "news-585c105b0b13",
+    "title": "Newfoundland spaceport lands $20M agreement with federal government",
+    "summary": "The federal government signed a $20 million access agreement with a Newfoundland spaceport.",
+    "amount": 20000000,
+    "date": "2026-10-21",
+    "fiscal_year": "2026-27",
+    "department": "National Defence",
+    "dept_code": "ND",
+    "program_code": "BUQ08",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "PNI Atlantic News",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEx2dnk1aVFYa19oa2MzNjNjZ0ZSM1VhVHlXTi0yTHJ0UExsUFhsMlNhOUNUTXJ1VmcxRVpiVmIybVd1RnpLdGFtZFRyYXVyZVBVenI4dnRfTU5yTEtvbnJtZ0w2NDNnQzlocWpSZVI3Q0xEOVQ2Q3otRFpoTlAzeXFLQml5alk?oc=5"
+      },
+      {
+        "label": "EIN Presswire",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeEhmdUJsNUY5TDJ2OEhfSk1YR2ZUTEJvLTFaeGRsWWFKVG15aWVXTDk5dDFXemdseXQ5THdUWW45WWpreGhXeHA4SEhuZkphRXE0YVluaERhRmxXRWJqOTNZeFFqZFNVSW0xVl93WUR1a1JHX2RJSXdnbkhfNVNKTVQzUVlvS1ZtTHowa0FNdU9LX3lwaHE4NmdrQ3dUQ3JIeGQ2blgwWVJFUGVDMlVISUtaMUZydU5DcmRXZzgxcHdyYXdfU2lkN0UyVTJQdVNMbGRqMWU3QnA3MkhQbEpWZng0OVZGbDZUbDl6emhDbk90QkF2YXc?oc=5"
+      },
+      {
+        "label": "EIN News",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS2lwdHFDdGJYYlZnSUcxWTN3LUVNU3U4bk5XLXZEX3gwbnREcU4xRGMxRFVHSmxwdkVxa29zSHhZNVVKdTNQZW0waFpmeFZON3ZaTHctMnZ6WE8zanBvUnZONFBqMERiUzhPRjZrQmdaOWhkb0ltQnlYX1l5TmpGUFRZd2kwTXlUczBudmJRTGwxNTJROHo4eS1SWENIOHNLNGwtOEhDM3F4cVYybXZGb3RmUVZsUTI1bGpwbjlFaVFhcG4tSjYzSG1pcktManpDb2pHZFlFZVk5MVdyTjZIV3pWZXBYQXlOWDBUUGM0MA?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-aefc550fc17b.webp",
+    "image_source_url": "https://www.saltwire.com/newfoundland-labrador/nl-spaceport-20-million-agreement",
+    "image_credit": "PNI Atlantic News"
+  },
+  {
+    "id": "news-0f11d831ebfd",
+    "title": "Ottawa signs $1.69M advertising contract for climate strategy",
+    "summary": "The federal government signed a $1.69 million advertising contract to promote its climate strategy.",
+    "amount": 1690000,
+    "date": "2026-10-21",
+    "fiscal_year": "2026-27",
+    "department": "Environment and Climate Change Canada",
+    "dept_code": "EC",
+    "program_code": "ISS12",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR0k4SlR6MW5UWnBYRGljRjNOWGwwNDFfbUp0ZjROZnItY291YlVQVUtNd3dwQ0JEdUFUS0pRQzE4UnRtWnNwY0NCTDdwd01ZeHFxQkYwZ3Eyck5uYnNidExYUk00ZzlxRjAxYmV1c0pRVjBoN1ZveEVNQk01MDZ6RUlrRGtnRGpSQkxnZnlvLWZPWVNhSTZnUExOTXlpYlhSTXc?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-08f24b4a095e",
+    "title": "Canadian government invests $15M in Xona Space Systems Canada",
+    "summary": "The Government of Canada is investing $15 million in Xona Space Systems Canada.",
+    "amount": 15000000,
+    "date": "2026-10-20",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0F6SE5rMWNkd29FUlZOMjU4Y1c3a0pkU0hFU1FkamlyUVpCQkRVblhVN0RyQm1PQXYyZ0VZaE8zVlktNHhQekl0MVhpVVptS1ZxeXZ2cThjaUxLMWhBTDZlR2lQWmFycERVcHNHUmotenJWdC1tb2czVzB4Q1ZQSWdsVlU5b01JYmJmZmIySm5EN0hfOE5Zb2t3?oc=5"
+      },
+      {
+        "label": "Canadian Manufacturing",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWhlVTZCYjBkMUNkRTdMMUxkRlk2SjBzaGt3TmljMTRXUjRlTzYxaU5ZVmxnbndtS2VTWVJhZ2VWOUE0MGtTT2NCUHRBRmZqZV9QazNUNU1oZ1FUTmlJN0t4ZVpQNGhlRk1NV2dNRUVsMTJ6Rk9NYW5GcmEtcTIxMnpHczBDbi0xQlotbGFRb2Q2aURGOWQtaHcyTk95UTZJemhidGZUcWdUYnBacnNLUzFyWVZ2dw?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-823e52cb94c7",
     "title": "CRA awards $12M security contract to subsidiary of U.S. company",
     "summary": "The Canada Revenue Agency has awarded a $12-million contract to a subsidiary of a U.S. company over the non-profit Commissionaires.",
@@ -42,28 +120,6 @@
     "image_url": "/story-images/news/news-938d55e4a6bb.webp",
     "image_source_url": "https://westcentralonline.com/articles/112m-announced-for-saskatchewan-businesses-amid-tariff-pressures",
     "image_credit": "WestCentralOnline"
-  },
-  {
-    "id": "news-08f24b4a095e",
-    "title": "Canada provides $15 million for Xona Space Systems satellite hub",
-    "summary": "The Canadian government is providing $15 million to support Xona Space Systems' expansion of a satellite hub in Montreal.",
-    "amount": 15000000,
-    "date": "2026-10-20",
-    "fiscal_year": "2026-27",
-    "department": "Canadian Space Agency",
-    "dept_code": "CSA",
-    "program_code": "BLM03",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0F6SE5rMWNkd29FUlZOMjU4Y1c3a0pkU0hFU1FkamlyUVpCQkRVblhVN0RyQm1PQXYyZ0VZaE8zVlktNHhQekl0MVhpVVptS1ZxeXZ2cThjaUxLMWhBTDZlR2lQWmFycERVcHNHUmotenJWdC1tb2czVzB4Q1ZQSWdsVlU5b01JYmJmZmIySm5EN0hfOE5Zb2t3?oc=5"
-      }
-    ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
   },
   {
     "id": "news-de9996fafcab",
@@ -283,6 +339,10 @@
       {
         "label": "ImmigCanada Immigration Consulting Services",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0NnMTQtNDJmdHd6Y2J1TWhDU0JyUVRsZU1IN0YxUUJIblF0cGE0cVNYaG91cDdnSW4ydGtvVlE4UUp4c24tOXp4TlFKYVVsMFNZNDVhbGM4Z1NELUhSZ3lSVTBDMzlFb19fS0U1dTh5TEJtM1J1QVZ0aFlBOERlZmN3?oc=5"
+      },
+      {
+        "label": "constructconnect.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNHRuZXAtY1FnY3VLUjN4clRIRGlIYnZjdnBpdlF0T2RDWHppNnBoWTZxOURFRnczTFZveHpjNE93cEpCOWM0X2dMZnlGZElYQndtZjZNYlEyTExMTWJrMHNIb0pqVU1EYkdyS1B1T3FoZEJDaVBPeVZVS0RnelB0X2VQQ3QzOXE5b0ZvZTRqWVBPVFZ4YnNJTFFiSFA0cmp0dVNuRzRpMG0ydDVfSklnOWxIZUhsVzRubFNjdUNyWUFVaWxTMUdqTjc1UExiWTJKM3BOc0VSeEZnakVaVGJKNnN0YXVvc1U?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-14bc176613dd.webp",
@@ -331,9 +391,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
-    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
-    "image_credit": "battlefordsNOW"
+    "image_url": "/story-images/news/news-41e96c8b00eb.webp",
+    "image_source_url": "https://finance.yahoo.com/energy/articles/canada-invest-ca-100-million-140437053.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-65618e625be7",
@@ -1350,7 +1410,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=ZkoNEL",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=mFaMmD",
     "image_credit": "IntraFish"
   },
   {
