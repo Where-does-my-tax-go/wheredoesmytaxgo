@@ -44,6 +44,28 @@
     "image_credit": "WestCentralOnline"
   },
   {
+    "id": "news-08f24b4a095e",
+    "title": "Canada provides $15 million for Xona Space Systems satellite hub",
+    "summary": "The Canadian government is providing $15 million to support Xona Space Systems' expansion of a satellite hub in Montreal.",
+    "amount": 15000000,
+    "date": "2026-10-20",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Space Agency",
+    "dept_code": "CSA",
+    "program_code": "BLM03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0F6SE5rMWNkd29FUlZOMjU4Y1c3a0pkU0hFU1FkamlyUVpCQkRVblhVN0RyQm1PQXYyZ0VZaE8zVlktNHhQekl0MVhpVVptS1ZxeXZ2cThjaUxLMWhBTDZlR2lQWmFycERVcHNHUmotenJWdC1tb2czVzB4Q1ZQSWdsVlU5b01JYmJmZmIySm5EN0hfOE5Zb2t3?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-de9996fafcab",
     "title": "RCMP awards $13 million across four firearms contracts with Deloitte",
     "summary": "The RCMP awarded four firearms-related contracts totaling $13 million to Deloitte.",
@@ -214,6 +236,60 @@
     "image_credit": "Belleville Intelligencer"
   },
   {
+    "id": "news-14bc176613dd",
+    "title": "Ottawa opens $430M for skilled trades training facilities and equipment",
+    "summary": "The federal government is providing $430 million for training facilities and equipment in skilled trades.",
+    "amount": 430000000,
+    "date": "2026-10-15",
+    "fiscal_year": "2026-27",
+    "department": "Employment and Social Development Canada",
+    "dept_code": "HRSD",
+    "program_code": "BGO29",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWxKYW9VSlh5cS1zWEN1Q0RkTC1oMXZ6bzFwUFlnSWhxTmtsMGg2R3NZcndyVHhpNXI4V05sWVI5cF9GZVNnUUNYcFUxWGI0V3hYWlQ1QmFYbVRvOGJPUjl3R29zU0xaQV96cmFEc3M0QmF4d1RBZnR4OFFVa2xuNUtIYnZPT2RvMmRJYWtZUUNnZk40ZS1qMjhXRWM?oc=5"
+      },
+      {
+        "label": "CP24",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVNxd3FQNVoyeHdRR25QSFFOZGt6THowbjcxS2J5RXk1a3RnNEplVlE2QVRFQkZnUHNodDg1VlNXeHZvdTdxeFhJdHEydVI0WmhrNTZCSFVTalVGaGwyMGxfMDN6TExxS3JDSlRmTFhBSW5XVU4xRGF1ODFZSHhuMmJOUW9LeVRZVG9hMlVPS3o0UFFpcFVDLWVmUld0M2ltdWhEZA?oc=5"
+      },
+      {
+        "label": "CityNews Winnipeg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbE10VFFJUGJxelhoQUoxVHZ2OENIbzFjQklqVW5ZS1lDOFBVZnJacUNMTHdzcjFUYzc3MXRuenFSa0RPVlVVNmZyMTBIcEUydFFlUnRSZHBnQzdGV19uWGs0TXh4ZVJZRFhULWE0X0JaTF9Ja19BWGJKLWZlVkZObFZLQTlvVHUtYjZkSnRfbjktcU5kempVZEttUFQwQ2ZNOVhZQUVUNnBuYWplTjVjU1l2aw?oc=5"
+      },
+      {
+        "label": "BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeVkwMkd4NGNvRlRwSmppYlpTT1FsV3hzX2RrUl9fLTN2OTZQMlFEYzBOLXA5aGk1Q3VJNnNVdGhjTUp2OUhwdVRIbVE3aXYwV1JGYXdtRzlEQk5uRHdqOC1VdTZ3czhJUzI0bUpyMmFZQVZKMWxDNUE3cm5OWS1UMi1FeWtrY3N4eW8xQVRlM3RNUlJfekFlNEk2TjkzZzFpRzNvaHlDeFRpR2ZZbGdHcFZILUtaZ3c?oc=5"
+      },
+      {
+        "label": "Canadian Manufacturing",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXZud2lURGFJTlJoa2ZzNGk2VGdUcldwQ1Ztc19TR3dWRkRYYm1FZ3FYWmo3QV9qdzdOWE43OHJfT1JQcERiR2Y0ckNqX0FScFRjUTZnaFNsckZoNVk4dzJjVktoY3A1ZDFXandlT25kVlpHdm10TDdsdk93a0NyXzU1U1Y4WXFRc2tFWVZUelkxeXNUdUtHM0NweVFmbHc3Vm5GMEZPRnU5dm5DTWdBLVd6NXVmbTJrV05Mb3NmUGRBVE5jVXhz?oc=5"
+      },
+      {
+        "label": "CKPG Today",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGY3eDNHeXBNYzU0b1g4UUtZeWZlXzVZR2FyZldNcnhIRWgzNENvWUMtVnJLNVB3LVBmX2lqMzBfbzBFOHhZRUVMOHF6bVdCVnVXMkZ5NFNVbkV5YjZNVnIzTlo2TmhPNjRpY1dhQ0JuS3RNMl92TFVQd1BtLUc4bXZocXpVb01iSXVzOGhseV92WWRaX3kwZTBBYUtGMTlHT19vby1heFo?oc=5"
+      },
+      {
+        "label": "Castanet",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVhhbTdKSTM1dVU5S25RNks3emVwdVN2Q3FRZm93YUU5em14QnZTN2FubmpyS1E2dTljTlhTc1JsQnE2MDIyNENCbjE2NHVISUsyNWI0VzR5SGI4VlFxbjJBd0hxaWgycFVraGY1cUVBdndyd2ZKdlZPRVpSSGFoUEZnX2tLY3FpQnpMSlhmQ1dWd29FSU56WE1ZUzNtNFJiOEQ4azlHc0hYWTJqNmdwc29Gb1FTd28?oc=5"
+      },
+      {
+        "label": "CFJC Today Kamloops",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXJqaWRBWlI4TFo5SWVYOXA5UjNNa2VsMTk4Z0d0SzdHZ1pVa2FVSmJXM3FsdVZ4c0JleUtraVh5aGhIVEVZU1Jid0RqcUlua2gtY3JaTENUSm1XWXRQcXAtb1ZMbE5aRkdROV9KU1JrdlhUc2syQjNnRy11U0lhR1JnemdNUnRpdzZOa2daZGItbzhCaHBMOHNROWo1RnplZVE3aGNWQXkzUQ?oc=5"
+      },
+      {
+        "label": "ImmigCanada Immigration Consulting Services",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0NnMTQtNDJmdHd6Y2J1TWhDU0JyUVRsZU1IN0YxUUJIblF0cGE0cVNYaG91cDdnSW4ydGtvVlE4UUp4c24tOXp4TlFKYVVsMFNZNDVhbGM4Z1NELUhSZ3lSVTBDMzlFb19fS0U1dTh5TEJtM1J1QVZ0aFlBOERlZmN3?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-14bc176613dd.webp",
+    "image_source_url": "https://www.ctvnews.ca/canada/article/ottawa-to-invest-430m-to-train-new-skilled-trades-workers/",
+    "image_credit": "BNN Bloomberg"
+  },
+  {
     "id": "news-1db2858b7b83",
     "title": "Ottawa to announce $100M for Nova Scotia offshore wind projects",
     "summary": "The federal government plans to announce $100 million for offshore wind development in Nova Scotia.",
@@ -258,56 +334,6 @@
     "image_url": "/story-images/news/news-f7b0eb18db59.webp",
     "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
     "image_credit": "battlefordsNOW"
-  },
-  {
-    "id": "news-14bc176613dd",
-    "title": "Ottawa opens $430M for skilled trades training facilities and equipment",
-    "summary": "The federal government is providing $430 million for training facilities and equipment in skilled trades.",
-    "amount": 430000000,
-    "date": "2026-10-15",
-    "fiscal_year": "2026-27",
-    "department": "Employment and Social Development Canada",
-    "dept_code": "HRSD",
-    "program_code": "BGO29",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "CTV News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWxKYW9VSlh5cS1zWEN1Q0RkTC1oMXZ6bzFwUFlnSWhxTmtsMGg2R3NZcndyVHhpNXI4V05sWVI5cF9GZVNnUUNYcFUxWGI0V3hYWlQ1QmFYbVRvOGJPUjl3R29zU0xaQV96cmFEc3M0QmF4d1RBZnR4OFFVa2xuNUtIYnZPT2RvMmRJYWtZUUNnZk40ZS1qMjhXRWM?oc=5"
-      },
-      {
-        "label": "CP24",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVNxd3FQNVoyeHdRR25QSFFOZGt6THowbjcxS2J5RXk1a3RnNEplVlE2QVRFQkZnUHNodDg1VlNXeHZvdTdxeFhJdHEydVI0WmhrNTZCSFVTalVGaGwyMGxfMDN6TExxS3JDSlRmTFhBSW5XVU4xRGF1ODFZSHhuMmJOUW9LeVRZVG9hMlVPS3o0UFFpcFVDLWVmUld0M2ltdWhEZA?oc=5"
-      },
-      {
-        "label": "CityNews Winnipeg",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbE10VFFJUGJxelhoQUoxVHZ2OENIbzFjQklqVW5ZS1lDOFBVZnJacUNMTHdzcjFUYzc3MXRuenFSa0RPVlVVNmZyMTBIcEUydFFlUnRSZHBnQzdGV19uWGs0TXh4ZVJZRFhULWE0X0JaTF9Ja19BWGJKLWZlVkZObFZLQTlvVHUtYjZkSnRfbjktcU5kempVZEttUFQwQ2ZNOVhZQUVUNnBuYWplTjVjU1l2aw?oc=5"
-      },
-      {
-        "label": "BNN Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeVkwMkd4NGNvRlRwSmppYlpTT1FsV3hzX2RrUl9fLTN2OTZQMlFEYzBOLXA5aGk1Q3VJNnNVdGhjTUp2OUhwdVRIbVE3aXYwV1JGYXdtRzlEQk5uRHdqOC1VdTZ3czhJUzI0bUpyMmFZQVZKMWxDNUE3cm5OWS1UMi1FeWtrY3N4eW8xQVRlM3RNUlJfekFlNEk2TjkzZzFpRzNvaHlDeFRpR2ZZbGdHcFZILUtaZ3c?oc=5"
-      },
-      {
-        "label": "Canadian Manufacturing",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXZud2lURGFJTlJoa2ZzNGk2VGdUcldwQ1Ztc19TR3dWRkRYYm1FZ3FYWmo3QV9qdzdOWE43OHJfT1JQcERiR2Y0ckNqX0FScFRjUTZnaFNsckZoNVk4dzJjVktoY3A1ZDFXandlT25kVlpHdm10TDdsdk93a0NyXzU1U1Y4WXFRc2tFWVZUelkxeXNUdUtHM0NweVFmbHc3Vm5GMEZPRnU5dm5DTWdBLVd6NXVmbTJrV05Mb3NmUGRBVE5jVXhz?oc=5"
-      },
-      {
-        "label": "CKPG Today",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGY3eDNHeXBNYzU0b1g4UUtZeWZlXzVZR2FyZldNcnhIRWgzNENvWUMtVnJLNVB3LVBmX2lqMzBfbzBFOHhZRUVMOHF6bVdCVnVXMkZ5NFNVbkV5YjZNVnIzTlo2TmhPNjRpY1dhQ0JuS3RNMl92TFVQd1BtLUc4bXZocXpVb01iSXVzOGhseV92WWRaX3kwZTBBYUtGMTlHT19vby1heFo?oc=5"
-      },
-      {
-        "label": "Castanet",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVhhbTdKSTM1dVU5S25RNks3emVwdVN2Q3FRZm93YUU5em14QnZTN2FubmpyS1E2dTljTlhTc1JsQnE2MDIyNENCbjE2NHVISUsyNWI0VzR5SGI4VlFxbjJBd0hxaWgycFVraGY1cUVBdndyd2ZKdlZPRVpSSGFoUEZnX2tLY3FpQnpMSlhmQ1dWd29FSU56WE1ZUzNtNFJiOEQ4azlHc0hYWTJqNmdwc29Gb1FTd28?oc=5"
-      },
-      {
-        "label": "CFJC Today Kamloops",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXJqaWRBWlI4TFo5SWVYOXA5UjNNa2VsMTk4Z0d0SzdHZ1pVa2FVSmJXM3FsdVZ4c0JleUtraVh5aGhIVEVZU1Jid0RqcUlua2gtY3JaTENUSm1XWXRQcXAtb1ZMbE5aRkdROV9KU1JrdlhUc2syQjNnRy11U0lhR1JnemdNUnRpdzZOa2daZGItbzhCaHBMOHNROWo1RnplZVE3aGNWQXkzUQ?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-14bc176613dd.webp",
-    "image_source_url": "https://www.ctvnews.ca/canada/article/ottawa-to-invest-430m-to-train-new-skilled-trades-workers/",
-    "image_credit": "BNN Bloomberg"
   },
   {
     "id": "news-65618e625be7",
@@ -754,7 +780,7 @@
     "image_credit": "Today in BC"
   },
   {
-    "id": "news-64f5800d46e5",
+    "id": "news-4db42ff33698",
     "title": "Saskatoon Tribal Council signs $269 million federal contract",
     "summary": "The Saskatoon Tribal Council has signed a $269 million federal contract for child and family services.",
     "amount": 269000000,
@@ -773,6 +799,10 @@
       {
         "label": "650 CKOM",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFdXX0p3OHFFS20zQVFDUUpsek1Dd3F2VUROR2FDQ2MtS29xaWk3QkFfQXNpSkszWTZqeGk5Q2V1NGNYY3NodEYzVGtSbmw1LWxudlZDel9GcVlXMm1sVDlQUU5RZElLME5OM3pJZEQtZ0JKZFNvR08wT2toOXlmSmJTcW5ELURHSXRIaEdWVXgwX2V2QWNQVVlJelpPczdaNEl5Wmg3TFJDSTBuLTQtSDNB?oc=5"
+      },
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQWVWMFd6U2ppdVIwUVJhVWttX1NnODdnVnhiT29ZS0VLS25RX2w4WG5QUTl6cFhFYTU4SU9lZ3FQeEpRUDFCc3B6aDBXaUwzLWVqelFKTVdEcFZUbW5OYnpDeFBtSXVvUzhWcl9mODFJRTd4SEZHNmhBRGxaWktrN09fVjVoWGVHQlVkQnNTV2lQeWhQRDBIcmpuVTl0V0VNSWc3UVJsWEhIa3RrQVZFbnlQVWxhV2JlbmtJc19fMmNMWUNoOGg0RA?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-64f5800d46e5.webp",
@@ -1320,7 +1350,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=IQO5b8",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=ZkoNEL",
     "image_credit": "IntraFish"
   },
   {
