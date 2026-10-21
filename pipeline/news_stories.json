@@ -1,5 +1,49 @@
 [
   {
+    "id": "news-823e52cb94c7",
+    "title": "CRA awards $12M security contract to subsidiary of U.S. company",
+    "summary": "The Canada Revenue Agency has awarded a $12-million contract to a subsidiary of a U.S. company over the non-profit Commissionaires.",
+    "amount": 12000000,
+    "date": "2026-10-20",
+    "fiscal_year": "2026-27",
+    "department": "Canada Revenue Agency",
+    "dept_code": "CCRA",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEJlX3dhLTJxS1RWWGRyay1pWVJ5SE9SZ3U0TXRlMWJjV1dDY3ZqOVdZWHB6QjYzaHFwQVdBbUV3Xy1jUXNGQV9aZEtOTGZwMHJUUy1oVkVIVjctLTZ6UWFlalctSzdkYkhkaTJRTGpXaDEtMl9oRFVFckJJT0t1SGFVQm4wc3dxbjRRVEczM1ZkdWFWTC1qbw?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-938d55e4a6bb",
+    "title": "$11.2M announced for Saskatchewan businesses facing tariff pressures",
+    "summary": "A funding package of $11.2 million has been announced to support businesses in Saskatchewan dealing with tariffs.",
+    "amount": 11200000,
+    "date": "2026-10-20",
+    "fiscal_year": "2026-27",
+    "department": "Prairies Economic Development Canada",
+    "dept_code": "WDO",
+    "program_code": "BYM02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "WestCentralOnline",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFFLZkNOZ3MxLThNbHkwUUFjRl9aaS1RNUZoNlhJZm16Q2Ftb21MSUplZS1XSmhkTDVCUWtRQi1qR2hlRndSRnNmMXgyOHB6c2VIRG8wQUVQZEllazhxWGhvVmxzeTJGRlkwTVBBYkV4bEhIaGhVUUFwdU1aZ3lVQlhsVXFTWVM1ZlZlSG85d1Brandzd2NBQjh2WmVnMkFVX2t6OWdB?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-938d55e4a6bb.webp",
+    "image_source_url": "https://westcentralonline.com/articles/112m-announced-for-saskatchewan-businesses-amid-tariff-pressures",
+    "image_credit": "WestCentralOnline"
+  },
+  {
     "id": "news-de9996fafcab",
     "title": "RCMP awards $13 million across four firearms contracts with Deloitte",
     "summary": "The RCMP awarded four firearms-related contracts totaling $13 million to Deloitte.",
@@ -64,6 +108,28 @@
     "image_url": "/story-images/news/news-f496e3614fe3.webp",
     "image_source_url": "https://www.junonews.com/p/rcmp-awarded-84m-in-black-hawk-border-contracts",
     "image_credit": "Juno News"
+  },
+  {
+    "id": "news-f60bf46051fe",
+    "title": "Canada announces $1.9M for Yorkton affordable housing repairs",
+    "summary": "The federal government is providing $1.9 million to fund repair work on affordable housing in Yorkton.",
+    "amount": 1900000,
+    "date": "2026-10-17",
+    "fiscal_year": "2026-27",
+    "department": "Canada Mortgage and Housing Corporation",
+    "dept_code": "CMHC",
+    "program_code": "BGJ00",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFVsazVkMzkwandMLVhRSjhzajY5V0otNWl1QUM5bU1hNzZJZWlXa19PNml5VTZfX3pVdUpUVWRQUFA1VjNFN1dKWjA1SVo1ZFNzU1BPaEh5Q1FUanVtNjFLeTFkTHJxWldVOUg4dGw2SlM1TXEtQkxXR21qeElmV1VndFdkQ0Q2UkhRZ29RM2tIa2ROZTVudW1xdUJJb2xVMWtqQllZb242UQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-f60bf46051fe.webp",
+    "image_source_url": "https://www.ctvnews.ca/regina/yorkton/article/canada-announces-19m-for-yorkton-affordable-housing-repairs/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-086732d628cb",
@@ -137,6 +203,10 @@
       {
         "label": "Belleville Intelligencer",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaEtpdmRCOUhnSWg1SU9SUlpBQmpVNHdEZWZCOVhpQ09YeXR0QkhJVWFJU1J2dl9qdmtoUmVKZE1aM2l2blZ5MXprNzNMbkNZM0ZKVjd5MTN0eFhicnRaMHhBb0Y0bWR2azdyM3V3OER5V3ZvUkhLMjZwS3BMNV9IMkVQbnMxTGFxS2Jr?oc=5"
+      },
+      {
+        "label": "Quinte News",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiYzJKQ1BIRHM0bG9EQ1YwUWF0d2Z6cUVoS21tZXhVVWNkTEdmczRwTi1OX1FrTkhKWjhkUnVOZWt2MDdreXBkdnloTzRNV21DMFh0RXA4Z1o?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-b2d50b8d9865.webp",
@@ -306,6 +376,32 @@
     "image_credit": "Winnipeg Free Press"
   },
   {
+    "id": "news-dea6df21d0f8",
+    "title": "Manitoba to recruit up to 90 doctors with $6M federal funding",
+    "summary": "Manitoba plans to hire up to 90 family doctors by 2029 supported by $6 million in federal funding.",
+    "amount": 6000000,
+    "date": "2026-10-14",
+    "fiscal_year": "2026-27",
+    "department": "Health Canada",
+    "dept_code": "H",
+    "program_code": "BVG21",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQk9hUFZESkFTWkFkWTVCcmJubHNTTEFheTl0STRITS1nbEFPUWt4NGZ0dTNSd2x2NVFLRTg4THRmb1BlcGZzQ042MFctRGtBWnRVUk8wX045VTVibVlxdURaeUl5bHA0QjdzSXExZE9UVlJGQUNnbmVfc1hpYzFjTkVoR3djNjdsREdrNW9DQkFfUQ?oc=5"
+      },
+      {
+        "label": "Winnipeg Sun",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-2577605b3e08.webp",
+    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
+    "image_credit": "Winnipeg Sun"
+  },
+  {
     "id": "news-2244fb9aa8d6",
     "title": "Ottawa prepared to spend $50 million on New Brunswick forestry centre",
     "summary": "The federal government is prepared to invest $50 million into a high-tech forestry centre located in New Brunswick.",
@@ -375,28 +471,6 @@
       {
         "label": "CBC",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByRnQwdjJaNHQ4cWhRcjh5dnNBSGl1WFBrXzlxaXdwb3pMV3BUSnFZNnpWeEEtc3FkNTNwYU43UlBnM1U5a3FuOTh4T0RTR25YQ094VUNFcWcxUk9xZTRJeUZnZnBsVkJhX195XzBaVVFmLTJ5ZzYzUGMwd0V6TkU?oc=5"
-      }
-    ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
-  },
-  {
-    "id": "news-dea6df21d0f8",
-    "title": "Manitoba to recruit up to 90 doctors with $6M federal funding",
-    "summary": "Manitoba plans to hire up to 90 family doctors by 2029 supported by $6 million in federal funding.",
-    "amount": 6000000,
-    "date": "2026-10-14",
-    "fiscal_year": "2026-27",
-    "department": "Health Canada",
-    "dept_code": "H",
-    "program_code": "BVG21",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "CBC",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQk9hUFZESkFTWkFkWTVCcmJubHNTTEFheTl0STRITS1nbEFPUWt4NGZ0dTNSd2x2NVFLRTg4THRmb1BlcGZzQ042MFctRGtBWnRVUk8wX045VTVibVlxdURaeUl5bHA0QjdzSXExZE9UVlJGQUNnbmVfc1hpYzFjTkVoR3djNjdsREdrNW9DQkFfUQ?oc=5"
       }
     ],
     "image_url": null,
@@ -680,7 +754,7 @@
     "image_credit": "Today in BC"
   },
   {
-    "id": "news-f13676be3a94",
+    "id": "news-64f5800d46e5",
     "title": "Saskatoon Tribal Council signs $269 million federal contract",
     "summary": "The Saskatoon Tribal Council has signed a $269 million federal contract for child and family services.",
     "amount": 269000000,
@@ -695,11 +769,15 @@
       {
         "label": "Global News",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzdfY2xQMlU3M0NJd1RkdHp3V2FLUk5OZFZMX3BHZ05kYV96SnhVX2VqZVhCOS12cU1VX3RISU1FZjhvclBSUHQ3clJHb2M5R3RMQmlpOXBZMDZ2YjVSTUUwWWYyaTZjUUR5VmNVYmVnM1hsR19aNThYMnE5ZmZxX20yell0Nkt0?oc=5"
+      },
+      {
+        "label": "650 CKOM",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFdXX0p3OHFFS20zQVFDUUpsek1Dd3F2VUROR2FDQ2MtS29xaWk3QkFfQXNpSkszWTZqeGk5Q2V1NGNYY3NodEYzVGtSbmw1LWxudlZDel9GcVlXMm1sVDlQUU5RZElLME5OM3pJZEQtZ0JKZFNvR08wT2toOXlmSmJTcW5ELURHSXRIaEdWVXgwX2V2QWNQVVlJelpPczdaNEl5Wmg3TFJDSTBuLTQtSDNB?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-64f5800d46e5.webp",
+    "image_source_url": "https://www.ckom.com/2026/10/07/269m-in-federal-funding-announced-for-first-nations-led-child-welfare-agreement/",
+    "image_credit": "650 CKOM"
   },
   {
     "id": "news-ca846b49a11c",
@@ -1242,7 +1320,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=jLiRDG",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=IQO5b8",
     "image_credit": "IntraFish"
   },
   {
