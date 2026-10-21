@@ -1,6 +1,6 @@
 [
   {
-    "id": "news-585c105b0b13",
+    "id": "news-37fbf8cae98a",
     "title": "Newfoundland spaceport lands $20M agreement with federal government",
     "summary": "The federal government signed a $20 million access agreement with a Newfoundland spaceport.",
     "amount": 20000000,
@@ -23,11 +23,19 @@
       {
         "label": "EIN News",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS2lwdHFDdGJYYlZnSUcxWTN3LUVNU3U4bk5XLXZEX3gwbnREcU4xRGMxRFVHSmxwdkVxa29zSHhZNVVKdTNQZW0waFpmeFZON3ZaTHctMnZ6WE8zanBvUnZONFBqMERiUzhPRjZrQmdaOWhkb0ltQnlYX1l5TmpGUFRZd2kwTXlUczBudmJRTGwxNTJROHo4eS1SWENIOHNLNGwtOEhDM3F4cVYybXZGb3RmUVZsUTI1bGpwbjlFaVFhcG4tSjYzSG1pcktManpDb2pHZFlFZVk5MVdyTjZIV3pWZXBYQXlOWDBUUGM0MA?oc=5"
+      },
+      {
+        "label": "Canadian Defence Review",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0pXdUFaZzdLWHdjMXBlNkdBcmk1Q1RTM2hwTi1UOWRMX2FyTzNSWVMyMjZoYnVXY0NWSndLOGhOOHZpcXJIa2tEM0xsb19TWm1ZLWpTMDl1NHZJQUdROU5vNXg3eVFtRXhHWGZJb19LLXFjQm5JSDJhaF9xNllzR2hhXy1VOFA4SDVN?oc=5"
+      },
+      {
+        "label": "BetaKit",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzRTVXlILVpCSU5nN2Vub1UxdU9hMmI3eW9XM1k5eE5Ma3RXTXlIOWtJa01BN1ZLWXNqYUw4ekYwTU5EMXU5aEhmazItSnhKb25ZOWs0QXlSU0FhcFpheWhPNFNCT0E5WkdiXzc5Q1pGVVlVTHpaR0RmQ0paaWtzZzltc1VoV3NHeG05RWZzMHZVcUZtSVpBa19MSGF1ZnhJNF8xWDc3Y2NWQnFHR1Z1QUYzVDBKVDg?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-aefc550fc17b.webp",
-    "image_source_url": "https://www.saltwire.com/newfoundland-labrador/nl-spaceport-20-million-agreement",
-    "image_credit": "PNI Atlantic News"
+    "image_url": "/story-images/news/news-37fbf8cae98a.webp",
+    "image_source_url": "https://canadiandefencereview.com/dnd-signs-20m-spaceport-agreement-with-nordspace/",
+    "image_credit": "Canadian Defence Review"
   },
   {
     "id": "news-0f11d831ebfd",
@@ -144,7 +152,7 @@
     "image_credit": null
   },
   {
-    "id": "news-79687c7d04fa",
+    "id": "news-08d2e3ddf011",
     "title": "Ottawa announces $162 million for 10,000 AI work placements",
     "summary": "The federal government announced $162 million to fund 10,000 artificial intelligence work placements across Canada.",
     "amount": 162000000,
@@ -161,8 +169,8 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmxzWXJNenkyZ2lmTkphV1ptTFFPU21NS3Y0YlQ0cTJpdHhRUnVmZDRfQ0ZoOV84U2xCMG12R2llTnBWNUpYclN1NUpXTjRsN2FuVVJyOHp6S0tWU2VCWkRSTVZRVjNrWkt6cFlRaHpCa01fa3d6OUNmRk9Wb014Yi1sdDUwcXY1WmJHaGQwalJmWXlKSWVQVXhlaHlpWE1SMXQzQU9XRzVtWUdmV0ZHNHJXcmo?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-79687c7d04fa.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_url": "/story-images/news/news-08d2e3ddf011.webp",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -237,6 +245,10 @@
       {
         "label": "CTV News",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemd6eEdNMTZ6eG40d2Nadmw2dHRuVzZvaEpEY3ZhME5idVNub0VSRlVxZWpnSHRZdXM2aG0wWnE0YkNfeGctRVRMd3lTUDk3LTVzdWRRT1VmV2p4SmhMdE0tTnp1NVo4YTQ1REoyNGlwUXk3ZUhlNWUzZ25jSVdWMEVTaVY0Q1lMMFUyN05LR29ra1dQZjF4aFcwa3d0YTBfRjF6QVRtSldzMnBnRXpaU2M2UHN5QQ?oc=5"
+      },
+      {
+        "label": "constructconnect.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY2dzWm5oT0wyZVdKZ09LenRPYjhMM2lBTTlFRGE5bDVaUTZ5LVpxZG1HdXhuMzQ5akw2SThqX3lMNFJjblRSUHY3dFdyUjFNcVJfUHl2aHVQeUVHS25jZ0dPWVFzRXlzclF4WDJCWnBPN0phTWo5QXVrQ0dkVjBRZ2hlaHJ4X29jbkpNMFRwak5LT2dnS19Wem9XV3Rwd3Vsdk5FT2dET1RCb2Y5cEVYMVl5dURxZVp3ejRSQ1d6LUdHYkxJVnM4dHRBZE5vQlc4VDlN?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-086732d628cb.webp",
@@ -391,9 +403,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-41e96c8b00eb.webp",
-    "image_source_url": "https://finance.yahoo.com/energy/articles/canada-invest-ca-100-million-140437053.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
+    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
+    "image_credit": "battlefordsNOW"
   },
   {
     "id": "news-65618e625be7",
@@ -1410,7 +1422,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=mFaMmD",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=FSKbjT",
     "image_credit": "IntraFish"
   },
   {
@@ -1500,7 +1512,7 @@
     "image_credit": "iPolitics"
   },
   {
-    "id": "news-74d5b2562e3b",
+    "id": "news-3ece593ee56a",
     "title": "Ottawa announces $22.4M for Kelowna International Airport expansion",
     "summary": "The federal government has announced $22.4 million to support expansion projects at Kelowna International Airport.",
     "amount": 22400000,
@@ -1527,11 +1539,15 @@
       {
         "label": "Abbotsford News",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0JlNjBhMFFDUERlYUstQVluY3JiaGtxaW5UMnNQelNMa25Wc2NfYy1yTlQ3TVEwajlaRGk3bVdHZFpEb0tKRXozb3Z3dnlYYm5FTDNGRnpxN3VTZENqQmUwZDRZRmZjSnNVTlZqVjZ1b002NUp0X25wMENLTk1GOWZmTDdCeldLc2NsLXRFeFUwTXlzbmVubEVKZ3NIcHkzT0Zlbw?oc=5"
+      },
+      {
+        "label": "Kelowna Capital News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXRFd2lzY0dlMDFUTjdBemx3X0htd1dpVTNUTXRaWmlDdkRsUHdZQUZpOThmQTJMY0lJcWhTcDc5NzhjVk53ZGl4R1FNUlV3emstcUdSVDhEejdZd1RQeVktVDNETlJvMU5abno4cFc1SU5WOWFDRlN5NWhTRHFMc0o5VmZaUWNoeEkwQ2dkeTlLMkhaZU5NeWZ0Y1hIZmQwTVRiRTFIVThQVVNv?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-74d5b2562e3b.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-22-4m-in-kelowna-airport-aerospace-infrastructure/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-3ece593ee56a.webp",
+    "image_source_url": "https://kelownacapnews.com/2026/09/28/kelowna-international-airport-receiving-22-4m-from-federal-government/",
+    "image_credit": "Kelowna Capital News"
   },
   {
     "id": "news-54680293248a",
