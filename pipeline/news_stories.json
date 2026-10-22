@@ -60,6 +60,28 @@
     "image_credit": null
   },
   {
+    "id": "news-0b5965fb34f4",
+    "title": "Ottawa announces $254 million for New Brunswick port upgrades",
+    "summary": "The federal government announced $254 million to upgrade port infrastructure in New Brunswick.",
+    "amount": 254000000,
+    "date": "2026-10-21",
+    "fiscal_year": "2026-27",
+    "department": "Transport Canada",
+    "dept_code": "TC",
+    "program_code": "BTY04",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTg2dWttYVNwVU9ISWRuU2ExNTJUbFM3VlhmMk41SDY2RnF2TXdFMTdwX1hBMG9fUlFxdzlNUWpOVktETXl5R05DT3o2cmRVTXQtMFNoMnNTLUVDTjc2d0V0Z1BfUVJLLUZaV25mSy00WTNCYzJTSWpxdWN2TXBoRUhmOWxlVEJ5REZpX0d5VFU?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-0b5965fb34f4.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/ottawa-announces-254-million-brunswick-170542110.html",
+    "image_credit": "Yahoo! Finance Canada"
+  },
+  {
     "id": "news-08f24b4a095e",
     "title": "Canadian government invests $15M in Xona Space Systems Canada",
     "summary": "The Government of Canada is investing $15 million in Xona Space Systems Canada.",
@@ -170,7 +192,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -349,12 +371,12 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXJqaWRBWlI4TFo5SWVYOXA5UjNNa2VsMTk4Z0d0SzdHZ1pVa2FVSmJXM3FsdVZ4c0JleUtraVh5aGhIVEVZU1Jid0RqcUlua2gtY3JaTENUSm1XWXRQcXAtb1ZMbE5aRkdROV9KU1JrdlhUc2syQjNnRy11U0lhR1JnemdNUnRpdzZOa2daZGItbzhCaHBMOHNROWo1RnplZVE3aGNWQXkzUQ?oc=5"
       },
       {
-        "label": "ImmigCanada Immigration Consulting Services",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0NnMTQtNDJmdHd6Y2J1TWhDU0JyUVRsZU1IN0YxUUJIblF0cGE0cVNYaG91cDdnSW4ydGtvVlE4UUp4c24tOXp4TlFKYVVsMFNZNDVhbGM4Z1NELUhSZ3lSVTBDMzlFb19fS0U1dTh5TEJtM1J1QVZ0aFlBOERlZmN3?oc=5"
+        "label": "constructconnect.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUENFVW85OE51M05hYjFHaUxhTW0zTHcyR1E3TF9HNHRtZEtwT1F0QV94VUw4S2VQa1g1VGdHeTlVX0hHZGV0d3hKZUVDbGdfUWREZ0FaazFCRWowSEtubzNIZDJIdF80MGJDQlU3TVRINFB2T3Zuak5kUFU0bXZIU3dWMDhOcVBYS1RhaHpzaXloZFRnek1PN21BRF80XzZJTm01OWo5WnBSSkdQcGYyYVUxb1BjTVVlTFNlNHF6WlllZ1JZcFIxQVBwX3E?oc=5"
       },
       {
-        "label": "constructconnect.com",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNHRuZXAtY1FnY3VLUjN4clRIRGlIYnZjdnBpdlF0T2RDWHppNnBoWTZxOURFRnczTFZveHpjNE93cEpCOWM0X2dMZnlGZElYQndtZjZNYlEyTExMTWJrMHNIb0pqVU1EYkdyS1B1T3FoZEJDaVBPeVZVS0RnelB0X2VQQ3QzOXE5b0ZvZTRqWVBPVFZ4YnNJTFFiSFA0cmp0dVNuRzRpMG0ydDVfSklnOWxIZUhsVzRubFNjdUNyWUFVaWxTMUdqTjc1UExiWTJKM3BOc0VSeEZnakVaVGJKNnN0YXVvc1U?oc=5"
+        "label": "ImmigCanada Immigration Consulting Services",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0NnMTQtNDJmdHd6Y2J1TWhDU0JyUVRsZU1IN0YxUUJIblF0cGE0cVNYaG91cDdnSW4ydGtvVlE4UUp4c24tOXp4TlFKYVVsMFNZNDVhbGM4Z1NELUhSZ3lSVTBDMzlFb19fS0U1dTh5TEJtM1J1QVZ0aFlBOERlZmN3?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-14bc176613dd.webp",
@@ -1422,7 +1444,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=FSKbjT",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=yyLNMM",
     "image_credit": "IntraFish"
   },
   {
@@ -2623,9 +2645,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
-    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
-    "image_credit": "On-Site Magazine"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-28b59b949d4f",
