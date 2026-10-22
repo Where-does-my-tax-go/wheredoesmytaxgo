@@ -82,6 +82,28 @@
     "image_credit": "Yahoo! Finance Canada"
   },
   {
+    "id": "news-23e9dce830be",
+    "title": "Port Saint John trade corridors to receive $463M in upgrades",
+    "summary": "Trade corridors at Port Saint John are set to receive $463 million in infrastructure upgrades.",
+    "amount": 463000000,
+    "date": "2026-10-21",
+    "fiscal_year": "2026-27",
+    "department": "Transport Canada",
+    "dept_code": "TC",
+    "program_code": "BTY04",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkR0WXdkTnBycS0xS2hndmFDdXJDN3NBeHZUZDJra3ZGdDFWd0dHMWtwVjlLd0ZPa1UzYzR5WUgwenpSU0gwTVNzdXRLZkhqR24xSTRPYVdUZ1BwUmJpN05zUWRvSklFS3cyRE9IX0trTXlOZE0xTGVxMncydlNDeHRwbmQ2d3hmZFlYZHJB?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-08f24b4a095e",
     "title": "Canadian government invests $15M in Xona Space Systems Canada",
     "summary": "The Government of Canada is investing $15 million in Xona Space Systems Canada.",
@@ -192,7 +214,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -425,9 +447,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
-    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
-    "image_credit": "battlefordsNOW"
+    "image_url": "/story-images/news/news-41e96c8b00eb.webp",
+    "image_source_url": "https://finance.yahoo.com/energy/articles/canada-invest-ca-100-million-140437053.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-65618e625be7",
@@ -1444,7 +1466,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=yyLNMM",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=wJ9fAl",
     "image_credit": "IntraFish"
   },
   {
@@ -2037,9 +2059,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-c4625895fe3d.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-0833ed8d711b.webp",
+    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-15beea9f0e27",
@@ -2645,9 +2667,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
+    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
+    "image_credit": "On-Site Magazine"
   },
   {
     "id": "news-28b59b949d4f",
