@@ -111,6 +111,10 @@
       {
         "label": "battlefordsNOW",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlotQ0oxbkgwWFNtR1FCSFBaaUdkNGZXM3NNaW0zMHE5QU1Yc3VYOFdBVHBMaU5ZZDRFSkUyVnFFYjVMamJfOEhqTnRhLTlySXlqNzBFU3NVUU9WeG56MFl5UlR0bnlIcUFVbUtyY1IzLWNBZHEteGcweXp3eDIzRFRyZHlmUENsVENMeUV3VXRHeUladUNxaFdZN1hnVWpiSHBV?oc=5"
+      },
+      {
+        "label": "Toronto Star",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX0xmN3h0MDR0STVHMzY1XzhWcGR5bTVWd2pzeUpvQUlmcHVHVmRjSFRtZ2VvLWwxXzd1Q2ZsZmQ1ZWZiazk2b1F0Z0J0UkZTdHNRZWJUXzdQb0U3RWQ3UE84Ql9ldVFjWXl1TXphLUJqV1hUUEoxTGhsMi1wdVpBejB5dHBwaUY5SVZVVUxwcHZqUk5JWmZjVnRnVDgySkM0bkNxZDd0X1BpMWN0QzVYUFVIR2dCUElucVJoalh2dDhzT2N1WC02S3VXVVE2ak5nbzE1bzVadUg4SFNudm5HZ05n?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-1228bb72dec0.webp",
@@ -197,6 +201,10 @@
       {
         "label": "Yahoo! Finance Canada",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTg2dWttYVNwVU9ISWRuU2ExNTJUbFM3VlhmMk41SDY2RnF2TXdFMTdwX1hBMG9fUlFxdzlNUWpOVktETXl5R05DT3o2cmRVTXQtMFNoMnNTLUVDTjc2d0V0Z1BfUVJLLUZaV25mSy00WTNCYzJTSWpxdWN2TXBoRUhmOWxlVEJ5REZpX0d5VFU?oc=5"
+      },
+      {
+        "label": "BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzhqUnBJaW0zMTI4OXFRQ2JlM0xOQXFJekZ5Nmpjc1Yxd3lVX0hSYlBhVlRIR1FBTXN3MUpVWFl6T0locHdrNTdnODZXbmh6Tng0cHp2T3R1akNSaTZrbXhUdk5Nb09sVzFUdHpmYnJ2Y2xfTDNkb1RXTklUX0hHSEtMSVMtS0xBc1BDSG9ZVHJnbEtwSk85d2Q4RVpLUzFaWXFGVjl2TGRhQjZrX25kZTIzdFk4SG1UTVFF?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-0b5965fb34f4.webp",
@@ -638,6 +646,28 @@
     "image_url": "/story-images/news/news-647c84241e24.webp",
     "image_source_url": "https://www.winnipegfreepress.com/breakingnews/2026/10/15/a-generational-impact-from-playground-to-podium-for-years-to-come",
     "image_credit": "Winnipeg Free Press"
+  },
+  {
+    "id": "news-2d88f0959e84",
+    "title": "Ottawa to extend $1.2 billion for home care and mental health",
+    "summary": "The federal government is extending $1.2 billion in funding dedicated to mental health and home care services.",
+    "amount": 1200000000,
+    "date": "2026-10-15",
+    "fiscal_year": "2026-27",
+    "department": "Health Canada",
+    "dept_code": "H",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR04xM21EemVBZnM0ZUFUQ243c0ZFcFlLVkFDU3FycldXZjZmQkVFZ1NGaXFIc2hCbS1YSFQ5SEhZSU5ySE10RWJBWl95aEdmMWY0X3d3TExXMGNKWmZIZmZrUWRSdkV4QjhrR21fdzZqaVZGLWJvaVptb2p0SGFnQlFwZXdJUFpBWndlX1JiRkl5UWpDU0d0NktwWDdSTElieTB6YlNwcUJjUG1yaFE?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-2d88f0959e84.webp",
+    "image_source_url": "https://www.ctvnews.ca/politics/article/ottawa-to-extend-12b-in-funding-for-home-care-mental-health-services/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-dea6df21d0f8",
@@ -1588,7 +1618,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=TNjqNx",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=1iZuKq",
     "image_credit": "IntraFish"
   },
   {
