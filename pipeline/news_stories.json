@@ -1,5 +1,123 @@
 [
   {
+    "id": "news-edaa8612c334",
+    "title": "Federal government invests nearly $5M in Northern Ontario growth",
+    "summary": "The Government of Canada is investing nearly $5 million to support economic development across Northern Ontario.",
+    "amount": 5000000,
+    "date": "2026-10-22",
+    "fiscal_year": "2026-27",
+    "department": "Federal Economic Development Agency for Northern Ontario",
+    "dept_code": "FEDNO",
+    "program_code": "BYL03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "The Manitoulin Expositor",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbGVSQTZGQkdtVnRsaDdQbUQwTmtvN2NvY0RXMnFWc0xVRTdMTkR1Q1VYc1BsUUJmdXZ5d2JIM243Z2xBeG9RcDlCdXVLbDlfUXl3LWk4M0tMSTVsNENZSENHSFFpdzV5RXJJa1NDR0pSRjJzdmNta195Y0RIaDY1cU5nM0hzMHB6VWp4a21hZ3lzQ19tNF9iZDRQU2pPMktNU0J3UEFlQlpfQWdRaWlwMzNfRnNEZmV1MlcxN2ZlOXpxb01IZ3N4dm92WUhfeHJ4V2VBN0RB?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-edaa8612c334.webp",
+    "image_source_url": "https://www.manitoulin.com/government-of-canada-invests-close-to-5-million-to-fuel-economic-development-and-growth-across-northern-ontario/",
+    "image_credit": "The Manitoulin Expositor"
+  },
+  {
+    "id": "news-d58b1c95e756",
+    "title": "Canada invests $25M in Saint John Trade Corridor project",
+    "summary": "The federal government is investing $25 million to support the Saint John Trade Corridor project.",
+    "amount": 25000000,
+    "date": "2026-10-22",
+    "fiscal_year": "2026-27",
+    "department": "Transport Canada",
+    "dept_code": "TC",
+    "program_code": "BTY04",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "ReNew Canada",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSXp2VVdGMHhlTVk5RFA5UW1LNGRjQjN3azRDZmFkdGtvM0NqUXFVc3R1aXI5Vld4Tlhaam4wbjhLRWpwbDV0MWcwek9nR0VnV180NHkzeFVDNTdUVjJRUE54NlplWU1RcktjS1c2Wkx0MWZzbWFqeXpIdlVMTTZGTUdwQWVnR2hYTWJyc0NKcWFqRE1nUXFz?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-d58b1c95e756.webp",
+    "image_source_url": "https://www.renewcanada.net/canada-invests-25m-to-support-saint-john-trade-corridor-project/",
+    "image_credit": "ReNew Canada"
+  },
+  {
+    "id": "news-35bd55cbaed8",
+    "title": "Canada invests $254M in Saint John Trade Corridor",
+    "summary": "The Government of Canada is providing $254 million in funding for the Saint John Trade Corridor.",
+    "amount": 254000000,
+    "date": "2026-10-22",
+    "fiscal_year": "2026-27",
+    "department": "Transport Canada",
+    "dept_code": "TC",
+    "program_code": "BTY04",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Railway Age",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGZscGZYNWE3VmsxVnd4Rk0xeDA2eHM1aHZweEZiRUhaTGxCUkVsYXB0VGw2NmhtVGdtdHRwdm1HV1k4cklSNERQRElGNkpNUVBVUDJEUElrbEE4WXp0Ui12SWp0STlGNGpiaHNlVHQ2M2d5cDJkbUhxM2RLcTNIZzVaYk0xclk4OVdCbmwtVElpYjA?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-277f94595ccb",
+    "title": "Feds detail $750M VC funding and open Growth VCCI applications",
+    "summary": "The federal government has revealed the allocation of a $750-million venture capital funding envelope. Applications have opened for the Growth Venture Capital Catalyst Initiative.",
+    "amount": 750000000,
+    "date": "2026-10-22",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "BetaKit",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSThaNktpaHlLWXhzdTUtZm1DQTNiNXh3Q21lRDV6b0drTDJnSXNsRUpmZHVpWEdyaEFMeXlpUnl5NHdNZHBMb1BwSi10eDd4NHd6bjczM0VNZzNIZkJ4TFJ0RkswSEZqS1F3ekNDRENUSmNXWUNZMXpEZmFrenF2SGtyZkwyQ2o1UGZLSjBRZTVxV19hYXh6d01Sa0NKTE12ZElvbnVFcjgweFE?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-277f94595ccb.webp",
+    "image_source_url": "https://betakit.com/feds-reveal-breakdown-of-750-million-vc-funding-envelope-open-growth-vcci-applications/",
+    "image_credit": "BetaKit"
+  },
+  {
+    "id": "news-1228bb72dec0",
+    "title": "Federal government announces $60M for national sports bodies",
+    "summary": "The federal government has announced $60 million in additional funding for national sports organizations.",
+    "amount": 60000000,
+    "date": "2026-10-22",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": "BSF01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcWQxcUtRVFo5Zy0ydGFHSDMxckdqekd1X2hLZjU2Z0R2aVRPd1d5Qk5VTTcxZUh4Q2pac3MtRkNkV1p5MkxMNEtZbEhGVFRERUwxZnpwMmhtbUdINnNBUHhQTkRkeEd0TlFIZXZHN2VuTzVjMnBSeHB2eElyRHRrUm9pRW8zZw?oc=5"
+      },
+      {
+        "label": "iPolitics",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDhOQXE3VmdIZmZHRkRfZTJDb3d1N09abXRpeVlmWTZIbkJSSHBfRko1ZVBzVGhjOENJaC1fZGlfMFZHcVh2cU10SHJ5ZWgwU2plM2d5Z09OSzhWaFEtOXVYNGdXMHQzRVV2alJZdDNPWnBaQU8zcG9wUzJyWnE0V2FuZWlOVWMxV1JndUJ5cTkwVGN6QVRuSkNiRjU3T182QjFtNFZIekFsTGZsb2ZfQmxzRQ?oc=5"
+      },
+      {
+        "label": "battlefordsNOW",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlotQ0oxbkgwWFNtR1FCSFBaaUdkNGZXM3NNaW0zMHE5QU1Yc3VYOFdBVHBMaU5ZZDRFSkUyVnFFYjVMamJfOEhqTnRhLTlySXlqNzBFU3NVUU9WeG56MFl5UlR0bnlIcUFVbUtyY1IzLWNBZHEteGcweXp3eDIzRFRyZHlmUENsVENMeUV3VXRHeUladUNxaFdZN1hnVWpiSHBV?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-1228bb72dec0.webp",
+    "image_source_url": "https://www.ipolitics.ca/2026/10/22/ottawa-touts-new-era-with-60-million-in-new-funding-to-national-sport-bodies/",
+    "image_credit": "iPolitics"
+  },
+  {
     "id": "news-37fbf8cae98a",
     "title": "Newfoundland spaceport lands $20M agreement with federal government",
     "summary": "The federal government signed a $20 million access agreement with a Newfoundland spaceport.",
@@ -31,6 +149,10 @@
       {
         "label": "BetaKit",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzRTVXlILVpCSU5nN2Vub1UxdU9hMmI3eW9XM1k5eE5Ma3RXTXlIOWtJa01BN1ZLWXNqYUw4ekYwTU5EMXU5aEhmazItSnhKb25ZOWs0QXlSU0FhcFpheWhPNFNCT0E5WkdiXzc5Q1pGVVlVTHpaR0RmQ0paaWtzZzltc1VoV3NHeG05RWZzMHZVcUZtSVpBa19MSGF1ZnhJNF8xWDc3Y2NWQnFHR1Z1QUYzVDBKVDg?oc=5"
+      },
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUU5Qdy10UUtqU3VvaDh6UFZsYjN4MENHOU95RVJ5anZDMGg0MTRMMTBBSWlwaFp4bGM3QmxPdkJVaEZOUHFqNGZTZE5faUR0dkt6Y21ReWh3RWN6am1NOXFNaC0zdjVHcHVWNkNRaVhwMUFRMktrQWc1TUNVLVk5T2Nnc3hOVVU2VDc5eXl3LWtscmdYRlBQZWV5X2s5YV92NkJPbHBBOXRGQy1DUVBweDctZUp6VGJKNVlXVHZZWQ?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-37fbf8cae98a.webp",
@@ -447,9 +569,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-41e96c8b00eb.webp",
-    "image_source_url": "https://finance.yahoo.com/energy/articles/canada-invest-ca-100-million-140437053.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
+    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
+    "image_credit": "battlefordsNOW"
   },
   {
     "id": "news-65618e625be7",
@@ -1466,7 +1588,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=wJ9fAl",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=TNjqNx",
     "image_credit": "IntraFish"
   },
   {
@@ -1587,6 +1709,10 @@
       {
         "label": "Kelowna Capital News",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXRFd2lzY0dlMDFUTjdBemx3X0htd1dpVTNUTXRaWmlDdkRsUHdZQUZpOThmQTJMY0lJcWhTcDc5NzhjVk53ZGl4R1FNUlV3emstcUdSVDhEejdZd1RQeVktVDNETlJvMU5abno4cFc1SU5WOWFDRlN5NWhTRHFMc0o5VmZaUWNoeEkwQ2dkeTlLMkhaZU5NeWZ0Y1hIZmQwTVRiRTFIVThQVVNv?oc=5"
+      },
+      {
+        "label": "Victoria News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUFYZVpHaXVzM2lTb2hPYjVkbnh1U0ZBNUJvcUlBTzVUdHN0aGU4OFdBQmtPSGZkcTEwMTNwX1NlMFpvYTd1Z2tJWlZEaGc4Z1FsRmJWdkRsVHl1QVRXMndHckZYRVFhZldJaHRDODBqTlI1YW0yUXlfUlRydGlkZGtuUE5ySldVTUdDZlZZdlk1Rk1GbkpRWkQwSzNzUWdGejJN?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-3ece593ee56a.webp",
@@ -2059,9 +2185,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0833ed8d711b.webp",
-    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-c4625895fe3d.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-15beea9f0e27",
