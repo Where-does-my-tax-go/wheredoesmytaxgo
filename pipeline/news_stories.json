@@ -22,6 +22,28 @@
     "image_credit": "Yahoo! Finance Canada"
   },
   {
+    "id": "news-dc68b9227b37",
+    "title": "Ottawa invests $880 million to support the next generation of researchers",
+    "summary": "The federal government is investing $880 million through the Canadian Institutes of Health Research to support emerging researchers.",
+    "amount": 880000000,
+    "date": "2026-10-23",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Institutes of Health Research",
+    "dept_code": "CIHR",
+    "program_code": "BUI02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Education News Canada",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX1hvSWNTMzhDaFdVbUNQYUhWWXltMFR0cE9nVkhwRFJILXc2dXlnbllXai1kckhVZzJEVGlJaHgxQ0RMcUQxaXRkVzFNTmFncDMwLVRsVEx2WllDR1RKTkdTTkpNS0tUZGpIc1E5V1d4Y0pYN09ncVdkbi1xNjFTei1jQUtzQmF6dGpnSF9aUEo0S2Uyd2Q5MFBRQjQ2Y2F3RDM4R2JYMVV0LTI2TFdOdG9yVXVFQmRmYnRqTWlqX0Jva2pqRjdLTWhmOFBTRmtmaXV3Z2xpVTBtSjh0M1htNE9ZYjBudUk4QVJJNXB0WDJRNWhKajdsTlZ6N1gxN2tUNWc?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-dc68b9227b37.webp",
+    "image_source_url": "https://educationnewscanada.com/article/education/level/university/1/1224633/government-of-canada-invests-880-million-to-empower-the-next-generation-of-researchers.html",
+    "image_credit": "Education News Canada"
+  },
+  {
     "id": "news-1228bb72dec0",
     "title": "Federal government announces $60M for national sports bodies",
     "summary": "The federal government has announced $60 million in additional funding for national sports organizations.",
@@ -49,6 +71,10 @@
       {
         "label": "Toronto Star",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX0xmN3h0MDR0STVHMzY1XzhWcGR5bTVWd2pzeUpvQUlmcHVHVmRjSFRtZ2VvLWwxXzd1Q2ZsZmQ1ZWZiazk2b1F0Z0J0UkZTdHNRZWJUXzdQb0U3RWQ3UE84Ql9ldVFjWXl1TXphLUJqV1hUUEoxTGhsMi1wdVpBejB5dHBwaUY5SVZVVUxwcHZqUk5JWmZjVnRnVDgySkM0bkNxZDd0X1BpMWN0QzVYUFVIR2dCUElucVJoalh2dDhzT2N1WC02S3VXVVE2ak5nbzE1bzVadUg4SFNudm5HZ05n?oc=5"
+      },
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2t5Rm5QSG9FNzJPQ1ZKdHVSUFhnUVN1NWZVQUJEdndKZ0lZTVp2T0tDLS1mZ3d0TDVpWXFKaVFWcFU2dGxOMjN5a0Y1V1JLdWU4NmhNVFpFUWk5Z0JvT2JUOEJibzBrcjVydlEzc2pYRFJjaFlLVHRxb295VGxWX203S1VXWjZyclhtaVJmb1h5dkpqV2tDaERIM3Z0YjhFcjhid1JR?oc=5"
       },
       {
         "label": "Speed Skating Canada",
@@ -207,9 +233,9 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUU5Qdy10UUtqU3VvaDh6UFZsYjN4MENHOU95RVJ5anZDMGg0MTRMMTBBSWlwaFp4bGM3QmxPdkJVaEZOUHFqNGZTZE5faUR0dkt6Y21ReWh3RWN6am1NOXFNaC0zdjVHcHVWNkNRaVhwMUFRMktrQWc1TUNVLVk5T2Nnc3hOVVU2VDc5eXl3LWtscmdYRlBQZWV5X2s5YV92NkJPbHBBOXRGQy1DUVBweDctZUp6VGJKNVlXVHZZWQ?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-37fbf8cae98a.webp",
-    "image_source_url": "https://canadiandefencereview.com/dnd-signs-20m-spaceport-agreement-with-nordspace/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-aefc550fc17b.webp",
+    "image_source_url": "https://www.saltwire.com/newfoundland-labrador/nl-spaceport-20-million-agreement",
+    "image_credit": "PNI Atlantic News"
   },
   {
     "id": "news-0f11d831ebfd",
@@ -1295,9 +1321,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-84165101ceaf.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-93c940219547.webp",
+    "image_source_url": "https://cedarnews.net/newstasks/1032597/canada-invests-77m-small-craft-harbour-arctic/",
+    "image_credit": "cedarnews.net"
   },
   {
     "id": "news-0d19f4920d96",
@@ -1666,7 +1692,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=VmRLr5",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=w02sy2",
     "image_credit": "IntraFish"
   },
   {
