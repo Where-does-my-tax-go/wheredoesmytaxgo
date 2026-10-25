@@ -1,5 +1,27 @@
 [
   {
+    "id": "news-e4ac95709f14",
+    "title": "Ottawa announces $19.2 million for athlete safety and sport integrity",
+    "summary": "The federal government is providing $19.2 million to strengthen athlete safety and integrity initiatives across Canadian sports.",
+    "amount": 19200000,
+    "date": "2026-10-24",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": "BSF01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "WestCentralOnline",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVmlYeGFvY21MZm1GekhCYi1NUHRrOEtlaUl5bjB4RjJodXdKcGRSdTVxWTVwUTcwUnpvX0pKbXJUNy03UkFBbm5Nekt2MFp2ZEhuUGMyT2Y2RjZnNkswd2pubjFfel9yeHdQcXZMNFltOTMxLWlIWXJENDVXcHp6Z2hxdXRJQkZwTDZBWXZyYTN0TW85alhjRTBPUFk3MXJ0TFNRSHgydFptQWR3SlV4ZFlsR2txWk8zV25XMkxOYw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-e4ac95709f14.webp",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-192m-to-strengthen-athlete-safety-and-integrity-in-canadian-sports",
+    "image_credit": "WestCentralOnline"
+  },
+  {
     "id": "news-997bd271f77d",
     "title": "Canada invests $7.3M in P.E.I. ferry terminal infrastructure",
     "summary": "The Government of Canada is investing $7.3 million in new infrastructure at the Wood Islands ferry terminal in Prince Edward Island to support safe ferry service.",
@@ -68,6 +90,28 @@
     "image_url": "/story-images/news/news-dc68b9227b37.webp",
     "image_source_url": "https://educationnewscanada.com/article/education/level/university/1/1224633/government-of-canada-invests-880-million-to-empower-the-next-generation-of-researchers.html",
     "image_credit": "Education News Canada"
+  },
+  {
+    "id": "news-ea4d7a3caf85",
+    "title": "CFI invests nearly $8 million in research labs and equipment",
+    "summary": "The Canada Foundation for Innovation is investing nearly $8 million in research laboratories and equipment for Canada Research Chairs.",
+    "amount": 8000000,
+    "date": "2026-10-23",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNO01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOclhiakNmcGhEZnJwV20zTEZVYXdXLWVlQWdVaDZ3RjExeEwwWjAzZEFlamJ1cjdzRjNRTVU3dUpERUtlcnl1VHNlSFFyYkJjT3RYVzVtZnN1bjZJYy15ZDQ3dkd0eXJMazdhc3I3ZjVnM2I0cC1uZzJpaks2ZGpvT3hsaUVHZ0NYSVp4SGp0RzdjdGNsN1J0RFB5WThxbzNnMEgtTnVHQnVOSDdISXFJV2EwVlczUU5FUkQ5SWl0RmRCNXRSV0J0OGxuMURwQUNFdGFhVFpUMzJOdk9wUjRWQ196NUtDcjRSQllDZ2lpU2FTV1F4RzJN0gH3AUFVX3lxTE5yWGJqQ2ZwaERmcnBXbTNMRlVhd1ctZWVBZ1VoNndGMTF4TDBaMDNkQWVqYnVyN3NGM1FNVTd1SkRFS2VyeXVUc2VIUXJiQmNPdFhXNW1mc3VuNkljLXlkNDd2R3R5ckxrN2FzcjdmNWczYjRwLW5nMmlqSzZkam9PeGxpRUdnQ1hJWnhIanRHN2N0Y2w3UnREUHlZOHFvM2cwSC1OdUdCdU5IN0hJcUlXYTBWVzNRTkVSRDlJaXRGZEI1dFJXQnQ4bG4xRHBBQ0V0YWFUWlQzMk52T3BSNFZDX3o1S0NyNFJCWUNnaWlTYVNXUXhHMk0?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-ea4d7a3caf85.webp",
+    "image_source_url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/cfi-invests-nearly-8-million-in-research-labs-and-equipment-for-canada-research-chairs/2452838",
+    "image_credit": "The Manila Times"
   },
   {
     "id": "news-1228bb72dec0",
@@ -259,13 +303,17 @@
         "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPZHMwbDVOZUlNQ1lWRXZPTGxWblhYY0VDTGxtbnVzUmhsM0JybC1uTlJaendtWGdhWjlkWVN0VWtJY2JXdWZNbW53LTFITW5YZlR2NTNTOTlzSlpPNXNVbjVydFhCUnZZTDQ3Q3lNYUtvNW5EYlMxa0U1R2p1VnpuN1luaUw4VDh5Uy02clBEMHJOU3hvMUN6dW15LTRldGJTYTVVVzAtTkJlQWRnaFE0Q3YyZVFiME5WLTMwSDhSbGl3QmRncWZiMGhBRWlVTzZqLUlBWUFfazNNS1FPT0Q4U056UEJkOU9GVm5ZYl9HZVFOU0p4SG1XRUwxUmdMcXVBb1FKV1o5dmZ5TVhfRUhtOGpuc2w2UUxPaHdJM1JTMFNOOXRhOGhfeGo4Tk0yQXd0WUlYdnByNEhoaHhLNVZIcVNOT08?oc=5"
       },
       {
+        "label": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlBtUl9hWkRHVXE4TUREQ2hqTG1oWkZTTTAzUXY2S3k2R1dLcnRFdmp1SjFZSGdpZmZqakl4X2FueWltOHRhRXdTSGp2c0N2YW8zTkRoc1FrQ21sNlBvcmRmUWswUUZ5R2tycUJmQ0tiek9lUy00Rm9NRm41R1FJVWYyM3ZiQWdaZHpEaFV4dw?oc=5"
+      },
+      {
         "label": "Railway Age",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGZscGZYNWE3VmsxVnd4Rk0xeDA2eHM1aHZweEZiRUhaTGxCUkVsYXB0VGw2NmhtVGdtdHRwdm1HV1k4cklSNERQRElGNkpNUVBVUDJEUElrbEE4WXp0Ui12SWp0STlGNGpiaHNlVHQ2M2d5cDJkbUhxM2RLcTNIZzVaYk0xclk4OVdCbmwtVElpYjA?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-cfa58db429d3.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-254-million-174200370.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-0f11d831ebfd",
@@ -338,6 +386,32 @@
     "image_credit": null
   },
   {
+    "id": "news-938d55e4a6bb",
+    "title": "$11.2M announced for Saskatchewan businesses facing tariff pressures",
+    "summary": "A funding package of $11.2 million has been announced to support businesses in Saskatchewan dealing with tariffs.",
+    "amount": 11200000,
+    "date": "2026-10-20",
+    "fiscal_year": "2026-27",
+    "department": "Prairies Economic Development Canada",
+    "dept_code": "WDO",
+    "program_code": "BYM02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "WestCentralOnline",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFFLZkNOZ3MxLThNbHkwUUFjRl9aaS1RNUZoNlhJZm16Q2Ftb21MSUplZS1XSmhkTDVCUWtRQi1qR2hlRndSRnNmMXgyOHB6c2VIRG8wQUVQZEllazhxWGhvVmxzeTJGRlkwTVBBYkV4bEhIaGhVUUFwdU1aZ3lVQlhsVXFTWVM1ZlZlSG85d1Brandzd2NBQjh2WmVnMkFVX2t6OWdB?oc=5"
+      },
+      {
+        "label": "DiscoverMooseJaw",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTExGUWZSTGhhZE5yeTdwOW5mSHRJMjktbVA3Tk5GUW9Yem1JLU5xbURpU3ZLSmJzQ0RHaHB3aW5aUGQ3Q2VVZm9fY3VrcnFkYWFuMXVpcGo1b09idkJQOWpxa25sZkpwN1V2eWg2eHdYek1vXzNaU3lsdWhHclBjR0tkX2NlZW9YenQyVzQ2bTVkeUJkaU83VGVJdXV1U1hvZlRKSTA2M3YyZw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-938d55e4a6bb.webp",
+    "image_source_url": "https://westcentralonline.com/articles/112m-announced-for-saskatchewan-businesses-amid-tariff-pressures",
+    "image_credit": "WestCentralOnline"
+  },
+  {
     "id": "news-08f24b4a095e",
     "title": "Canadian government invests $15M in Xona Space Systems Canada",
     "summary": "The Government of Canada is investing $15 million in Xona Space Systems Canada.",
@@ -384,28 +458,6 @@
     "image_url": null,
     "image_source_url": null,
     "image_credit": null
-  },
-  {
-    "id": "news-938d55e4a6bb",
-    "title": "$11.2M announced for Saskatchewan businesses facing tariff pressures",
-    "summary": "A funding package of $11.2 million has been announced to support businesses in Saskatchewan dealing with tariffs.",
-    "amount": 11200000,
-    "date": "2026-10-20",
-    "fiscal_year": "2026-27",
-    "department": "Prairies Economic Development Canada",
-    "dept_code": "WDO",
-    "program_code": "BYM02",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "WestCentralOnline",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFFLZkNOZ3MxLThNbHkwUUFjRl9aaS1RNUZoNlhJZm16Q2Ftb21MSUplZS1XSmhkTDVCUWtRQi1qR2hlRndSRnNmMXgyOHB6c2VIRG8wQUVQZEllazhxWGhvVmxzeTJGRlkwTVBBYkV4bEhIaGhVUUFwdU1aZ3lVQlhsVXFTWVM1ZlZlSG85d1Brandzd2NBQjh2WmVnMkFVX2t6OWdB?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-938d55e4a6bb.webp",
-    "image_source_url": "https://westcentralonline.com/articles/112m-announced-for-saskatchewan-businesses-amid-tariff-pressures",
-    "image_credit": "WestCentralOnline"
   },
   {
     "id": "news-de9996fafcab",
@@ -681,9 +733,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-41e96c8b00eb.webp",
-    "image_source_url": "https://finance.yahoo.com/energy/articles/canada-invest-ca-100-million-140437053.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
+    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
+    "image_credit": "battlefordsNOW"
   },
   {
     "id": "news-65618e625be7",
@@ -1722,7 +1774,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=nioJJ8",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=UMkr71",
     "image_credit": "IntraFish"
   },
   {
@@ -2927,9 +2979,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
+    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
+    "image_credit": "On-Site Magazine"
   },
   {
     "id": "news-28b59b949d4f",
