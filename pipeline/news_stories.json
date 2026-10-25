@@ -1,5 +1,31 @@
 [
   {
+    "id": "news-997bd271f77d",
+    "title": "Canada invests $7.3M in P.E.I. ferry terminal infrastructure",
+    "summary": "The Government of Canada is investing $7.3 million in new infrastructure at the Wood Islands ferry terminal in Prince Edward Island to support safe ferry service.",
+    "amount": 7300000,
+    "date": "2026-10-23",
+    "fiscal_year": "2026-27",
+    "department": "Transport Canada",
+    "dept_code": "TC",
+    "program_code": "BTY03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPRlRHa1lTaXpfSVZ6ejBDUFF1U0t1RWQyeEZ2ekJBRzB0X3BWdWE2Qm14RFpxRXNTQVZfV0RnSEhvTVBUaXludXJvSUVFQUpJaUF5Z1NTMnktdDl5SHB3VjRSZHIzTXFMWmsyNW9UX3dudjZPY3k1aXljTFg3SFB6Y2lHQ21XQ0RMaDZFTXdlN0w3eXFucjdxUXl2dEJ1RU4xYnJNWTZvQ0QzcTVxMVhSWU9TOGJOa25ZZllrT0tKUmFwQldrOE95Q29DMkdOem9VQThodFUwZ2EtQXl2Sm1zMzNWSkNwNUN1NC1NVmluSThfZzJUUktPSzR3akpCT2xRWFFrc3hDTmFMa2J2MVFkd0VPbkI0VkowOWVmQmVoOWR5ZmJNQml2VlhFbzRNd0V3alFINzYxcnhFUE0?oc=5"
+      },
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3N2RU1vWms1MVpCWUl1cFRFWXVpZXRaMENIYmIzMERJZFdGX1lfR3Rtb1pmSGl6R3BrV3gtbkF6QkFFWlhSaXl1VjBvMDR4VWhNbE95ejdDUDU4b3BoTW4zbGduMnhkYUhRbmJrX3pTQW50cXZlSWFLQWx2VVZaS01KUjFRaEhCajdCZUE5N2F0WlpHa1lXX0RqZFRXX2NuQVhSMUd4SnJtS3lndm4weS1TNmk4U1d4T0ZQa1UyeTdEa3NHZ3ZN?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-007ee9a958e7",
     "title": "Canada invests over $190 million in critical minerals and aluminum",
     "summary": "The Government of Canada is investing over $190 million to advance the critical minerals sector and strengthen aluminum processing.",
@@ -42,28 +68,6 @@
     "image_url": "/story-images/news/news-dc68b9227b37.webp",
     "image_source_url": "https://educationnewscanada.com/article/education/level/university/1/1224633/government-of-canada-invests-880-million-to-empower-the-next-generation-of-researchers.html",
     "image_credit": "Education News Canada"
-  },
-  {
-    "id": "news-997bd271f77d",
-    "title": "Canada invests $7.3M in P.E.I. ferry terminal infrastructure",
-    "summary": "The Government of Canada is investing $7.3 million in new infrastructure at the Wood Islands ferry terminal in Prince Edward Island to support safe ferry service.",
-    "amount": 7300000,
-    "date": "2026-10-23",
-    "fiscal_year": "2026-27",
-    "department": "Transport Canada",
-    "dept_code": "TC",
-    "program_code": "BTY03",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPRlRHa1lTaXpfSVZ6ejBDUFF1U0t1RWQyeEZ2ekJBRzB0X3BWdWE2Qm14RFpxRXNTQVZfV0RnSEhvTVBUaXludXJvSUVFQUpJaUF5Z1NTMnktdDl5SHB3VjRSZHIzTXFMWmsyNW9UX3dudjZPY3k1aXljTFg3SFB6Y2lHQ21XQ0RMaDZFTXdlN0w3eXFucjdxUXl2dEJ1RU4xYnJNWTZvQ0QzcTVxMVhSWU9TOGJOa25ZZllrT0tKUmFwQldrOE95Q29DMkdOem9VQThodFUwZ2EtQXl2Sm1zMzNWSkNwNUN1NC1NVmluSThfZzJUUktPSzR3akpCT2xRWFFrc3hDTmFMa2J2MVFkd0VPbkI0VkowOWVmQmVoOWR5ZmJNQml2VlhFbzRNd0V3alFINzYxcnhFUE0?oc=5"
-      }
-    ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
   },
   {
     "id": "news-1228bb72dec0",
@@ -152,28 +156,6 @@
     "image_credit": "ReNew Canada"
   },
   {
-    "id": "news-35bd55cbaed8",
-    "title": "Canada invests $254M in Saint John Trade Corridor",
-    "summary": "The Government of Canada is providing $254 million in funding for the Saint John Trade Corridor.",
-    "amount": 254000000,
-    "date": "2026-10-22",
-    "fiscal_year": "2026-27",
-    "department": "Transport Canada",
-    "dept_code": "TC",
-    "program_code": "BTY04",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "Railway Age",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGZscGZYNWE3VmsxVnd4Rk0xeDA2eHM1aHZweEZiRUhaTGxCUkVsYXB0VGw2NmhtVGdtdHRwdm1HV1k4cklSNERQRElGNkpNUVBVUDJEUElrbEE4WXp0Ui12SWp0STlGNGpiaHNlVHQ2M2d5cDJkbUhxM2RLcTNIZzVaYk0xclk4OVdCbmwtVElpYjA?oc=5"
-      }
-    ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
-  },
-  {
     "id": "news-277f94595ccb",
     "title": "Feds detail $750M VC funding and open Growth VCCI applications",
     "summary": "The federal government has revealed the allocation of a $750-million venture capital funding envelope. Applications have opened for the Growth Venture Capital Catalyst Initiative.",
@@ -258,6 +240,32 @@
     "image_url": "/story-images/news/news-37fbf8cae98a.webp",
     "image_source_url": "https://canadiandefencereview.com/dnd-signs-20m-spaceport-agreement-with-nordspace/",
     "image_credit": "Canadian Defence Review"
+  },
+  {
+    "id": "news-a91241bed0c9",
+    "title": "Government invests $254 million in Saint John Trade Corridor",
+    "summary": "The Government of Canada is investing $254 million to support trade diversification and increase trade capacity in the Saint John Trade Corridor.",
+    "amount": 254000000,
+    "date": "2026-10-21",
+    "fiscal_year": "2026-27",
+    "department": "Transport Canada",
+    "dept_code": "TC",
+    "program_code": "BTY04",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPZHMwbDVOZUlNQ1lWRXZPTGxWblhYY0VDTGxtbnVzUmhsM0JybC1uTlJaendtWGdhWjlkWVN0VWtJY2JXdWZNbW53LTFITW5YZlR2NTNTOTlzSlpPNXNVbjVydFhCUnZZTDQ3Q3lNYUtvNW5EYlMxa0U1R2p1VnpuN1luaUw4VDh5Uy02clBEMHJOU3hvMUN6dW15LTRldGJTYTVVVzAtTkJlQWRnaFE0Q3YyZVFiME5WLTMwSDhSbGl3QmRncWZiMGhBRWlVTzZqLUlBWUFfazNNS1FPT0Q4U056UEJkOU9GVm5ZYl9HZVFOU0p4SG1XRUwxUmdMcXVBb1FKV1o5dmZ5TVhfRUhtOGpuc2w2UUxPaHdJM1JTMFNOOXRhOGhfeGo4Tk0yQXd0WUlYdnByNEhoaHhLNVZIcVNOT08?oc=5"
+      },
+      {
+        "label": "Railway Age",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGZscGZYNWE3VmsxVnd4Rk0xeDA2eHM1aHZweEZiRUhaTGxCUkVsYXB0VGw2NmhtVGdtdHRwdm1HV1k4cklSNERQRElGNkpNUVBVUDJEUElrbEE4WXp0Ui12SWp0STlGNGpiaHNlVHQ2M2d5cDJkbUhxM2RLcTNIZzVaYk0xclk4OVdCbmwtVElpYjA?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-0f11d831ebfd",
@@ -787,9 +795,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-2577605b3e08.webp",
+    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
+    "image_credit": "Winnipeg Sun"
   },
   {
     "id": "news-2244fb9aa8d6",
@@ -1714,7 +1722,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=w9SQ13",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=mHrVca",
     "image_credit": "IntraFish"
   },
   {
