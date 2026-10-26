@@ -44,6 +44,28 @@
     "image_credit": null
   },
   {
+    "id": "news-67da9c70aee6",
+    "title": "Athletics Canada to receive an additional $1.7 million in federal funding",
+    "summary": "Athletics Canada will receive an additional $1.7 million in federal funding this year.",
+    "amount": 1700000,
+    "date": "2026-10-26",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": "BSF01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Canadian Running Magazine",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGxsMUZqYnNjcExPSkZCZS1JbEpteFhtOXk3S25YbmhoNnVzbWdYcGRwZ1ludm9nOGNoS0J0eXJqdWFsNlg2aVZUN1NZZ1F2bHdHWmdmTTRDaWI5RXpTYnJ4TVFwMXlkZlNUdjFrSlBuRVAyZHJwd0JkLUMzd3J0OFU2cHNIelJpZ1dhR21zT0NqOUE0Rnk1anVCdDNxaldMbWFXMEpKVnhwMms2SE9jaEhnQVg4ck9NU0tQRw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-67da9c70aee6.webp",
+    "image_source_url": "https://runningmagazine.ca/the-scene/athletics-canada-to-receive-an-additional-1-7-million-in-federal-funding-this-year/",
+    "image_credit": "Canadian Running Magazine"
+  },
+  {
     "id": "news-d67eb6104ecc",
     "title": "Ottawa announces $19.2 million for athlete safety and sport integrity",
     "summary": "The federal government is providing $19.2 million to strengthen athlete safety and integrity initiatives across Canadian sports.",
@@ -329,9 +351,9 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1dQOWxSQXJPTTh6b19KNE9fYkVoNW85b2pKYjNoLXBVSkpSN2p0SHZ6cVlybWVRdTItTTNDOE05XzZEcUFFMnZSa2hJU1BRcUd4Q01qaUs1Tk12WVZHQkVhMmxUdjJ6Ymk3bmo4NG1lUk5wM2lOU0piVmtOYWtYWWUzeEppLTkxRS0tU2djWFlnRUNSVUZlX293ckQ1d0dHSzJSRThLREZhc2lKZ2loV2RaaXpFZw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-37fbf8cae98a.webp",
-    "image_source_url": "https://canadiandefencereview.com/dnd-signs-20m-spaceport-agreement-with-nordspace/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-aefc550fc17b.webp",
+    "image_source_url": "https://www.saltwire.com/newfoundland-labrador/nl-spaceport-20-million-agreement",
+    "image_credit": "PNI Atlantic News"
   },
   {
     "id": "news-a91241bed0c9",
@@ -781,9 +803,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-41e96c8b00eb.webp",
-    "image_source_url": "https://finance.yahoo.com/energy/articles/canada-invest-ca-100-million-140437053.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
+    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
+    "image_credit": "battlefordsNOW"
   },
   {
     "id": "news-65618e625be7",
@@ -1451,9 +1473,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-84165101ceaf.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-93c940219547.webp",
+    "image_source_url": "https://cedarnews.net/newstasks/1032597/canada-invests-77m-small-craft-harbour-arctic/",
+    "image_credit": "cedarnews.net"
   },
   {
     "id": "news-0d19f4920d96",
@@ -1822,7 +1844,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=TwhIB6",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=9IeeCU",
     "image_credit": "IntraFish"
   },
   {
@@ -2983,9 +3005,9 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWlSdUNNYS0tVzR1cW5nTlpWd0ZIcFpiYnRwaVFsYThMazNFNTNWbFZtRm9oSE80amRKN081TkRYSlZ1UXhJWElGQS1TUGNHSGhYQlp4ZEFBSnFfWTlkX05ZNmVpVUdoNkhreG14cDN0VG9ubGRIWmtMSklkLUJ4ek9fVnI2NXJiWHVidmZ3YThLMDlYWTJTRUxIUVpOclE?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-6a9bc54a3c8a.webp",
-    "image_source_url": "https://www.newswire.ca/news-releases/government-of-canada-invests-over-11-million-to-strengthen-businesses-jobs-and-communities-in-northern-b-c--874252031.html",
-    "image_credit": "PR Newswire Canada"
+    "image_url": "/story-images/news/news-376176735177.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-11-174900700.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-bb75e583d515",
