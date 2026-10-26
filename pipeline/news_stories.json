@@ -1,6 +1,50 @@
 [
   {
-    "id": "news-e4ac95709f14",
+    "id": "news-4c3705c08ddd",
+    "title": "Canadian visa-centre contracts reach $661 million",
+    "summary": "Visa-centre contracts initially valued at $29.8 million in 2018 have increased to $661 million.",
+    "amount": 661000000,
+    "date": "2026-10-26",
+    "fiscal_year": "2026-27",
+    "department": "Immigration, Refugees and Citizenship Canada",
+    "dept_code": "CI",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTXBzZy1TdmpWMDd0Ui1MMVYyVmUySUo0SlJsRXc2MUN6dXN0Y2xqX2dIOURMeWJwZ2lETE5TOTNxX08xZ0RzcTFFLXVMeFNDUGl6Z0FyTDQtS3hYOU54blpYT1R4c2JGNTJsRWllS2lMUEc0NVdDS2tFMDZoWE1uNWVmcHoyUlgyU3VEVFB2S3pHZjhSTmZSMnFvcEc3aU96a08tNFVOSQ?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-da2e3cca1800",
+    "title": "Accenture's EI modernization contract reaches $328 million",
+    "summary": "Accenture's contract to modernize Employment Insurance expanded from $94 million to $328 million over 16 months.",
+    "amount": 328000000,
+    "date": "2026-10-26",
+    "fiscal_year": "2026-27",
+    "department": "Employment and Social Development Canada",
+    "dept_code": "HRSD",
+    "program_code": "BGO01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMldFSDFIWC1vS3duRXNEV1llLVduRjlaUlVGVklJOFNuZktKNXhrRFJRa3llMXk5dWdoajZ1SDk3aWNvUGZHc2xCV29QRHdhX1NoRDdEazBvME1GLWxwYngteE1KbGtuemhONHd2ajdlMGV4Mk5ZMGFiZTVCeGhRWkhRMmQ1WVRBTF9LT0RnNVdqLVo4NlRJUDllZDZRbURsNU9SNjloU2FwSEZhLWItdm9B?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-d67eb6104ecc",
     "title": "Ottawa announces $19.2 million for athlete safety and sport integrity",
     "summary": "The federal government is providing $19.2 million to strengthen athlete safety and integrity initiatives across Canadian sports.",
     "amount": 19200000,
@@ -17,8 +61,8 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVmlYeGFvY21MZm1GekhCYi1NUHRrOEtlaUl5bjB4RjJodXdKcGRSdTVxWTVwUTcwUnpvX0pKbXJUNy03UkFBbm5Nekt2MFp2ZEhuUGMyT2Y2RjZnNkswd2pubjFfel9yeHdQcXZMNFltOTMxLWlIWXJENDVXcHp6Z2hxdXRJQkZwTDZBWXZyYTN0TW85alhjRTBPUFk3MXJ0TFNRSHgydFptQWR3SlV4ZFlsR2txWk8zV25XMkxOYw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-e4ac95709f14.webp",
-    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-192m-to-strengthen-athlete-safety-and-integrity-in-canadian-sports",
+    "image_url": "/story-images/news/news-d67eb6104ecc.webp",
+    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-192m-to-strengthen-athlete-safety-and-integrity-in-canadian-sports",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -737,9 +781,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
-    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
-    "image_credit": "battlefordsNOW"
+    "image_url": "/story-images/news/news-41e96c8b00eb.webp",
+    "image_source_url": "https://finance.yahoo.com/energy/articles/canada-invest-ca-100-million-140437053.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-65618e625be7",
@@ -1778,7 +1822,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=9F0Fip",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=TwhIB6",
     "image_credit": "IntraFish"
   },
   {
@@ -2123,9 +2167,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSXo0bktSNmc0SlptalVPcWk0N3dKRkd3SS1td2ZWb25XYTNfMDNEemVwcVZySVM0ODlsbUJRLUttenhEMm9KQTJzNmhJZG5uMkFZQVo4cklTN3dBZ2VsS090UjVEaFZlamlxSXJQSUZET2tQVzFZM1Etd1kzdHBtYUNVbzBPMkN2clA5ckluMVBjbmJkVy1NdDczazhObDIydW82OXAtYkJEVUFlUVdDb1ZlQ1RXRkdZY1NKYmNZNEc1VUxsOE9rOWluTXlZQldrNWdfQUk1TXdzODdHWWdUcng4OVVZaEE2Z1FIRlg5R3NKYUtRRE1Zb01CMUNpbmZl?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-a334f81f4892.webp",
-    "image_source_url": "https://www.ctvnews.ca/ottawa/article/federal-government-selects-non-profit-to-manage-15b-rental-protection-fund/",
-    "image_credit": "CTV News"
+    "image_url": "/story-images/news/news-70d90f0218d4.webp",
+    "image_source_url": "https://www.thestar.com/real-estate/federal-government-launches-1-5-billion-program-to-preserve-affordable-rental-housing/article_2278ee41-6025-453e-94e7-654c72cb0c12.html",
+    "image_credit": "Toronto Star"
   },
   {
     "id": "news-95682aaf5c9c",
