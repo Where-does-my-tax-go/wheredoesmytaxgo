@@ -110,6 +110,32 @@
     "image_credit": "WestCentralOnline"
   },
   {
+    "id": "news-007ee9a958e7",
+    "title": "Ottawa invests $193 million in Quebec aluminum upgrades",
+    "summary": "The federal government is investing $193 million to support aluminum facility upgrades in Quebec.",
+    "amount": 193000000,
+    "date": "2026-10-23",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVTN0NEN3VzktN2VlbkhvZ0NHcUd3RHZlUkJUejBKNjJwbVlfRUZQOUlpSDRSclFHeDhhUWx5TWhhYXRRU3RBQnpkWGNaTXI0TjFtMUpNTG4tcGtoNkF2c1hGa3hTNzNFbENhVUlTQUxnd0xsTXZnM2g5NmExUXhSME1jdmhvdHY0eGp3?oc=5"
+      },
+      {
+        "label": "Energi.Media",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwZmFnTU5CbmZfQkJXM3ZWVFJNMVJWaDFwQXQ1UWgxY3dlVlNYOFhlb3BFTmVILVlQeTQxV08tT0IyczFwM1JPX2tyNGtiWnNOM3h2clZTTmlWZjlsVzF6aFpucHcyUlYxdG82VUNLVmpJNE8xY1A2QTVDakluaEE?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-007ee9a958e7.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-over-190-154800532.html",
+    "image_credit": "Yahoo! Finance Canada"
+  },
+  {
     "id": "news-997bd271f77d",
     "title": "Canada invests $7.3M in P.E.I. ferry terminal infrastructure",
     "summary": "The Government of Canada is investing $7.3 million in new infrastructure at the Wood Islands ferry terminal in Prince Edward Island to support safe ferry service.",
@@ -136,29 +162,7 @@
     "image_credit": null
   },
   {
-    "id": "news-007ee9a958e7",
-    "title": "Canada invests over $190 million in critical minerals and aluminum",
-    "summary": "The Government of Canada is investing over $190 million to advance the critical minerals sector and strengthen aluminum processing.",
-    "amount": 190000000,
-    "date": "2026-10-23",
-    "fiscal_year": "2026-27",
-    "department": "Natural Resources Canada",
-    "dept_code": "NR",
-    "program_code": "BTO02",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "Yahoo! Finance Canada",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVTN0NEN3VzktN2VlbkhvZ0NHcUd3RHZlUkJUejBKNjJwbVlfRUZQOUlpSDRSclFHeDhhUWx5TWhhYXRRU3RBQnpkWGNaTXI0TjFtMUpNTG4tcGtoNkF2c1hGa3hTNzNFbENhVUlTQUxnd0xsTXZnM2g5NmExUXhSME1jdmhvdHY0eGp3?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-007ee9a958e7.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-over-190-154800532.html",
-    "image_credit": "Yahoo! Finance Canada"
-  },
-  {
-    "id": "news-dc68b9227b37",
+    "id": "news-aca4d1f1377f",
     "title": "Ottawa invests $880 million to support the next generation of researchers",
     "summary": "The federal government is investing $880 million through the Canadian Institutes of Health Research to support emerging researchers.",
     "amount": 880000000,
@@ -175,7 +179,7 @@
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX1hvSWNTMzhDaFdVbUNQYUhWWXltMFR0cE9nVkhwRFJILXc2dXlnbllXai1kckhVZzJEVGlJaHgxQ0RMcUQxaXRkVzFNTmFncDMwLVRsVEx2WllDR1RKTkdTTkpNS0tUZGpIc1E5V1d4Y0pYN09ncVdkbi1xNjFTei1jQUtzQmF6dGpnSF9aUEo0S2Uyd2Q5MFBRQjQ2Y2F3RDM4R2JYMVV0LTI2TFdOdG9yVXVFQmRmYnRqTWlqX0Jva2pqRjdLTWhmOFBTRmtmaXV3Z2xpVTBtSjh0M1htNE9ZYjBudUk4QVJJNXB0WDJRNWhKajdsTlZ6N1gxN2tUNWc?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-dc68b9227b37.webp",
+    "image_url": "/story-images/news/news-aca4d1f1377f.webp",
     "image_source_url": "https://educationnewscanada.com/article/education/level/university/1/1224633/government-of-canada-invests-880-million-to-empower-the-next-generation-of-researchers.html",
     "image_credit": "Education News Canada"
   },
@@ -471,6 +475,10 @@
       {
         "label": "BNN Bloomberg",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzhqUnBJaW0zMTI4OXFRQ2JlM0xOQXFJekZ5Nmpjc1Yxd3lVX0hSYlBhVlRIR1FBTXN3MUpVWFl6T0locHdrNTdnODZXbmh6Tng0cHp2T3R1akNSaTZrbXhUdk5Nb09sVzFUdHpmYnJ2Y2xfTDNkb1RXTklUX0hHSEtMSVMtS0xBc1BDSG9ZVHJnbEtwSk85d2Q4RVpLUzFaWXFGVjl2TGRhQjZrX25kZTIzdFk4SG1UTVFF?oc=5"
+      },
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2RwVEVOQ0J2MzFCNmNocjhqME1pd2lBWmdqU1NMZkFjZXpSSkNqM1YzLVNHRzg5a1c4bGFkZ193d0xORnhWSkcxejc0MGxkN1psRHVFaElsSHZwMW1jbzRNSG40S3otaXltcm9VdktQLTU4SkZ3M2I5S0J3WC1mM1paWWdOeFhzNW5qamQxTHU2ZV9zNzdjZ01zcy15c3F2b3l0QWRFWHdxamQxX2U1M2tiYVVNZw?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-0b5965fb34f4.webp",
@@ -793,6 +801,10 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXJqaWRBWlI4TFo5SWVYOXA5UjNNa2VsMTk4Z0d0SzdHZ1pVa2FVSmJXM3FsdVZ4c0JleUtraVh5aGhIVEVZU1Jid0RqcUlua2gtY3JaTENUSm1XWXRQcXAtb1ZMbE5aRkdROV9KU1JrdlhUc2syQjNnRy11U0lhR1JnemdNUnRpdzZOa2daZGItbzhCaHBMOHNROWo1RnplZVE3aGNWQXkzUQ?oc=5"
       },
       {
+        "label": "CHAT News Today",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEt4TFczaE1NOUhMVnlEZy1YX19ITXpMQy1OMDhFd3NlY292ZnNBOXlwczNFOE1ZS3VoQmlTbmdiUWxwcUV1RWozUDNETTg5Y1hNTzFIWFZYMFRjdUJjaTl2bXdfcDhveGx0dHdRazhhNDhNNFI5TV9qUDZlSkRxT0l0b1R6TGIzVmQxbm1uWFRjNF9abXhJNkxoS0M0UTQ5MjZHbU9GYldhNWRMNmc?oc=5"
+      },
+      {
         "label": "constructconnect.com",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUENFVW85OE51M05hYjFHaUxhTW0zTHcyR1E3TF9HNHRtZEtwT1F0QV94VUw4S2VQa1g1VGdHeTlVX0hHZGV0d3hKZUVDbGdfUWREZ0FaazFCRWowSEtubzNIZDJIdF80MGJDQlU3TVRINFB2T3Zuak5kUFU0bXZIU3dWMDhOcVBYS1RhaHpzaXloZFRnek1PN21BRF80XzZJTm01OWo5WnBSSkdQcGYyYVUxb1BjTVVlTFNlNHF6WlllZ1JZcFIxQVBwX3E?oc=5"
       },
@@ -835,6 +847,10 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWQ2MTByY1d3ZHJMSEdzdlN6bzJteklzR1d6OE96THIxTWhaSVMzZkR3N1ZycE1NbGU0QjVmZE1lSGRoang1YVNtM3RhYXZSMVA1Vi1xZlNXQll0VXpKcGhOd2g4U2dEa3Q1MWlrU2pMQjE3OEM3V0haV2dwZXJHR3ppazJvZ1VZSXpWR2p3?oc=5"
       },
       {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS1BmWlFMcnZuanluUF9NcFlOdGhXMU1zakdobW1ST21NZ25tWllwYzNDMllmTWxtUl9KQi13X3pkc1ZobmdLTzk0aGo0V0puYWllZ0NQSDJvd1Y2SnNXOUVaa21iUDFCR2N6LU1WVERoSG9DYnlBOHZ0d0dULU14NHBuenpRY3o3bjd1UmlNNnpoYmF4cEx2OW5USXdNeEViUlQ0NlNYMTRRQlNoZmNyaXpsdFNicjFsTWgzNjAyV1phV19LS3o0?oc=5"
+      },
+      {
         "label": "Canada's National Observer",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFU1alVxMk9sNkFMN1ZUbFc5aV9oM1BWV3hQX1liNFVJQnNrYmprdFhVTW84NzB2ZFlvbUFULW9HYTRkQnlncklmSk9PdkF3TjJKNGRDbzl2aFVGUWwzbno1Z080U2lONjFRcERnM0dGN21DM3JUakZyY1pNR3phdmlWY0o2d2k1dDFabHpkSWNLUTJl?oc=5"
       },
@@ -847,9 +863,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-f7b0eb18db59.webp",
-    "image_source_url": "https://battlefordsnow.com/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
-    "image_credit": "battlefordsNOW"
+    "image_url": "/story-images/news/news-92eb525ebfc1.webp",
+    "image_source_url": "https://www.ctvnews.ca/atlantic/nova-scotia/article/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-65618e625be7",
@@ -1888,7 +1904,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=LSyF3u",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=k2kbjM",
     "image_credit": "IntraFish"
   },
   {
@@ -2233,9 +2249,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSXo0bktSNmc0SlptalVPcWk0N3dKRkd3SS1td2ZWb25XYTNfMDNEemVwcVZySVM0ODlsbUJRLUttenhEMm9KQTJzNmhJZG5uMkFZQVo4cklTN3dBZ2VsS090UjVEaFZlamlxSXJQSUZET2tQVzFZM1Etd1kzdHBtYUNVbzBPMkN2clA5ckluMVBjbmJkVy1NdDczazhObDIydW82OXAtYkJEVUFlUVdDb1ZlQ1RXRkdZY1NKYmNZNEc1VUxsOE9rOWluTXlZQldrNWdfQUk1TXdzODdHWWdUcng4OVVZaEE2Z1FIRlg5R3NKYUtRRE1Zb01CMUNpbmZl?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-70d90f0218d4.webp",
-    "image_source_url": "https://www.thestar.com/real-estate/federal-government-launches-1-5-billion-program-to-preserve-affordable-rental-housing/article_2278ee41-6025-453e-94e7-654c72cb0c12.html",
-    "image_credit": "Toronto Star"
+    "image_url": "/story-images/news/news-a334f81f4892.webp",
+    "image_source_url": "https://www.ctvnews.ca/ottawa/article/federal-government-selects-non-profit-to-manage-15b-rental-protection-fund/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-95682aaf5c9c",
