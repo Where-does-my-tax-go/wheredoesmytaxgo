@@ -1,5 +1,91 @@
 [
   {
+    "id": "news-390db9c6e462",
+    "title": "DND awards contract valued up to $15M to Siga for TPOXX purchase",
+    "summary": "The Department of National Defence has awarded a contract valued at up to $15 million to Siga to purchase TPOXX.",
+    "amount": 15000000,
+    "date": "2026-10-28",
+    "fiscal_year": "2026-27",
+    "department": "National Defence",
+    "dept_code": "ND",
+    "program_code": "BUP03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUGVMTHZyTWdKbkFRNWhEZUpQWDU5TG5IQnlIbHFDYmdBV3J4d3JyeEx3RWx6ZFhLM3J1NnNRVWhPX2NwU1UwSFBfaDdNN3pnc3pZempzN0MyRUlTaElnUWhhZWZTVWtFM0tfclZ6ai1SbzVaRk1CUFdFU2tndmREV1d5S1BQXzhnUnpaUU1WbmI5QkE3Z1JOQjFkZktaNFRqVnBtSWs2ZlR5VmhvV1g2aG1Ccldzc0ZITDVoUGh0aHNNOVllRmFkRi1vQnh5dnhJV0tlMFQzNzBiN2dLN0FlaEZQa3JJOVBqVk5GWEZGdGJ3clhhM2RqWkd2Qm9zUlQ5NUdNaGRxa19QdUxpNXc?oc=5"
+      },
+      {
+        "label": "defence.newsd.in",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2YzRzlRcHo0SmVrM1IzODVsSEs2LXMyRVZzTXZzOVV2OENoRXUtcTM0MmpYemhhZjZjV24tdkpTc1VBd0RobFJJM0VDUWRybFVoYXktcjBYSW15b0lLa1I2M3R4dDlneVVyN1kwZEpiSDFlWXZEWEJLYURHZmJCOGZlY3BsaFJOTkc4VjlrSmRLRkZuN01ndGpXSVV5cWpGQ3JyemNULUE?oc=5"
+      },
+      {
+        "label": "Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNODRfSFFNN2xqaG9tSnhndlNGMDZwWmNsdWljdEUzS0NWYjAxb3E1T1h1by0ySzNqUjh2ellCd2hrZGRzNXh6Z3FVY0tMR3JvMGFYWU5ybTNBX3V5YUVUSDJEeXdPZUlzeHNmRlhaNlNTS3lHWEh0cl94LUstSE1LeDk4Rko4SFNvOXFzR09SdWVXN3gyQjVoVHRwX3NHTy1KeTBlTmNHM0NYMG5FZ3czQWlBZVluSHU5b25TeVFFdw?oc=5"
+      },
+      {
+        "label": "The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQU2RIc1l2blo4eW82d1RmQ0xHWl85bWpJTWk1VTJHQVhnMWpkR3cxRXkyYmNIWjlRVU5sZDZGTmdCNkdfTXBVTzYxMjhkQWQ4UGxxb003Nm1EQWtjcEd2eWRyR3ZLVF9tc01GcklZVlRkNFBrSUtwR1k3dmYtZVNLWERkcEtlXzhEeUhjYzdvdlRxYjhPMU0wQ0VSUlQ2b2MyMmdmSXVHSHc4U0JnQVFLVGFqNVVic3J2N3o4S2JPQ290czZwR1RTdlo1ZUNPU3ZwUnYtUVdubFFGSGdoYVNDLVhYXzQtU1AxdV84TVRpcFB0czU0QzIxRFRPT3g3RHV3V0EwZU5qRDF1M2MwUVFQSnhQS2xmaTZM0gGYAkFVX3lxTFBTZEhzWXZuWjh5bzZ3VGZDTEdaXzltaklNaTVVMkdBWGcxamRHdzFFeTJiY0haOVFVTmxkNkZOZ0I2R19NcFVPNjEyOGRBZDhQbHFvTTc2bURBa2NwR3Z5ZHJHdktUX21zTUZySVlWVGQ0UGtJS3BHWTd2Zi1lU0tYRGRwS2VfOER5SGNjN292VHFiOE8xTTBDRVJSVDZvYzIyZ2ZJdUdIdzhTQmdBUUtUYWo1VWJzcnY3ejhLYk9Db3RzNnBHVFN2WjVlQ09TdnBSdi1RV25sUUZIZ2hhU0MtWFhfNC1TUDF1XzhNVGlwUHRzNTRDMjFEVE9PeDdEdXdXQTBlTmpEMXUzYzBRUVBKeFBLbGZpNkw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-3f867093c58c.webp",
+    "image_source_url": "https://defence.newsd.in/global-news/siga-wins-15-million-canadian-contract-to-supply-smallpox-drug-tpoxx",
+    "image_credit": "defence.newsd.in"
+  },
+  {
+    "id": "news-39e9fbe71771",
+    "title": "CRTC pays US data firm $664,842 for Canadian-content database",
+    "summary": "The CRTC paid a US data company $664,842 under a no-rival-bid notice to develop a Canadian-content database.",
+    "amount": 664842,
+    "date": "2026-10-28",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Radio-television and Telecommunications Commission",
+    "dept_code": "CRTC",
+    "program_code": "BRT01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTERwWHd1RmxINXNkb01mblhWSV9EUlk3NHdyTUV6ZUJNV0VaT0o5LVFXS3hpVjVRVi1neDNhMzRYX3F6WXZWaXoxTm41cEFPM1RmMGdIcGtCOFRkejUzeHFJcUFJcnVFOXpNS2p6ZmdzTTQyNWJZWWlZcmhkNkdSQWZwc183ODJPTU5XSmYzc1Q2Q0otTmlDSFprY2dKa0U5ZWtiV0NRN0V0aWVnWVl2S2lGbTdadTVoWV9ET0pnRQ?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-127ea1223b45",
+    "title": "Federal government provides $1.2M for Shaakichiuwaanaan access road",
+    "summary": "PMET Resources announced $1.2 million in federal funding for subsidiary Innova Lithium to build the Shaakichiuwaanaan access road.",
+    "amount": 1200000,
+    "date": "2026-10-28",
+    "fiscal_year": "2026-27",
+    "department": "Natural Resources Canada",
+    "dept_code": "NR",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORlJfZlRXN1h5V3lzMUdBd1ZpaE5YRWUzZ01KODh6c0RKdWhJN3FVSTl0MnBfVWp5Q1ZfY3lDazc0bkV3bnRsQmdIZHRyUm9JSm9TVnJWWlNZZFdmMk1TeE56SlQzZnRDUEJ4cHcza0VMRlNkQ0Y3dVFtV0NDTVVOWXpTYmVKM3kzVy12MVVBZUh2N2w2TzhKMWZicUZ4TERndzRmMzBEbm10WVZxdkFFMEViSTZqSGVhek9aQXRGS1Y4UEFwQmxzNE1fdFRvS2VHMnZnVUpTQzdhZnBvZ014Y0NGaE5ZVk9zalZLLXRSSV84ODV3YjlUWnBLaWItc1l4YnFGdFRhbVNSLUZ2U1d3NHZZRFRZRjU3QnJhdy1iWnlNR0lyLU5fSzdGblZoUElHb0HSAbICQVVfeXFMTkZSX2ZUVzdYeVd5czFHQXdWaWhOWEVlM2dNSjg4enNESnVoSTdxVUk5dDJwX1VqeUNWX2N5Q2s3NG5Fd250bEJnSGR0clJvSUpvU1ZyVlpTWWRXZjJNU3hOekpUM2Z0Q1BCeHB3M2tFTEZTZENGN3VRbVdDQ01VTll6U2JlSjN5M1ctdjFVQWVIdjdsNk84SjFmYnFGeExEZ3c0ZjMwRG5tdFlWcXZBRTBFYkk2akhlYXpPWkF0RktWOFBBcEJsczRNX3RUb0tlRzJ2Z1VKU0M3YWZwb2dNeGNDRmhOWVZPc2pWSy10UklfODg1d2I5VFpwS2liLXNZeGJxRnRUYW1TUi1GdlNXdzR2WURUWUY1N0JyYXctYlp5TUdJci1OX0s3Rm5WaFBJR29B?oc=5"
+      },
+      {
+        "label": "www.aap.com.au",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTGJNWFhrb19peXhqX0VkcnBSSDhXeHd4UEVIbFFoNFo3YU5zZEM1Y0gwLUhiUjZaWnk3MUJianJVTXhpQnlwM2t1S1JHT3pXamR5MHVlOVZjdmhsenFIZVdaZXBRS0hr?oc=5"
+      },
+      {
+        "label": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPdEdnX2ZFVUhiUG1XN3lURE1iMXN4VVpxSTl4LTJZUzdnSC1WekE4NWdZd09sOWRsTjBLbHAyTS1kd1A2b0QzNXp0bnFoSUFRdmhoTnV5dGoySVlMeHlRU3lqUnh2R2lCMFR3MVR6aDN2emJreFhqYjcwWGw1V0FOUjhkRU5SUmNPTms5bHhrWVFXTExEZmlydzI4ZDlEWkl1Uk13U3FjLTVXaWxtZzFiMnZkVHpzRFpKWlh0ak5qNW1lUDlaQXNKRnpFN2hiazlLemNENmJlY1lOaV93MjB0Vl9QNzBxR3pIMk5rTF9hZzhpbjRkTHVael8tNjdLR0NaYWo4UWVzTHVTT0RId0FoYWV5aUJIN1dsZFdEY040Zw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-d8032977a7ff.webp",
+    "image_source_url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/pmet-resources-announces-federal-funding-of-c12-million-to-its-100-owned-subsidiary-innova-lithium-for-shaakichiuwaanaan-access-road/2456571",
+    "image_credit": "The Manila Times"
+  },
+  {
     "id": "news-fa4d355cf90a",
     "title": "Canada commits over $813 million to research and scientific infrastructure",
     "summary": "The federal government is committing over $813 million to support research, universities, and scientific infrastructure.",
@@ -447,9 +533,9 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1dQOWxSQXJPTTh6b19KNE9fYkVoNW85b2pKYjNoLXBVSkpSN2p0SHZ6cVlybWVRdTItTTNDOE05XzZEcUFFMnZSa2hJU1BRcUd4Q01qaUs1Tk12WVZHQkVhMmxUdjJ6Ymk3bmo4NG1lUk5wM2lOU0piVmtOYWtYWWUzeEppLTkxRS0tU2djWFlnRUNSVUZlX293ckQ1d0dHSzJSRThLREZhc2lKZ2loV2RaaXpFZw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-37fbf8cae98a.webp",
-    "image_source_url": "https://canadiandefencereview.com/dnd-signs-20m-spaceport-agreement-with-nordspace/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-aefc550fc17b.webp",
+    "image_source_url": "https://www.saltwire.com/newfoundland-labrador/nl-spaceport-20-million-agreement",
+    "image_credit": "PNI Atlantic News"
   },
   {
     "id": "news-a91241bed0c9",
@@ -753,6 +839,10 @@
       {
         "label": "Canadian Manufacturing",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX2YxOVF5aVA1S3BvS0p2Mk5DY0c4dElkd3JPRGNDMnZvdzNTSmlFXzRMWHJENTBqQzJPRXFVT1NXSURRTGJzZHdtZjh0V1RDVko1WHF0OHF2ZkFLR2dpZGxHa0FoMXhvb0tHNFFoQmw2N0hPT1hQMFNraFhkaTZ0WG0wRnJtR19oZGNud2ZoLVVIcHFEOHJrYTVvZTBxZGUtenlhTXNhZEtCSmk3czJ0TUF3bXVDS0lWVXpzRjdMOVhqYzBaWmxIUHN4M2tmdw?oc=5"
+      },
+      {
+        "label": "paNOW",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHdPNUVsWmZkcG1FUEdzb2ZEVHBvcW9jLXBNNE14QjlnRmFDMFN3SUVybVp4STJ5U1NGQkVodDllcUlkZDlzRWhpS0VUczRpZTQ2LVRrZVRhOFJ3aFdZOTBQRmRVaUNZd3V5VUZKYUdNLWgyWUFWei1vcTZhcFdVcV9xRmVHWG82SlpIdTJad2lHbXRZV09SYUszX3V3eTJFUXRPcGRpMGZXRG8?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-086732d628cb.webp",
@@ -903,6 +993,10 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS1BmWlFMcnZuanluUF9NcFlOdGhXMU1zakdobW1ST21NZ25tWllwYzNDMllmTWxtUl9KQi13X3pkc1ZobmdLTzk0aGo0V0puYWllZ0NQSDJvd1Y2SnNXOUVaa21iUDFCR2N6LU1WVERoSG9DYnlBOHZ0d0dULU14NHBuenpRY3o3bjd1UmlNNnpoYmF4cEx2OW5USXdNeEViUlQ0NlNYMTRRQlNoZmNyaXpsdFNicjFsTWgzNjAyV1phV19LS3o0?oc=5"
       },
       {
+        "label": "CHAT News Today",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmg1UWtraGFaYm5RZWlRV2lZNC1oTHJjNkxQeVo5eWJKTW56QXRSRVBnV3FsaG1ha0h6aWJUQTZpZ2N4STFhLVZhaWFJX3hHNHprLXM5dFhiOFRQY0x0ejhPSzhsT1QtREZSckM2YVI5MHNXSDNsdUFmYmhDYThIS05nZnpMMnJ3ZmJJb3VSdG41TWJsa2xZZ1NQbkdVV29XMW9lc09BQWhpci1SOHBGcnR3?oc=5"
+      },
+      {
         "label": "Canada's National Observer",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFU1alVxMk9sNkFMN1ZUbFc5aV9oM1BWV3hQX1liNFVJQnNrYmprdFhVTW84NzB2ZFlvbUFULW9HYTRkQnlncklmSk9PdkF3TjJKNGRDbzl2aFVGUWwzbno1Z080U2lONjFRcERnM0dGN21DM3JUakZyY1pNR3phdmlWY0o2d2k1dDFabHpkSWNLUTJl?oc=5"
       },
@@ -915,9 +1009,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-92eb525ebfc1.webp",
-    "image_source_url": "https://www.ctvnews.ca/atlantic/nova-scotia/article/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
-    "image_credit": "CTV News"
+    "image_url": "/story-images/news/news-414ad42050bc.webp",
+    "image_source_url": "https://chatnewstoday.ca/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
+    "image_credit": "CHAT News Today"
   },
   {
     "id": "news-65618e625be7",
@@ -1029,9 +1123,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-2577605b3e08.webp",
+    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
+    "image_credit": "Winnipeg Sun"
   },
   {
     "id": "news-2244fb9aa8d6",
@@ -1179,6 +1273,10 @@
       {
         "label": "thecanadianpressnews.ca",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNaGhNSk9rT2F3XzFiQ1Azd2p1cEtLV3lfUWFTMjNuMjEzb1NMbG5yREN3YjUxZS0wNGJUUHlGRkhwS3BVQ1kwRFlQY29KWTdJT0o4dkVuWWJPTVRiQ21yTDhaTTVPTVRTYWpmN3V0azVhVlFmNndkZGhTWjVJaTloZm1OVDhfZzYxMktERC0wQ1VVOXZ4LS04bkE2OWE3RHNuNm5wVEV5c3pKdUhNejlJbzlzUFBMQThyLW5UaW9fTVBDaWFFQjU4WmFaUVMwZDdmSnVnUzhWQmNSYURqZUNIV3dkUWNlbHpqakRaN1FVWVNheG9EblZqaGhIelY3Wk4zU0syanRHUQ?oc=5"
+      },
+      {
+        "label": "MRO Magazine",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1ExZjB2MU9tcWl5bC1RcFRjMmFHQlVZODhqbGZwMThsQTY2SUp6aDU5Q05tVjVSQmEzcTVWd3FtYXFpNmtvRzhPMHJFUnFmdmhMWFhuUWxwVy1vaHpZbHA0TS1kb20tWDB0aDNrWVA0V0VNeTR6aTFTMjFCZlUzUUYySm53UXpFWjJfMTYzQU5tOS10T0w0UFloS2tmd19lanJJWGJVMVFsNm44eVlkUXZGdzNzU3hJTWFfeGd3?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-2fd414882785.webp",
@@ -1585,9 +1683,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-84165101ceaf.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-93c940219547.webp",
+    "image_source_url": "https://cedarnews.net/newstasks/1032597/canada-invests-77m-small-craft-harbour-arctic/",
+    "image_credit": "cedarnews.net"
   },
   {
     "id": "news-0d19f4920d96",
@@ -1956,7 +2054,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=jXXFdJ",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=O3xfJQ",
     "image_credit": "IntraFish"
   },
   {
@@ -2553,9 +2651,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0833ed8d711b.webp",
-    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-c4625895fe3d.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-15beea9f0e27",
@@ -2793,9 +2891,9 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjBsSXAwcGFCcjA0TzdweDBjNmJSTkpza1FKYTBPOGRfaTgxZ3RucTJuTUpVUGdZQWpOUVowN0lPb3JBZFZqUUxxVTJ4OWxZUWtfRV9LU3RGSVU0d2dQWFhKWEd3TG9ONTVpMUIwZmRnYVNPX3ZlNFF6Q2VIcHgzNEdYbE95eDV6?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-631c30f4a1ce.webp",
-    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-1-172500169.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-aec23c9f8e08.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-over-1-172500463.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-961d68580751",
@@ -3161,9 +3259,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
-    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
-    "image_credit": "On-Site Magazine"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-28b59b949d4f",
