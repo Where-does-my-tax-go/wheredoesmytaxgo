@@ -22,6 +22,50 @@
     "image_credit": null
   },
   {
+    "id": "news-374884735719",
+    "title": "Field Hockey Canada receives nearly $2M in federal funding",
+    "summary": "Field Hockey Canada received nearly $2 million in additional federal funding to strengthen the sport nationwide.",
+    "amount": 2000000,
+    "date": "2026-10-27",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": "BSF01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Field Hockey Canada",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWZ2U0hlbjFRbmVVQ3FPWkxnWHRVWndtVU5hSnItVnRpelFPV282bThNQmRNVE0xUEw2ZzBPLXlxZHlfUXdBWGN0Znp6TTA0bkZBelluQzNBSS1sNXZlTjE0REJYVm5fRTJRZVV6bXgxTW5kdGtEdjVQRHhETURNWG4xcUdfNHc5Y1FXOFIwdjRUN1Q0TjgxWlB6Vkl3M0M2N3ZnWHhRMTFlRWtfOEZZVk5NNXg2OHVvbTJZSzdUWG9ZOFdXSUdZRjB6X3ZkVmM?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-4a56e22820e6",
+    "title": "$15.6M investment aims to strengthen Red Cross disaster response",
+    "summary": "A $15.6 million investment aims to strengthen Red Cross disaster response across Canada.",
+    "amount": 15600000,
+    "date": "2026-10-27",
+    "fiscal_year": "2026-27",
+    "department": "Public Safety Canada",
+    "dept_code": "PSEP",
+    "program_code": "BVU02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "WestCentralOnline",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUGRKZ0pOTm5Nbk1wSm52MmVkaUh5SnpnOG1RT2ZseElLLV9BamNpR1FMZ2g5czVnem9BSkdDbTU1OXlmYU5GeTg0clpOTml6a3Y2YklSNVItT0FQUVVSQ2piNC1jbzRHSzFKeFpRWFV5UWxzSy1qQTcyS3N0NFptU1lqckIzdGdxWGVzSk9UaFd1QjZzaDRjRDdkbUhiWkU3ZTRSOHJzSERXeXR5UFFvTzNkN1lMTWtfdV8yRzJsYVVZeDdQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-4a56e22820e6.webp",
+    "image_source_url": "https://www.westcentralonline.com/articles/156-million-investment-aims-to-strengthen-red-cross-disaster-response-across-canada",
+    "image_credit": "WestCentralOnline"
+  },
+  {
     "id": "news-4c3705c08ddd",
     "title": "Canadian visa-centre contracts reach $661 million",
     "summary": "Visa-centre contracts initially valued at $29.8 million in 2018 have increased to $661 million.",
@@ -259,6 +303,10 @@
       {
         "label": "CTV News",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2t5Rm5QSG9FNzJPQ1ZKdHVSUFhnUVN1NWZVQUJEdndKZ0lZTVp2T0tDLS1mZ3d0TDVpWXFKaVFWcFU2dGxOMjN5a0Y1V1JLdWU4NmhNVFpFUWk5Z0JvT2JUOEJibzBrcjVydlEzc2pYRFJjaFlLVHRxb295VGxWX203S1VXWjZyclhtaVJmb1h5dkpqV2tDaERIM3Z0YjhFcjhid1JR?oc=5"
+      },
+      {
+        "label": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXNia3U4YldtM1RmVkI1djI2RFRIRHVtdGNneWJiM1B6YkhUUk9XOEdSM1Q4dG5vcUc1OW9xQk9UaWFmdkp6UFZrSlV4blVmUXJKV0Q0X3lYdmhyMTY4aVhYRHVheWlVdHYxME9HSHRSa2hhMGphaENGcTlqZG1fbWJPclR6bThpd0dN?oc=5"
       },
       {
         "label": "Speed Skating Canada",
@@ -701,6 +749,10 @@
       {
         "label": "constructconnect.com",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY2dzWm5oT0wyZVdKZ09LenRPYjhMM2lBTTlFRGE5bDVaUTZ5LVpxZG1HdXhuMzQ5akw2SThqX3lMNFJjblRSUHY3dFdyUjFNcVJfUHl2aHVQeUVHS25jZ0dPWVFzRXlzclF4WDJCWnBPN0phTWo5QXVrQ0dkVjBRZ2hlaHJ4X29jbkpNMFRwak5LT2dnS19Wem9XV3Rwd3Vsdk5FT2dET1RCb2Y5cEVYMVl5dURxZVp3ejRSQ1d6LUdHYkxJVnM4dHRBZE5vQlc4VDlN?oc=5"
+      },
+      {
+        "label": "Canadian Manufacturing",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX2YxOVF5aVA1S3BvS0p2Mk5DY0c4dElkd3JPRGNDMnZvdzNTSmlFXzRMWHJENTBqQzJPRXFVT1NXSURRTGJzZHdtZjh0V1RDVko1WHF0OHF2ZkFLR2dpZGxHa0FoMXhvb0tHNFFoQmw2N0hPT1hQMFNraFhkaTZ0WG0wRnJtR19oZGNud2ZoLVVIcHFEOHJrYTVvZTBxZGUtenlhTXNhZEtCSmk3czJ0TUF3bXVDS0lWVXpzRjdMOVhqYzBaWmxIUHN4M2tmdw?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-086732d628cb.webp",
@@ -1904,7 +1956,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=kzBMPb",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=O6DE5i",
     "image_credit": "IntraFish"
   },
   {
