@@ -1,5 +1,75 @@
 [
   {
+    "id": "news-3f95fd9c8af0",
+    "title": "Federal government spent $53 million on contracts with former public servants",
+    "summary": "Records show the federal government has spent $53 million on contracts with former public servants since 2021.",
+    "amount": 53000000,
+    "date": "2026-10-29",
+    "fiscal_year": "2026-27",
+    "department": "Public Services and Procurement Canada",
+    "dept_code": "GSC",
+    "program_code": "BVV03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "The Hill Times",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUJ4THI1VEhqTThPQl93Rld3NGN1cWFSalhlYUtOaEVOcGdwN0g2cUs3NHlXWFg3OVZVMjhvcHBWbUFheERmRklKemFpd3l5ZFF6UXVMUDJSVGFhQjdMZlQ2cnk0MlFGZ0puTzc5ZEx0dWRBV3Byak13aGM3YzdSWERxWXdxRThVR2xuVDJUb2dCclYyNWp4dm1RN3NSODFjUTluM04taERYdEdJdTJweEF6bXI3OVlLeUFfOVF3TTVvOTNVNWVDNlhRaw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-3f95fd9c8af0.webp",
+    "image_source_url": "https://www.hilltimes.com/2026/10/29/feds-spent-53-million-on-contracts-with-former-public-servants-since-2021-records-show/523041/",
+    "image_credit": "The Hill Times"
+  },
+  {
+    "id": "news-4b63c2350416",
+    "title": "Federal government doubles Next Gen athletes program funding to $10 million",
+    "summary": "The federal government is doubling its funding for the Next Gen athletes program to $10 million.",
+    "amount": 10000000,
+    "date": "2026-10-29",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": "BSF01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalZvdW1IV3dtZ0piSVdlVDRaUkE3d2JENk1DbHhSWGxCOUlENlYzVVBad1FnQmszaDA3T0xHQWlNZS1DTzJ3WjFlaGxCbXRtTFRJRnR2d194LXJaZGFLWlp0LXNxbFJ6MHpKSFJRQWh0MTVUcU9lQU82NEt1ck92VVlmTXEwYVlMVjNuYko5aGU4Qy1Ga0d5NGdoUjNUMmxDMi1XXy1FZU1iZTlyNTdiWE9oZDdGQmxSSWRn?oc=5"
+      },
+      {
+        "label": "battlefordsNOW",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVUVteGxXc0gzRWJVek5qbjd6aTMzWEV0Wmh6d0V5clNWRkp5Xzc1b0JRVlpGd01IaGlKcWlQWWtzc21VZ0YxN3hBY1NNZ0hudS0zeXhxaGIzSTgzdXhaQXhadnFKa2xfQW5kM2RFNDVyYWptMDVLQi05UVM0WmQ5T1hZYWxkNFdvd2JnSGNyOHpnbmFHRHJHMzBUd3ZzY2VfbEVCV3FEWXNjbWhfQlRZTVhaWVIwWjBZdjlB?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-4b63c2350416.webp",
+    "image_source_url": "https://www.ctvnews.ca/politics/article/federal-government-doubles-funding-to-10-million-for-next-gen-athletes-program/",
+    "image_credit": "CTV News"
+  },
+  {
+    "id": "news-62217be23d25",
+    "title": "Ottawa purchases $1.6 billion stake in AI firm Cohere",
+    "summary": "The federal government has acquired a $1.6 billion stake in artificial intelligence company Cohere as the firm's valuation reached $35.7 billion.",
+    "amount": 1600000000,
+    "date": "2026-10-29",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeGJlb1pvWktqeU11WENkWlJkdjZjc1FBcEVXTXA5UnlaMHlGNW9CU3ZjRmRpSWRZSXFITVJnX1FZbHRUYzJLY2dlYl84bUtnVVF0SmJsRjM5eE40UGFXMG90Zm5PQmNsZzFBZ2thOFRIeUJfYld0Ym9SRF9oN2NZLTdZOGZScmdfM2p6dndhX1hEMGRwVlJ3LTNOY1VIYk9jVVJGcVpyZ3NSUQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-62217be23d25.webp",
+    "image_source_url": "https://www.theglobeandmail.com/business/article-ottawa-buys-stake-in-cohere-357-billion-in-new-financing/",
+    "image_credit": "The Globe and Mail"
+  },
+  {
     "id": "news-127ea1223b45",
     "title": "PMET Resources receives $1.2 million federal grant for lithium road",
     "summary": "PMET Resources has secured $1.2 million in federal grant funding to support a lithium road project.",
@@ -171,6 +241,10 @@
       {
         "label": "PR Newswire Canada",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQzJFaGVQdHd0QnRTODlOMm5tcXR2UWgwU2RzWnR5aFFjR3NjY0pvR3V2Wng0bFZYODQtb3pJWE9XN1ZvVEZuVmNUNVZUeGNaWWlhUkdTbXU2S2c2Y1piY3o0UnMycGJPQVNkZWt2MWpBTTJrb3Q3NGdJRlFia1B3Qmp5a09XWUliSUJybTNKcFNfXzVVQ2VLejdCOWY2UC1ZMThqZEFPMkJCWFJCUnc2LTNGYm5NcUJqV3VWSVhqN0J4cmc?oc=5"
+      },
+      {
+        "label": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDhCMkhPQ1FkbjRhY2tQSHVvUkpyTENPWjhPRmFVX3VEQlgzMzJhSmV6QzF1NFlhdG5YUW5aemYtTUo2UXQ0ZG5MVTVMY2pWMElacHNZQUlQWVNXS2F2TjNFc2tXVkZiOTRNdlRUa2NEQmhTMkl6dURmMEFabGpvM2Vuc08yY1daTFlOTDdjRk1Nd1NITExsWVVTX1FTQjl5cTN6dlV3?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-a0e90d834e9c.webp",
@@ -2084,7 +2158,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=9f8ADl",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=tHj7d0",
     "image_credit": "IntraFish"
   },
   {
@@ -2987,9 +3061,9 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2RxRXdyOVF0ejQtalpkTjB6Qk9Nblh2cHlBdUZEV3JyZFhMRk0ya2RSWThmU2NrUnd5VzA1NW04c0VnWXVTSktINGxleldDdnV4aTZmeEZVb0JBakNtbHItVHZmSnVoR1hUYVJEOXBrX1Z5MXlrUEtGZDBrczZOZjZLWHRKYldYTjByc0VYWkdkVDNQdnQxRkR0Zm1Ba0NTeGRzdGdwSk91VjM4cmc?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-a49f84fd54b2.webp",
-    "image_source_url": "https://www.hpcwire.com/off-the-wire/qubic-wins-ca1-5m-canadian-government-contract-for-cryogenic-amplifiers/",
-    "image_credit": "HPCwire"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-c4098e4bdd5c",
