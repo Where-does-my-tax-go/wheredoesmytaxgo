@@ -1,5 +1,39 @@
 [
   {
+    "id": "news-127ea1223b45",
+    "title": "PMET Resources receives $1.2 million federal grant for lithium road",
+    "summary": "PMET Resources has secured $1.2 million in federal grant funding to support a lithium road project.",
+    "amount": 1200000,
+    "date": "2026-10-28",
+    "fiscal_year": "2026-27",
+    "department": "Natural Resources Canada",
+    "dept_code": "NR",
+    "program_code": "BTO02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORlJfZlRXN1h5V3lzMUdBd1ZpaE5YRWUzZ01KODh6c0RKdWhJN3FVSTl0MnBfVWp5Q1ZfY3lDazc0bkV3bnRsQmdIZHRyUm9JSm9TVnJWWlNZZFdmMk1TeE56SlQzZnRDUEJ4cHcza0VMRlNkQ0Y3dVFtV0NDTVVOWXpTYmVKM3kzVy12MVVBZUh2N2w2TzhKMWZicUZ4TERndzRmMzBEbm10WVZxdkFFMEViSTZqSGVhek9aQXRGS1Y4UEFwQmxzNE1fdFRvS2VHMnZnVUpTQzdhZnBvZ014Y0NGaE5ZVk9zalZLLXRSSV84ODV3YjlUWnBLaWItc1l4YnFGdFRhbVNSLUZ2U1d3NHZZRFRZRjU3QnJhdy1iWnlNR0lyLU5fSzdGblZoUElHb0HSAbICQVVfeXFMTkZSX2ZUVzdYeVd5czFHQXdWaWhOWEVlM2dNSjg4enNESnVoSTdxVUk5dDJwX1VqeUNWX2N5Q2s3NG5Fd250bEJnSGR0clJvSUpvU1ZyVlpTWWRXZjJNU3hOekpUM2Z0Q1BCeHB3M2tFTEZTZENGN3VRbVdDQ01VTll6U2JlSjN5M1ctdjFVQWVIdjdsNk84SjFmYnFGeExEZ3c0ZjMwRG5tdFlWcXZBRTBFYkk2akhlYXpPWkF0RktWOFBBcEJsczRNX3RUb0tlRzJ2Z1VKU0M3YWZwb2dNeGNDRmhOWVZPc2pWSy10UklfODg1d2I5VFpwS2liLXNZeGJxRnRUYW1TUi1GdlNXdzR2WURUWUY1N0JyYXctYlp5TUdJci1OX0s3Rm5WaFBJR29B?oc=5"
+      },
+      {
+        "label": "www.aap.com.au",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTGJNWFhrb19peXhqX0VkcnBSSDhXeHd4UEVIbFFoNFo3YU5zZEM1Y0gwLUhiUjZaWnk3MUJianJVTXhpQnlwM2t1S1JHT3pXamR5MHVlOVZjdmhsenFIZVdaZXBRS0hr?oc=5"
+      },
+      {
+        "label": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPdEdnX2ZFVUhiUG1XN3lURE1iMXN4VVpxSTl4LTJZUzdnSC1WekE4NWdZd09sOWRsTjBLbHAyTS1kd1A2b0QzNXp0bnFoSUFRdmhoTnV5dGoySVlMeHlRU3lqUnh2R2lCMFR3MVR6aDN2emJreFhqYjcwWGw1V0FOUjhkRU5SUmNPTms5bHhrWVFXTExEZmlydzI4ZDlEWkl1Uk13U3FjLTVXaWxtZzFiMnZkVHpzRFpKWlh0ak5qNW1lUDlaQXNKRnpFN2hiazlLemNENmJlY1lOaV93MjB0Vl9QNzBxR3pIMk5rTF9hZzhpbjRkTHVael8tNjdLR0NaYWo4UWVzTHVTT0RId0FoYWV5aUJIN1dsZFdEY040Zw?oc=5"
+      },
+      {
+        "label": "Vietnam Investment Review - VIR",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeG5XOWs0NVFPZ3dub2RQZmFoeXp3dmNwa2ZVS09JYTJ3enVTQzNxWmUyMVI2bjd3ZGRmNFR1QVAzSjdMZGpOeFBBdWk4YU9EN3d5Wk0xTlVlVG9Odl9SVWt2Wmp5OVpZN0VGX0lPcEJIUEVPZGVvTkFTSGVEUlo2bUxJNnEtWHNLUExnOXNPTFY5Q25rVFNYVTRjcDNlbVpzSS1ZLXNNRFBDS05G?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-d8032977a7ff.webp",
+    "image_source_url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/pmet-resources-announces-federal-funding-of-c12-million-to-its-100-owned-subsidiary-innova-lithium-for-shaakichiuwaanaan-access-road/2456571",
+    "image_credit": "The Manila Times"
+  },
+  {
     "id": "news-390db9c6e462",
     "title": "DND awards contract valued up to $15M to Siga for TPOXX purchase",
     "summary": "The Department of National Defence has awarded a contract valued at up to $15 million to Siga to purchase TPOXX.",
@@ -54,36 +88,6 @@
     "image_url": null,
     "image_source_url": null,
     "image_credit": null
-  },
-  {
-    "id": "news-127ea1223b45",
-    "title": "Federal government provides $1.2M for Shaakichiuwaanaan access road",
-    "summary": "PMET Resources announced $1.2 million in federal funding for subsidiary Innova Lithium to build the Shaakichiuwaanaan access road.",
-    "amount": 1200000,
-    "date": "2026-10-28",
-    "fiscal_year": "2026-27",
-    "department": "Natural Resources Canada",
-    "dept_code": "NR",
-    "program_code": null,
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "The Manila Times",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORlJfZlRXN1h5V3lzMUdBd1ZpaE5YRWUzZ01KODh6c0RKdWhJN3FVSTl0MnBfVWp5Q1ZfY3lDazc0bkV3bnRsQmdIZHRyUm9JSm9TVnJWWlNZZFdmMk1TeE56SlQzZnRDUEJ4cHcza0VMRlNkQ0Y3dVFtV0NDTVVOWXpTYmVKM3kzVy12MVVBZUh2N2w2TzhKMWZicUZ4TERndzRmMzBEbm10WVZxdkFFMEViSTZqSGVhek9aQXRGS1Y4UEFwQmxzNE1fdFRvS2VHMnZnVUpTQzdhZnBvZ014Y0NGaE5ZVk9zalZLLXRSSV84ODV3YjlUWnBLaWItc1l4YnFGdFRhbVNSLUZ2U1d3NHZZRFRZRjU3QnJhdy1iWnlNR0lyLU5fSzdGblZoUElHb0HSAbICQVVfeXFMTkZSX2ZUVzdYeVd5czFHQXdWaWhOWEVlM2dNSjg4enNESnVoSTdxVUk5dDJwX1VqeUNWX2N5Q2s3NG5Fd250bEJnSGR0clJvSUpvU1ZyVlpTWWRXZjJNU3hOekpUM2Z0Q1BCeHB3M2tFTEZTZENGN3VRbVdDQ01VTll6U2JlSjN5M1ctdjFVQWVIdjdsNk84SjFmYnFGeExEZ3c0ZjMwRG5tdFlWcXZBRTBFYkk2akhlYXpPWkF0RktWOFBBcEJsczRNX3RUb0tlRzJ2Z1VKU0M3YWZwb2dNeGNDRmhOWVZPc2pWSy10UklfODg1d2I5VFpwS2liLXNZeGJxRnRUYW1TUi1GdlNXdzR2WURUWUY1N0JyYXctYlp5TUdJci1OX0s3Rm5WaFBJR29B?oc=5"
-      },
-      {
-        "label": "www.aap.com.au",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTGJNWFhrb19peXhqX0VkcnBSSDhXeHd4UEVIbFFoNFo3YU5zZEM1Y0gwLUhiUjZaWnk3MUJianJVTXhpQnlwM2t1S1JHT3pXamR5MHVlOVZjdmhsenFIZVdaZXBRS0hr?oc=5"
-      },
-      {
-        "label": "PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPdEdnX2ZFVUhiUG1XN3lURE1iMXN4VVpxSTl4LTJZUzdnSC1WekE4NWdZd09sOWRsTjBLbHAyTS1kd1A2b0QzNXp0bnFoSUFRdmhoTnV5dGoySVlMeHlRU3lqUnh2R2lCMFR3MVR6aDN2emJreFhqYjcwWGw1V0FOUjhkRU5SUmNPTms5bHhrWVFXTExEZmlydzI4ZDlEWkl1Uk13U3FjLTVXaWxtZzFiMnZkVHpzRFpKWlh0ak5qNW1lUDlaQXNKRnpFN2hiazlLemNENmJlY1lOaV93MjB0Vl9QNzBxR3pIMk5rTF9hZzhpbjRkTHVael8tNjdLR0NaYWo4UWVzTHVTT0RId0FoYWV5aUJIN1dsZFdEY040Zw?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-d8032977a7ff.webp",
-    "image_source_url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/pmet-resources-announces-federal-funding-of-c12-million-to-its-100-owned-subsidiary-innova-lithium-for-shaakichiuwaanaan-access-road/2456571",
-    "image_credit": "The Manila Times"
   },
   {
     "id": "news-fa4d355cf90a",
@@ -2080,7 +2084,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=oj4ZfV",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=9f8ADl",
     "image_credit": "IntraFish"
   },
   {
