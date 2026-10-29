@@ -27,7 +27,15 @@ export async function proxy(request: NextRequest) {
     pathname === "/api/breakdown" || pathname === "/api/spending" || pathname === "/api/departments" ||
     /^\/api\/spending\/[^/]+$/.test(pathname)
   );
-  if (publicCampaignPage || publicCampaignRead || publicTrackerPage || publicTrackerRead) {
+  // Official petitions are read-only here; signing happens on ourcommons.ca.
+  const publicPetitionPage = pathname === "/petitions";
+  const publicPetitionRead = request.method === "GET" && (
+    pathname === "/api/petitions" || /^\/api\/petitions\/[^/]+$/.test(pathname)
+  );
+  if (
+    publicCampaignPage || publicCampaignRead || publicTrackerPage || publicTrackerRead ||
+    publicPetitionPage || publicPetitionRead
+  ) {
     return authResponse;
   }
 

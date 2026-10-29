@@ -69,7 +69,16 @@ describe("proxy", () => {
     },
   );
 
+  it.each(["/petitions", "/api/petitions", "/api/petitions?story=data-fin-buv11-2024", "/api/petitions/e-1234"])(
+    "lets logged-out visitors see official petitions at %s",
+    async (path) => {
+      const res = await proxy(request(path));
+      expect(res).toBe(authResponse);
+    },
+  );
+
   it("still locks account, admin, and saving routes for logged-out visitors", async () => {
+    expect((await proxy(new NextRequest("http://localhost:3000/api/petitions/e-1234", { method: "DELETE" }))).status).toBe(401);
     expect((await proxy(request("/api/me"))).status).toBe(401);
     expect((await proxy(request("/api/me/riding"))).status).toBe(401);
     expect((await proxy(new NextRequest("http://localhost:3000/api/campaigns", { method: "POST" }))).status).toBe(401);
