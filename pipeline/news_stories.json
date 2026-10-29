@@ -70,6 +70,28 @@
     "image_credit": "The Globe and Mail"
   },
   {
+    "id": "news-a70874aecd10",
+    "title": "Health Canada signs $2.9 million polling contract",
+    "summary": "Health Canada has signed a polling contract worth $2.9 million.",
+    "amount": 2900000,
+    "date": "2026-10-29",
+    "fiscal_year": "2026-27",
+    "department": "Health Canada",
+    "dept_code": "H",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanJFb1dNdW14bi1ZcEdZVWthYnA3MXBKVTA3dWgtMkpSNHdRbXdlRjA3WExPNm1OTUxmMndESS1UNThxVGtTUThhS0Y1N3RiajlZeHRENkEzLUhDYXhxU0NEb2hHZjVUcXlIYmI3SEtUMWNBNGZsbWloRUN5V1Z5dnp6UVlvdzRRZG16R3RqOWVkdDdSZHNhTVYtQkV2dGQ3a0FnbzA2S0ozRktPaTNROUpZX2dxcFZ5d19B?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-127ea1223b45",
     "title": "PMET Resources receives $1.2 million federal grant for lithium road",
     "summary": "PMET Resources has secured $1.2 million in federal grant funding to support a lithium road project.",
@@ -131,6 +153,10 @@
       {
         "label": "The Manila Times",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQU2RIc1l2blo4eW82d1RmQ0xHWl85bWpJTWk1VTJHQVhnMWpkR3cxRXkyYmNIWjlRVU5sZDZGTmdCNkdfTXBVTzYxMjhkQWQ4UGxxb003Nm1EQWtjcEd2eWRyR3ZLVF9tc01GcklZVlRkNFBrSUtwR1k3dmYtZVNLWERkcEtlXzhEeUhjYzdvdlRxYjhPMU0wQ0VSUlQ2b2MyMmdmSXVHSHc4U0JnQVFLVGFqNVVic3J2N3o4S2JPQ290czZwR1RTdlo1ZUNPU3ZwUnYtUVdubFFGSGdoYVNDLVhYXzQtU1AxdV84TVRpcFB0czU0QzIxRFRPT3g3RHV3V0EwZU5qRDF1M2MwUVFQSnhQS2xmaTZM0gGYAkFVX3lxTFBTZEhzWXZuWjh5bzZ3VGZDTEdaXzltaklNaTVVMkdBWGcxamRHdzFFeTJiY0haOVFVTmxkNkZOZ0I2R19NcFVPNjEyOGRBZDhQbHFvTTc2bURBa2NwR3Z5ZHJHdktUX21zTUZySVlWVGQ0UGtJS3BHWTd2Zi1lU0tYRGRwS2VfOER5SGNjN292VHFiOE8xTTBDRVJSVDZvYzIyZ2ZJdUdIdzhTQmdBUUtUYWo1VWJzcnY3ejhLYk9Db3RzNnBHVFN2WjVlQ09TdnBSdi1RV25sUUZIZ2hhU0MtWFhfNC1TUDF1XzhNVGlwUHRzNTRDMjFEVE9PeDdEdXdXQTBlTmpEMXUzYzBRUVBKeFBLbGZpNkw?oc=5"
+      },
+      {
+        "label": "www.tokenpost.com",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nclVrblVDbVZMWHV1Sl9Zd2d0SHpRdXBNV21OSzlSdTU1eXRZSWFrOTkyeGszdlVNbW9PY2hkLXpsZENLX29vVWdtU1NxcXJLYU56cVN5U2c?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-3f867093c58c.webp",
@@ -495,6 +521,10 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXNia3U4YldtM1RmVkI1djI2RFRIRHVtdGNneWJiM1B6YkhUUk9XOEdSM1Q4dG5vcUc1OW9xQk9UaWFmdkp6UFZrSlV4blVmUXJKV0Q0X3lYdmhyMTY4aVhYRHVheWlVdHYxME9HSHRSa2hhMGphaENGcTlqZG1fbWJPclR6bThpd0dN?oc=5"
       },
       {
+        "label": "650 CKOM",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUlJORU9DZmQ4OGdJWXhfMEVnOTRMdFBCbTZyZ05BU3FZVlg0eDAyOW9reFFGVWZFeWVrQTdraHFPMzg0VHNlSzdDcWxsVEM0RkV2UFA4M0VOdjlLaVZvc21oMjFUSTNQT1NmNjZVWXhZWUdKQm9mV29IYVotTFdFRFp6cWFIQUJpVFpMTGxrSlNtX2hveF9wTVFnbw?oc=5"
+      },
+      {
         "label": "Speed Skating Canada",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZDBUMUowdThIVjlyNldocTNSemdZbklHU2JLQzJKekRmaGZfVHgxeUVKTU1kSFVFeG5fX0xQdVkya0otSDhZbkgyN0kwQ2pMRTF3SXF5SndBQlAycmRsUVVNQ0ZnUDdDM1pBeFJ2dW1KOUhJREoxVUZMLWQ1ZEdBWVQzcmFfb1FQdXYwNjhnbTUwd3d2LUI3Wk5mVEhnSjdaZF9HQTBwV2tkclFrb3h2RTdHTHZ0TFZTeGc4dl94NlhYcmFpQTMxQWhocDdCck56bjJFdXM5aEVHdVBLbEJHUA?oc=5"
       }
@@ -633,9 +663,9 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1dQOWxSQXJPTTh6b19KNE9fYkVoNW85b2pKYjNoLXBVSkpSN2p0SHZ6cVlybWVRdTItTTNDOE05XzZEcUFFMnZSa2hJU1BRcUd4Q01qaUs1Tk12WVZHQkVhMmxUdjJ6Ymk3bmo4NG1lUk5wM2lOU0piVmtOYWtYWWUzeEppLTkxRS0tU2djWFlnRUNSVUZlX293ckQ1d0dHSzJSRThLREZhc2lKZ2loV2RaaXpFZw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-37fbf8cae98a.webp",
-    "image_source_url": "https://canadiandefencereview.com/dnd-signs-20m-spaceport-agreement-with-nordspace/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-aefc550fc17b.webp",
+    "image_source_url": "https://www.saltwire.com/newfoundland-labrador/nl-spaceport-20-million-agreement",
+    "image_credit": "PNI Atlantic News"
   },
   {
     "id": "news-a91241bed0c9",
@@ -1045,6 +1075,10 @@
       {
         "label": "CHAT News Today",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEt4TFczaE1NOUhMVnlEZy1YX19ITXpMQy1OMDhFd3NlY292ZnNBOXlwczNFOE1ZS3VoQmlTbmdiUWxwcUV1RWozUDNETTg5Y1hNTzFIWFZYMFRjdUJjaTl2bXdfcDhveGx0dHdRazhhNDhNNFI5TV9qUDZlSkRxT0l0b1R6TGIzVmQxbm1uWFRjNF9abXhJNkxoS0M0UTQ5MjZHbU9GYldhNWRMNmc?oc=5"
+      },
+      {
+        "label": "paNOW",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkpZMV9NcFlBQWtadUtHakE3VDNiOUdHR2U4VExEMnVibE01d1ZTT1A2MHFaSlZyZEo3a1JCT3BhdUhVTnZvbjF4OW5Danpta2ZsV0dmcWg1Nkxwcy0wNnZlTVBzX25GZkhSODQwelZYRFhydHR0QTNGRk1GMjNsTDNfSVVCbW42aXN2NVJrVEo1dklyU3B3OFVYWFF1TllfcTJHVQ?oc=5"
       },
       {
         "label": "constructconnect.com",
@@ -1787,9 +1821,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-84165101ceaf.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-93c940219547.webp",
+    "image_source_url": "https://cedarnews.net/newstasks/1032597/canada-invests-77m-small-craft-harbour-arctic/",
+    "image_credit": "cedarnews.net"
   },
   {
     "id": "news-0d19f4920d96",
@@ -2158,7 +2192,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=tHj7d0",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=9GIe28",
     "image_credit": "IntraFish"
   },
   {
@@ -2755,9 +2789,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-c4625895fe3d.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-0833ed8d711b.webp",
+    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-15beea9f0e27",
@@ -3061,9 +3095,9 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2RxRXdyOVF0ejQtalpkTjB6Qk9Nblh2cHlBdUZEV3JyZFhMRk0ya2RSWThmU2NrUnd5VzA1NW04c0VnWXVTSktINGxleldDdnV4aTZmeEZVb0JBakNtbHItVHZmSnVoR1hUYVJEOXBrX1Z5MXlrUEtGZDBrczZOZjZLWHRKYldYTjByc0VYWkdkVDNQdnQxRkR0Zm1Ba0NTeGRzdGdwSk91VjM4cmc?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-a49f84fd54b2.webp",
+    "image_source_url": "https://www.hpcwire.com/off-the-wire/qubic-wins-ca1-5m-canadian-government-contract-for-cryogenic-amplifiers/",
+    "image_credit": "HPCwire"
   },
   {
     "id": "news-c4098e4bdd5c",
