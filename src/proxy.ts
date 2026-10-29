@@ -20,7 +20,14 @@ export async function proxy(request: NextRequest) {
   const publicCampaignRead = request.method === "GET" && (
     pathname === "/api/campaigns" || /^\/api\/campaigns\/[^/]+$/.test(pathname)
   );
-  if (publicCampaignPage || publicCampaignRead) {
+  // The tax tracker saves nothing (income stays in sessionStorage), so its pages and data reads are public too.
+  const publicTrackerPage = pathname === "/" || pathname === "/receipt" || pathname === "/spending" ||
+    /^\/(spending|category|decision)\/[^/]+$/.test(pathname);
+  const publicTrackerRead = request.method === "GET" && (
+    pathname === "/api/breakdown" || pathname === "/api/spending" || pathname === "/api/departments" ||
+    /^\/api\/spending\/[^/]+$/.test(pathname)
+  );
+  if (publicCampaignPage || publicCampaignRead || publicTrackerPage || publicTrackerRead) {
     return authResponse;
   }
 

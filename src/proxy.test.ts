@@ -53,6 +53,31 @@ describe("proxy", () => {
     expect(await res.json()).toEqual({ error: "unauthorized" });
   });
 
+  it.each(["/", "/receipt", "/spending", "/spending/data-fin-buv11-2024", "/category/health", "/decision/abc"])(
+    "lets logged-out visitors see tracker page %s",
+    async (path) => {
+      const res = await proxy(request(path));
+      expect(res).toBe(authResponse);
+    },
+  );
+
+  it.each(["/api/breakdown?income=75000", "/api/spending", "/api/spending/data-fin-buv11-2024", "/api/departments"])(
+    "lets logged-out visitors read tracker data from %s",
+    async (path) => {
+      const res = await proxy(request(path));
+      expect(res).toBe(authResponse);
+    },
+  );
+
+  it("still locks account, admin, and saving routes for logged-out visitors", async () => {
+    expect((await proxy(request("/api/me"))).status).toBe(401);
+    expect((await proxy(request("/api/me/riding"))).status).toBe(401);
+    expect((await proxy(new NextRequest("http://localhost:3000/api/campaigns", { method: "POST" }))).status).toBe(401);
+    expect((await proxy(new NextRequest("http://localhost:3000/api/spending", { method: "POST" }))).status).toBe(401);
+    expect((await proxy(request("/admin"))).status).toBe(307);
+    expect((await proxy(request("/spending/x/extra"))).status).toBe(307);
+  });
+
   it("lets everything through in development when Auth0 is not configured", async () => {
     vi.mocked(isAuthConfigured).mockReturnValue(false);
     vi.stubEnv("NODE_ENV", "development");
