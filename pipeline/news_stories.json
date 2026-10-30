@@ -44,6 +44,54 @@
     "image_credit": null
   },
   {
+    "id": "news-b25047acca0d",
+    "title": "Ottawa announces $500 million for North End sewage plant upgrade",
+    "summary": "The federal government announced $500 million to upgrade Winnipeg's North End sewage treatment plant.",
+    "amount": 500000000,
+    "date": "2026-10-30",
+    "fiscal_year": "2026-27",
+    "department": "Office of Infrastructure of Canada",
+    "dept_code": "OICC",
+    "program_code": "BYC02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Winnipeg Free Press",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ28wT3UtN0VfeEJ0ZVdPMlZIRmV1ckRVQmVIWmhNQklHT0VvRUUxSDRGVjRjaHpsdk92TnZoX0s2Vmwza1F2QlYzZzZkMVpqaGROeVpTN0tWTzBlSVFyZVlZMTF2elhvRWtDMDJDaXA3NVJVbTRuMGxtMDVUT25qTFkyX2tIdVNnTVRydk00aHdlMHVwVlRXcllMOXFnTTFIMm1qNGpZeF9tV0N3MDQwUkdpMA?oc=5"
+      },
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3lBbDlleXpKSTMwbXp6dFE3SDR6UDROZ0Z2cDhtOXRmcEJDd2NReTRFRzhBY3pwQWg4bzIxbHU4RkVQWWNfSy1CQVFOQmdfZ2p2RDFqZWp3WjFjdWg5Sno4dWdWZExWX2dIZTNwZWoxWEdVWXZnNmduTEhqbEEtV01xMmZsVXJDalJxYUtxYXRTT21DcWduNDVWRDZaUQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-ba0cce6d5166.webp",
+    "image_source_url": "https://www.winnipegfreepress.com/breakingnews/2026/10/30/north-end-sewage-treatment-plant-upgrade-ottawa-funding",
+    "image_credit": "Winnipeg Free Press"
+  },
+  {
+    "id": "news-2218c4649dbb",
+    "title": "Canada invests $4.5 million in NORCAT underground innovation centre",
+    "summary": "The federal government is investing $4.5 million in NORCAT's underground innovation centre.",
+    "amount": 4500000,
+    "date": "2026-10-30",
+    "fiscal_year": "2026-27",
+    "department": "Federal Economic Development Agency for Northern Ontario",
+    "dept_code": "FEDNO",
+    "program_code": "BYL02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Northern Ontario Business",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPemlZRW1IUHZlY3F5dkpVZE0xWVVpVFpiUWc3dXFxRFp3ZW1kMnpsM2lzeTBqYTdRbG1uOUphM2J0cUdVY1NpTzBrSkM5MUtfeXpLdUFtRGp4clVXekJwQWRIMWNRdU4tRXlxZ2JWZ0t2eGxCS2tuRDRrbjRPSHFWbzhoZ2cxNkhWLTNOM0Z6RnJTMnV6MWJiQWlDdUV3eXRidVhpQ2dLcFNsQ3NCaWI2NHF4WWhsSmpRYlJsdUJySHJkdFE5SUZMeUxOR2I3VmRuQ2xVZnYyZDBQSjZ0QXljQlFuaFI5eGNFNjRWZw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-2218c4649dbb.webp",
+    "image_source_url": "https://www.northernontariobusiness.com/press-release/news-release-government-of-canada-invests-45-million-in-norcats-underground-innovation-centre-12961836",
+    "image_credit": "Northern Ontario Business"
+  },
+  {
     "id": "news-a70874aecd10",
     "title": "Federal procurement agency lists $2.94M Canada Unity ad contract",
     "summary": "A federal procurement agency listed a $2.94 million advertising contract for Canada Unity. The contract was dated prior to the Alberta vote.",
@@ -173,9 +221,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeG5XOWs0NVFPZ3dub2RQZmFoeXp3dmNwa2ZVS09JYTJ3enVTQzNxWmUyMVI2bjd3ZGRmNFR1QVAzSjdMZGpOeFBBdWk4YU9EN3d5Wk0xTlVlVG9Odl9SVWt2Wmp5OVpZN0VGX0lPcEJIUEVPZGVvTkFTSGVEUlo2bUxJNnEtWHNLUExnOXNPTFY5Q25rVFNYVTRjcDNlbVpzSS1ZLXNNRFBDS05G?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-d8032977a7ff.webp",
-    "image_source_url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/pmet-resources-announces-federal-funding-of-c12-million-to-its-100-owned-subsidiary-innova-lithium-for-shaakichiuwaanaan-access-road/2456571",
-    "image_credit": "The Manila Times"
+    "image_url": "/story-images/news/news-bcacf267636b.webp",
+    "image_source_url": "https://vir.com.vn/pmet-resources-secures-12-million-canadian-dollars-federal-lithium-road-grant-163978.html",
+    "image_credit": "Vietnam Investment Review - VIR"
   },
   {
     "id": "news-390db9c6e462",
@@ -1539,9 +1587,9 @@
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZTZUdW9NdGFtRzFrelNnX0dBbUk0WGVTOVp6YW01SUxXV3Z4eGl5dUxGWHRLOWtIQ1ZMSkNhOVh6clFJN3dTa2hJOHk0aXMySFBVTlFycDcyRExzVFMtd1dRMFh3Z0EwZVhRcFhlQ19hcUVFdUwxRVp5MHFhSVFpRE5BWjhaRDBZd25pMVdmUzFLVVE4TnBDUXBxd0x0Wi16T2Job2ExYjJCbW00MFlaQXJIM2gtbTJIRWk5a1Y2VVVlVG9qUVdxUlV1RjhodkJZLWltQjVpMWVHN2xLZGx0VjBLVkpOUWlRYnp1Mng2NXc0TzdwRlFUZVVTc2k?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-9171f2abb740.webp",
-    "image_source_url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/10/atlantic-canadian-businesses-to-benefit-from-an-additional-40-million-in-federal-dollars-for-ai.html",
-    "image_credit": "Canada.ca"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-2515cc4e75bb",
@@ -2033,9 +2081,9 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNk5RWjNxT2FNOTlQdGRJWHNpNzRrVW55dHp5TG50XzhQOW81VURPNFZwS0VLU2ZQVlZGeXRFNU1Od3g2bTk2OThLcXI5LU5Ub1kxdGF1UDh3Q0sxRFk2Mk4tUV95ZXd3N0NJb0h4QnBfWlhlSmFOOW5zUnZJblVVOENFZ2tvZ21kLTNySzZQR3B4WHE5RXNKVGxyUmRIYzhFNzhRS0dGYXBvNFpsWnJtMFR2NXRyd1JBUUJsVg?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-6af802034403.webp",
-    "image_source_url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/10/canada-invests-69m-to-help-prince-edward-island-businesses-respond-to-tariffs.html",
-    "image_credit": "canada.ca"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-19f66337f32a",
@@ -2244,7 +2292,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=8aIxAG",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=Isj7Kk",
     "image_credit": "IntraFish"
   },
   {
@@ -2307,9 +2355,9 @@
         "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQNXRQZHNFanRVSFAxeHUtT3RUOFpyNDBqTHY5SEtlalZ4OU1IY0RtWmtvZ2lMb0Mtc2FQVjh4NTBueWtPa3REelA2dGlvbzY1RC1DLWxFSUJqVFRTOGoxWU54bWtpME5EVUI3T1VfZ1hrVEYxc2RVYTdpUGhJZ0dtS3NKQ0dweUowb2FBNjFvczM0Y3VWeFE2T19zM1hFUnBQdHl1LXhWb084alZFSWV2ZWpEeXNfUUxFX1dtY1RlR1p0M1JpelgwTzhGVzVLYlFWUmpoVlFkU2wtZm5nc2dVbkFhSGZKZG9TLUpFazRTZmY5dXhKaS1fcHdRNFZDaU9BbG5UUUt0SXJkZ3gzZ0RnNC1NekRja3cyb1FIc0tR?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-75a6eac6995c.webp",
-    "image_source_url": "https://www.canada.ca/en/transport-canada/news/2026/09/the-government-of-canada-invests-855-million-to-rehabilitate-the-rankin-inlet-airport-and-strengthen-arctic-and-northern-connectivity.html",
-    "image_credit": "Canada.ca"
+    "image_url": "/story-images/news/news-b2088d71bdcb.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-85-5-145600043.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-a9b6f26c6ace",
@@ -3449,9 +3497,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
+    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
+    "image_credit": "On-Site Magazine"
   },
   {
     "id": "news-28b59b949d4f",
@@ -3817,9 +3865,9 @@
         "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNYTVnQzFhZjZEdEFjTnNZVDJ1bE5BYUR3SDVxejlzNnBtQW1WX2JaaGlOcWVNdmtCV01YVU95RFh0aW9DWHZBVW9xeXRzSjRyMXk3OVhpZTFWdE5FNkRMRXNVM1RjVnEtM3NaZzk5SkNCR3VXN0hHblh3NWMyck9iUU0yNGxvMmZMbzhLT29heFF6cHdkM0pqN2V0TDNXTFBUV05vWjRNM2ZDSVZTSVVqeDYyeXJrTlNJdzlLclczVmpyLVR4QWR6MzZzWk15blcxdzl1SEFJRTc5LTdPWnIwN2xhZVFJQXpraWcxU0RQLWRwaUd3ZUNkUWpaWS1EOWpHMk9Oc3FoYWZOT21OSFI1RUtGaWZlU0tkcWJEUHlDNnJVVE1tMkhPVnVUY1hZa2xKd2t5WlQ0YmNtVkdTalE?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-49a5c7f0b93e.webp",
-    "image_source_url": "https://www.canada.ca/en/pacific-economic-development/news/2026/08/government-of-canada-invests-over-10-million-to-help-lower-mainland-businesses-navigate-trade-disruptions-and-seize-new-opportunities.html",
-    "image_credit": "canada.ca"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-605aa7d06d6e",
