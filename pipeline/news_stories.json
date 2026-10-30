@@ -1,5 +1,71 @@
 [
   {
+    "id": "news-145353ce2b28",
+    "title": "CBSA renews actor contracts for $5M through 2030",
+    "summary": "The Canada Border Services Agency renewed $5 million in roleplay actor contracts extending through 2030.",
+    "amount": 5000000,
+    "date": "2026-10-30",
+    "fiscal_year": "2026-27",
+    "department": "Canada Border Services Agency",
+    "dept_code": "CBSA",
+    "program_code": "BUF10",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWhyaHROeGNqM1czZnNpZzJNWVE4MTN4YUNuZXZSVnFibk1KQ3l6UUpieGthLWpaV0Z0OG9oRW83dmpjbElhYXZpaTBTeGJhajJEQWRQUUNrN0RjMEdwaG9WM19XbG5rN1JZMUxGLUppcTBqVUJsd0ZGMmhsbWxSanp2RWpxYndpUVV4YVc5c0ZhWWM?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-a31cd7510174",
+    "title": "Federal government contracts $6.2M to advertise climate strategy",
+    "summary": "The federal government awarded $6.2 million in contracts to advertise its climate strategy.",
+    "amount": 6200000,
+    "date": "2026-10-30",
+    "fiscal_year": "2026-27",
+    "department": "Environment and Climate Change Canada",
+    "dept_code": "EC",
+    "program_code": "BGR01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPemk1dTQ0bFNQb3JaRjU2emZXdjlsUG5ibkxQRk5SSmNudTFCWWRJbEZwSjhkLVBSMFFhbU5yTDdFYW5MbzJqYnQ5UWVFS0xuX0JOc1JDZEpKZDB3Und1dkZ0dmZEYkhFNmE3Y3YweTdMYUlwdzFhaWUtSnMtVlpjX3hoWm1NbUxEWXJJckRFT1hjVlpWNWF2OXB4eDFhQTZjUnd5WlpWc2VxR2lBdERzWg?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-a70874aecd10",
+    "title": "Federal procurement agency lists $2.94M Canada Unity ad contract",
+    "summary": "A federal procurement agency listed a $2.94 million advertising contract for Canada Unity. The contract was dated prior to the Alberta vote.",
+    "amount": 2940000,
+    "date": "2026-10-29",
+    "fiscal_year": "2026-27",
+    "department": "Public Services and Procurement Canada",
+    "dept_code": "GSC",
+    "program_code": "BVV03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanJFb1dNdW14bi1ZcEdZVWthYnA3MXBKVTA3dWgtMkpSNHdRbXdlRjA3WExPNm1OTUxmMndESS1UNThxVGtTUThhS0Y1N3RiajlZeHRENkEzLUhDYXhxU0NEb2hHZjVUcXlIYmI3SEtUMWNBNGZsbWloRUN5V1Z5dnp6UVlvdzRRZG16R3RqOWVkdDdSZHNhTVYtQkV2dGQ3a0FnbzA2S0ozRktPaTNROUpZX2dxcFZ5d19B?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-3f95fd9c8af0",
     "title": "Federal government spent $53 million on contracts with former public servants",
     "summary": "Records show the federal government has spent $53 million on contracts with former public servants since 2021.",
@@ -45,6 +111,10 @@
       {
         "label": "CBC",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2WjlBbER2Nmg2OTEwYVkyWHZJVTlpT01qem9tVG51M2VaZk5nYnhyQ0tSRHZmbURmQXZYcmx0V2JsYnQ4MDNhRC1XcndpcG5McHItRVhibmpCbUg2Y204WE5qZ2ZiVkthYVg4SFZWVkJzZFFPanJSdA?oc=5"
+      },
+      {
+        "label": "Sportsnet.ca",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMEJCTl9TaGJjXzBGSzJYeXpWOFVtX2x6REhwdXg1MGRBMm9NcER1NUEtSjJVNk9BV3hSV01oWnlOR0RuV1ZNMTdDcHd3bVBCZmRxVVpmZWxQcWwzUTUzTU9HWXRTWGJ3QkNTbkhlQnE0aXZOUVhOZGN4ZXo5LXNsWFJtUDQyX2RNNExORVV3cjNvYzNiaE9yUWN1dzktei1rbVdpSGtmNEFzQ0R5RzBZeEFkekN4WjNpV2NuUWFR?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-4b63c2350416.webp",
@@ -72,28 +142,6 @@
     "image_url": "/story-images/news/news-62217be23d25.webp",
     "image_source_url": "https://www.theglobeandmail.com/business/article-ottawa-buys-stake-in-cohere-357-billion-in-new-financing/",
     "image_credit": "The Globe and Mail"
-  },
-  {
-    "id": "news-a70874aecd10",
-    "title": "Health Canada signs $2.9 million polling contract",
-    "summary": "Health Canada has signed a polling contract worth $2.9 million.",
-    "amount": 2900000,
-    "date": "2026-10-29",
-    "fiscal_year": "2026-27",
-    "department": "Health Canada",
-    "dept_code": "H",
-    "program_code": null,
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "Rebel News",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanJFb1dNdW14bi1ZcEdZVWthYnA3MXBKVTA3dWgtMkpSNHdRbXdlRjA3WExPNm1OTUxmMndESS1UNThxVGtTUThhS0Y1N3RiajlZeHRENkEzLUhDYXhxU0NEb2hHZjVUcXlIYmI3SEtUMWNBNGZsbWloRUN5V1Z5dnp6UVlvdzRRZG16R3RqOWVkdDdSZHNhTVYtQkV2dGQ3a0FnbzA2S0ozRktPaTNROUpZX2dxcFZ5d19B?oc=5"
-      }
-    ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
   },
   {
     "id": "news-127ea1223b45",
@@ -2196,7 +2244,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=QuM6BT",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=8aIxAG",
     "image_credit": "IntraFish"
   },
   {
@@ -3401,9 +3449,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
-    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
-    "image_credit": "On-Site Magazine"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-28b59b949d4f",
