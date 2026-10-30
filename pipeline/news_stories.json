@@ -22,7 +22,7 @@
     "image_credit": "The Hill Times"
   },
   {
-    "id": "news-4b63c2350416",
+    "id": "news-4b1189c4f451",
     "title": "Federal government doubles Next Gen athletes program funding to $10 million",
     "summary": "The federal government is doubling its funding for the Next Gen athletes program to $10 million.",
     "amount": 10000000,
@@ -41,6 +41,10 @@
       {
         "label": "battlefordsNOW",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVUVteGxXc0gzRWJVek5qbjd6aTMzWEV0Wmh6d0V5clNWRkp5Xzc1b0JRVlpGd01IaGlKcWlQWWtzc21VZ0YxN3hBY1NNZ0hudS0zeXhxaGIzSTgzdXhaQXhadnFKa2xfQW5kM2RFNDVyYWptMDVLQi05UVM0WmQ5T1hZYWxkNFdvd2JnSGNyOHpnbmFHRHJHMzBUd3ZzY2VfbEVCV3FEWXNjbWhfQlRZTVhaWVIwWjBZdjlB?oc=5"
+      },
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2WjlBbER2Nmg2OTEwYVkyWHZJVTlpT01qem9tVG51M2VaZk5nYnhyQ0tSRHZmbURmQXZYcmx0V2JsYnQ4MDNhRC1XcndpcG5McHItRVhibmpCbUg2Y204WE5qZ2ZiVkthYVg4SFZWVkJzZFFPanJSdA?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-4b63c2350416.webp",
@@ -663,9 +667,9 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1dQOWxSQXJPTTh6b19KNE9fYkVoNW85b2pKYjNoLXBVSkpSN2p0SHZ6cVlybWVRdTItTTNDOE05XzZEcUFFMnZSa2hJU1BRcUd4Q01qaUs1Tk12WVZHQkVhMmxUdjJ6Ymk3bmo4NG1lUk5wM2lOU0piVmtOYWtYWWUzeEppLTkxRS0tU2djWFlnRUNSVUZlX293ckQ1d0dHSzJSRThLREZhc2lKZ2loV2RaaXpFZw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-aefc550fc17b.webp",
-    "image_source_url": "https://www.saltwire.com/newfoundland-labrador/nl-spaceport-20-million-agreement",
-    "image_credit": "PNI Atlantic News"
+    "image_url": "/story-images/news/news-37fbf8cae98a.webp",
+    "image_source_url": "https://canadiandefencereview.com/dnd-signs-20m-spaceport-agreement-with-nordspace/",
+    "image_credit": "Canadian Defence Review"
   },
   {
     "id": "news-a91241bed0c9",
@@ -886,7 +890,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -1821,9 +1825,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-93c940219547.webp",
-    "image_source_url": "https://cedarnews.net/newstasks/1032597/canada-invests-77m-small-craft-harbour-arctic/",
-    "image_credit": "cedarnews.net"
+    "image_url": "/story-images/news/news-84165101ceaf.webp",
+    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
+    "image_credit": "Canadian Defence Review"
   },
   {
     "id": "news-0d19f4920d96",
@@ -2192,7 +2196,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=9GIe28",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=s5uEPF",
     "image_credit": "IntraFish"
   },
   {
@@ -2789,9 +2793,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0833ed8d711b.webp",
-    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-c4625895fe3d.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-15beea9f0e27",
