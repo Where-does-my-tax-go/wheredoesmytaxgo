@@ -986,7 +986,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -1361,9 +1361,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-2577605b3e08.webp",
+    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
+    "image_credit": "Winnipeg Sun"
   },
   {
     "id": "news-2244fb9aa8d6",
@@ -1636,6 +1636,50 @@
     "image_credit": "The Carillon"
   },
   {
+    "id": "news-bba0d2a69dae",
+    "title": "Federal government spent over $500M in 2015 on legal settlements",
+    "summary": "The federal government spent over half a billion dollars in 2015 on legal settlements and damages.",
+    "amount": 500000000,
+    "date": "2026-10-12",
+    "fiscal_year": "2026-27",
+    "department": "Department of Justice Canada",
+    "dept_code": "JUS",
+    "program_code": "BNX01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "National Post",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRlAzVXFNTVJ4S2lHVFZndnhNTEEzdzhreHhGbGstQkhrZk1wV2NDckxWZjFERGhWTm1HcjdOQXZTWW1ITjVSbk1US0p0SFgwWXVnN0JrS2JfNV9sZE1uTWV2SW1YeDlpZ0daT2pQMXhlRlcwSkNIa2ttUlVaVTNGR2pjX1hZZy1IZXNic2FyV2c4SVZHejlLX0FFY2tZNmZyaHBDWS1WMXVwUHhMVXIyWE4waEZFMGFvUTNZWWdacWduSXhNNWlIaVI2SnVlTWphT3A1Ym5HWnBXeGZHaHJxQmhuNUJ6b2U3UEZBOTRNemU0QQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-bba0d2a69dae.webp",
+    "image_source_url": "https://nationalpost.com/news/canadian-politics/federal-government-spent-over-half-a-billion-dollars-in-2015-on-legal-settlements-and-damages-against-the-crown/",
+    "image_credit": "National Post"
+  },
+  {
+    "id": "news-5b0fb41bf8d5",
+    "title": "Canada's $1.5B fighter pilot training project faces setbacks",
+    "summary": "A $1.5 billion initiative to train Canadian fighter pilots has encountered major issues.",
+    "amount": 1500000000,
+    "date": "2026-10-12",
+    "fiscal_year": "2026-27",
+    "department": "National Defence",
+    "dept_code": "ND",
+    "program_code": "BUP02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "National Post",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2F1bFBhRmtWbHJaRVIzZVVVYUJsUFVQMF9qV2ZhUl9tN0hDeEI2ak8ycXhXT1J0YklwZENDSV9iOFhmUlJzTGMzUmE1ZjNkU2IwdU1mbHRvcF9SZ0NYYUhoZDNfZW1UUDVCSkJIZHhNYlpFbkRHd3F6SEFPbGF6d2xhNmo5RzFOMnphOFdHUHRuNUVpTmpGbVNEVUd5Rng4bUNiUTlsaWZVT3hkZWJXTWRlN1k3UUVSaGVIbHp1WWtXWFl0SmlJN0Ixc29JNFF1VUwyMEtOZG50dWI3SFB3?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-5b0fb41bf8d5.webp",
+    "image_source_url": "https://nationalpost.com/news/canadian-politics/once-touted-by-the-liberals-a-1-5b-project-to-train-canadas-fighter-pilots-has-gone-off-the-rails/",
+    "image_credit": "National Post"
+  },
+  {
     "id": "news-7c5246ab4051",
     "title": "French and Swiss firms to build new VIA Rail fleet in $6.7-billion overhaul",
     "summary": "French and Swiss firms will build new passenger cars and locomotives for VIA Rail. The procurement is part of a $6.7-billion fleet overhaul.",
@@ -1689,14 +1733,14 @@
   },
   {
     "id": "news-2a6af56aac81",
-    "title": "Federal government announces $8 billion in military spending in Alberta",
-    "summary": "The federal government has announced $8 billion in military funding for Alberta.",
+    "title": "CFB Suffield included in $8B Alberta defence investment",
+    "summary": "Canadian Forces Base Suffield is included in an $8 billion defence investment in Alberta.",
     "amount": 8000000000,
     "date": "2026-10-07",
     "fiscal_year": "2026-27",
     "department": "National Defence",
     "dept_code": "ND",
-    "program_code": null,
+    "program_code": "BUS02",
     "source_type": "news",
     "level": "federal",
     "sources": [
@@ -1715,6 +1759,10 @@
       {
         "label": "CBC",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTl3VkZXMWJ6VGdxWFVnbmgyUEdhbW1ud2FUcUYtcGVzdnoxbkJQejlSdVB5cThyR3NFeXpfN3AyUnVUMnhSTG85bHlmYVItQ3Q0QndZQUd2d25SQjItR0w4LVJNTVl0ZmdPaGZ5UUQ0RDlOWTlycUpPdk5Rc1l5RVBJdjV4aEVRQUNWNA?oc=5"
+      },
+      {
+        "label": "CHAT News Today",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzFCUmZFOTZLYXZvWkZ5czNqWkZMTm9YMmxXQlh0dGVfcFlkdWFFOFVxTGpYdHJ3c2Y2RGFlMEpSUGVubjNGOXlxaWl6SmtCRmV6WlIxV3IyOHgxWF9fQmxFRTY4X1gtU2FxRjZMcHYzNjdQYy1HQnpmeVNQdHdiY0RmZkM4NjZmbWdrdGVxcXhBQTlISlhnTURjV1plblU0NWc3NW5UdU8xN2RW?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-88a849cd23a2.webp",
@@ -2292,7 +2340,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=bPGQfJ",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=XOUinu",
     "image_credit": "IntraFish"
   },
   {
@@ -2889,9 +2937,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-c4625895fe3d.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-0833ed8d711b.webp",
+    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-15beea9f0e27",
@@ -3074,7 +3122,7 @@
       }
     ],
     "image_url": "/story-images/news/news-c63a206fc7f1.webp",
-    "image_source_url": "https://nationalpost.com/news/canada/1-4b-of-federal-grants-spent-on-research-about-justin-trudeaus-speeches-canadian-dancefloors-and-low-carbon-videogames-ctf",
+    "image_source_url": "https://nationalpost.com/news/canada/1-4b-of-federal-grants-spent-on-research-about-justin-trudeaus-speeches-canadian-dancefloors-and-low-carbon-videogames-ctf/",
     "image_credit": "National Post"
   },
   {
@@ -3840,7 +3888,7 @@
       }
     ],
     "image_url": "/story-images/news/news-0695339cc4ce.webp",
-    "image_source_url": "https://financialpost.com/technology/ottawa-195-million-quantum-manufacturing-xanadu",
+    "image_source_url": "https://financialpost.com/technology/ottawa-195-million-quantum-manufacturing-xanadu/",
     "image_credit": "Financial Post"
   },
   {
