@@ -1,5 +1,27 @@
 [
   {
+    "id": "news-899b75307f99",
+    "title": "Federal government awards $21,000 limo contract for foreign minister's visit",
+    "summary": "The federal government awarded a $21,000 limousine contract for the visit of China's foreign minister.",
+    "amount": 21000,
+    "date": "2026-11-01",
+    "fiscal_year": "2026-27",
+    "department": "Global Affairs Canada",
+    "dept_code": "EA",
+    "program_code": "BVB05",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Juno News",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80N2xEZEs0NEI4REp3VDZLOU1yYlYzanpOc21OWE1WMmlqQWdnZTNGVTIxWnlIMFI0RGRmVzVLX2tHRGVGSHo4VWdvZ0VoRGtuMEZlRU1aRXJsZmFGeGFVYXdRRzJLSEIzWjY2Ty1Oem9ELV9LakdLNjdoR3g?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-899b75307f99.webp",
+    "image_source_url": "https://www.junonews.com/p/feds-21k-limo-contract-chinese-minister-visit",
+    "image_credit": "Juno News"
+  },
+  {
     "id": "news-145353ce2b28",
     "title": "CBSA renews actor contracts for $5M through 2030",
     "summary": "The Canada Border Services Agency renewed $5 million in roleplay actor contracts extending through 2030.",
@@ -279,6 +301,28 @@
       {
         "label": "Rebel News",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTERwWHd1RmxINXNkb01mblhWSV9EUlk3NHdyTUV6ZUJNV0VaT0o5LVFXS3hpVjVRVi1neDNhMzRYX3F6WXZWaXoxTm41cEFPM1RmMGdIcGtCOFRkejUzeHFJcUFJcnVFOXpNS2p6ZmdzTTQyNWJZWWlZcmhkNkdSQWZwc183ODJPTU5XSmYzc1Q2Q0otTmlDSFprY2dKa0U5ZWtiV0NRN0V0aWVnWVl2S2lGbTdadTVoWV9ET0pnRQ?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-8dbf2256dddc",
+    "title": "Rio Tinto and Aluminerie Alouette receive $193.3M in federal funding",
+    "summary": "Rio Tinto and Aluminerie Alouette have received $193.3 million in federal funding.",
+    "amount": 193300000,
+    "date": "2026-10-28",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "constructconnect.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWMyNVhfM3Q0V09iNWRlQ3ZxTXhDOXhyWThjbTVoRXRibGdrQzN2Q3poQTlzZU5XQUViMGhSQWo0SlU2bUZMSkZId1ROZGNYMG5GaUhKSUVrZGtkckNXc1pqa1ZvQmdjWEhRd210MWU2VDZES05JOU1CQzd3bXRwT1hyby1hWGpXM25vRnFJazh4TmpjVlRVNjFTMXh4QkEtT0RHMlJGQzZ0M1RXd29GRnh3bmxvQWxMQUZDSU14cXNLdw?oc=5"
       }
     ],
     "image_url": null,
@@ -763,9 +807,9 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1dQOWxSQXJPTTh6b19KNE9fYkVoNW85b2pKYjNoLXBVSkpSN2p0SHZ6cVlybWVRdTItTTNDOE05XzZEcUFFMnZSa2hJU1BRcUd4Q01qaUs1Tk12WVZHQkVhMmxUdjJ6Ymk3bmo4NG1lUk5wM2lOU0piVmtOYWtYWWUzeEppLTkxRS0tU2djWFlnRUNSVUZlX293ckQ1d0dHSzJSRThLREZhc2lKZ2loV2RaaXpFZw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-37fbf8cae98a.webp",
-    "image_source_url": "https://canadiandefencereview.com/dnd-signs-20m-spaceport-agreement-with-nordspace/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-aefc550fc17b.webp",
+    "image_source_url": "https://www.saltwire.com/newfoundland-labrador/nl-spaceport-20-million-agreement",
+    "image_credit": "PNI Atlantic News"
   },
   {
     "id": "news-a91241bed0c9",
@@ -990,7 +1034,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -1191,6 +1235,10 @@
       {
         "label": "ImmigCanada Immigration Consulting Services",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0NnMTQtNDJmdHd6Y2J1TWhDU0JyUVRsZU1IN0YxUUJIblF0cGE0cVNYaG91cDdnSW4ydGtvVlE4UUp4c24tOXp4TlFKYVVsMFNZNDVhbGM4Z1NELUhSZ3lSVTBDMzlFb19fS0U1dTh5TEJtM1J1QVZ0aFlBOERlZmN3?oc=5"
+      },
+      {
+        "label": "WestCentralOnline",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbmViU2N5Q19QdURmZmpSdkpOQmRlOUpIX2lqYU84VDEzSTIwMllnSlE2Nk1tcnJHN1BWZkJoM09VdU9iS2hsNVdTeUg5dzE1ODhWWnhkVTU5NTdkMTQwQW56aFhRWWh0N0VINDhIZ3ZSZmJ2Z2VHcDVSdjQwY0Y1eG9TZ2lFSkRUWWNZdVNWaHN3cy0wUXJVV0JyZGZOb3ZIRHZDbmE0aXk3OUN6QWFLMWhnWnU1QzB2NHMwQk52a1lKTWZPU1ZHeHdn?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-14bc176613dd.webp",
@@ -1344,32 +1392,6 @@
     "image_credit": "CTV News"
   },
   {
-    "id": "news-dea6df21d0f8",
-    "title": "Manitoba to recruit up to 90 doctors with $6M federal funding",
-    "summary": "Manitoba plans to hire up to 90 family doctors by 2029 supported by $6 million in federal funding.",
-    "amount": 6000000,
-    "date": "2026-10-14",
-    "fiscal_year": "2026-27",
-    "department": "Health Canada",
-    "dept_code": "H",
-    "program_code": "BVG21",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "CBC",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQk9hUFZESkFTWkFkWTVCcmJubHNTTEFheTl0STRITS1nbEFPUWt4NGZ0dTNSd2x2NVFLRTg4THRmb1BlcGZzQ042MFctRGtBWnRVUk8wX045VTVibVlxdURaeUl5bHA0QjdzSXExZE9UVlJGQUNnbmVfc1hpYzFjTkVoR3djNjdsREdrNW9DQkFfUQ?oc=5"
-      },
-      {
-        "label": "Winnipeg Sun",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
-      }
-    ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
-  },
-  {
     "id": "news-2244fb9aa8d6",
     "title": "Ottawa prepared to spend $50 million on New Brunswick forestry centre",
     "summary": "The federal government is prepared to invest $50 million into a high-tech forestry centre located in New Brunswick.",
@@ -1417,11 +1439,41 @@
       {
         "label": "Papnews",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMk1HaFdreE5RUGJydWlpNkl3clBhZGZRVFlnYngzMFI0U3VFTXBfV2FvaDN5UDBDWDFTRC1SM0dpSjBVeC1IMm1vS01zT19DM0t2dU9lV2RqRUkyc01yREJHQXBacDhGM0hUY2hOM2ppLUNiTGdwZ0l4VWNsZmZPa1ZLZjllQ0JjeDV1TEFnUEQ?oc=5"
+      },
+      {
+        "label": "Food Engineering Magazine",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUtIVkc3c2hXZFRPS2FvbEMtVUU4elZBNURBUFFMRm9KTnFtSTBzVjV6ZDgtMlZZX0QzcEVRNmV2OHpBVU96YklVcTlBYTlJbXRyTk1pNHlENkJZZUNEQ0psY1Y1Mk5TSV95T2RxLWl5dEk3QkpmVmVpYWpScXlhbzJSb2x2R3JmLVU1TTFibm0zMmgzM0VaekJBYktIMHBMVWdVMW03S01XQVdRYkJ6SWpTMnNPNXRkWkhqZA?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-2244fb9aa8d6.webp",
     "image_source_url": "https://ca.finance.yahoo.com/news/ottawa-investing-50-million-high-123516419.html",
     "image_credit": "Yahoo! Finance Canada"
+  },
+  {
+    "id": "news-dea6df21d0f8",
+    "title": "Manitoba to recruit up to 90 doctors with $6M federal funding",
+    "summary": "Manitoba plans to hire up to 90 family doctors by 2029 supported by $6 million in federal funding.",
+    "amount": 6000000,
+    "date": "2026-10-14",
+    "fiscal_year": "2026-27",
+    "department": "Health Canada",
+    "dept_code": "H",
+    "program_code": "BVG21",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQk9hUFZESkFTWkFkWTVCcmJubHNTTEFheTl0STRITS1nbEFPUWt4NGZ0dTNSd2x2NVFLRTg4THRmb1BlcGZzQ042MFctRGtBWnRVUk8wX045VTVibVlxdURaeUl5bHA0QjdzSXExZE9UVlJGQUNnbmVfc1hpYzFjTkVoR3djNjdsREdrNW9DQkFfUQ?oc=5"
+      },
+      {
+        "label": "Winnipeg Sun",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-2577605b3e08.webp",
+    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
+    "image_credit": "Winnipeg Sun"
   },
   {
     "id": "news-3082c44a5636",
@@ -1973,9 +2025,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-84165101ceaf.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-0d19f4920d96",
@@ -2344,7 +2396,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=pQhmle",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=v0mIHe",
     "image_credit": "IntraFish"
   },
   {
@@ -2941,9 +2993,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-c4625895fe3d.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-0833ed8d711b.webp",
+    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-15beea9f0e27",
@@ -3073,9 +3125,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjdabEdRZzRqc3hhUk0yVDlrYU5YYUNHNjJuZ3ZoRWZrRThSM3NSb3BlRXFBcHlndnQ0RDZLdExUTi1BTXctb0p4Sktud09yM1h2cE9EOVJLaUQ4eXFmSmUzeF9WQmRKMTVCNmkwM0lnQy1vNV96Z0tvdDl3VlpveDIyN1drSV9PTkxfNXU2QzNQeWRyS2dYZnFYNA?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-07c349ae8aa4.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-1-98-163400092.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-480664abee11",
@@ -3505,9 +3557,9 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWlSdUNNYS0tVzR1cW5nTlpWd0ZIcFpiYnRwaVFsYThMazNFNTNWbFZtRm9oSE80amRKN081TkRYSlZ1UXhJWElGQS1TUGNHSGhYQlp4ZEFBSnFfWTlkX05ZNmVpVUdoNkhreG14cDN0VG9ubGRIWmtMSklkLUJ4ek9fVnI2NXJiWHVidmZ3YThLMDlYWTJTRUxIUVpOclE?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-6a9bc54a3c8a.webp",
-    "image_source_url": "https://www.newswire.ca/news-releases/government-of-canada-invests-over-11-million-to-strengthen-businesses-jobs-and-communities-in-northern-b-c--874252031.html",
-    "image_credit": "PR Newswire Canada"
+    "image_url": "/story-images/news/news-376176735177.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-11-174900700.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-bb75e583d515",
