@@ -114,6 +114,28 @@
     "image_credit": "Northern Ontario Business"
   },
   {
+    "id": "news-1f94651d7ed4",
+    "title": "Canada invests $750M in year-round domestic food production",
+    "summary": "The Government of Canada is investing $750 million to boost domestic year-round food production and improve access to fruits and vegetables.",
+    "amount": 750000000,
+    "date": "2026-10-30",
+    "fiscal_year": "2026-27",
+    "department": "Agriculture and Agri-Food Canada",
+    "dept_code": "AGR",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVROLWJqRXRzb2hkMXEyd1FSU3FWOG1ob3oyczlJNFdYYThRUmpwS2lEcTJfUF9mRF81NkpCeFY1dHdUSEdyVlRrcXl0b3ktZGFaZTNYLVN6bHdnQjZxdWdWSFpXU3drNjZaQ2FubXlpT0FoZ0pKQlBtcjhLd0VfcnA1SHpNVkVtVFh2LWRUdw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-1f94651d7ed4.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-750-million-164500642.html",
+    "image_credit": "Yahoo! Finance Canada"
+  },
+  {
     "id": "news-a70874aecd10",
     "title": "Federal procurement agency lists $2.94M Canada Unity ad contract",
     "summary": "A federal procurement agency listed a $2.94 million advertising contract for Canada Unity. The contract was dated prior to the Alberta vote.",
@@ -807,9 +829,9 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1dQOWxSQXJPTTh6b19KNE9fYkVoNW85b2pKYjNoLXBVSkpSN2p0SHZ6cVlybWVRdTItTTNDOE05XzZEcUFFMnZSa2hJU1BRcUd4Q01qaUs1Tk12WVZHQkVhMmxUdjJ6Ymk3bmo4NG1lUk5wM2lOU0piVmtOYWtYWWUzeEppLTkxRS0tU2djWFlnRUNSVUZlX293ckQ1d0dHSzJSRThLREZhc2lKZ2loV2RaaXpFZw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-aefc550fc17b.webp",
-    "image_source_url": "https://www.saltwire.com/newfoundland-labrador/nl-spaceport-20-million-agreement",
-    "image_credit": "PNI Atlantic News"
+    "image_url": "/story-images/news/news-37fbf8cae98a.webp",
+    "image_source_url": "https://canadiandefencereview.com/dnd-signs-20m-spaceport-agreement-with-nordspace/",
+    "image_credit": "Canadian Defence Review"
   },
   {
     "id": "news-a91241bed0c9",
@@ -2025,9 +2047,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-84165101ceaf.webp",
+    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
+    "image_credit": "Canadian Defence Review"
   },
   {
     "id": "news-0d19f4920d96",
@@ -2396,7 +2418,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=v0mIHe",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=H9lKol",
     "image_credit": "IntraFish"
   },
   {
@@ -2993,9 +3015,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0833ed8d711b.webp",
-    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-c4625895fe3d.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-15beea9f0e27",
@@ -3125,9 +3147,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjdabEdRZzRqc3hhUk0yVDlrYU5YYUNHNjJuZ3ZoRWZrRThSM3NSb3BlRXFBcHlndnQ0RDZLdExUTi1BTXctb0p4Sktud09yM1h2cE9EOVJLaUQ4eXFmSmUzeF9WQmRKMTVCNmkwM0lnQy1vNV96Z0tvdDl3VlpveDIyN1drSV9PTkxfNXU2QzNQeWRyS2dYZnFYNA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-07c349ae8aa4.webp",
-    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-1-98-163400092.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-480664abee11",
@@ -3557,9 +3579,9 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWlSdUNNYS0tVzR1cW5nTlpWd0ZIcFpiYnRwaVFsYThMazNFNTNWbFZtRm9oSE80amRKN081TkRYSlZ1UXhJWElGQS1TUGNHSGhYQlp4ZEFBSnFfWTlkX05ZNmVpVUdoNkhreG14cDN0VG9ubGRIWmtMSklkLUJ4ek9fVnI2NXJiWHVidmZ3YThLMDlYWTJTRUxIUVpOclE?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-376176735177.webp",
-    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-11-174900700.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-6a9bc54a3c8a.webp",
+    "image_source_url": "https://www.newswire.ca/news-releases/government-of-canada-invests-over-11-million-to-strengthen-businesses-jobs-and-communities-in-northern-b-c--874252031.html",
+    "image_credit": "PR Newswire Canada"
   },
   {
     "id": "news-bb75e583d515",
@@ -3853,9 +3875,9 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM3c2dURwa3N0MTlmOHhvZmZiR3QteVhWdGNxa09FTHU0NGRKRDFDMHNMZ1psTVF2bHFGYWNqME9XZGxZRG50cFZhcVpCOFNuRVpqUmhiMFZvdGFlTXNLME92VnRvcHUtZm1WNi0zc0JzMXhZOFFDVGhZV0Z1TlE1YmN4NFEySURvNW0xcnpBSF8tNHdkLWFDSm5TQ0ZWN0FMQVZtUEd3YWl5NkNSc195Q29NdFZLTm5mRF9fTnY3TlRsQkp6eDRGaE1tZ1dPR3M?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-9b4ed288629b.webp",
-    "image_source_url": "https://www.verticalfarmdaily.com/article/9868531/50-million-investment-in-the-canadian-agri-food-automation-and-intelligence-network/",
-    "image_credit": "Vertical Farm Daily"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-5b475691404a",
