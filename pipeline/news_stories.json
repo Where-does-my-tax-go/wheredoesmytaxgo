@@ -1,5 +1,71 @@
 [
   {
+    "id": "news-cdca2d370219",
+    "title": "Federal government provides $15 million for zero-emission transit planning",
+    "summary": "The federal government is making $15 million available to support planning for zero-emission transit infrastructure.",
+    "amount": 15000000,
+    "date": "2026-11-03",
+    "fiscal_year": "2026-27",
+    "department": "Office of Infrastructure of Canada",
+    "dept_code": "OICC",
+    "program_code": "BYC02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Ontario Construction News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnhSeHRBdTNaQy1ZR3dIMGxVUUQ2dUExcldTRW1ST25hZmtEYURGZ3RvZ3hramxqSUpIMVVWY1ZQNzc3SG9yZ2pwLTNfRmVzQVp4QlcxWTE3SlQtVVRPYWlzeWR4TTRPZkw0dVVMRTQ3NkZiZzd6MndBUC1OUnNITXpESU8zbHdPU0FZbFlmQy1idEs5Wk9xOVlVNDZlMXNpVXJCNzg1Zw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-cdca2d370219.webp",
+    "image_source_url": "https://ontarioconstructionnews.com/ottawa-makes-15-million-available-for-zero-emission-transit-planning",
+    "image_credit": "Ontario Construction News"
+  },
+  {
+    "id": "news-19531230382c",
+    "title": "Federal government invests $8.75 million in Stouffville recreation centre",
+    "summary": "The federal government is investing $8.75 million to assist in building a recreation centre in Stouffville.",
+    "amount": 8750000,
+    "date": "2026-11-03",
+    "fiscal_year": "2026-27",
+    "department": "Office of Infrastructure of Canada",
+    "dept_code": "OICC",
+    "program_code": "BYC02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "ReNew Canada",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ25oRkJSdERIMTNpWnUydTZwbGc4VnRVMmZ3NjlSQzc2cHU2RUY5ZjZEbkE3eEZJSWVjRWNBUHVQekpxQ183NmdKR2JPcnE3ZThtSFNHdEY5WXhrR0hQTGdXN3h5UzVOMHpSS3dzc3JCTDdiOENGeXFOT3NnX0drRmJ1a3FZQjdzYzdMY1BkWnowV2dJX21DWmM2U1c?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-19531230382c.webp",
+    "image_source_url": "https://www.renewcanada.net/ottawa-invests-8-75m-to-help-build-recreation-centre-in-stouffville/",
+    "image_credit": "ReNew Canada"
+  },
+  {
+    "id": "news-a72d5ad1f593",
+    "title": "Federal government provides $3.5 million to New Brunswick plant",
+    "summary": "Canada is supporting a manufacturing facility in New Brunswick with $3.5 million to counter American tariffs.",
+    "amount": 3500000,
+    "date": "2026-11-03",
+    "fiscal_year": "2026-27",
+    "department": "Atlantic Canada Opportunities Agency",
+    "dept_code": "ACOA",
+    "program_code": "BED05",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "arabcanadanews.ca",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjV0VGFzaU9OclpjcC1JMS1jamxVQ3JaZmxpQ2pIMFJDOHNfb09BMXJBZlJvemVOdUtlY2RJTzJGSEJWT3A1ZGprX1pIOU1ZOU5YcDJScmxFRnhPcElkeVE2QzZlWE1QMXJ5b0RsVUw5MXlZMmFueTBiS3RLXzZvdmxVdTdQTHBQd21XZWc5ZXA1a3ZNQ18tSUVuaGotMHg2SGFUYUhmUXpHQXVqN2l6RXpSSXFUaElfdjRlTjB6bFFnanktb3BxNg?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-a72d5ad1f593.webp",
+    "image_source_url": "https://arabcanadanews.ca/en/article/canada-supports-a-plant-in-new-brunswick-with-35-million-dollars-to-counter-american-tariffs",
+    "image_credit": "arabcanadanews.ca"
+  },
+  {
     "id": "news-1548f8a6cd34",
     "title": "Ottawa awards $2.55B sole-sourced Telesat contract",
     "summary": "The federal government has awarded a $2.55 billion sole-sourced contract to Telesat.",
@@ -255,6 +321,10 @@
       {
         "label": "Sportsnet.ca",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMEJCTl9TaGJjXzBGSzJYeXpWOFVtX2x6REhwdXg1MGRBMm9NcER1NUEtSjJVNk9BV3hSV01oWnlOR0RuV1ZNMTdDcHd3bVBCZmRxVVpmZWxQcWwzUTUzTU9HWXRTWGJ3QkNTbkhlQnE0aXZOUVhOZGN4ZXo5LXNsWFJtUDQyX2RNNExORVV3cjNvYzNiaE9yUWN1dzktei1rbVdpSGtmNEFzQ0R5RzBZeEFkekN4WjNpV2NuUWFR?oc=5"
+      },
+      {
+        "label": "CP24",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWkdHT09lMW01V3N3Yi1yS1JjZFVacDhHdGpyMi1lVXdiTV9Ba3Z5c1hmQ19raXRQdHlxVVFWNElGcHRWQmVFZVloRU9COWNtMkFRdUtGU2JQalJlSXk3VDFrcDVzQkNFOTNOTjZfVW41ejlxeEt2bFJfQzJTMzZiT2Vhb2tteU5jR19leFBZWFg2ZElyX0JkSU1SX09KOFlKbllWaU9nc1VJalU0SDZCRkViWTlPZlFpZGdTMmRRYzA?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-4b63c2350416.webp",
@@ -1090,6 +1160,28 @@
     "image_credit": null
   },
   {
+    "id": "news-5a1ced5ed777",
+    "title": "Federal government spent $4.8M on unused Microsoft licenses",
+    "summary": "The Canadian Taxpayers Federation reports that the federal government spent $4.8 million on Microsoft licenses that employees did not use.",
+    "amount": 4800000,
+    "date": "2026-10-19",
+    "fiscal_year": "2026-27",
+    "department": "Shared Services Canada",
+    "dept_code": "SHARE",
+    "program_code": "BYE01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "National Post",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVZveC1oZEtfRHhpMnA2OWxTNEl3dURSR0F3YlA3ekdzdTVwRjVzRmtzVVl1M0FJTDB1QTROem1neDBEQWdyN3VTdGhUY0hEZENpWU5FaGNPLXVRNnc4V0c3eHNweFZwVGZkbGpKaEZqdmQ3VDJvNTY3U3JtMWxqTlNqbzFjNmdsT0dZd2VDSE5GVENVUlZqc2tYeDlKM2U0YTZBd0dIeVlJcVFlSFdxNWtqWQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-5a1ced5ed777.webp",
+    "image_source_url": "https://nationalpost.com/news/feds-spent-4-8m-on-microsoft-licenses-that-government-employees-didnt-even-use-ctf/",
+    "image_credit": "National Post"
+  },
+  {
     "id": "news-08d2e3ddf011",
     "title": "Ottawa announces $162 million for 10,000 AI work placements",
     "summary": "The federal government announced $162 million to fund 10,000 artificial intelligence work placements across Canada.",
@@ -1545,9 +1637,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-2577605b3e08.webp",
+    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
+    "image_credit": "Winnipeg Sun"
   },
   {
     "id": "news-3082c44a5636",
@@ -2470,7 +2562,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=NPbA0x",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=UYPdpr",
     "image_credit": "IntraFish"
   },
   {
@@ -3067,9 +3159,9 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTVRRFJTMVFQWC1WaFU5OTdjMWtMeURFakQ5MmZCSFlrdElvbEZRdWZwMlM3MVBwdGlvN3ZLaXpVUXFwQVh5SlI4RzQ0Q2VNRWhneVhyQWRDX0pFLWtsdXhxVFd3ejBpaHBoYTkxM3dEMUJqc1hzTkp3eHd3RlZEQ21rcUZQQWtQcm54cDcwcEw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0833ed8d711b.webp",
-    "image_source_url": "https://finance.yahoo.com/healthcare/articles/government-canada-announces-27-million-175500185.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-c4625895fe3d.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-announces-27-million-175500640.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-15beea9f0e27",
@@ -3199,9 +3291,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjdabEdRZzRqc3hhUk0yVDlrYU5YYUNHNjJuZ3ZoRWZrRThSM3NSb3BlRXFBcHlndnQ0RDZLdExUTi1BTXctb0p4Sktud09yM1h2cE9EOVJLaUQ4eXFmSmUzeF9WQmRKMTVCNmkwM0lnQy1vNV96Z0tvdDl3VlpveDIyN1drSV9PTkxfNXU2QzNQeWRyS2dYZnFYNA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-07c349ae8aa4.webp",
-    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-1-98-163400092.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-480664abee11",
@@ -3307,9 +3399,9 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjBsSXAwcGFCcjA0TzdweDBjNmJSTkpza1FKYTBPOGRfaTgxZ3RucTJuTUpVUGdZQWpOUVowN0lPb3JBZFZqUUxxVTJ4OWxZUWtfRV9LU3RGSVU0d2dQWFhKWEd3TG9ONTVpMUIwZmRnYVNPX3ZlNFF6Q2VIcHgzNEdYbE95eDV6?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-631c30f4a1ce.webp",
-    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-1-172500169.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-aec23c9f8e08.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-over-1-172500463.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-961d68580751",
