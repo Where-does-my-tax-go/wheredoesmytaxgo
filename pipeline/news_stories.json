@@ -1,5 +1,27 @@
 [
   {
+    "id": "news-1548f8a6cd34",
+    "title": "Ottawa awards $2.55B sole-sourced Telesat contract",
+    "summary": "The federal government has awarded a $2.55 billion sole-sourced contract to Telesat.",
+    "amount": 2550000000,
+    "date": "2026-11-02",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP06",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGhZcDdWTkhjNGlHbURaS20wVjRBdE13TkRwejBTYlg2QTNJSVlIck9yeU1pZ1d4bGJfTWF0amI1eUV6V3hfb0ZqOU5QY0liX1ZUQVVQck5PX1VObUVxOUtzTllTTDhEaUI3VzYwcmRCdzYyaU5ZcmpWd0o0eDhxOEdRNlpycWYtODIzVUlHRWhOZXV2dUhKLU5ZM3ZnU25lQ2NaNGpXUXZJWlRl?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-899b75307f99",
     "title": "Federal government awards $21,000 limo contract for foreign minister's visit",
     "summary": "The federal government awarded a $21,000 limousine contract for the visit of China's foreign minister.",
@@ -20,6 +42,32 @@
     "image_url": "/story-images/news/news-899b75307f99.webp",
     "image_source_url": "https://www.junonews.com/p/feds-21k-limo-contract-chinese-minister-visit",
     "image_credit": "Juno News"
+  },
+  {
+    "id": "news-1f94651d7ed4",
+    "title": "Canada invests $750M in year-round domestic food production",
+    "summary": "The Government of Canada is investing $750 million to boost domestic year-round food production and improve access to fruits and vegetables.",
+    "amount": 750000000,
+    "date": "2026-10-30",
+    "fiscal_year": "2026-27",
+    "department": "Agriculture and Agri-Food Canada",
+    "dept_code": "AGR",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVROLWJqRXRzb2hkMXEyd1FSU3FWOG1ob3oyczlJNFdYYThRUmpwS2lEcTJfUF9mRF81NkpCeFY1dHdUSEdyVlRrcXl0b3ktZGFaZTNYLVN6bHdnQjZxdWdWSFpXU3drNjZaQ2FubXlpT0FoZ0pKQlBtcjhLd0VfcnA1SHpNVkVtVFh2LWRUdw?oc=5"
+      },
+      {
+        "label": "🇨🇦 Grocery Business Canada",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUzBsZWNJSE1TbGlYZ1c4aFh3dEItWGRhZjc4NGhwWl8za2VxdXYwTUZNTklaSGllLURmRTdRQVZCWkwtaWFDbkRsekpQU2I1NER5a0d5eHZiZTV6NTI2RzJLekZlT2Uzd1FLREUyLVhITUthSXJjMEdsSEk5LXF2ZndkNllPR3lVXzZiZVdjZGpJcktMU3ZJajcxU21mSXBvS05RNDB2aXIxOFBZMG9yNlhCeWs3bHRSYlBsc3pOTHBYdkZrRFpN?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-1f94651d7ed4.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-750-million-164500642.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-145353ce2b28",
@@ -114,25 +162,25 @@
     "image_credit": "Northern Ontario Business"
   },
   {
-    "id": "news-1f94651d7ed4",
-    "title": "Canada invests $750M in year-round domestic food production",
-    "summary": "The Government of Canada is investing $750 million to boost domestic year-round food production and improve access to fruits and vegetables.",
-    "amount": 750000000,
+    "id": "news-e6a96a883f34",
+    "title": "Canada invests $130M in Inuit community housing",
+    "summary": "The Government of Canada is investing an additional $130 million to improve housing conditions and affordability in Inuit communities.",
+    "amount": 130000000,
     "date": "2026-10-30",
     "fiscal_year": "2026-27",
-    "department": "Agriculture and Agri-Food Canada",
-    "dept_code": "AGR",
-    "program_code": null,
+    "department": "Department of Indigenous Services",
+    "dept_code": "INDSC",
+    "program_code": "BYP13",
     "source_type": "news",
     "level": "federal",
     "sources": [
       {
         "label": "Yahoo! Finance Canada",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVROLWJqRXRzb2hkMXEyd1FSU3FWOG1ob3oyczlJNFdYYThRUmpwS2lEcTJfUF9mRF81NkpCeFY1dHdUSEdyVlRrcXl0b3ktZGFaZTNYLVN6bHdnQjZxdWdWSFpXU3drNjZaQ2FubXlpT0FoZ0pKQlBtcjhLd0VfcnA1SHpNVkVtVFh2LWRUdw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVJPSktoamgxTWpSTEg5TkxMamZCNXpkN1pPd0Z5dW1YenNDTnRQTlNwR3ZwMVQteWQ4MDViT1pQbTBTWXBWU3UxendDd2FfWmFoUi1wMldfRC1md1lVTkJmRlZsazVsUXlvVWVVazlCWTk4X21INGdtN0tiUUNtQzZCNWw2OUZsdFkwcVV6U2RXYWc?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-1f94651d7ed4.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-750-million-164500642.html",
+    "image_url": "/story-images/news/news-e6a96a883f34.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-additional-130-170000713.html",
     "image_credit": "Yahoo! Finance Canada"
   },
   {
@@ -265,9 +313,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeG5XOWs0NVFPZ3dub2RQZmFoeXp3dmNwa2ZVS09JYTJ3enVTQzNxWmUyMVI2bjd3ZGRmNFR1QVAzSjdMZGpOeFBBdWk4YU9EN3d5Wk0xTlVlVG9Odl9SVWt2Wmp5OVpZN0VGX0lPcEJIUEVPZGVvTkFTSGVEUlo2bUxJNnEtWHNLUExnOXNPTFY5Q25rVFNYVTRjcDNlbVpzSS1ZLXNNRFBDS05G?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-bcacf267636b.webp",
-    "image_source_url": "https://vir.com.vn/pmet-resources-secures-12-million-canadian-dollars-federal-lithium-road-grant-163978.html",
-    "image_credit": "Vietnam Investment Review - VIR"
+    "image_url": "/story-images/news/news-d8032977a7ff.webp",
+    "image_source_url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/pmet-resources-announces-federal-funding-of-c12-million-to-its-100-owned-subsidiary-innova-lithium-for-shaakichiuwaanaan-access-road/2456571",
+    "image_credit": "The Manila Times"
   },
   {
     "id": "news-390db9c6e462",
@@ -1060,7 +1108,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -1497,9 +1545,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-2577605b3e08.webp",
-    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
-    "image_credit": "Winnipeg Sun"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-3082c44a5636",
@@ -2422,7 +2470,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=mL3ijn",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=lrU7Se",
     "image_credit": "IntraFish"
   },
   {
@@ -3151,9 +3199,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjdabEdRZzRqc3hhUk0yVDlrYU5YYUNHNjJuZ3ZoRWZrRThSM3NSb3BlRXFBcHlndnQ0RDZLdExUTi1BTXctb0p4Sktud09yM1h2cE9EOVJLaUQ4eXFmSmUzeF9WQmRKMTVCNmkwM0lnQy1vNV96Z0tvdDl3VlpveDIyN1drSV9PTkxfNXU2QzNQeWRyS2dYZnFYNA?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-07c349ae8aa4.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-1-98-163400092.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-480664abee11",
