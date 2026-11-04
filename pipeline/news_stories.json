@@ -1,5 +1,49 @@
 [
   {
+    "id": "news-ee75054add7f",
+    "title": "Nunatsiavut government receives $15.5M from Ottawa for housing",
+    "summary": "The Nunatsiavut government will receive $15.5 million in federal funding to improve housing infrastructure.",
+    "amount": 15500000,
+    "date": "2026-11-04",
+    "fiscal_year": "2026-27",
+    "department": "Department of Indigenous Services",
+    "dept_code": "INDSC",
+    "program_code": "BYP13",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdkw5el9HblpOVEZLaVNGVnZDZWYxb3NaQkdsU29YQ001LUVZTFk0QWlheVZTZmZTT3NWV3RSZ01VZ1JTYXVseEJUbW1iTzd3bmZzdUlvby10bTZJbnJ0WGxhRXl6Uklvdm1CQWh4RHVhcjBfcWp5VkJpR0tfc2xCZHQwRWMtTTA1ekdva3lUMzJfWlppV25JR3ROUWhUcTdnbWRQdl9HV3BOSHlaLTc0NGg1ZkZFNzJ1TUpwWVJmaVNSc2ZWUVJ1cDF1Vll3Zw?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-66c70a5180d3",
+    "title": "Bird Construction awarded $404.9M option for Ottawa science hub",
+    "summary": "Bird Construction secured a $404.9 million contract option from the federal government as construction begins on an Ottawa science hub facility.",
+    "amount": 404900000,
+    "date": "2026-11-04",
+    "fiscal_year": "2026-27",
+    "department": "Public Services and Procurement Canada",
+    "dept_code": "GSC",
+    "program_code": "BVX01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "NetNewsLedger",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU191VVhlUHlYbkxMbXZpNkdjTEZ2OWtncjdjOTVMVC1LY3Z6Ull3ZFBXZHRWMWtkazJyLURoQmNJY1pkejlvWEZtMnZ4U3IxWG12TUt2MnQ1X1ZQMG5IUXhpQVNOdnBSaDlSUG1HeVZNN2NvNDA0YjdYdWV2SFdhZ3VhTGowSFNMQmFFN2VVZVdjenIyYjhmRUtIZEhrbXUxazdMejBYV0N2QVUybnlNRXc2VjdBRjd2cFJIcVhKcG1BbmM?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-66c70a5180d3.webp",
+    "image_source_url": "https://www.netnewsledger.com/2026/11/04/bird-construction-gets-404-9-million-ottawa-science-hub-option-as-main-build-begins/",
+    "image_credit": "NetNewsLedger"
+  },
+  {
     "id": "news-cdca2d370219",
     "title": "Federal government provides $15 million for zero-emission transit planning",
     "summary": "The federal government is making $15 million available to support planning for zero-emission transit infrastructure.",
@@ -44,7 +88,7 @@
     "image_credit": "ReNew Canada"
   },
   {
-    "id": "news-a72d5ad1f593",
+    "id": "news-776fc64ab030",
     "title": "Federal government provides $3.5 million to New Brunswick plant",
     "summary": "Canada is supporting a manufacturing facility in New Brunswick with $3.5 million to counter American tariffs.",
     "amount": 3500000,
@@ -59,6 +103,10 @@
       {
         "label": "arabcanadanews.ca",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjV0VGFzaU9OclpjcC1JMS1jamxVQ3JaZmxpQ2pIMFJDOHNfb09BMXJBZlJvemVOdUtlY2RJTzJGSEJWT3A1ZGprX1pIOU1ZOU5YcDJScmxFRnhPcElkeVE2QzZlWE1QMXJ5b0RsVUw5MXlZMmFueTBiS3RLXzZvdmxVdTdQTHBQd21XZWc5ZXA1a3ZNQ18tSUVuaGotMHg2SGFUYUhmUXpHQXVqN2l6RXpSSXFUaElfdjRlTjB6bFFnanktb3BxNg?oc=5"
+      },
+      {
+        "label": "Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbkpCekR1RzktU2dpdjBOTHRfS3VXNWpQV1BWeWVTODJ0ZGJidkV2amVDeVdwNlJxcElkeWdxaXVqQi13YzFFYWNDbi1HSHpSeUFrSWoyZDR5aGFWTEVvSl9JcVNqRERiYnlTaTFuWUVGMmJHUEhNN3A1VVpra0lMS3VqNnFlRmpheUt1dlhnOHc?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-a72d5ad1f593.webp",
@@ -129,6 +177,10 @@
       {
         "label": "🇨🇦 Grocery Business Canada",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUzBsZWNJSE1TbGlYZ1c4aFh3dEItWGRhZjc4NGhwWl8za2VxdXYwTUZNTklaSGllLURmRTdRQVZCWkwtaWFDbkRsekpQU2I1NER5a0d5eHZiZTV6NTI2RzJLekZlT2Uzd1FLREUyLVhITUthSXJjMEdsSEk5LXF2ZndkNllPR3lVXzZiZVdjZGpJcktMU3ZJajcxU21mSXBvS05RNDB2aXIxOFBZMG9yNlhCeWs3bHRSYlBsc3pOTHBYdkZrRFpN?oc=5"
+      },
+      {
+        "label": "FreshPlaza",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbmVfVW05WlhDSEFLYjVkN0ZhTk1CMTlfd3YwRUVoLUZWTnpkWElHeFgxZDN5RUtSb0gxV3Q0Vjcyd2RaM05aaHZXbUxLYUNrdENjdjdrczBaR0lKZm5oc1dLYThpbzBsSVlKOUpMcVlucG51Xy1ySlRDaUkxdlA5eWF4RXBBOWlHSENZZFRCV0NPN1dyMFBjUXZ3Zzk0NUlKTm9aNFY5OEpiQ3hxb0xXLVFsS29NQ3lRQWl3dEtFcw?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-1f94651d7ed4.webp",
@@ -423,6 +475,10 @@
       {
         "label": "Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWxhelllblFic0VwdGh3SW0zbkJxYUZfcUdZdXUzQ09uc0Zud1RReEtzb09HQnhCbWZHVHJrSnhYVmszbFRnbVFQNTJQSGx0RDhycHNub09MZDBiaTY2UWRQRUNHbmRydjdKSGdURGlPb0JuWXEtTFc4VWpoZy1JaExPWHRzUzVvQVYwZFNhcl9QalA3NmRn?oc=5"
+      },
+      {
+        "label": "Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUc4UEVQT0pVWFdPLUc2V3RUX0dXVVZEb181RWx1bjA5Z1k1SkdneXQ4dVYzVzIydVpaZ1BuMHlWazZHQUdBajR6QldsZHUzRndfdUdNTzFTS3dMa0xtdlhLRzI0c2NKbkk3UjN6RVRVRmZxRUtoc21Ic3lkc0xLNm9VWnJQelg5NWVyXzM1NHlWX2V1N0VwTk8tY3VaZmdHN1dZdGdLdFBFTUg4MVhnSmUyZUhmUm9BbHc?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-3f867093c58c.webp",
@@ -1131,11 +1187,15 @@
       {
         "label": "CBC",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEJlX3dhLTJxS1RWWGRyay1pWVJ5SE9SZ3U0TXRlMWJjV1dDY3ZqOVdZWHB6QjYzaHFwQVdBbUV3Xy1jUXNGQV9aZEtOTGZwMHJUUy1oVkVIVjctLTZ6UWFlalctSzdkYkhkaTJRTGpXaDEtMl9oRFVFckJJT0t1SGFVQm4wc3dxbjRRVEczM1ZkdWFWTC1qbw?oc=5"
+      },
+      {
+        "label": "Yahoo News Canada",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZi1kSUFadjFOa2tJSkhHN2E0R1F3azBSN215TS1PTExNZXUyODN4R0lfNVNlY05QSnNPeDQwaUJ3eWNRYkR3V211WWVlUXQ1ZklaTDNxdUdHM1hMVTRVcUR4NEZ6YjhaQVlGVFNYMW5yRkNLZV9qU3NFNm1TWkZ4dA?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-ea6eca92b4fc.webp",
+    "image_source_url": "https://ca.news.yahoo.com/cra-awards-12m-contract-subsidiary-212130779.html",
+    "image_credit": "Yahoo News Canada"
   },
   {
     "id": "news-de9996fafcab",
@@ -1200,7 +1260,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -1831,9 +1891,9 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmgwUGFmZGk5aExiVm9aMDdYQ3dzdF8tUE41Y3lJU29KaFVNdTRKVnZVbktWQVBxWHRDQzdLMlFfTmJjZUhIRVVSSDJ0RGFCYmY2Z2lqQlJtbFlWR0NjUmhxRFJBcklHMlM0YTVHTmVTZWk0bW5VVjgzXzJRenRDNmdveGdBQllEaURDMGpKOG9RaXR3MXM0ai1LVmRrT24wQU9nZ1ZfaXJja2hxVlhqcGM0MnUzSHlWRE5EQWptTQ?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-2515cc4e75bb.webp",
+    "image_source_url": "https://www.alcircle.com/news/aluminum-to-replace-diesel-canada-grants-2-81m-for-alumapowers-energy-generation-tech-121516",
+    "image_credit": "AL Circle"
   },
   {
     "id": "news-616a29b13b73",
@@ -2562,7 +2622,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=IaV8TQ",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=wLqUpD",
     "image_credit": "IntraFish"
   },
   {
@@ -3399,9 +3459,9 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjBsSXAwcGFCcjA0TzdweDBjNmJSTkpza1FKYTBPOGRfaTgxZ3RucTJuTUpVUGdZQWpOUVowN0lPb3JBZFZqUUxxVTJ4OWxZUWtfRV9LU3RGSVU0d2dQWFhKWEd3TG9ONTVpMUIwZmRnYVNPX3ZlNFF6Q2VIcHgzNEdYbE95eDV6?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-aec23c9f8e08.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-over-1-172500463.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-631c30f4a1ce.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-1-172500169.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-961d68580751",
