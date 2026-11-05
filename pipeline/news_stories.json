@@ -368,7 +368,7 @@
     "image_credit": "The Hill Times"
   },
   {
-    "id": "news-4b1189c4f451",
+    "id": "news-16733af60ddf",
     "title": "Federal government doubles Next Gen athletes program funding to $10 million",
     "summary": "The federal government is doubling its funding for the Next Gen athletes program to $10 million.",
     "amount": 10000000,
@@ -399,11 +399,15 @@
       {
         "label": "CP24",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWkdHT09lMW01V3N3Yi1yS1JjZFVacDhHdGpyMi1lVXdiTV9Ba3Z5c1hmQ19raXRQdHlxVVFWNElGcHRWQmVFZVloRU9COWNtMkFRdUtGU2JQalJlSXk3VDFrcDVzQkNFOTNOTjZfVW41ejlxeEt2bFJfQzJTMzZiT2Vhb2tteU5jR19leFBZWFg2ZElyX0JkSU1SX09KOFlKbllWaU9nc1VJalU0SDZCRkViWTlPZlFpZGdTMmRRYzA?oc=5"
+      },
+      {
+        "label": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSXhXOUdkZC0wX3VsR1dOMjJtUjZ4UnRmeTZzNVRiLThENjNRMm1jcU41TmkyWjVQQmlOMWZKU0xmTnltbE9RWllvSUN0c0NTU2t4SUhEamdvTGdMRUZUdU1RLTZ2clBpV1ZEYkdlUzZHWUI2S3ZtWHFSam92b1BlQzNTNWxoQmpOb19leVln?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-4b63c2350416.webp",
-    "image_source_url": "https://www.ctvnews.ca/politics/article/federal-government-doubles-funding-to-10-million-for-next-gen-athletes-program/",
-    "image_credit": "CTV News"
+    "image_url": "/story-images/news/news-16733af60ddf.webp",
+    "image_source_url": "https://ca.sports.yahoo.com/news/federal-government-doubles-funding-10-150005108.html",
+    "image_credit": "Yahoo"
   },
   {
     "id": "news-62217be23d25",
@@ -1282,7 +1286,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -2644,7 +2648,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=gyHMzF",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=JQvoLU",
     "image_credit": "IntraFish"
   },
   {
