@@ -1,5 +1,75 @@
 [
   {
+    "id": "news-efab280b3256",
+    "title": "Algoma Steel awarded $182M contract for polar icebreaker fleet",
+    "summary": "Algoma Steel has won a $182-million contract to supply materials for the polar icebreaker fleet.",
+    "amount": 182000000,
+    "date": "2026-11-05",
+    "fiscal_year": "2026-27",
+    "department": "Fisheries and Oceans Canada",
+    "dept_code": "FO",
+    "program_code": "BTI06",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "PravdaReport",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV0xVaHBwQlB1RGhEdDNNN29EbnZYMnBJcnplSFpUU2xmb1VIMHVia2w3RlF2SFRldVNVSHc4M2laS3NKeldvSlpVeGdZVVRGcy1UZjM0N3pYNmVVT01BT1ktbDVrVGw3aFJ2cVRkTTNxNXVLenRGR196eVB3QVc4WW1TWGhiV1AzZmZiZklROTh6SUE?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-efab280b3256.webp",
+    "image_source_url": "https://english.pravda.ru/news/world/171637-algoma-steel-coast-guard-icebreaker-contract/",
+    "image_credit": "PravdaReport"
+  },
+  {
+    "id": "news-e254831d0930",
+    "title": "VIA Rail completes $310M Toronto hub with early fault detection",
+    "summary": "VIA Rail has finished construction on a $310-million Toronto hub featuring early fault detection systems.",
+    "amount": 310000000,
+    "date": "2026-11-05",
+    "fiscal_year": "2026-27",
+    "department": "VIA Rail Canada Inc.",
+    "dept_code": "VIA",
+    "program_code": "BTZ00",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Railway Supply",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM24xdmItWjdIbDJDRTVMSXRoMlRkUUU3WGFiOFFjTkRQUmpscUhaZDRJeHNCa25kaEhfQnFCTFByYnZNV2t6cTY0UTM4LUZHdlRDREZCR2ktN3YwVW9kU2x6UFJsdVVKc3FrNFgtVEY1OTlNVm5uNFg5UW5oWUdHY082dmFUamhnUjAxd0ZOclRRbGcyY2hkTXFndkYtQQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-e254831d0930.webp",
+    "image_source_url": "https://www.railway.supply/via-rail-finishes-c310-million-toronto-hub-with-early-fault-detection/",
+    "image_credit": "Railway Supply"
+  },
+  {
+    "id": "news-66c70a5180d3",
+    "title": "Bird Construction awarded $404.9M option for Ottawa science hub",
+    "summary": "Bird Construction secured a $404.9 million contract option from the federal government as construction begins on an Ottawa science hub facility.",
+    "amount": 404900000,
+    "date": "2026-11-04",
+    "fiscal_year": "2026-27",
+    "department": "Public Services and Procurement Canada",
+    "dept_code": "GSC",
+    "program_code": "BVX01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "NetNewsLedger",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU191VVhlUHlYbkxMbXZpNkdjTEZ2OWtncjdjOTVMVC1LY3Z6Ull3ZFBXZHRWMWtkazJyLURoQmNJY1pkejlvWEZtMnZ4U3IxWG12TUt2MnQ1X1ZQMG5IUXhpQVNOdnBSaDlSUG1HeVZNN2NvNDA0YjdYdWV2SFdhZ3VhTGowSFNMQmFFN2VVZVdjenIyYjhmRUtIZEhrbXUxazdMejBYV0N2QVUybnlNRXc2VjdBRjd2cFJIcVhKcG1BbmM?oc=5"
+      },
+      {
+        "label": "Ontario Construction News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTA2SjRoSEdYV3RSdTBtYlpUQnBiS3dKanRQNjY0MDNtRURLTTIyREh4cVZVZHFQcDBWalhIekdlSF9HdzBQdGJ3NEhTdmVSLXZSMHdpV3FNZGx2Ni1telYyYUNUZjV1QWtGb2FxX3h0TGlsNXJ0dks2cjNoLUdiZjU4WHFjZlpNSXNoSGo2ZTFwTWZ0MFFIZFBpY3RobV90OERoZ2thUzFNbHR5Sk93?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-66c70a5180d3.webp",
+    "image_source_url": "https://www.netnewsledger.com/2026/11/04/bird-construction-gets-404-9-million-ottawa-science-hub-option-as-main-build-begins/",
+    "image_credit": "NetNewsLedger"
+  },
+  {
     "id": "news-ee75054add7f",
     "title": "Nunatsiavut government receives $15.5M from Ottawa for housing",
     "summary": "The Nunatsiavut government will receive $15.5 million in federal funding to improve housing infrastructure.",
@@ -22,26 +92,34 @@
     "image_credit": null
   },
   {
-    "id": "news-66c70a5180d3",
-    "title": "Bird Construction awarded $404.9M option for Ottawa science hub",
-    "summary": "Bird Construction secured a $404.9 million contract option from the federal government as construction begins on an Ottawa science hub facility.",
-    "amount": 404900000,
-    "date": "2026-11-04",
+    "id": "news-776fc64ab030",
+    "title": "Federal government provides $3.5 million to New Brunswick plant",
+    "summary": "Canada is supporting a manufacturing facility in New Brunswick with $3.5 million to counter American tariffs.",
+    "amount": 3500000,
+    "date": "2026-11-03",
     "fiscal_year": "2026-27",
-    "department": "Public Services and Procurement Canada",
-    "dept_code": "GSC",
-    "program_code": "BVX01",
+    "department": "Atlantic Canada Opportunities Agency",
+    "dept_code": "ACOA",
+    "program_code": "BED05",
     "source_type": "news",
     "level": "federal",
     "sources": [
       {
-        "label": "NetNewsLedger",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU191VVhlUHlYbkxMbXZpNkdjTEZ2OWtncjdjOTVMVC1LY3Z6Ull3ZFBXZHRWMWtkazJyLURoQmNJY1pkejlvWEZtMnZ4U3IxWG12TUt2MnQ1X1ZQMG5IUXhpQVNOdnBSaDlSUG1HeVZNN2NvNDA0YjdYdWV2SFdhZ3VhTGowSFNMQmFFN2VVZVdjenIyYjhmRUtIZEhrbXUxazdMejBYV0N2QVUybnlNRXc2VjdBRjd2cFJIcVhKcG1BbmM?oc=5"
+        "label": "arabcanadanews.ca",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjV0VGFzaU9OclpjcC1JMS1jamxVQ3JaZmxpQ2pIMFJDOHNfb09BMXJBZlJvemVOdUtlY2RJTzJGSEJWT3A1ZGprX1pIOU1ZOU5YcDJScmxFRnhPcElkeVE2QzZlWE1QMXJ5b0RsVUw5MXlZMmFueTBiS3RLXzZvdmxVdTdQTHBQd21XZWc5ZXA1a3ZNQ18tSUVuaGotMHg2SGFUYUhmUXpHQXVqN2l6RXpSSXFUaElfdjRlTjB6bFFnanktb3BxNg?oc=5"
+      },
+      {
+        "label": "Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbkpCekR1RzktU2dpdjBOTHRfS3VXNWpQV1BWeWVTODJ0ZGJidkV2amVDeVdwNlJxcElkeWdxaXVqQi13YzFFYWNDbi1HSHpSeUFrSWoyZDR5aGFWTEVvSl9JcVNqRERiYnlTaTFuWUVGMmJHUEhNN3A1VVpra0lMS3VqNnFlRmpheUt1dlhnOHc?oc=5"
+      },
+      {
+        "label": "Design Engineering Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWFVmbnNsa04zNlhYNlFZTDdtVlNtY3RIcGJLdkdGMFlQTl9xZ2hvTjBKSjJaLTlTY2ZlTW5pUGtXRUF2QmtQc0dGclB1cEZrNUxCaVZhMjBZdjctLVEyMWprV092Qm5RWEwxRXBNZW0zVUMtSm1lUjNJTjBZbDYxMFlBZWV0T25KeXliMTRWVGtrWmowbzJrMQ?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-66c70a5180d3.webp",
-    "image_source_url": "https://www.netnewsledger.com/2026/11/04/bird-construction-gets-404-9-million-ottawa-science-hub-option-as-main-build-begins/",
-    "image_credit": "NetNewsLedger"
+    "image_url": "/story-images/news/news-a72d5ad1f593.webp",
+    "image_source_url": "https://arabcanadanews.ca/en/article/canada-supports-a-plant-in-new-brunswick-with-35-million-dollars-to-counter-american-tariffs",
+    "image_credit": "arabcanadanews.ca"
   },
   {
     "id": "news-cdca2d370219",
@@ -86,32 +164,6 @@
     "image_url": "/story-images/news/news-19531230382c.webp",
     "image_source_url": "https://www.renewcanada.net/ottawa-invests-8-75m-to-help-build-recreation-centre-in-stouffville/",
     "image_credit": "ReNew Canada"
-  },
-  {
-    "id": "news-776fc64ab030",
-    "title": "Federal government provides $3.5 million to New Brunswick plant",
-    "summary": "Canada is supporting a manufacturing facility in New Brunswick with $3.5 million to counter American tariffs.",
-    "amount": 3500000,
-    "date": "2026-11-03",
-    "fiscal_year": "2026-27",
-    "department": "Atlantic Canada Opportunities Agency",
-    "dept_code": "ACOA",
-    "program_code": "BED05",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "arabcanadanews.ca",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjV0VGFzaU9OclpjcC1JMS1jamxVQ3JaZmxpQ2pIMFJDOHNfb09BMXJBZlJvemVOdUtlY2RJTzJGSEJWT3A1ZGprX1pIOU1ZOU5YcDJScmxFRnhPcElkeVE2QzZlWE1QMXJ5b0RsVUw5MXlZMmFueTBiS3RLXzZvdmxVdTdQTHBQd21XZWc5ZXA1a3ZNQ18tSUVuaGotMHg2SGFUYUhmUXpHQXVqN2l6RXpSSXFUaElfdjRlTjB6bFFnanktb3BxNg?oc=5"
-      },
-      {
-        "label": "Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbkpCekR1RzktU2dpdjBOTHRfS3VXNWpQV1BWeWVTODJ0ZGJidkV2amVDeVdwNlJxcElkeWdxaXVqQi13YzFFYWNDbi1HSHpSeUFrSWoyZDR5aGFWTEVvSl9JcVNqRERiYnlTaTFuWUVGMmJHUEhNN3A1VVpra0lMS3VqNnFlRmpheUt1dlhnOHc?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-a72d5ad1f593.webp",
-    "image_source_url": "https://arabcanadanews.ca/en/article/canada-supports-a-plant-in-new-brunswick-with-35-million-dollars-to-counter-american-tariffs",
-    "image_credit": "arabcanadanews.ca"
   },
   {
     "id": "news-1548f8a6cd34",
@@ -1033,9 +1085,9 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1dQOWxSQXJPTTh6b19KNE9fYkVoNW85b2pKYjNoLXBVSkpSN2p0SHZ6cVlybWVRdTItTTNDOE05XzZEcUFFMnZSa2hJU1BRcUd4Q01qaUs1Tk12WVZHQkVhMmxUdjJ6Ymk3bmo4NG1lUk5wM2lOU0piVmtOYWtYWWUzeEppLTkxRS0tU2djWFlnRUNSVUZlX293ckQ1d0dHSzJSRThLREZhc2lKZ2loV2RaaXpFZw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-37fbf8cae98a.webp",
-    "image_source_url": "https://canadiandefencereview.com/dnd-signs-20m-spaceport-agreement-with-nordspace/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-aefc550fc17b.webp",
+    "image_source_url": "https://www.saltwire.com/newfoundland-labrador/nl-spaceport-20-million-agreement",
+    "image_credit": "PNI Atlantic News"
   },
   {
     "id": "news-a91241bed0c9",
@@ -1286,7 +1338,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -2277,9 +2329,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-84165101ceaf.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-0d19f4920d96",
@@ -2648,7 +2700,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=JQvoLU",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=Arc5Dv",
     "image_credit": "IntraFish"
   },
   {
