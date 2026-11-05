@@ -1,27 +1,5 @@
 [
   {
-    "id": "news-efab280b3256",
-    "title": "Algoma Steel awarded $182M contract for polar icebreaker fleet",
-    "summary": "Algoma Steel has won a $182-million contract to supply materials for the polar icebreaker fleet.",
-    "amount": 182000000,
-    "date": "2026-11-05",
-    "fiscal_year": "2026-27",
-    "department": "Fisheries and Oceans Canada",
-    "dept_code": "FO",
-    "program_code": "BTI06",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "PravdaReport",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV0xVaHBwQlB1RGhEdDNNN29EbnZYMnBJcnplSFpUU2xmb1VIMHVia2w3RlF2SFRldVNVSHc4M2laS3NKeldvSlpVeGdZVVRGcy1UZjM0N3pYNmVVT01BT1ktbDVrVGw3aFJ2cVRkTTNxNXVLenRGR196eVB3QVc4WW1TWGhiV1AzZmZiZklROTh6SUE?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-efab280b3256.webp",
-    "image_source_url": "https://english.pravda.ru/news/world/171637-algoma-steel-coast-guard-icebreaker-contract/",
-    "image_credit": "PravdaReport"
-  },
-  {
     "id": "news-e254831d0930",
     "title": "VIA Rail completes $310M Toronto hub with early fault detection",
     "summary": "VIA Rail has finished construction on a $310-million Toronto hub featuring early fault detection systems.",
@@ -42,6 +20,98 @@
     "image_url": "/story-images/news/news-e254831d0930.webp",
     "image_source_url": "https://www.railway.supply/via-rail-finishes-c310-million-toronto-hub-with-early-fault-detection/",
     "image_credit": "Railway Supply"
+  },
+  {
+    "id": "news-53afdd7a1986",
+    "title": "Government to spend $1 billion on digital transformation of public service",
+    "summary": "The federal government plans to spend $1 billion on the digital transformation of the public service.",
+    "amount": 1000000000,
+    "date": "2026-11-05",
+    "fiscal_year": "2026-27",
+    "department": "Treasury Board of Canada Secretariat",
+    "dept_code": "TBC",
+    "program_code": "BXB13",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMlhIUmt4VUZxdUpyX3djdnRaRF81anYwclJnU0M3dTZJcDRQZVhMUmtFZzk3aDVuUDVxU0RxcTVGaF9sTFo0SnVZaHRELUtwR1ByaW9NMnl3U2E0bjNHdVBTSVJCQ2hQS0R0b1VMaGFFQlJ3cnFBWklwbUZNTF9LNzY3OHdaYTB3dkNpQUZrSV9IZmhEV2FEdk9pckJaWFZpWHdubjkxWkJCdw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-53afdd7a1986.webp",
+    "image_source_url": "https://www.ctvnews.ca/ottawa/article/feds-to-spend-1-billion-on-digital-transformation-of-public-service/",
+    "image_credit": "CTV News"
+  },
+  {
+    "id": "news-75bcd096d1fb",
+    "title": "Federal budget includes $261M for Kingston's LaSalle Causeway",
+    "summary": "The federal budget allocates funding to repair and replace the LaSalle Causeway in Kingston.",
+    "amount": 261000000,
+    "date": "2026-11-05",
+    "fiscal_year": "2026-27",
+    "department": "Public Services and Procurement Canada",
+    "dept_code": "GSC",
+    "program_code": "BVX01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWXQ0eklMWWFsZ2dTcDNzdEtycUFIS2s3R2JncWZob25zOWhKcVJabkxzeGpWZGFtNXVVTlg5YkZjQVplTjNrWmpVWm9aUVZmVjQ5WU1xRjRTNmQ1dXJ6bGdUT3JyQW1CWlhrNjB2VkRDZW1seTlaTjRPM1hGS2J1UXJDUW04MTJtUjVyaDhJZlVxX1RXVDVoSUlINjV5VnBrbGhIUmxxdzhLLThIRkdubHlsS3FWMjRYbkc0bjlqSQ?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-22cce68365a9",
+    "title": "Federal budget proposes $5B for culture sector",
+    "summary": "The federal budget proposes $5 billion in spending for Canada's culture sector.",
+    "amount": 5000000000,
+    "date": "2026-11-05",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUcyVEpoeThvS2VHQnVjMXAzQ3cyQURiWEFCZnRCMW9HX0M3eE5iTGhkdmNOcENfbnFuemhiUS1fU2MyOExpMk1jMGJJUkN0aXE4Z0hpUzZmSks4LVZ2d2lJVzlJVExlc1RtcXZqbm9JeFRWejJacEpwd1BOSEZwZHF1UHRRU053c0NDakMybkFJLVpPNV9n?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-e197ab69a735",
+    "title": "Algoma Steel signs $182M contract for polar icebreaker fleet",
+    "summary": "Algoma Steel has signed a $182 million contract to help build a fleet of polar icebreakers.",
+    "amount": 182000000,
+    "date": "2026-11-04",
+    "fiscal_year": "2026-27",
+    "department": "Fisheries and Oceans Canada",
+    "dept_code": "FO",
+    "program_code": "BTI06",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1NtUEpaN3otbnhIR193MmZRaGpUWVpDMXFYRUREYlBTUTlSajQyVXdBQnRNaEFkRVVpekNxTk5TNTUzRmlEX1VRUUgzb2RSSm1ubzJudnFybXZJMXBMcGxIaXdtNkkxVFpyWVpIUFU0Z3FHYTZtenpOUWNIVTdjazkyUQ?oc=5"
+      },
+      {
+        "label": "PravdaReport",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV0xVaHBwQlB1RGhEdDNNN29EbnZYMnBJcnplSFpUU2xmb1VIMHVia2w3RlF2SFRldVNVSHc4M2laS3NKeldvSlpVeGdZVVRGcy1UZjM0N3pYNmVVT01BT1ktbDVrVGw3aFJ2cVRkTTNxNXVLenRGR196eVB3QVc4WW1TWGhiV1AzZmZiZklROTh6SUE?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-efab280b3256.webp",
+    "image_source_url": "https://english.pravda.ru/news/world/171637-algoma-steel-coast-guard-icebreaker-contract/",
+    "image_credit": "PravdaReport"
   },
   {
     "id": "news-66c70a5180d3",
@@ -1085,9 +1155,9 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1dQOWxSQXJPTTh6b19KNE9fYkVoNW85b2pKYjNoLXBVSkpSN2p0SHZ6cVlybWVRdTItTTNDOE05XzZEcUFFMnZSa2hJU1BRcUd4Q01qaUs1Tk12WVZHQkVhMmxUdjJ6Ymk3bmo4NG1lUk5wM2lOU0piVmtOYWtYWWUzeEppLTkxRS0tU2djWFlnRUNSVUZlX293ckQ1d0dHSzJSRThLREZhc2lKZ2loV2RaaXpFZw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-aefc550fc17b.webp",
-    "image_source_url": "https://www.saltwire.com/newfoundland-labrador/nl-spaceport-20-million-agreement",
-    "image_credit": "PNI Atlantic News"
+    "image_url": "/story-images/news/news-37fbf8cae98a.webp",
+    "image_source_url": "https://canadiandefencereview.com/dnd-signs-20m-spaceport-agreement-with-nordspace/",
+    "image_credit": "Canadian Defence Review"
   },
   {
     "id": "news-a91241bed0c9",
@@ -1647,9 +1717,9 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQVEwU01sN2VjRDlqOXdjT1V3R1lHNXhtV2ltbkdlMHZSb0xpcjdlYjFqcU1hWTF3ZG92TTRHZTg1ZkMxaG9rZVhxMm5GcEhUZXpGM3I5VGhHdXB5cTdBVklPYzdoaDlYS0tieVhYVTFReVJkQlFWcnJhb09iZTljMGV4RjkzVm9pVlYtb2xIR2xLQVpaZTVyOVdTZXBkd1JyZjAzS3NvWkN2Qjhrb0ZKeWRQWnlHZjFYTFplTkJ1WmdTUllRZFFjaHEzRVFIV3BqR2t4dVk1MkV1MERRV2xTaFFHbw?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-68c1ae6d8999.webp",
+    "image_source_url": "https://www.winnipegsun.com/news/manitoba/winnipeg-hosts-announcement-of-new-17-million-sport-boost/article_4aef6a2f-074d-48b7-be27-b9c9c44c8333.html",
+    "image_credit": "Winnipeg Sun"
   },
   {
     "id": "news-647c84241e24",
@@ -1775,9 +1845,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-2577605b3e08.webp",
+    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
+    "image_credit": "Winnipeg Sun"
   },
   {
     "id": "news-3082c44a5636",
@@ -1947,9 +2017,9 @@
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZTZUdW9NdGFtRzFrelNnX0dBbUk0WGVTOVp6YW01SUxXV3Z4eGl5dUxGWHRLOWtIQ1ZMSkNhOVh6clFJN3dTa2hJOHk0aXMySFBVTlFycDcyRExzVFMtd1dRMFh3Z0EwZVhRcFhlQ19hcUVFdUwxRVp5MHFhSVFpRE5BWjhaRDBZd25pMVdmUzFLVVE4TnBDUXBxd0x0Wi16T2Job2ExYjJCbW00MFlaQXJIM2gtbTJIRWk5a1Y2VVVlVG9qUVdxUlV1RjhodkJZLWltQjVpMWVHN2xLZGx0VjBLVkpOUWlRYnp1Mng2NXc0TzdwRlFUZVVTc2k?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-9171f2abb740.webp",
+    "image_source_url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/10/atlantic-canadian-businesses-to-benefit-from-an-additional-40-million-in-federal-dollars-for-ai.html",
+    "image_credit": "Canada.ca"
   },
   {
     "id": "news-2515cc4e75bb",
@@ -2329,9 +2399,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-84165101ceaf.webp",
+    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
+    "image_credit": "Canadian Defence Review"
   },
   {
     "id": "news-0d19f4920d96",
@@ -2489,9 +2559,9 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNk5RWjNxT2FNOTlQdGRJWHNpNzRrVW55dHp5TG50XzhQOW81VURPNFZwS0VLU2ZQVlZGeXRFNU1Od3g2bTk2OThLcXI5LU5Ub1kxdGF1UDh3Q0sxRFk2Mk4tUV95ZXd3N0NJb0h4QnBfWlhlSmFOOW5zUnZJblVVOENFZ2tvZ21kLTNySzZQR3B4WHE5RXNKVGxyUmRIYzhFNzhRS0dGYXBvNFpsWnJtMFR2NXRyd1JBUUJsVg?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-6af802034403.webp",
+    "image_source_url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/10/canada-invests-69m-to-help-prince-edward-island-businesses-respond-to-tariffs.html",
+    "image_credit": "canada.ca"
   },
   {
     "id": "news-19f66337f32a",
@@ -2700,7 +2770,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=Arc5Dv",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=daXaaN",
     "image_credit": "IntraFish"
   },
   {
@@ -2763,9 +2833,9 @@
         "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQNXRQZHNFanRVSFAxeHUtT3RUOFpyNDBqTHY5SEtlalZ4OU1IY0RtWmtvZ2lMb0Mtc2FQVjh4NTBueWtPa3REelA2dGlvbzY1RC1DLWxFSUJqVFRTOGoxWU54bWtpME5EVUI3T1VfZ1hrVEYxc2RVYTdpUGhJZ0dtS3NKQ0dweUowb2FBNjFvczM0Y3VWeFE2T19zM1hFUnBQdHl1LXhWb084alZFSWV2ZWpEeXNfUUxFX1dtY1RlR1p0M1JpelgwTzhGVzVLYlFWUmpoVlFkU2wtZm5nc2dVbkFhSGZKZG9TLUpFazRTZmY5dXhKaS1fcHdRNFZDaU9BbG5UUUt0SXJkZ3gzZ0RnNC1NekRja3cyb1FIc0tR?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-b2088d71bdcb.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-85-5-145600043.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-75a6eac6995c.webp",
+    "image_source_url": "https://www.canada.ca/en/transport-canada/news/2026/09/the-government-of-canada-invests-855-million-to-rehabilitate-the-rankin-inlet-airport-and-strengthen-arctic-and-northern-connectivity.html",
+    "image_credit": "Canada.ca"
   },
   {
     "id": "news-a9b6f26c6ace",
@@ -3045,9 +3115,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSXo0bktSNmc0SlptalVPcWk0N3dKRkd3SS1td2ZWb25XYTNfMDNEemVwcVZySVM0ODlsbUJRLUttenhEMm9KQTJzNmhJZG5uMkFZQVo4cklTN3dBZ2VsS090UjVEaFZlamlxSXJQSUZET2tQVzFZM1Etd1kzdHBtYUNVbzBPMkN2clA5ckluMVBjbmJkVy1NdDczazhObDIydW82OXAtYkJEVUFlUVdDb1ZlQ1RXRkdZY1NKYmNZNEc1VUxsOE9rOWluTXlZQldrNWdfQUk1TXdzODdHWWdUcng4OVVZaEE2Z1FIRlg5R3NKYUtRRE1Zb01CMUNpbmZl?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-70d90f0218d4.webp",
-    "image_source_url": "https://www.thestar.com/real-estate/federal-government-launches-1-5-billion-program-to-preserve-affordable-rental-housing/article_2278ee41-6025-453e-94e7-654c72cb0c12.html",
-    "image_credit": "Toronto Star"
+    "image_url": "/story-images/news/news-a334f81f4892.webp",
+    "image_source_url": "https://www.ctvnews.ca/ottawa/article/federal-government-selects-non-profit-to-manage-15b-rental-protection-fund/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-95682aaf5c9c",
@@ -4273,9 +4343,9 @@
         "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNYTVnQzFhZjZEdEFjTnNZVDJ1bE5BYUR3SDVxejlzNnBtQW1WX2JaaGlOcWVNdmtCV01YVU95RFh0aW9DWHZBVW9xeXRzSjRyMXk3OVhpZTFWdE5FNkRMRXNVM1RjVnEtM3NaZzk5SkNCR3VXN0hHblh3NWMyck9iUU0yNGxvMmZMbzhLT29heFF6cHdkM0pqN2V0TDNXTFBUV05vWjRNM2ZDSVZTSVVqeDYyeXJrTlNJdzlLclczVmpyLVR4QWR6MzZzWk15blcxdzl1SEFJRTc5LTdPWnIwN2xhZVFJQXpraWcxU0RQLWRwaUd3ZUNkUWpaWS1EOWpHMk9Oc3FoYWZOT21OSFI1RUtGaWZlU0tkcWJEUHlDNnJVVE1tMkhPVnVUY1hZa2xKd2t5WlQ0YmNtVkdTalE?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-49a5c7f0b93e.webp",
+    "image_source_url": "https://www.canada.ca/en/pacific-economic-development/news/2026/08/government-of-canada-invests-over-10-million-to-help-lower-mainland-businesses-navigate-trade-disruptions-and-seize-new-opportunities.html",
+    "image_credit": "canada.ca"
   },
   {
     "id": "news-605aa7d06d6e",
