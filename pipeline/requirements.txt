@@ -3,3 +3,4 @@ anthropic
 pydantic
 google-genai
 pillow
+httpx
