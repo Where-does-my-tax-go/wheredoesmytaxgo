@@ -1,5 +1,137 @@
 [
   {
+    "id": "news-a5fc8805ae48",
+    "title": "Canada invests $50 million in AI drone warfare across 399 vendors",
+    "summary": "The federal government is investing $50 million in AI drone warfare technology involving 399 vendors.",
+    "amount": 50000000,
+    "date": "2026-11-08",
+    "fiscal_year": "2026-27",
+    "department": "National Defence",
+    "dept_code": "ND",
+    "program_code": "BUQ08",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "tech-insider.org",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2dWbDJxYl9RanZxUm01WVBLZzNuZHVmMEE1ZU40Y1dSTmhzc0Jva3JMWml5QVMzYTVzOHdvRjZlZnFoTWpEdDB0cEp2WDJYTTNLZFVBLWdQbm5icm5XRjJoRm8tV2M2WnZZc2tYRDBoWDEwTG9EVjZ6VFJoRHBvaHltbzVyTWp2Zmc?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-d3fafcdf8cd5",
+    "title": "Conservatives request probe into Telesat CEO relationship amid $2.3B deal",
+    "summary": "Conservatives are seeking an investigation into potential conflicts of interest regarding a $2.3 billion federal deal involving Telesat.",
+    "amount": 2300000000,
+    "date": "2026-11-07",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Money.ca",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVllQeGRJRUxEekhOUjNLT3J2Qi1ieHNFX2pmbjJ6VXpBNWtvb1lEcDJrRDNGWTd2V2EyVE04QVFRbWJqTUtvV0g4VnhPRUJwSTdINmNZQVVZT3FvU3F4RmNkUF9WNXZVZ25LUi00UXZiWnV3UmpBVWQ1VGFnMDdRYzNTSFZsU2oy?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-d3fafcdf8cd5.webp",
+    "image_source_url": "https://money.ca/news/carney-telesat-conflict-interest-ethics-probe-2-3b-contract",
+    "image_credit": "Money.ca"
+  },
+  {
+    "id": "news-bca39b13bed9",
+    "title": "Documents show Canadian contract with Palantir worth up to $63 million",
+    "summary": "Government documents reveal Canada has signed a contract with Palantir valued at up to $63 million.",
+    "amount": 63000000,
+    "date": "2026-11-07",
+    "fiscal_year": "2026-27",
+    "department": "National Defence",
+    "dept_code": "ND",
+    "program_code": "BUR04",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcGtCZzk2OGRWYnV1cEloNzJnRjFEUEV6ckV2X0FpV1lYSjBjR0RJNzFYblZpeGVXUWY3SUhydTFCSThMRV9lMllZZkd6LWMzNVU1VTFra01paHRGQS0ycEVoWlR4c3ZoZm5aU2pPSDdpNi1fNWJsSV9nU1M1TjkzX0FxM2lOdmtEYkp5Znc0VXFTNWlsWXlXa2FnbVA1T0ZjUGc?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-bca39b13bed9.webp",
+    "image_source_url": "https://ua.news/en/dovkolo-svitu/dokumenti-pokazali-kontrakt-kanadi-z-palantir-na-sumu-do-63-mln-cbc",
+    "image_credit": "UA.NEWS"
+  },
+  {
+    "id": "news-4c1b564c8a0a",
+    "title": "Tumbler Ridge receives $153 million in federal recovery funding",
+    "summary": "Tumbler Ridge is receiving $153 million in federal funding to support recovery efforts following a mass shooting.",
+    "amount": 153000000,
+    "date": "2026-11-07",
+    "fiscal_year": "2026-27",
+    "department": "Public Safety Canada",
+    "dept_code": "PSEP",
+    "program_code": "BVU03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0RhbGRQVkxVTTBPVndqMlhpTUZaMkhhWmpWQkQ1SW5JbXRyZmVHcWcxSHFlbThqSUdKdlIzaW1FYkFMQThJRGFlUm9VSjlraE00dFFibVJIejJGa1pGdkNLTnZhd2tUd1pMcFQ0ZHE4d1ptckFjb3ZfZ3h2THpxQ1ZMODBqWm1jQ1djU1ZLdXFKeDYyYnc?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-1de4e4cd95dd",
+    "title": "Laurentian University receives $4.3 million for health simulation centre",
+    "summary": "Laurentian University has secured $4.3 million in government funding to build a new health simulation centre.",
+    "amount": 4300000,
+    "date": "2026-11-06",
+    "fiscal_year": "2026-27",
+    "department": "Federal Economic Development Agency for Northern Ontario",
+    "dept_code": "FEDNO",
+    "program_code": "BYL02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Sudbury News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEk1eW1VMU14N1gySHlXS0lUbkdJNEJHdWVEdjhrUUJOSUhBR2xjbnRZenZ5RlJyWEdvejJvMTRMemNEQUJJVmt6T0lVTE55aDNSbkZQcnJSMGZ2Smx5bzlTTWVWeFdBeGR2dUM5Uk93VmpXc29UTkFVb1otZ1FoTC0tNEo2TFROYmg2RnpkU3VMS2kzWUw3bS1pRzNhSFpsSnVXay1KYXZvMkFP?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-1de4e4cd95dd.webp",
+    "image_source_url": "https://www.sudbury.com/local-news/laurentian-receives-43-in-govt-funding-for-new-health-sim-centre-12987910",
+    "image_credit": "Sudbury News"
+  },
+  {
+    "id": "news-c2fae0eb5afe",
+    "title": "CBC/Radio-Canada secures two-year, $300 million federal investment",
+    "summary": "CBC/Radio-Canada is receiving a $300 million investment over two years from the federal government.",
+    "amount": 300000000,
+    "date": "2026-11-06",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Broadcasting Corporation",
+    "dept_code": "CBC",
+    "program_code": "BFD00",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Insideradio.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWlHdXNPMHZKcFcyVC1SM1AyREtMOThCSVhrdUpyUjNweC1MbVZuTmVOSjhfV3labzFTTVFuMGszS1E4cU1SZ0xWNS0yVHFiQjhjQUJubVFGU2s2V3IyS0hMQm5tOWY1MmtRX2JEMDhaUzdpY3lRV0NZOVhkVUxYdWhMLVhzVjdzekc3bFZ1ZnJZalYyeEZFbHR0UnozN1hiTGRuS1laTlBxZmY2SWFxSUxZd3ZOYkhoT3BWTGFYR2hXbXk3UW1QUHBmVHRVTG56Z0lB?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-e254831d0930",
     "title": "VIA Rail completes $310M Toronto hub with early fault detection",
     "summary": "VIA Rail has finished construction on a $310-million Toronto hub featuring early fault detection systems.",
@@ -86,6 +218,50 @@
     "image_url": null,
     "image_source_url": null,
     "image_credit": null
+  },
+  {
+    "id": "news-bf92b8b0ceb5",
+    "title": "Government pledges $50B over 10 years for Indigenous programs",
+    "summary": "The federal government has pledged $50 billion over 10 years for Indigenous programs and services.",
+    "amount": 50000000000,
+    "date": "2026-11-05",
+    "fiscal_year": "2026-27",
+    "department": "Department of Indigenous Services",
+    "dept_code": "INDSC",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fdms4UF9yOEg1QkVMNmthV09CeTlaUkdZd2J3V1h4RW9STXRxZ2E3TnRHT09CNXpnR3Z2SEgxWm9oTGtWTGd2c2k0V1F2bnY2VDljSGlLc3hJT0FhdU8xNDNnTFBxbXlCUGJoNWplaDh4TmI3aGc?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-cc32caf096bb",
+    "title": "Budget 2026 delivers $32B to First Nations",
+    "summary": "Budget 2026 provides $32 billion for First Nations, with limited targeted funding for Métis and Inuit.",
+    "amount": 32000000000,
+    "date": "2026-11-05",
+    "fiscal_year": "2026-27",
+    "department": "Department of Indigenous Services",
+    "dept_code": "INDSC",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "APTN News",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN1dHbWdnRlFibzRyTnVFV3U4c3JOTVlQcmRFQ01rYVByTHUyM3BvRHFpSmhPSEkzd3I4anpjVDlvSWRNdVN6emtYWnVxY0czRTlIUTA0MmFFLVRCaG1aTC1hMGdqMVQzaHZ1MmlwVklJN1ByVnhrQXY0eWRCX01TWEl4d0g5Z2pEYlNYUi1JeEl5RUpJZURfbGhSbXFzZGpCdGtjaXhtNlZjR09QekNNVnp5ZmVPTWsyQlh0bjlDcjluYlFYZWwtREpRYlo5M3lrUDBuOGlLQndTX0owMGE1RHk2dFV4QTY5c085SThwQl80Rjg?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-cc32caf096bb.webp",
+    "image_source_url": "https://www.aptnnews.ca/national-news/budget-2026-commits-32b-to-first-nations-housing-infrastructure-while-leaving-most-metis-inuit-pre-budget-asks-unaddressed/",
+    "image_credit": "APTN News"
   },
   {
     "id": "news-e197ab69a735",
@@ -209,9 +385,9 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnhSeHRBdTNaQy1ZR3dIMGxVUUQ2dUExcldTRW1ST25hZmtEYURGZ3RvZ3hramxqSUpIMVVWY1ZQNzc3SG9yZ2pwLTNfRmVzQVp4QlcxWTE3SlQtVVRPYWlzeWR4TTRPZkw0dVVMRTQ3NkZiZzd6MndBUC1OUnNITXpESU8zbHdPU0FZbFlmQy1idEs5Wk9xOVlVNDZlMXNpVXJCNzg1Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-cdca2d370219.webp",
-    "image_source_url": "https://ontarioconstructionnews.com/ottawa-makes-15-million-available-for-zero-emission-transit-planning",
-    "image_credit": "Ontario Construction News"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-19531230382c",
@@ -325,6 +501,10 @@
       {
         "label": "FreshPlaza",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbmVfVW05WlhDSEFLYjVkN0ZhTk1CMTlfd3YwRUVoLUZWTnpkWElHeFgxZDN5RUtSb0gxV3Q0Vjcyd2RaM05aaHZXbUxLYUNrdENjdjdrczBaR0lKZm5oc1dLYThpbzBsSVlKOUpMcVlucG51Xy1ySlRDaUkxdlA5eWF4RXBBOWlHSENZZFRCV0NPN1dyMFBjUXZ3Zzk0NUlKTm9aNFY5OEpiQ3hxb0xXLVFsS29NQ3lRQWl3dEtFcw?oc=5"
+      },
+      {
+        "label": "Daily Hive",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVVRKODJ5SDRQT3FJZ3g5aHdCdnNIZ3BTcFZpNy0yVnBuc194aFlUZ2hsd0NHZFpLUXNfdFFKdnRFYVk0dXdJWFpOQVN3WDkwQTFkZGNLeHRDWmFsNVlUYXBILWpjRkdTTzhiQ3lsdEdVRjdrZU53ZUpzLXBIR2VYeTFPTkRjZw?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-1f94651d7ed4.webp",
@@ -1151,6 +1331,10 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUU5Qdy10UUtqU3VvaDh6UFZsYjN4MENHOU95RVJ5anZDMGg0MTRMMTBBSWlwaFp4bGM3QmxPdkJVaEZOUHFqNGZTZE5faUR0dkt6Y21ReWh3RWN6am1NOXFNaC0zdjVHcHVWNkNRaVhwMUFRMktrQWc1TUNVLVk5T2Nnc3hOVVU2VDc5eXl3LWtscmdYRlBQZWV5X2s5YV92NkJPbHBBOXRGQy1DUVBweDctZUp6VGJKNVlXVHZZWQ?oc=5"
       },
       {
+        "label": "980 CJME",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUkteTBoSVBUQWdWbnV1ZllpVDRhZENsbTd3bjladm1Ec1RxR0VvNlNFbi1POWlPbkZKcTRYSlNLWmZaQWhCa2NTa2tSV3RZLV9kdTBBVTZrRHFxY3NrOElTd3dRdlpHdkZPTm5Ta3pYNWhSZGxkM2gwZ1NDSXh0R1JqbWJfOEZkS29SbHB0MWtteS05RjF0VHhaUHZaRnF2WkNzM2ZldFFnLS0tblFLWG0zdlBMdw?oc=5"
+      },
+      {
         "label": "Dealroom",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1dQOWxSQXJPTTh6b19KNE9fYkVoNW85b2pKYjNoLXBVSkpSN2p0SHZ6cVlybWVRdTItTTNDOE05XzZEcUFFMnZSa2hJU1BRcUd4Q01qaUs1Tk12WVZHQkVhMmxUdjJ6Ymk3bmo4NG1lUk5wM2lOU0piVmtOYWtYWWUzeEppLTkxRS0tU2djWFlnRUNSVUZlX293ckQ1d0dHSzJSRThLREZhc2lKZ2loV2RaaXpFZw?oc=5"
       }
@@ -1673,9 +1857,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-414ad42050bc.webp",
-    "image_source_url": "https://chatnewstoday.ca/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
-    "image_credit": "CHAT News Today"
+    "image_url": "/story-images/news/news-41e96c8b00eb.webp",
+    "image_source_url": "https://finance.yahoo.com/energy/articles/canada-invest-ca-100-million-140437053.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-65618e625be7",
@@ -2770,7 +2954,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=daXaaN",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=BduGbS",
     "image_credit": "IntraFish"
   },
   {
@@ -3115,9 +3299,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSXo0bktSNmc0SlptalVPcWk0N3dKRkd3SS1td2ZWb25XYTNfMDNEemVwcVZySVM0ODlsbUJRLUttenhEMm9KQTJzNmhJZG5uMkFZQVo4cklTN3dBZ2VsS090UjVEaFZlamlxSXJQSUZET2tQVzFZM1Etd1kzdHBtYUNVbzBPMkN2clA5ckluMVBjbmJkVy1NdDczazhObDIydW82OXAtYkJEVUFlUVdDb1ZlQ1RXRkdZY1NKYmNZNEc1VUxsOE9rOWluTXlZQldrNWdfQUk1TXdzODdHWWdUcng4OVVZaEE2Z1FIRlg5R3NKYUtRRE1Zb01CMUNpbmZl?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-a334f81f4892.webp",
-    "image_source_url": "https://www.ctvnews.ca/ottawa/article/federal-government-selects-non-profit-to-manage-15b-rental-protection-fund/",
-    "image_credit": "CTV News"
+    "image_url": "/story-images/news/news-70d90f0218d4.webp",
+    "image_source_url": "https://www.thestar.com/real-estate/federal-government-launches-1-5-billion-program-to-preserve-affordable-rental-housing/article_2278ee41-6025-453e-94e7-654c72cb0c12.html",
+    "image_credit": "Toronto Star"
   },
   {
     "id": "news-95682aaf5c9c",
@@ -3673,9 +3857,9 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2RxRXdyOVF0ejQtalpkTjB6Qk9Nblh2cHlBdUZEV3JyZFhMRk0ya2RSWThmU2NrUnd5VzA1NW04c0VnWXVTSktINGxleldDdnV4aTZmeEZVb0JBakNtbHItVHZmSnVoR1hUYVJEOXBrX1Z5MXlrUEtGZDBrczZOZjZLWHRKYldYTjByc0VYWkdkVDNQdnQxRkR0Zm1Ba0NTeGRzdGdwSk91VjM4cmc?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-a49f84fd54b2.webp",
-    "image_source_url": "https://www.hpcwire.com/off-the-wire/qubic-wins-ca1-5m-canadian-government-contract-for-cryogenic-amplifiers/",
-    "image_credit": "HPCwire"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-c4098e4bdd5c",
@@ -3975,9 +4159,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
-    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
-    "image_credit": "On-Site Magazine"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-28b59b949d4f",
