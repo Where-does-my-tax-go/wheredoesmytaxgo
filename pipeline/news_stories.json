@@ -1,5 +1,27 @@
 [
   {
+    "id": "news-aa580b1e8948",
+    "title": "Canada unveils $600M funding boost for film, TV, music, and local media",
+    "summary": "The federal government announced a $600 million funding boost to support Canadian film, television, music, and local media.",
+    "amount": 600000000,
+    "date": "2026-11-09",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": "BSD03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Philippine Canadian Inquirer",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEpLekQ5UmxuZ20tcGhRYlpHR21nVVIzbGdzVzlLcmlEbGNpSmhVTEYwTWdHQ2lHTDFsVUtfWW44OXl0R2Z4OW4zNFFfSGV0UDNvOXp0NHlhU1hRY215UUJFYkRGbHowNXVLcHY4NUhCSUI4NWZzS2VGaGtKbnM3bGU5UWJ3QlZMWVZ5Vm9YNUtWN3pudXNxWnJsTENuVFhOWHVOYVVLSWplR19u?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-aa580b1e8948.webp",
+    "image_source_url": "https://canadianinquirer.net/2026/11/09/canada-unveils-600m-funding-boost-for-film-tv-music-and-local-media/",
+    "image_credit": "Philippine Canadian Inquirer"
+  },
+  {
     "id": "news-a5fc8805ae48",
     "title": "Canada invests $50 million in AI drone warfare across 399 vendors",
     "summary": "The federal government is investing $50 million in AI drone warfare technology involving 399 vendors.",
@@ -130,6 +152,28 @@
     "image_url": null,
     "image_source_url": null,
     "image_credit": null
+  },
+  {
+    "id": "news-6ee7dc6e3143",
+    "title": "Ottawa sets aside $325M for Canada 160 celebrations in 2027",
+    "summary": "The federal government has earmarked $325 million for 2027 celebrations to mark Canada 160 and build national pride.",
+    "amount": 325000000,
+    "date": "2026-11-06",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": "BSE01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Daily Hive",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWmVPblZXZ3l1bWpsMUpLUEJ6ckVqQ3E5UzVWazllYWxWdnNaMi1RZ3oxQW9WaWFOQTJtRmRHeG9yY29oeW9xQmVxWENJOWZsR1RrZ2I5MG5XVzNMMnVvaGpmcy1NZDZ5Zl9rSGItUmIzQWdGYXdwb3RrS1oycTlJc0RVVmJtSmctXzEyUHp3SFZDcFZnYkV1UFFWTjJhUQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-6ee7dc6e3143.webp",
+    "image_source_url": "https://dailyhive.com/vancouver/canada-160-fund-federal-government-program-160th-anniversary-2027",
+    "image_credit": "Daily Hive"
   },
   {
     "id": "news-e254831d0930",
@@ -1156,6 +1200,28 @@
     "image_credit": "Yahoo! Finance Canada"
   },
   {
+    "id": "news-4828c428eb76",
+    "title": "Ottawa invests $7M in P.E.I. ferry terminal infrastructure",
+    "summary": "The federal government is providing $7 million for infrastructure improvements at a ferry terminal in Prince Edward Island.",
+    "amount": 7000000,
+    "date": "2026-10-23",
+    "fiscal_year": "2026-27",
+    "department": "Transport Canada",
+    "dept_code": "TC",
+    "program_code": "BTY03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWFyeVdyc0lieVptaGNseFFqVEdBVTdLNHlBMUtSUTdveUR4U2tfWDkyVUM0TzhjdjZycXIxeEFUazVKU2RUZHlrTmJBanAtdTJZNVZsR2t6Nk9Bb2dEcHdOT1ZXVG9tZWZRbjRNOWFIaG1sSkF5dXdET3dscXNMeHVGMURjaXN6cE9mWGpiN25mVlozY2Q0eVJidTFrRjZBRWpkcmQ2MlE4SGJtcWpFQ2kxVE00R3VC?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-4828c428eb76.webp",
+    "image_source_url": "https://www.ctvnews.ca/atlantic/prince-edward-island/article/ottawa-spending-7m-on-pei-ferry-terminal-infrastructure/",
+    "image_credit": "CTV News"
+  },
+  {
     "id": "news-1228bb72dec0",
     "title": "Federal government announces $60M for national sports bodies",
     "summary": "The federal government has announced $60 million in additional funding for national sports organizations.",
@@ -1592,7 +1658,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -1857,9 +1923,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-41e96c8b00eb.webp",
-    "image_source_url": "https://finance.yahoo.com/energy/articles/canada-invest-ca-100-million-140437053.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": "/story-images/news/news-92eb525ebfc1.webp",
+    "image_source_url": "https://www.ctvnews.ca/atlantic/nova-scotia/article/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-65618e625be7",
@@ -2029,9 +2095,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-2577605b3e08.webp",
-    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
-    "image_credit": "Winnipeg Sun"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-3082c44a5636",
@@ -2125,6 +2191,10 @@
       {
         "label": "thecanadianpressnews.ca",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNaGhNSk9rT2F3XzFiQ1Azd2p1cEtLV3lfUWFTMjNuMjEzb1NMbG5yREN3YjUxZS0wNGJUUHlGRkhwS3BVQ1kwRFlQY29KWTdJT0o4dkVuWWJPTVRiQ21yTDhaTTVPTVRTYWpmN3V0azVhVlFmNndkZGhTWjVJaTloZm1OVDhfZzYxMktERC0wQ1VVOXZ4LS04bkE2OWE3RHNuNm5wVEV5c3pKdUhNejlJbzlzUFBMQThyLW5UaW9fTVBDaWFFQjU4WmFaUVMwZDdmSnVnUzhWQmNSYURqZUNIV3dkUWNlbHpqakRaN1FVWVNheG9EblZqaGhIelY3Wk4zU0syanRHUQ?oc=5"
+      },
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZGc5N2g2SEdYZndRbW5HOFlJVGc3UlhheXJsN1JyYmFmMVVrWGdKQmx3SEhFN0J6eDItb2dqOU5GWGFvXy1POHBLbnQ0TUxMcmtuMVphRFJlOW50dVNpR3NYVkR3YTZYbWlvZXlBeXZKVXAtYldtTTVCcUd1Nl9tRmRhLVRvU1EzZzVXalFMZEVJM0ZMUEhxeGIyWm10QS1SVUNoVHIzVk5PQXZxTktHbk1aOV9RbnU2TDEzeU9BSXc1UWZIZi03TFp0Sk1nMEdqR3c?oc=5"
       },
       {
         "label": "MRO Magazine",
@@ -2954,7 +3024,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=BduGbS",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=dB2aI3",
     "image_credit": "IntraFish"
   },
   {
@@ -3857,9 +3927,9 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2RxRXdyOVF0ejQtalpkTjB6Qk9Nblh2cHlBdUZEV3JyZFhMRk0ya2RSWThmU2NrUnd5VzA1NW04c0VnWXVTSktINGxleldDdnV4aTZmeEZVb0JBakNtbHItVHZmSnVoR1hUYVJEOXBrX1Z5MXlrUEtGZDBrczZOZjZLWHRKYldYTjByc0VYWkdkVDNQdnQxRkR0Zm1Ba0NTeGRzdGdwSk91VjM4cmc?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-a49f84fd54b2.webp",
+    "image_source_url": "https://www.hpcwire.com/off-the-wire/qubic-wins-ca1-5m-canadian-government-contract-for-cryogenic-amplifiers/",
+    "image_credit": "HPCwire"
   },
   {
     "id": "news-c4098e4bdd5c",
