@@ -17,12 +17,12 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEpLekQ5UmxuZ20tcGhRYlpHR21nVVIzbGdzVzlLcmlEbGNpSmhVTEYwTWdHQ2lHTDFsVUtfWW44OXl0R2Z4OW4zNFFfSGV0UDNvOXp0NHlhU1hRY215UUJFYkRGbHowNXVLcHY4NUhCSUI4NWZzS2VGaGtKbnM3bGU5UWJ3QlZMWVZ5Vm9YNUtWN3pudXNxWnJsTENuVFhOWHVOYVVLSWplR19u?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-aa580b1e8948.webp",
+    "image_source_url": "https://canadianinquirer.net/2026/11/09/canada-unveils-600m-funding-boost-for-film-tv-music-and-local-media/",
+    "image_credit": "Philippine Canadian Inquirer"
   },
   {
-    "id": "news-60eb6e16074e",
+    "id": "news-3a76664dd5ec",
     "title": "Ottawa details $600M for Canadian content in latest budget",
     "summary": "The federal budget outlines details for $600 million in funding to support Canadian content.",
     "amount": 600000000,
@@ -41,11 +41,63 @@
       {
         "label": "650 CKOM",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzJBVXlocmxqbG1nUjJJU1RoU0ZYd2xKdG5oeXRobWJkRmN3QUt6dWl4R1h6VHZYMUd3MGtRNWdMY0JZUjZuRGRiVHN3OENIVXV1RkE2MzItZTI5RmVpVkkzSU5MREgtb1JST2xBMUExbFVLSUZnSEQ4WnB0WGpBdzVabUg1bFFHYXBPYWZaQTdldW5UX1NZ?oc=5"
+      },
+      {
+        "label": "CKPG Today",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaGlXMGxiSjYxUDJyME9xaTh3MlZVdTdya0pkQXBRRTk3Mjgwbk5KSVVaX3ByOWtRNFRiTTQ5Z05RTnhsemg0dm1VSkk3am44dFZoendqeTk0Qkg5VExSdDlPM1NCMThDMUVVUm5sLU5YVVdLdjhRbnFGY0NLZGNjTWZfS3JMeEh6c3Rtb2tETndEckdkVXVN?oc=5"
+      },
+      {
+        "label": "Yahoo News Canada",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3Y2MUNWYVJYSVhBSEtGbUlGNDl4cVdCcWgyOVRYalhUQjRNMlBlR3E5MGMwckQySjNOVWlXZmNjQzRoeU9pdHd2Z3pZMXhRaXo1WWJkaHhQeEk0WDdUZWI4VU5GVXkwWEVjYUVsVHBDdlhBNzU4U1R4MFY3U0JBZEFR?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-60eb6e16074e.webp",
-    "image_source_url": "https://www.ctvnews.ca/politics/article/ottawa-outlines-details-of-600m-for-cancon-in-latest-budget/",
-    "image_credit": "CTV News"
+    "image_url": "/story-images/news/news-3a76664dd5ec.webp",
+    "image_source_url": "https://ca.news.yahoo.com/ottawa-outlines-details-600m-cancon-162211857.html",
+    "image_credit": "Yahoo News Canada"
+  },
+  {
+    "id": "news-e58517933202",
+    "title": "Federal government budgets $12 million for Justin Trudeau's archives",
+    "summary": "The federal government has allocated a record $12 million for archives related to Justin Trudeau.",
+    "amount": 12000000,
+    "date": "2026-11-09",
+    "fiscal_year": "2026-27",
+    "department": "Library and Archives Canada",
+    "dept_code": "LAC",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0RHJQTmpLeHBpeW41NjRncTRRMVF1ajdvUmswdUh3QXVlMHhnaDFaSExqQUE5b3IxR2xXUnJxaXA1aEpybVVuNU1IMTNuYkdqX1NDTXM2VXJuMDFCN01pMVpoUUdreDc4dlFldUNxUmVXYUFkRUlucXNKdjg5V2s?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-38982505c028",
+    "title": "Canada Music Fund to receive $67 million in 2026 budget",
+    "summary": "The Canada Music Fund will receive a $67 million boost as part of a $600 million Canadian content investment in the 2026 federal budget.",
+    "amount": 67000000,
+    "date": "2026-11-09",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3ZVdmdack94NlFwMlVUNHh5SnNFdVlMV3dvOU1EUGJMS3d0UkxCakJHY2l0Sk1abUJRbkp0UjJFOExVQlNEdW1jUS05ZFloZlpObFdFN0J4b2IyalN2d2VpTm94Wmg1LXNiSnM0UEVmaU1NUHBQZXZyaFNPU2JNZ0J3?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-38982505c028.webp",
+    "image_source_url": "https://ca.billboard.com/business/business-news/canada-music-fund-67-million",
+    "image_credit": "Billboard"
   },
   {
     "id": "news-a5fc8805ae48",
@@ -68,6 +120,28 @@
     "image_url": null,
     "image_source_url": null,
     "image_credit": null
+  },
+  {
+    "id": "news-8955523749ef",
+    "title": "Regina affordable housing secures over $14 million in federal funds",
+    "summary": "Affordable housing developments in Regina received over $14 million in federal funding.",
+    "amount": 14000000,
+    "date": "2026-11-08",
+    "fiscal_year": "2026-27",
+    "department": "Canada Mortgage and Housing Corporation",
+    "dept_code": "CMHC",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "650 CKOM",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1FWVF9GX2ZMMVVSX0tDVHB5OFUtb3pTLUVvM3BBdllyVmlVZWJkS0w1czAtTWROYmJTcFNGcjlmLVc3eFNGd1k2bWwwanFsTjVOa0NqQTh3b2EtbE5YYmpTZkdwcnRtWDRubndPVW5iOEZ5OGdMejZHUFZKd193bkgzZzYxbmNjNmppS0NsdGZwZUZUOExTM1NRRlc4RDhr?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-8955523749ef.webp",
+    "image_source_url": "https://www.ckom.com/2026/11/08/regina-affordable-housing-secures-over-14-million-in-federal-funds/",
+    "image_credit": "650 CKOM"
   },
   {
     "id": "news-d3fafcdf8cd5",
@@ -3050,7 +3124,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=wpCMnh",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=zgiEMD",
     "image_credit": "IntraFish"
   },
   {
