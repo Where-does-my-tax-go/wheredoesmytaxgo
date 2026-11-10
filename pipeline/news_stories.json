@@ -1,5 +1,31 @@
 [
   {
+    "id": "news-38982505c028",
+    "title": "Canada Music Fund receives $67 million boost in federal budget",
+    "summary": "The federal budget includes a $67 million boost for the Canada Music Fund.",
+    "amount": 67000000,
+    "date": "2026-11-09",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": "BSD03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3ZVdmdack94NlFwMlVUNHh5SnNFdVlMV3dvOU1EUGJMS3d0UkxCakJHY2l0Sk1abUJRbkp0UjJFOExVQlNEdW1jUS05ZFloZlpObFdFN0J4b2IyalN2d2VpTm94Wmg1LXNiSnM0UEVmaU1NUHBQZXZyaFNPU2JNZ0J3?oc=5"
+      },
+      {
+        "label": "Exclaim!",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHpjVHpJY1h5bkRPNWpKbW1iZ3lYbm1iajRvMnM4REtXRXFrMDRGNXdVU1h1NnZqcDFhcGJBakJNdExqQkV5Mkx2QjM0eXJ5UTdCVGYtQll2UjZtS1UzUEtMTkZrWjd3N2VaNGxmUWVBWV9BbmgtRHhoQUoxY1JYRUMwOGM0aFBXdjRzM1gzcm52Qk40Z0c4ZzdwN20?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-38982505c028.webp",
+    "image_source_url": "https://ca.billboard.com/business/business-news/canada-music-fund-67-million",
+    "image_credit": "Billboard"
+  },
+  {
     "id": "news-aa580b1e8948",
     "title": "Canada unveils $600M funding boost for film, TV, music, and local media",
     "summary": "The federal government announced a $600 million funding boost to support Canadian film, television, music, and local media.",
@@ -49,6 +75,10 @@
       {
         "label": "Yahoo News Canada",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3Y2MUNWYVJYSVhBSEtGbUlGNDl4cVdCcWgyOVRYalhUQjRNMlBlR3E5MGMwckQySjNOVWlXZmNjQzRoeU9pdHd2Z3pZMXhRaXo1WWJkaHhQeEk0WDdUZWI4VU5GVXkwWEVjYUVsVHBDdlhBNzU4U1R4MFY3U0JBZEFR?oc=5"
+      },
+      {
+        "label": "CFJC Today Kamloops",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXdmeTdVQ1pyUTNBYktvVVBNZGpHYThsUkRyUWRYNnhUdDItWjY0YTk4clFZa3ZlUkJIRVNqV3RDemNYSHlINlNGc2I4enFrekQtNnUzeE9iWE14LWJFV0N2S280ckZfUll1QVNmb2I5RWlmcktibjBZQ0RGV1VUWl9odld5b0RQWHZWOF8wU216ek1hZXNkQg?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-3a76664dd5ec.webp",
@@ -76,28 +106,6 @@
     "image_url": null,
     "image_source_url": null,
     "image_credit": null
-  },
-  {
-    "id": "news-38982505c028",
-    "title": "Canada Music Fund to receive $67 million in 2026 budget",
-    "summary": "The Canada Music Fund will receive a $67 million boost as part of a $600 million Canadian content investment in the 2026 federal budget.",
-    "amount": 67000000,
-    "date": "2026-11-09",
-    "fiscal_year": "2026-27",
-    "department": "Canadian Heritage",
-    "dept_code": "CH",
-    "program_code": null,
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "Billboard",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3ZVdmdack94NlFwMlVUNHh5SnNFdVlMV3dvOU1EUGJMS3d0UkxCakJHY2l0Sk1abUJRbkp0UjJFOExVQlNEdW1jUS05ZFloZlpObFdFN0J4b2IyalN2d2VpTm94Wmg1LXNiSnM0UEVmaU1NUHBQZXZyaFNPU2JNZ0J3?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-38982505c028.webp",
-    "image_source_url": "https://ca.billboard.com/business/business-news/canada-music-fund-67-million",
-    "image_credit": "Billboard"
   },
   {
     "id": "news-a5fc8805ae48",
@@ -2067,9 +2075,9 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQVEwU01sN2VjRDlqOXdjT1V3R1lHNXhtV2ltbkdlMHZSb0xpcjdlYjFqcU1hWTF3ZG92TTRHZTg1ZkMxaG9rZVhxMm5GcEhUZXpGM3I5VGhHdXB5cTdBVklPYzdoaDlYS0tieVhYVTFReVJkQlFWcnJhb09iZTljMGV4RjkzVm9pVlYtb2xIR2xLQVpaZTVyOVdTZXBkd1JyZjAzS3NvWkN2Qjhrb0ZKeWRQWnlHZjFYTFplTkJ1WmdTUllRZFFjaHEzRVFIV3BqR2t4dVk1MkV1MERRV2xTaFFHbw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-68c1ae6d8999.webp",
-    "image_source_url": "https://www.winnipegsun.com/news/manitoba/winnipeg-hosts-announcement-of-new-17-million-sport-boost/article_4aef6a2f-074d-48b7-be27-b9c9c44c8333.html",
-    "image_credit": "Winnipeg Sun"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-647c84241e24",
@@ -3124,7 +3132,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=zgiEMD",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=HhxR43",
     "image_credit": "IntraFish"
   },
   {
