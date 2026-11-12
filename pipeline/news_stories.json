@@ -1,5 +1,27 @@
 [
   {
+    "id": "news-693979ffec49",
+    "title": "RCMP spends $58.5 million on Black Hawk helicopters",
+    "summary": "The RCMP spent $58.5 million on Black Hawk helicopters and reported 73 arrests.",
+    "amount": 58500000,
+    "date": "2026-11-11",
+    "fiscal_year": "2026-27",
+    "department": "Royal Canadian Mounted Police",
+    "dept_code": "RCMP",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Juno News",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fWHFULWJyZU9VUUJtMWgxVTg5enZaWlo2bU1VcEwtQWpkTlRDSjVXOHhxMVd2THVVQXVhbGlrU1lwSk1pblJNaXl4bGpTXy16WXZ2WVJEY3ZRZ1NVZThSdWlWTFA3VGU2N0JsenZuZTBRMk9MeFE?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-693979ffec49.webp",
+    "image_source_url": "https://www.junonews.com/p/exclusive-rcmp-spends-58m-on-black-hawks",
+    "image_credit": "Juno News"
+  },
+  {
     "id": "news-38982505c028",
     "title": "Canada Music Fund receives $67 million boost in federal budget",
     "summary": "The federal budget includes a $67 million boost for the Canada Music Fund.",
@@ -541,9 +563,9 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnhSeHRBdTNaQy1ZR3dIMGxVUUQ2dUExcldTRW1ST25hZmtEYURGZ3RvZ3hramxqSUpIMVVWY1ZQNzc3SG9yZ2pwLTNfRmVzQVp4QlcxWTE3SlQtVVRPYWlzeWR4TTRPZkw0dVVMRTQ3NkZiZzd6MndBUC1OUnNITXpESU8zbHdPU0FZbFlmQy1idEs5Wk9xOVlVNDZlMXNpVXJCNzg1Zw?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-cdca2d370219.webp",
+    "image_source_url": "https://ontarioconstructionnews.com/ottawa-makes-15-million-available-for-zero-emission-transit-planning/",
+    "image_credit": "Ontario Construction News"
   },
   {
     "id": "news-19531230382c",
@@ -861,6 +883,10 @@
       {
         "label": "Yahoo",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSXhXOUdkZC0wX3VsR1dOMjJtUjZ4UnRmeTZzNVRiLThENjNRMm1jcU41TmkyWjVQQmlOMWZKU0xmTnltbE9RWllvSUN0c0NTU2t4SUhEamdvTGdMRUZUdU1RLTZ2clBpV1ZEYkdlUzZHWUI2S3ZtWHFSam92b1BlQzNTNWxoQmpOb19leVln?oc=5"
+      },
+      {
+        "label": "paNOW",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNzdraENONTNBYS1SaDhYZTJNUnRNNHBQUnhLZDhSRmkyaVl1ZDRfZ0ZDNDl0MWYtb0Q3TmRiZHNlLVZhVmtmanlPbVlfVG54WWVEa2ZMWDY1YlhOZzlBNU9WN3dHcTdqU1BIRUVsNFNOQXNiSnlLZUhaNjBHSW54UlF5Tk9pbl9Ra3JFM21LLWhlZWtvSTN6SkxMdk90Z0VEZ1l1R0lCQ0MtOVNq?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-16733af60ddf.webp",
@@ -1511,6 +1537,10 @@
       {
         "label": "980 CJME",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUkteTBoSVBUQWdWbnV1ZllpVDRhZENsbTd3bjladm1Ec1RxR0VvNlNFbi1POWlPbkZKcTRYSlNLWmZaQWhCa2NTa2tSV3RZLV9kdTBBVTZrRHFxY3NrOElTd3dRdlpHdkZPTm5Ta3pYNWhSZGxkM2gwZ1NDSXh0R1JqbWJfOEZkS29SbHB0MWtteS05RjF0VHhaUHZaRnF2WkNzM2ZldFFnLS0tblFLWG0zdlBMdw?oc=5"
+      },
+      {
+        "label": "constructconnect.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQjl4VFVCMWxscExadERwTHNsWk0xbjhJVnV1VUxnaUpobzFWV25JQi1Uc2c1Sm9qQzdXOG5sazJrTndhS25HNWhWQ2NxVGMybmJyRWFaNlhaVHduSUZWWkhJbHVEVWNYbERGdkJicW15R1h3OWZaWW9OM0dHcTQ1VHdfeTEwYndRamJmM1VQZWFMbUNhQ0Vic09RV2l0ME1Md0l2dzBna292TEV0NjVfQU5ua09ZTldyUXB6QnZsVHpud2thZHlIWmVwQnpvUGdfV18zLWZqM3FNTTY5?oc=5"
       },
       {
         "label": "Dealroom",
@@ -2207,9 +2237,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-2577605b3e08.webp",
-    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
-    "image_credit": "Winnipeg Sun"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-3082c44a5636",
@@ -3136,7 +3166,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=QrFZfu",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=oDuDAa",
     "image_credit": "IntraFish"
   },
   {
@@ -4039,9 +4069,9 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2RxRXdyOVF0ejQtalpkTjB6Qk9Nblh2cHlBdUZEV3JyZFhMRk0ya2RSWThmU2NrUnd5VzA1NW04c0VnWXVTSktINGxleldDdnV4aTZmeEZVb0JBakNtbHItVHZmSnVoR1hUYVJEOXBrX1Z5MXlrUEtGZDBrczZOZjZLWHRKYldYTjByc0VYWkdkVDNQdnQxRkR0Zm1Ba0NTeGRzdGdwSk91VjM4cmc?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-a49f84fd54b2.webp",
-    "image_source_url": "https://www.hpcwire.com/off-the-wire/qubic-wins-ca1-5m-canadian-government-contract-for-cryogenic-amplifiers/",
-    "image_credit": "HPCwire"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-c4098e4bdd5c",
@@ -4341,9 +4371,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
+    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
+    "image_credit": "On-Site Magazine"
   },
   {
     "id": "news-28b59b949d4f",
