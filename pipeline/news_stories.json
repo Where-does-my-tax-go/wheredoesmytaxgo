@@ -44,6 +44,28 @@
     "image_credit": "Juno News"
   },
   {
+    "id": "news-9ed3c7dbcf89",
+    "title": "Federal budget allocates $1.3 billion for Eastern Canada ferries",
+    "summary": "The federal budget includes $1.3 billion for ferries in Eastern Canada, leading to calls for additional funding for BC Ferries.",
+    "amount": 1300000000,
+    "date": "2026-11-11",
+    "fiscal_year": "2026-27",
+    "department": "Transport Canada",
+    "dept_code": "TC",
+    "program_code": "BTY03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Daily Hive",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZk5xODVCUy05WEVTenloazVFT1RyYUk5cXBUZE43eVhDQ2k4Q21KcXB6RjRaU29XSTFUY3NISXRLOWoxb2VDekJKeFJCcWlRWUFJYmFlTXhOd3BOTGJ3dFc4SEZJN25IZUZUSVRIOE4ta3NEcGFuZDN0MGNFTUdvaXNoN1pWcVljOVR3cjlzUVp2OEVSQmdXVTZzMnpLUQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-9ed3c7dbcf89.webp",
+    "image_source_url": "https://dailyhive.com/vancouver/canada-federal-budget-eastern-canada-bc-ferries-funding-criticism",
+    "image_credit": "Daily Hive"
+  },
+  {
     "id": "news-38982505c028",
     "title": "Canada Music Fund receives $67 million boost in federal budget",
     "summary": "The federal budget includes a $67 million boost for the Canada Music Fund.",
@@ -1838,7 +1860,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -2275,9 +2297,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-2577605b3e08.webp",
-    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
-    "image_credit": "Winnipeg Sun"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-3082c44a5636",
@@ -3204,7 +3226,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=XbB0Kp",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=q0bdrf",
     "image_credit": "IntraFish"
   },
   {
@@ -3549,9 +3571,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSXo0bktSNmc0SlptalVPcWk0N3dKRkd3SS1td2ZWb25XYTNfMDNEemVwcVZySVM0ODlsbUJRLUttenhEMm9KQTJzNmhJZG5uMkFZQVo4cklTN3dBZ2VsS090UjVEaFZlamlxSXJQSUZET2tQVzFZM1Etd1kzdHBtYUNVbzBPMkN2clA5ckluMVBjbmJkVy1NdDczazhObDIydW82OXAtYkJEVUFlUVdDb1ZlQ1RXRkdZY1NKYmNZNEc1VUxsOE9rOWluTXlZQldrNWdfQUk1TXdzODdHWWdUcng4OVVZaEE2Z1FIRlg5R3NKYUtRRE1Zb01CMUNpbmZl?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-a334f81f4892.webp",
-    "image_source_url": "https://www.ctvnews.ca/ottawa/article/federal-government-selects-non-profit-to-manage-15b-rental-protection-fund/",
-    "image_credit": "CTV News"
+    "image_url": "/story-images/news/news-70d90f0218d4.webp",
+    "image_source_url": "https://www.thestar.com/real-estate/federal-government-launches-1-5-billion-program-to-preserve-affordable-rental-housing/article_2278ee41-6025-453e-94e7-654c72cb0c12.html",
+    "image_credit": "Toronto Star"
   },
   {
     "id": "news-95682aaf5c9c",
