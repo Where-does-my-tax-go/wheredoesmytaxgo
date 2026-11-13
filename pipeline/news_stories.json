@@ -131,6 +131,10 @@
       {
         "label": "CHAT News Today",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnNCTTNuMnJUeTVCX2tXYVUyNlB5Vm1kbkVhN0ZUd2ZkQ045aF8yck5zTjF2SnZNbHBmTWFsU29xUnpuMmlxbzBtdS1aaHlIaHVpeFFpcGpaUUM4RWFjZ2I5SDRnMHVTWElVN1FPaUtKc3J2VHN4RFgwUnhvdDNodTdXc0NMS2I0YWlBSDNjQnotVFV3NTZUOEMtbEc?oc=5"
+      },
+      {
+        "label": "Castanet",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFhhQThYRVhNWk13WjRQVnRPdjJaanBXM3VaUjhacVdPS2kxb0pKMHZmS1M0MU1McE9QWUJGZHdwZnpWNW1IWWxIYXpiRTlScnFiVkZjUTZGOXZlbHl3WndnYnp6Tmlwc3B0VVFpOFc0WmJtMXVfeWh6cy1QT0hEdHdvdUFQVGVteDBYNjZRbktvMWd5T0tRMUoyVTVCYTNRSmo1c0F3?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-3a76664dd5ec.webp",
@@ -1429,6 +1433,10 @@
       {
         "label": "650 CKOM",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUlJORU9DZmQ4OGdJWXhfMEVnOTRMdFBCbTZyZ05BU3FZVlg0eDAyOW9reFFGVWZFeWVrQTdraHFPMzg0VHNlSzdDcWxsVEM0RkV2UFA4M0VOdjlLaVZvc21oMjFUSTNQT1NmNjZVWXhZWUdKQm9mV29IYVotTFdFRFp6cWFIQUJpVFpMTGxrSlNtX2hveF9wTVFnbw?oc=5"
+      },
+      {
+        "label": "paNOW",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1RkSkZvNmpqOU9aMVhpQnBYUXNaRTJ2ZjMwTGtGMGNOYWI1cGJ5NU9uMWV2OXdpY2hXTF9HS3JKQzVja0xGR1JGbVlaM1d3cTNwbDV2M21TeVVmWlV0M1ZnNmhMV0lTalptRDZqZWtYY0lsYm5YYUhxMThYUmdZTmc1XzJCZGhtdnVMc2tJNVg5VUZLcDN2TkF3?oc=5"
       },
       {
         "label": "Speed Skating Canada",
@@ -3196,7 +3204,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=4CGAkq",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=XbB0Kp",
     "image_credit": "IntraFish"
   },
   {
@@ -3541,9 +3549,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSXo0bktSNmc0SlptalVPcWk0N3dKRkd3SS1td2ZWb25XYTNfMDNEemVwcVZySVM0ODlsbUJRLUttenhEMm9KQTJzNmhJZG5uMkFZQVo4cklTN3dBZ2VsS090UjVEaFZlamlxSXJQSUZET2tQVzFZM1Etd1kzdHBtYUNVbzBPMkN2clA5ckluMVBjbmJkVy1NdDczazhObDIydW82OXAtYkJEVUFlUVdDb1ZlQ1RXRkdZY1NKYmNZNEc1VUxsOE9rOWluTXlZQldrNWdfQUk1TXdzODdHWWdUcng4OVVZaEE2Z1FIRlg5R3NKYUtRRE1Zb01CMUNpbmZl?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-70d90f0218d4.webp",
-    "image_source_url": "https://www.thestar.com/real-estate/federal-government-launches-1-5-billion-program-to-preserve-affordable-rental-housing/article_2278ee41-6025-453e-94e7-654c72cb0c12.html",
-    "image_credit": "Toronto Star"
+    "image_url": "/story-images/news/news-a334f81f4892.webp",
+    "image_source_url": "https://www.ctvnews.ca/ottawa/article/federal-government-selects-non-profit-to-manage-15b-rental-protection-fund/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-95682aaf5c9c",
