@@ -1,5 +1,97 @@
 [
   {
+    "id": "news-cfb175755bf8",
+    "title": "Treasury Board awards $39,550 contract for backgrounders",
+    "summary": "The Treasury Board Secretariat contracted a carbon removal charity for $39,550 to prepare backgrounders.",
+    "amount": 39550,
+    "date": "2026-11-13",
+    "fiscal_year": "2026-27",
+    "department": "Treasury Board of Canada Secretariat",
+    "dept_code": "TBC",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWndTSlpFaF9mWjRncFNIOXh2dHduT0JSZWlCU2RWcjFvQy1VZVgtNVB4X2RMZEEzUEZXb01OcUFXZVB1WEk3V3hWOFh6SFEyUUZxdGQ2NnBwSjAtaVF6U3d3M19uTmVvLUhkVFRCS2JLWk5UcG1hMEdLd3FQTTdqYmxDQmw0ZmFENkpHTVRqaWZVVEhPaWRwdFRoUjJwMU5KaDVsZVoxOGZ0V3ZpNHdIMW91TDY3aWF2M3ZiYmZoS3B0SndacjAwVQ?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-396f38d61367",
+    "title": "Federal government invests $200M in Woodfibre LNG expansion",
+    "summary": "The federal government is committing $200 million toward the expansion of Woodfibre LNG.",
+    "amount": 200000000,
+    "date": "2026-11-13",
+    "fiscal_year": "2026-27",
+    "department": "Natural Resources Canada",
+    "dept_code": "NR",
+    "program_code": "BTM13",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Squamish Chief",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON0VBV2ZQWHp5VlRwRlFQemlsUFQ2SVFiRjBKVjBGTjZ6ZFZHcll3UXJ3SkZsanR5SW82aXQ5bFRqZ1VaSERHNWdtR3JhUXBnVU1vV2dMUTRRV0I0MXFwTlJJLVpWcE9JMlVEM3Q3OVg0YWY4SldNNFVGZTJjajd0TDJCelg3Q1BkSHVOdDhuaUlpZmpvS0R4T1lOak1GQzh3YzlURVNEb3Ftc2M5UW82RGVsM3hwZw?oc=5"
+      },
+      {
+        "label": "Energeticcity",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1d3RE1aZGI1dnVaRjVxdUY0UFhsUTBEbEVDNERsem5TYm9Qa1F4WXRtSVFZVEtDUjZyZmh6S251Q0s3cVlBU0Ital84aU5LUDRHbTFvRzAtM2dtQzBmdm04U01yaDVNX0k5NUlzWV9DN0xIZ3JYVm84V043S0RMX191emxwdUJYeG9uTG9yY20yRzJwUnlISm40WGRPSGZDSGRhY3NUUFI?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-d9689d0674b8.webp",
+    "image_source_url": "https://www.squamishchief.com/highlights/federal-government-invests-200-million-in-woodfibre-lng-expansion-13016317",
+    "image_credit": "Squamish Chief"
+  },
+  {
+    "id": "news-9f8c0382b81b",
+    "title": "Canada invests $313M in Honda North America",
+    "summary": "The Canadian government is investing $313 million in Honda North America to support next-generation vehicle manufacturing.",
+    "amount": 313000000,
+    "date": "2026-11-13",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2NkcVpqOHo1SWtUa2NOS1V1V2ZmWmdaMjJwS2h3M1JJZERnSjFGdTFZWVpqbW5WWmpSRUk5b1FFYVRZaTh1ODMzcXFjbkw3Sk5sN0czQk02UVRsaGtIRHFoNTNvbUZ4Um13X2pQSG9IMTZTN2drb283OUl2RGduYmdTVkt4M1pX?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-9f8c0382b81b.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/canada-invests-313-million-honda-153000386.html",
+    "image_credit": "Yahoo! Finance Canada"
+  },
+  {
+    "id": "news-cfaee21825a1",
+    "title": "Federal government announces $176.9M for wine industry",
+    "summary": "The federal government announced $176.9 million in financial support for Canada's wine sector.",
+    "amount": 176900000,
+    "date": "2026-11-13",
+    "fiscal_year": "2026-27",
+    "department": "Agriculture and Agri-Food Canada",
+    "dept_code": "AGR",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Castanet",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0VldlBTZ250TFNhQ0o4bV94VUtTZzQyUVIwc3VNSDNuVDd4RmFhUVlVX0QzSmRJWUhpSlp3bi1ldExrWXhETXM1N2xIdlJhalJndFR4MlU1ZTdaTG5yVkdoRC1SOUxhbk5rV2NDUUhFS1NQbUk2dWhpS2M1X21UTTFYUUp3VGFVbmJnNGY5bkoxODVIT3RIMmUtSEg2RjBObUMwNmRHWWp5M29xa0NOT0ZfaFJqX0E2V1ZXbU5wcDF0ZzQ?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-b0c7e8b6adc6",
     "title": "Canada invests $10M in Atlantic salmon conservation",
     "summary": "The federal government is allocating a $10 million grant toward Atlantic salmon conservation initiatives.",
@@ -1949,9 +2041,9 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHdPNUVsWmZkcG1FUEdzb2ZEVHBvcW9jLXBNNE14QjlnRmFDMFN3SUVybVp4STJ5U1NGQkVodDllcUlkZDlzRWhpS0VUczRpZTQ2LVRrZVRhOFJ3aFdZOTBQRmRVaUNZd3V5VUZKYUdNLWgyWUFWei1vcTZhcFdVcV9xRmVHWG82SlpIdTJad2lHbXRZV09SYUszX3V3eTJFUXRPcGRpMGZXRG8?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-086732d628cb.webp",
-    "image_source_url": "https://www.ctvnews.ca/canada/article/liberals-announce-2586m-fund-for-skilled-worker-training-in-critical-sectors/",
-    "image_credit": "BNN Bloomberg"
+    "image_url": "/story-images/news/news-1db5094d403e.webp",
+    "image_source_url": "https://canada.constructconnect.com/dcn/news/labour/2026/10/liberals-announce-258-6m-fund-for-skilled-worker-training-in-critical-sectors",
+    "image_credit": "constructconnect.com"
   },
   {
     "id": "news-bb6638faed17",
@@ -2169,9 +2261,9 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQVEwU01sN2VjRDlqOXdjT1V3R1lHNXhtV2ltbkdlMHZSb0xpcjdlYjFqcU1hWTF3ZG92TTRHZTg1ZkMxaG9rZVhxMm5GcEhUZXpGM3I5VGhHdXB5cTdBVklPYzdoaDlYS0tieVhYVTFReVJkQlFWcnJhb09iZTljMGV4RjkzVm9pVlYtb2xIR2xLQVpaZTVyOVdTZXBkd1JyZjAzS3NvWkN2Qjhrb0ZKeWRQWnlHZjFYTFplTkJ1WmdTUllRZFFjaHEzRVFIV3BqR2t4dVk1MkV1MERRV2xTaFFHbw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-68c1ae6d8999.webp",
-    "image_source_url": "https://www.winnipegsun.com/news/manitoba/winnipeg-hosts-announcement-of-new-17-million-sport-boost/article_4aef6a2f-074d-48b7-be27-b9c9c44c8333.html",
-    "image_credit": "Winnipeg Sun"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-647c84241e24",
@@ -2297,9 +2389,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-2577605b3e08.webp",
+    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
+    "image_credit": "Winnipeg Sun"
   },
   {
     "id": "news-3082c44a5636",
@@ -3226,7 +3318,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=q0bdrf",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=7paEOQ",
     "image_credit": "IntraFish"
   },
   {
