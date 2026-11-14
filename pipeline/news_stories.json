@@ -1,27 +1,5 @@
 [
   {
-    "id": "news-cfb175755bf8",
-    "title": "Treasury Board awards $39,550 contract for backgrounders",
-    "summary": "The Treasury Board Secretariat contracted a carbon removal charity for $39,550 to prepare backgrounders.",
-    "amount": 39550,
-    "date": "2026-11-13",
-    "fiscal_year": "2026-27",
-    "department": "Treasury Board of Canada Secretariat",
-    "dept_code": "TBC",
-    "program_code": null,
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "Rebel News",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWndTSlpFaF9mWjRncFNIOXh2dHduT0JSZWlCU2RWcjFvQy1VZVgtNVB4X2RMZEEzUEZXb01OcUFXZVB1WEk3V3hWOFh6SFEyUUZxdGQ2NnBwSjAtaVF6U3d3M19uTmVvLUhkVFRCS2JLWk5UcG1hMEdLd3FQTTdqYmxDQmw0ZmFENkpHTVRqaWZVVEhPaWRwdFRoUjJwMU5KaDVsZVoxOGZ0V3ZpNHdIMW91TDY3aWF2M3ZiYmZoS3B0SndacjAwVQ?oc=5"
-      }
-    ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
-  },
-  {
     "id": "news-396f38d61367",
     "title": "Federal government invests $200M in Woodfibre LNG expansion",
     "summary": "The federal government is committing $200 million toward the expansion of Woodfibre LNG.",
@@ -45,11 +23,37 @@
       {
         "label": "Yahoo! Finance Canada",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XZ2dsRmVmUUhGeHRzZGZxWW9JM1N0bnNkTEpkZFNvemFEdWIyNEtPaGpfNDRZOEx5V01EbzR1d2F4YU1DczlKdDBVVW9NUktnYXU2bW9MS2w2S2Q1VnZUTWstSEVOOTlldG0yZUdFelpHcW9xWGtkcHBURHc?oc=5"
+      },
+      {
+        "label": "Philippine Canadian Inquirer",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQV8tY1FHM0hVZTRuUjc3TmN3N2NYWVBCVGdWLW1qUzN4cmlKeVVUYnVnOV9hZW1ac1hHeFM4dkV6aGNEYnNFYXZscU93dDlFX0d3LUp1YloxeFJiVGR4d3UzN3FsVE0wMEtHazRST2xPRkhzLU0xQmhDaVk0SXpaalQtX184X2hTWUJpWmR0UHJzTENqdkRVcnJBYnlfV3Q5S0pxRl9XZEEtTGR4NG1RZkV2LWhaUUZpV1dF?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-d9689d0674b8.webp",
     "image_source_url": "https://www.squamishchief.com/highlights/federal-government-invests-200-million-in-woodfibre-lng-expansion-13016317",
     "image_credit": "Squamish Chief"
+  },
+  {
+    "id": "news-cfb175755bf8",
+    "title": "Treasury Board awards $39,550 contract for backgrounders",
+    "summary": "The Treasury Board Secretariat contracted a carbon removal charity for $39,550 to prepare backgrounders.",
+    "amount": 39550,
+    "date": "2026-11-13",
+    "fiscal_year": "2026-27",
+    "department": "Treasury Board of Canada Secretariat",
+    "dept_code": "TBC",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWndTSlpFaF9mWjRncFNIOXh2dHduT0JSZWlCU2RWcjFvQy1VZVgtNVB4X2RMZEEzUEZXb01OcUFXZVB1WEk3V3hWOFh6SFEyUUZxdGQ2NnBwSjAtaVF6U3d3M19uTmVvLUhkVFRCS2JLWk5UcG1hMEdLd3FQTTdqYmxDQmw0ZmFENkpHTVRqaWZVVEhPaWRwdFRoUjJwMU5KaDVsZVoxOGZ0V3ZpNHdIMW91TDY3aWF2M3ZiYmZoS3B0SndacjAwVQ?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-9f8c0382b81b",
@@ -1046,7 +1050,7 @@
     "image_credit": "Yahoo"
   },
   {
-    "id": "news-62217be23d25",
+    "id": "news-429e04191758",
     "title": "Ottawa purchases $1.6 billion stake in AI firm Cohere",
     "summary": "The federal government has acquired a $1.6 billion stake in artificial intelligence company Cohere as the firm's valuation reached $35.7 billion.",
     "amount": 1600000000,
@@ -1061,6 +1065,10 @@
       {
         "label": "The Globe and Mail",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeGJlb1pvWktqeU11WENkWlJkdjZjc1FBcEVXTXA5UnlaMHlGNW9CU3ZjRmRpSWRZSXFITVJnX1FZbHRUYzJLY2dlYl84bUtnVVF0SmJsRjM5eE40UGFXMG90Zm5PQmNsZzFBZ2thOFRIeUJfYld0Ym9SRF9oN2NZLTdZOGZScmdfM2p6dndhX1hEMGRwVlJ3LTNOY1VIYk9jVVJGcVpyZ3NSUQ?oc=5"
+      },
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80QzFvaVEtR1JBancxd3BTNGhyRkJYTVN1cnE4ZUtua2VQMlBNU0VPZXVZMzA0M2tJc3FPVHVYUkd1UEkzVzJyYURpZVhteGE3X3J2cTF3cWVyWll2NzdzT093SkxxSjM2eEVrVVFrVmJwSWg0R0ROcmVn?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-62217be23d25.webp",
@@ -2265,9 +2273,9 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQVEwU01sN2VjRDlqOXdjT1V3R1lHNXhtV2ltbkdlMHZSb0xpcjdlYjFqcU1hWTF3ZG92TTRHZTg1ZkMxaG9rZVhxMm5GcEhUZXpGM3I5VGhHdXB5cTdBVklPYzdoaDlYS0tieVhYVTFReVJkQlFWcnJhb09iZTljMGV4RjkzVm9pVlYtb2xIR2xLQVpaZTVyOVdTZXBkd1JyZjAzS3NvWkN2Qjhrb0ZKeWRQWnlHZjFYTFplTkJ1WmdTUllRZFFjaHEzRVFIV3BqR2t4dVk1MkV1MERRV2xTaFFHbw?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-68c1ae6d8999.webp",
+    "image_source_url": "https://www.winnipegsun.com/news/manitoba/winnipeg-hosts-announcement-of-new-17-million-sport-boost/article_4aef6a2f-074d-48b7-be27-b9c9c44c8333.html",
+    "image_credit": "Winnipeg Sun"
   },
   {
     "id": "news-647c84241e24",
@@ -2393,9 +2401,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-2577605b3e08.webp",
-    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
-    "image_credit": "Winnipeg Sun"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-3082c44a5636",
@@ -3322,7 +3330,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=p3GF1P",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=YA8ufC",
     "image_credit": "IntraFish"
   },
   {
@@ -3667,9 +3675,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSXo0bktSNmc0SlptalVPcWk0N3dKRkd3SS1td2ZWb25XYTNfMDNEemVwcVZySVM0ODlsbUJRLUttenhEMm9KQTJzNmhJZG5uMkFZQVo4cklTN3dBZ2VsS090UjVEaFZlamlxSXJQSUZET2tQVzFZM1Etd1kzdHBtYUNVbzBPMkN2clA5ckluMVBjbmJkVy1NdDczazhObDIydW82OXAtYkJEVUFlUVdDb1ZlQ1RXRkdZY1NKYmNZNEc1VUxsOE9rOWluTXlZQldrNWdfQUk1TXdzODdHWWdUcng4OVVZaEE2Z1FIRlg5R3NKYUtRRE1Zb01CMUNpbmZl?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-70d90f0218d4.webp",
-    "image_source_url": "https://www.thestar.com/real-estate/federal-government-launches-1-5-billion-program-to-preserve-affordable-rental-housing/article_2278ee41-6025-453e-94e7-654c72cb0c12.html",
-    "image_credit": "Toronto Star"
+    "image_url": "/story-images/news/news-a334f81f4892.webp",
+    "image_source_url": "https://www.ctvnews.ca/ottawa/article/federal-government-selects-non-profit-to-manage-15b-rental-protection-fund/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-95682aaf5c9c",
