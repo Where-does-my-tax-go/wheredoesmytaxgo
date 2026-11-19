@@ -27,6 +27,10 @@
       {
         "label": "QP Briefing",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGVUTFIzVk5KS295MldjeGozQjNITkxzRjZYMFFWdzhwMjFsYjBiRC1EOEktaEVnbU9xS0w2MGtGa3JIdXAzTHVWLXN2YmtONFhiSDhjc3NYdnBrcDA1ZEpTelpPXzFSNE56dUVaUXR0RDRKSFZGemRPSWJ3U2lzTGZlWXVKT1ExdnNDcTFSZHZCdlNtMDd6c3R6bjZ4N1paZWxFa2YzbDFVdw?oc=5"
+      },
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQamtLZGVIbnM0RmxfY2x5T1IyenRTV01jeWZCTWhJd1BxWFZmeFRrbGZXWmc4SWVwTFlFSVRHbzRsNE5KZFI0SEJxTnBGTmZpYzVYM0JNZ0RpVnh1bm43N2YzWDVmbkpMSWNHdVRTbDdVTEl4cVdnVTlVa3VHcm5xN0gtQVlqdzdCODFjckk4Rlhjand4YU41bGk2VVIxaGktTEpuWnJBMzhlN0hPNlZodw?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-1cbdb99d6e36.webp",
@@ -451,9 +455,9 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFhhQThYRVhNWk13WjRQVnRPdjJaanBXM3VaUjhacVdPS2kxb0pKMHZmS1M0MU1McE9QWUJGZHdwZnpWNW1IWWxIYXpiRTlScnFiVkZjUTZGOXZlbHl3WndnYnp6Tmlwc3B0VVFpOFc0WmJtMXVfeWh6cy1QT0hEdHdvdUFQVGVteDBYNjZRbktvMWd5T0tRMUoyVTVCYTNRSmo1c0F3?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-3a76664dd5ec.webp",
-    "image_source_url": "https://ca.news.yahoo.com/ottawa-outlines-details-600m-cancon-162211857.html",
-    "image_credit": "Yahoo News Canada"
+    "image_url": "/story-images/news/news-60eb6e16074e.webp",
+    "image_source_url": "https://www.ctvnews.ca/politics/article/ottawa-outlines-details-of-600m-for-cancon-in-latest-budget/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-e58517933202",
@@ -1297,9 +1301,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeG5XOWs0NVFPZ3dub2RQZmFoeXp3dmNwa2ZVS09JYTJ3enVTQzNxWmUyMVI2bjd3ZGRmNFR1QVAzSjdMZGpOeFBBdWk4YU9EN3d5Wk0xTlVlVG9Odl9SVWt2Wmp5OVpZN0VGX0lPcEJIUEVPZGVvTkFTSGVEUlo2bUxJNnEtWHNLUExnOXNPTFY5Q25rVFNYVTRjcDNlbVpzSS1ZLXNNRFBDS05G?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-d8032977a7ff.webp",
-    "image_source_url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/pmet-resources-announces-federal-funding-of-c12-million-to-its-100-owned-subsidiary-innova-lithium-for-shaakichiuwaanaan-access-road/2456571",
-    "image_credit": "The Manila Times"
+    "image_url": "/story-images/news/news-bcacf267636b.webp",
+    "image_source_url": "https://vir.com.vn/pmet-resources-secures-12-million-canadian-dollars-federal-lithium-road-grant-163978.html",
+    "image_credit": "Vietnam Investment Review - VIR"
   },
   {
     "id": "news-390db9c6e462",
@@ -1707,9 +1711,9 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWFyeVdyc0lieVptaGNseFFqVEdBVTdLNHlBMUtSUTdveUR4U2tfWDkyVUM0TzhjdjZycXIxeEFUazVKU2RUZHlrTmJBanAtdTJZNVZsR2t6Nk9Bb2dEcHdOT1ZXVG9tZWZRbjRNOWFIaG1sSkF5dXdET3dscXNMeHVGMURjaXN6cE9mWGpiN25mVlozY2Q0eVJidTFrRjZBRWpkcmQ2MlE4SGJtcWpFQ2kxVE00R3VC?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-4828c428eb76.webp",
-    "image_source_url": "https://www.ctvnews.ca/atlantic/prince-edward-island/article/ottawa-spending-7m-on-pei-ferry-terminal-infrastructure/",
-    "image_credit": "CTV News"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-1228bb72dec0",
@@ -1805,9 +1809,9 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSXp2VVdGMHhlTVk5RFA5UW1LNGRjQjN3azRDZmFkdGtvM0NqUXFVc3R1aXI5Vld4Tlhaam4wbjhLRWpwbDV0MWcwek9nR0VnV180NHkzeFVDNTdUVjJRUE54NlplWU1RcktjS1c2Wkx0MWZzbWFqeXpIdlVMTTZGTUdwQWVnR2hYTWJyc0NKcWFqRE1nUXFz?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-d58b1c95e756.webp",
-    "image_source_url": "https://www.renewcanada.net/canada-invests-25m-to-support-saint-john-trade-corridor-project/",
-    "image_credit": "ReNew Canada"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-277f94595ccb",
@@ -2363,9 +2367,9 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbmViU2N5Q19QdURmZmpSdkpOQmRlOUpIX2lqYU84VDEzSTIwMllnSlE2Nk1tcnJHN1BWZkJoM09VdU9iS2hsNVdTeUg5dzE1ODhWWnhkVTU5NTdkMTQwQW56aFhRWWh0N0VINDhIZ3ZSZmJ2Z2VHcDVSdjQwY0Y1eG9TZ2lFSkRUWWNZdVNWaHN3cy0wUXJVV0JyZGZOb3ZIRHZDbmE0aXk3OUN6QWFLMWhnWnU1QzB2NHMwQk52a1lKTWZPU1ZHeHdn?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-14bc176613dd.webp",
-    "image_source_url": "https://www.ctvnews.ca/canada/article/ottawa-to-invest-430m-to-train-new-skilled-trades-workers/",
-    "image_credit": "BNN Bloomberg"
+    "image_url": "/story-images/news/news-82393baaca83.webp",
+    "image_source_url": "https://toronto.citynews.ca/2026/10/15/ottawa-opens-up-430m-for-training-facilities-equipment-in-skilled-trades/",
+    "image_credit": "CityNews Winnipeg"
   },
   {
     "id": "news-1db2858b7b83",
@@ -2421,9 +2425,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1YzdFZtVkRYem85bWltcVRvV28xYVdLYnE4RnNQVzZTOEZCQURHZjVtTTZnV2ZvUnFiYnRXTFRrMkRlVlZOSXBxSkl0VnJ5aUZoRGdtZXFWd2dFZmt0TVJKY083ekxFS3lSdlBSYXM5WjZwRlhLSkJPSVE5SjdNRzlaNnZqRFloalprZndXNDNTdkRVaDNxX1JWU2hZcXZyRFY0Q3lua2xyMUFmYkQ5ZGx3Zw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-dbf11aba2ed0.webp",
-    "image_source_url": "https://halifax.citynews.ca/2026/10/15/ottawa-to-announce-100-million-toward-offshore-wind-projects-in-nova-scotia/",
-    "image_credit": "CityNews Halifax"
+    "image_url": "/story-images/news/news-41e96c8b00eb.webp",
+    "image_source_url": "https://finance.yahoo.com/energy/articles/canada-invest-ca-100-million-140437053.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-65618e625be7",
@@ -2567,9 +2571,9 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUtIVkc3c2hXZFRPS2FvbEMtVUU4elZBNURBUFFMRm9KTnFtSTBzVjV6ZDgtMlZZX0QzcEVRNmV2OHpBVU96YklVcTlBYTlJbXRyTk1pNHlENkJZZUNEQ0psY1Y1Mk5TSV95T2RxLWl5dEk3QkpmVmVpYWpScXlhbzJSb2x2R3JmLVU1TTFibm0zMmgzM0VaekJBYktIMHBMVWdVMW03S01XQVdRYkJ6SWpTMnNPNXRkWkhqZA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-4bdcfd85f89f.webp",
-    "image_source_url": "https://www.ctvnews.ca/atlantic/new-brunswick/article/ottawa-investing-50-million-in-high-tech-forestry-centre-in-new-brunswick/",
-    "image_credit": "CP24"
+    "image_url": "/story-images/news/news-2244fb9aa8d6.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/ottawa-investing-50-million-high-123516419.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-dea6df21d0f8",
@@ -2649,9 +2653,9 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3pWaXNoRVQ1T1Npbm9PbnNUeXFqT2ZBLU4xc1djR1VoZEx1RjdxQVQyemFBUUY5TTYwQnJQeGVvNndDZzZhamtkeDNPa2s4ak0wYVlnNzNvNEF1Qk1uUGZIanBKamFLakJwSnpmcExISHY1bmRmTTNjRktja3B0OElqR0ZodGlMRFJkcmNzNDhna1FjSk1Iai1GSHE?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-3a652e71e871.webp",
-    "image_source_url": "https://www.ctvnews.ca/london/article/london-tech-company-gets-federal-funding-for-ai-diagnostics-software/",
-    "image_credit": "CTV News"
+    "image_url": "/story-images/news/news-18bc8cdb9404.webp",
+    "image_source_url": "https://www.cryptopolitan.com/canada-adds-500-million-to-ai-adoption-fund-total-now-700-million/",
+    "image_credit": "Cryptopolitan"
   },
   {
     "id": "news-2fd414882785",
@@ -2769,9 +2773,9 @@
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZTZUdW9NdGFtRzFrelNnX0dBbUk0WGVTOVp6YW01SUxXV3Z4eGl5dUxGWHRLOWtIQ1ZMSkNhOVh6clFJN3dTa2hJOHk0aXMySFBVTlFycDcyRExzVFMtd1dRMFh3Z0EwZVhRcFhlQ19hcUVFdUwxRVp5MHFhSVFpRE5BWjhaRDBZd25pMVdmUzFLVVE4TnBDUXBxd0x0Wi16T2Job2ExYjJCbW00MFlaQXJIM2gtbTJIRWk5a1Y2VVVlVG9qUVdxUlV1RjhodkJZLWltQjVpMWVHN2xLZGx0VjBLVkpOUWlRYnp1Mng2NXc0TzdwRlFUZVVTc2k?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-9171f2abb740.webp",
+    "image_source_url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/10/atlantic-canadian-businesses-to-benefit-from-an-additional-40-million-in-federal-dollars-for-ai.html",
+    "image_credit": "Canada.ca"
   },
   {
     "id": "news-2515cc4e75bb",
@@ -3522,7 +3526,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=c3PsXE",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=FutB7W",
     "image_credit": "IntraFish"
   },
   {
