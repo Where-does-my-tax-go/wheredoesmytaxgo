@@ -1,5 +1,71 @@
 [
   {
+    "id": "news-f092bc6df740",
+    "title": "Canada funds $2.2M forest market challenge",
+    "summary": "The Government of Canada is providing $2.2 million in funding for a forest market challenge.",
+    "amount": 2200000,
+    "date": "2026-11-19",
+    "fiscal_year": "2026-27",
+    "department": "Natural Resources Canada",
+    "dept_code": "NR",
+    "program_code": "BTO01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Wisevoter",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaG5Cbm04dlBqbmJzOWoxSzUtMUZGVGRZZ2otNXFiM0hwZ3VfUTBKUmF6V2ItR3VwcTN4eHpWdXNYYW43QWZqdmxWVmtFRnRTX2VmdDBsVU9BYjN2S2xHSkxzMk9nNTZ6SXFJanVmeTVBMGxTSFNudlZiYUp2UkUtNE56UU0?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-f092bc6df740.webp",
+    "image_source_url": "https://wisevoter.com/world/ca/2026/11/19/canada-funds-forest-market-challenge",
+    "image_credit": "Wisevoter"
+  },
+  {
+    "id": "news-470e6868a988",
+    "title": "Robotics Centre awarded $4.5M DND contract for 80 Canadian-built drones",
+    "summary": "The Department of National Defence has awarded a $4.5-million contract to Robotics Centre for 80 drones built in Canada.",
+    "amount": 4500000,
+    "date": "2026-11-19",
+    "fiscal_year": "2026-27",
+    "department": "National Defence",
+    "dept_code": "ND",
+    "program_code": "BUR03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "www.vanguarddefence.ca",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkI2eFRXYUxKT1c2OG9TQkdqVHh3dlpkeFl4OWdkUWY0bDBzMnZWeVBLZ2J3YW85eUtDcjJqSS1oblFDcWY3NkxYOGllSGhTMnhpWFRWSThQZkMzNjYwYmJjQWhyUmVCQVUyWTE1cnJVaUJoUDdOS3JydTZvTzViNUNxRHo5V01PdVhCTHZrOUc2ZmJTXzRueDVDY3VibU96WThMR0dpYw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-470e6868a988.webp",
+    "image_source_url": "https://www.vanguarddefence.ca/p/robotics-centre-lands-4-5-million-dnd-deal-for-80-canadian-built-drones",
+    "image_credit": "www.vanguarddefence.ca"
+  },
+  {
+    "id": "news-710e1b9ee8b8",
+    "title": "Canada pledges up to $392M to Brazil-led forest fund",
+    "summary": "Canada has committed up to $392 million to support an international forest fund led by Brazil.",
+    "amount": 392000000,
+    "date": "2026-11-18",
+    "fiscal_year": "2026-27",
+    "department": "Global Affairs Canada",
+    "dept_code": "EA",
+    "program_code": "BVD01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "AccuWeather",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkJ5ZXd3WlNmVTR1YnNleXhrREluSEJDUG1YV3NmbEFlWEpVMTZ2M2FiclA4OFhldkxHNlBuZUEzVHl6X0ZrcHVGNjduRDlpUU9udGk2QVdrQkdTdW9icUI5VmY2Z0V3dEZLcjdFNVNLUGV0U0w3Z1kyWklEcmNWTGQwLUwxNXY3Y09oZURoNjdhTktkZDJwOU5HQjZjT0RmMFZ2MXROcm8?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-710e1b9ee8b8.webp",
+    "image_source_url": "https://www.accuweather.com/en/climate/canada-pledges-up-to-392-million-to-brazil-led-forest-fund/1960838",
+    "image_credit": "AccuWeather"
+  },
+  {
     "id": "news-1cbdb99d6e36",
     "title": "Ottawa spent $3.45M on legal fees for Bill 21",
     "summary": "The federal government spent roughly $3.45 million in legal fees related to Quebec's Bill 21.",
@@ -297,20 +363,24 @@
   },
   {
     "id": "news-b0c7e8b6adc6",
-    "title": "Canada invests $10M in Atlantic salmon conservation",
-    "summary": "The federal government is allocating a $10 million grant toward Atlantic salmon conservation initiatives.",
+    "title": "Nearly $10M announced for 24 Atlantic Canada clean electricity projects",
+    "summary": "Nearly $10 million in funding has been announced for 24 clean electricity projects across Atlantic Canada.",
     "amount": 10000000,
     "date": "2026-11-12",
     "fiscal_year": "2026-27",
-    "department": "Fisheries and Oceans Canada",
-    "dept_code": "FO",
-    "program_code": "BTF04",
+    "department": "Natural Resources Canada",
+    "dept_code": "NR",
+    "program_code": "BTM09",
     "source_type": "news",
     "level": "federal",
     "sources": [
       {
         "label": "SeafoodSource",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXFteHFQalNPd0N5ZGNjLWlXOVZJNUhWNTc2al9jRXVycjNySmFob0ZGS3RMWGNTN2NKVkZJWUV1bjI3RUNTTUJiNk9TcjhwU3poLTdkdlc3ck5fdy1SelBfWGtwdFFnZlJrMzBJZTR0cDFrT3VLQUtLVkpnaW5PV0F5eXIyLTczdGZ5b1BoVzd2MXZkZ1hHVmNqM2xxUDRSMkE1OWVocDVQTXZfNWZWMFdURU42UWtqcEdaUA?oc=5"
+      },
+      {
+        "label": "Electrical Business Magazine",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcklCdVZraDZKQ2otVllERDV4WHBWbTFTTHVzN29JMUQ0Z2JPX1ljR0k4aG1Xb2t5VHhSXzRPa0FLMnBDcTVTWUZBN0EwM0ZRZnlTYmU3SmJQOWszb0ZRYllRMHBkS3lNRWJza2IzNWIxSlpiNXptRk9maS0wc1dxaWxsZHFoX1pzQ0JOazc3d0hUaEZWZGVPeTFndDJ4TTBCdDdDTUNIYzA3WW5nRUtJZw?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-b0c7e8b6adc6.webp",
@@ -405,9 +475,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEpLekQ5UmxuZ20tcGhRYlpHR21nVVIzbGdzVzlLcmlEbGNpSmhVTEYwTWdHQ2lHTDFsVUtfWW44OXl0R2Z4OW4zNFFfSGV0UDNvOXp0NHlhU1hRY215UUJFYkRGbHowNXVLcHY4NUhCSUI4NWZzS2VGaGtKbnM3bGU5UWJ3QlZMWVZ5Vm9YNUtWN3pudXNxWnJsTENuVFhOWHVOYVVLSWplR19u?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-aa580b1e8948.webp",
-    "image_source_url": "https://canadianinquirer.net/2026/11/09/canada-unveils-600m-funding-boost-for-film-tv-music-and-local-media/",
-    "image_credit": "Philippine Canadian Inquirer"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-3a76664dd5ec",
@@ -453,11 +523,15 @@
       {
         "label": "Castanet",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFhhQThYRVhNWk13WjRQVnRPdjJaanBXM3VaUjhacVdPS2kxb0pKMHZmS1M0MU1McE9QWUJGZHdwZnpWNW1IWWxIYXpiRTlScnFiVkZjUTZGOXZlbHl3WndnYnp6Tmlwc3B0VVFpOFc0WmJtMXVfeWh6cy1QT0hEdHdvdUFQVGVteDBYNjZRbktvMWd5T0tRMUoyVTVCYTNRSmo1c0F3?oc=5"
+      },
+      {
+        "label": "National Newswatch",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbWk4LVRnWHowbnZpV2FEYWZ1bnE3VjFBcklSNVVSUldMLXhKa2JmQTBnSWhGMkV4Z2F3ZmdBVmNJb04zcnhxb3UwSGxZWHVCV3d2RTR3RWF0MjBUXzBQLVk2emoxQ0VEYkNBb01VaXJROW9oZk5hYzBBazJWWXhuazB6NEt0SjZaSmdpR2NtbnNzRkVwbTJIQ2NERXQwSnJBRmc?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-3a76664dd5ec.webp",
-    "image_source_url": "https://ca.news.yahoo.com/ottawa-outlines-details-600m-cancon-162211857.html",
-    "image_credit": "Yahoo News Canada"
+    "image_url": "/story-images/news/news-9dc8ee6612f3.webp",
+    "image_source_url": "https://www.ctvnews.ca/politics/article/ottawa-outlines-details-of-600m-for-cancon-in-latest-budget/",
+    "image_credit": "CP24"
   },
   {
     "id": "news-e58517933202",
@@ -1571,8 +1645,8 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVmlYeGFvY21MZm1GekhCYi1NUHRrOEtlaUl5bjB4RjJodXdKcGRSdTVxWTVwUTcwUnpvX0pKbXJUNy03UkFBbm5Nekt2MFp2ZEhuUGMyT2Y2RjZnNkswd2pubjFfel9yeHdQcXZMNFltOTMxLWlIWXJENDVXcHp6Z2hxdXRJQkZwTDZBWXZyYTN0TW85alhjRTBPUFk3MXJ0TFNRSHgydFptQWR3SlV4ZFlsR2txWk8zV25XMkxOYw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-d67eb6104ecc.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-192m-to-strengthen-athlete-safety-and-integrity-in-canadian-sports",
+    "image_url": "/story-images/news/news-e4ac95709f14.webp",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-192m-to-strengthen-athlete-safety-and-integrity-in-canadian-sports",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -1831,9 +1905,9 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSThaNktpaHlLWXhzdTUtZm1DQTNiNXh3Q21lRDV6b0drTDJnSXNsRUpmZHVpWEdyaEFMeXlpUnl5NHdNZHBMb1BwSi10eDd4NHd6bjczM0VNZzNIZkJ4TFJ0RkswSEZqS1F3ekNDRENUSmNXWUNZMXpEZmFrenF2SGtyZkwyQ2o1UGZLSjBRZTVxV19hYXh6d01Sa0NKTE12ZElvbnVFcjgweFE?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-277f94595ccb.webp",
+    "image_source_url": "https://betakit.com/feds-reveal-breakdown-of-750-million-vc-funding-envelope-open-growth-vcci-applications/",
+    "image_credit": "BetaKit"
   },
   {
     "id": "news-f3015002d649",
@@ -2469,9 +2543,9 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQVEwU01sN2VjRDlqOXdjT1V3R1lHNXhtV2ltbkdlMHZSb0xpcjdlYjFqcU1hWTF3ZG92TTRHZTg1ZkMxaG9rZVhxMm5GcEhUZXpGM3I5VGhHdXB5cTdBVklPYzdoaDlYS0tieVhYVTFReVJkQlFWcnJhb09iZTljMGV4RjkzVm9pVlYtb2xIR2xLQVpaZTVyOVdTZXBkd1JyZjAzS3NvWkN2Qjhrb0ZKeWRQWnlHZjFYTFplTkJ1WmdTUllRZFFjaHEzRVFIV3BqR2t4dVk1MkV1MERRV2xTaFFHbw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-68c1ae6d8999.webp",
-    "image_source_url": "https://www.winnipegsun.com/news/manitoba/winnipeg-hosts-announcement-of-new-17-million-sport-boost/article_4aef6a2f-074d-48b7-be27-b9c9c44c8333.html",
-    "image_credit": "Winnipeg Sun"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-647c84241e24",
@@ -2751,9 +2825,9 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGJoMFJaa1d2UEJXdmQwYk12MnZGTkp1ajhZOV9aM0pKMHluWkJtOC1HUW03M1BVN0lXTzZZQy0xUmhEeEhhdW1uZC1Zbi1YaTczMHl3VVFzbmZsVkozSUowLVItR1NyeVRyZG5BRnB0N2Q3cUYxd1F4VFJ3Rk04UkZBVXFoNjF6S1UyejlTeUhJejUwc0RuaDI1TXRUMXBmRGJ0Yl9vY3Nva3ZGNmM4MUh6T3N1bmZ4Um80RWVYa1l1VTJNNjZIclZ2NGx3a0dp?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-65eb6bc71249.webp",
-    "image_source_url": "https://constructionreviewonline.com/c357m-via-rail-montreal-assembly-and-maintenance-facility-pomerleau-begins-construction-in-quebec/",
-    "image_credit": "Construction Review"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-9171f2abb740",
@@ -3155,9 +3229,9 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhnbldZRE9nNlVSZTFIVDN2ODhiTlZOaW9Nd0o4bE04RS1TRzEwaVozaDBqRlhNQWtlNG5ENG5oTFBEWFd6UmFWNEhGTWFCeEVfQXVUUzQ3aDJUV3M4dDgySnZsNGpQT1I3bTBZWnd4bkllWHNTa2NfR3RiY3dHdFFlUTFjbTB0NC1VeVcydDBjcm5ldDJVSw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-84165101ceaf.webp",
-    "image_source_url": "https://canadiandefencereview.com/canada-invests-77m-in-small-craft-harbour-in-arctic-bay-nunavut/",
-    "image_credit": "Canadian Defence Review"
+    "image_url": "/story-images/news/news-93c940219547.webp",
+    "image_source_url": "https://cedarnews.net/newstasks/1032597/canada-invests-77m-small-craft-harbour-arctic/",
+    "image_credit": "cedarnews.net"
   },
   {
     "id": "news-0d19f4920d96",
@@ -3526,7 +3600,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=xoYDX1",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=K3icop",
     "image_credit": "IntraFish"
   },
   {
@@ -3731,9 +3805,9 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUttc3RHVUc2MWkyR3R4b0lYN3BuRThrd2YtTHVHRWdsbnowVzYwaEtVa0k1ckVKU2NGYVRqa3Z3Vm43dFJmaUxfNHhsT25KRTZtWmhqQ0I4WTQ4ZE5FbG54bFFLZWpNMWdzU2VyeGpqQzlOMThTOHFwZDBNOWFSN0t1WURtczNERDhtbERQOENSUWp4QmJPUE1BdUk3Mnh4Y1pHRndCSTRNbzduRjAxeUkwZw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-49618d121882.webp",
-    "image_source_url": "https://www.railway.supply/two-recipients-get-two-thirds-of-canadas-c4-5m-rail-trespassing-grants/",
-    "image_credit": "railway.supply"
+    "image_url": "/story-images/news/news-1bbf7d476aa4.webp",
+    "image_source_url": "https://www.progressiverailroading.com/safety/news/Canada-invests-CA45M-in-rail-crossing-safety-initatives--77827",
+    "image_credit": "Progressive Railroading"
   },
   {
     "id": "news-1c558bfadffd",
@@ -3757,9 +3831,9 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa1BhQV83ZjZFLWJRQUJqUFVBUHp0Si1NMkhFb2tncEk4cV9adXhwS0hsZG8zUDM4OF8yb0U2SUx5RmZmdEhJOFF6WkxOclVmNGJLeVpuZnJHQllUR0RCbjVUc1BRZVBzXzdHREtLTkZSUGxSNXhZV25TaHZKYnc0SnM4X1VQTHo3?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-1c558bfadffd.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/feds-grant-brunswick-461-million-191526066.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-1ea76d425f6a",
