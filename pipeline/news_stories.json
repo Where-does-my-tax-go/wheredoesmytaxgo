@@ -1,5 +1,27 @@
 [
   {
+    "id": "news-683dc60093bc",
+    "title": "Ford receives $760 million from taxpayers for Ontario plant",
+    "summary": "Ford is receiving $760 million from taxpayers for its manufacturing facility in Ontario.",
+    "amount": 760000000,
+    "date": "2026-11-20",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Global News",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS2ltcDdibXk3RGFsaDhIS0VhdEFyUGY3ZFFRVWNmRjA5YmQ5YmI2N3BrQWdDRmZyc3pNNHJUNTUxeF9KMlpjOHZJa0J5c1FtamRGZkpMcm5zTE9EdlJKSjBWcXRMOHYtX3NFVGRWeHNIeFEtcHgtYTU5YTc2LXJoeGtSX2tEWnM?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-f092bc6df740",
     "title": "Canada funds $2.2M forest market challenge",
     "summary": "The Government of Canada is providing $2.2 million in funding for a forest market challenge.",
@@ -475,9 +497,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEpLekQ5UmxuZ20tcGhRYlpHR21nVVIzbGdzVzlLcmlEbGNpSmhVTEYwTWdHQ2lHTDFsVUtfWW44OXl0R2Z4OW4zNFFfSGV0UDNvOXp0NHlhU1hRY215UUJFYkRGbHowNXVLcHY4NUhCSUI4NWZzS2VGaGtKbnM3bGU5UWJ3QlZMWVZ5Vm9YNUtWN3pudXNxWnJsTENuVFhOWHVOYVVLSWplR19u?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-aa580b1e8948.webp",
+    "image_source_url": "https://canadianinquirer.net/2026/11/09/canada-unveils-600m-funding-boost-for-film-tv-music-and-local-media/",
+    "image_credit": "Philippine Canadian Inquirer"
   },
   {
     "id": "news-3a76664dd5ec",
@@ -688,28 +710,6 @@
     "image_credit": "Sudbury News"
   },
   {
-    "id": "news-c2fae0eb5afe",
-    "title": "CBC/Radio-Canada secures two-year, $300 million federal investment",
-    "summary": "CBC/Radio-Canada is receiving a $300 million investment over two years from the federal government.",
-    "amount": 300000000,
-    "date": "2026-11-06",
-    "fiscal_year": "2026-27",
-    "department": "Canadian Broadcasting Corporation",
-    "dept_code": "CBC",
-    "program_code": "BFD00",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "Insideradio.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWlHdXNPMHZKcFcyVC1SM1AyREtMOThCSVhrdUpyUjNweC1MbVZuTmVOSjhfV3labzFTTVFuMGszS1E4cU1SZ0xWNS0yVHFiQjhjQUJubVFGU2s2V3IyS0hMQm5tOWY1MmtRX2JEMDhaUzdpY3lRV0NZOVhkVUxYdWhMLVhzVjdzekc3bFZ1ZnJZalYyeEZFbHR0UnozN1hiTGRuS1laTlBxZmY2SWFxSUxZd3ZOYkhoT3BWTGFYR2hXbXk3UW1QUHBmVHRVTG56Z0lB?oc=5"
-      }
-    ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
-  },
-  {
     "id": "news-6ee7dc6e3143",
     "title": "Ottawa sets aside $325M for Canada 160 celebrations in 2027",
     "summary": "The federal government has earmarked $325 million for 2027 celebrations to mark Canada 160 and build national pride.",
@@ -730,6 +730,32 @@
     "image_url": "/story-images/news/news-6ee7dc6e3143.webp",
     "image_source_url": "https://dailyhive.com/vancouver/canada-160-fund-federal-government-program-160th-anniversary-2027",
     "image_credit": "Daily Hive"
+  },
+  {
+    "id": "news-3dbca777e0c1",
+    "title": "CBC/Radio-Canada receives $300 million in federal budget",
+    "summary": "CBC/Radio-Canada was allocated $300 million in the federal budget.",
+    "amount": 300000000,
+    "date": "2026-11-05",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Broadcasting Corporation",
+    "dept_code": "CBC",
+    "program_code": "BFD00",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Playback",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2pOcXpBeFdzVmNwWkFiRVR3OFplamtybFZFRkZaSERfdEZNSVFZQl9xVXE5YVNXVnNSZmQwR1dsb1dOeks3V3VQeWNZZmw0aEZxaE1hQVh3U2pTcW5SRE9WdzFERUMxcHJEaElPV0paVmEtNkJKNXdZTVpKMUxVR0hmejZyMXVGTzZIVnBReXdmMGxxX0l2bA?oc=5"
+      },
+      {
+        "label": "Insideradio.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWlHdXNPMHZKcFcyVC1SM1AyREtMOThCSVhrdUpyUjNweC1MbVZuTmVOSjhfV3labzFTTVFuMGszS1E4cU1SZ0xWNS0yVHFiQjhjQUJubVFGU2s2V3IyS0hMQm5tOWY1MmtRX2JEMDhaUzdpY3lRV0NZOVhkVUxYdWhMLVhzVjdzekc3bFZ1ZnJZalYyeEZFbHR0UnozN1hiTGRuS1laTlBxZmY2SWFxSUxZd3ZOYkhoT3BWTGFYR2hXbXk3UW1QUHBmVHRVTG56Z0lB?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-e254831d0930",
@@ -1419,11 +1445,15 @@
       {
         "label": "Investing.com",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUc4UEVQT0pVWFdPLUc2V3RUX0dXVVZEb181RWx1bjA5Z1k1SkdneXQ4dVYzVzIydVpaZ1BuMHlWazZHQUdBajR6QldsZHUzRndfdUdNTzFTS3dMa0xtdlhLRzI0c2NKbkk3UjN6RVRVRmZxRUtoc21Ic3lkc0xLNm9VWnJQelg5NWVyXzM1NHlWX2V1N0VwTk8tY3VaZmdHN1dZdGdLdFBFTUg4MVhnSmUyZUhmUm9BbHc?oc=5"
+      },
+      {
+        "label": "Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2laTEJNbWlFdlQta2tOTS1zOV9aaEhxd1NGQ2NWblZISEZPSHJ2MVhxclZ4MzRNV3RSNnVOZVpVU1IzbnpCVHkyZ2JnV29MX2lKZ05zamJ5dkxoZEZGNjZIRFlFVHdQRVZzM3VqdnBId0hMVVBxMlMweDU4WmtUMUFrTHF1Rk0xcWc0TkVUTmJLY1FObEZVbzNpWVZBWThWQ2cxTVQ0eGh5Uy1MUlVETVhLakZwdHAtNDc4Tld4UQ?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-45d735e500d7.webp",
-    "image_source_url": "https://www.manilatimes.net/2026/10/28/tmt-newswire/globenewswire/siga-secures-contract-valued-at-up-to-15-million-from-canadian-department-of-national-defence-to-purchase-tpoxx/2455996",
-    "image_credit": "The Manila Times"
+    "image_url": "/story-images/news/news-3f867093c58c.webp",
+    "image_source_url": "https://defence.newsd.in/global-news/siga-wins-15-million-canadian-contract-to-supply-smallpox-drug-tpoxx",
+    "image_credit": "defence.newsd.in"
   },
   {
     "id": "news-39e9fbe71771",
@@ -1623,9 +1653,9 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGxsMUZqYnNjcExPSkZCZS1JbEpteFhtOXk3S25YbmhoNnVzbWdYcGRwZ1ludm9nOGNoS0J0eXJqdWFsNlg2aVZUN1NZZ1F2bHdHWmdmTTRDaWI5RXpTYnJ4TVFwMXlkZlNUdjFrSlBuRVAyZHJwd0JkLUMzd3J0OFU2cHNIelJpZ1dhR21zT0NqOUE0Rnk1anVCdDNxaldMbWFXMEpKVnhwMms2SE9jaEhnQVg4ck9NU0tQRw?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-67da9c70aee6.webp",
+    "image_source_url": "https://runningmagazine.ca/the-scene/athletics-canada-to-receive-an-additional-1-7-million-in-federal-funding-this-year/",
+    "image_credit": "Canadian Running Magazine"
   },
   {
     "id": "news-d67eb6104ecc",
@@ -1719,9 +1749,9 @@
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX1hvSWNTMzhDaFdVbUNQYUhWWXltMFR0cE9nVkhwRFJILXc2dXlnbllXai1kckhVZzJEVGlJaHgxQ0RMcUQxaXRkVzFNTmFncDMwLVRsVEx2WllDR1RKTkdTTkpNS0tUZGpIc1E5V1d4Y0pYN09ncVdkbi1xNjFTei1jQUtzQmF6dGpnSF9aUEo0S2Uyd2Q5MFBRQjQ2Y2F3RDM4R2JYMVV0LTI2TFdOdG9yVXVFQmRmYnRqTWlqX0Jva2pqRjdLTWhmOFBTRmtmaXV3Z2xpVTBtSjh0M1htNE9ZYjBudUk4QVJJNXB0WDJRNWhKajdsTlZ6N1gxN2tUNWc?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-aca4d1f1377f.webp",
+    "image_source_url": "https://educationnewscanada.com/article/education/level/university/1/1224633/government-of-canada-invests-880-million-to-empower-the-next-generation-of-researchers.html",
+    "image_credit": "Education News Canada"
   },
   {
     "id": "news-ea4d7a3caf85",
@@ -2234,7 +2264,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -2371,9 +2401,9 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiYzJKQ1BIRHM0bG9EQ1YwUWF0d2Z6cUVoS21tZXhVVWNkTEdmczRwTi1OX1FrTkhKWjhkUnVOZWt2MDdreXBkdnloTzRNV21DMFh0RXA4Z1o?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-b2d50b8d9865.webp",
-    "image_source_url": "https://www.intelligencer.ca/news/federal-investment-accessible-transit-belleville/",
-    "image_credit": "Belleville Intelligencer"
+    "image_url": "/story-images/news/news-be9e72da6578.webp",
+    "image_source_url": "https://www.quintenews.com/2026/10/16/393157/",
+    "image_credit": "Quinte News"
   },
   {
     "id": "news-14bc176613dd",
@@ -2671,9 +2701,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-2577605b3e08.webp",
+    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
+    "image_credit": "Winnipeg Sun"
   },
   {
     "id": "news-3082c44a5636",
@@ -3529,9 +3559,9 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGg3OUpNMTVPRTNZQkxPRG81NlRidzBPNW4tVkNGbTdWMmVKUGVTaVRtcHZ1cFZCVF9EWjIzRXUzd3VRa05RZllEVXBqTi14amw2X0wweDh1RmRxcDAwUVBkZk9sZmNfYkxmOHRvdXJUXzA1ZE41VmNIbFlBaVRiZlpxSVpDa3dGd0NDOHItb3NEZnljSUhtTHQzeFBhcmVJRGRBbDhVai0tZXJWdHRz?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-f01cf9c0f716.webp",
+    "image_source_url": "https://immigcanada.com/canada-invests-1-2-million-to-strengthen-francophone-immigration-across-three-regions/",
+    "image_credit": "ImmigCanada"
   },
   {
     "id": "news-49759a60c6c4",
@@ -3600,7 +3630,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=YVnCu2",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=Q97Ffm",
     "image_credit": "IntraFish"
   },
   {
@@ -3685,9 +3715,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVXZKS0hXUUZUMFpWLTB3VXFwYmdjSVp2Ynd2dHhVdWNFaGdUanVXZ2RvQTI4QWZibUNFcjMyNTRJaHdiazl0dDZnQnhpR1QzRnNBdnJaOHlUSGE0aEZuTjA0SENaenIyUVBvVHlRdkt6SE8tQnlYdDRZeTJWVTU3UlRpUnBPQzBFZkpORmRRTms0YkRoYm1tU0dxQWdRc3hWVmRScjBiTE9lQjg2?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-a9b6f26c6ace.webp",
-    "image_source_url": "https://www.ipolitics.ca/2026/09/28/ottawa-steers-300m-of-housing-strategy-funds-to-indigenous-led-projects/",
-    "image_credit": "iPolitics"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-3ece593ee56a",
@@ -3945,9 +3975,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSXo0bktSNmc0SlptalVPcWk0N3dKRkd3SS1td2ZWb25XYTNfMDNEemVwcVZySVM0ODlsbUJRLUttenhEMm9KQTJzNmhJZG5uMkFZQVo4cklTN3dBZ2VsS090UjVEaFZlamlxSXJQSUZET2tQVzFZM1Etd1kzdHBtYUNVbzBPMkN2clA5ckluMVBjbmJkVy1NdDczazhObDIydW82OXAtYkJEVUFlUVdDb1ZlQ1RXRkdZY1NKYmNZNEc1VUxsOE9rOWluTXlZQldrNWdfQUk1TXdzODdHWWdUcng4OVVZaEE2Z1FIRlg5R3NKYUtRRE1Zb01CMUNpbmZl?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-70d90f0218d4.webp",
-    "image_source_url": "https://www.thestar.com/real-estate/federal-government-launches-1-5-billion-program-to-preserve-affordable-rental-housing/article_2278ee41-6025-453e-94e7-654c72cb0c12.html",
-    "image_credit": "Toronto Star"
+    "image_url": "/story-images/news/news-a334f81f4892.webp",
+    "image_source_url": "https://www.ctvnews.ca/ottawa/article/federal-government-selects-non-profit-to-manage-15b-rental-protection-fund/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-95682aaf5c9c",
@@ -4061,9 +4091,9 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalFCdmx6cWQ3a3BFS2djQUkybTZiNUY2N18tdzYwcXRYb0V2M3VWdHZkZkxMbE5fNnBiM2c1VXl4bWRDVldxVGNzWUR3Y3ZrSTR0N0ZrX2lHR0YyUHFZR0tFbG5lMDc3bThaSm5vMFBvbnZSWHhFWGlPSW84ZU9iZElMSDdGZEpjWGpDb0xueHZGTDdjLVE?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-e49f93489251.webp",
+    "image_source_url": "https://www.verticalfarmdaily.com/article/9874480/canada-invests-5-million-in-haven-greens/",
+    "image_credit": "Vertical Farm Daily"
   },
   {
     "id": "news-935cc3e8795f",
@@ -4329,9 +4359,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjdabEdRZzRqc3hhUk0yVDlrYU5YYUNHNjJuZ3ZoRWZrRThSM3NSb3BlRXFBcHlndnQ0RDZLdExUTi1BTXctb0p4Sktud09yM1h2cE9EOVJLaUQ4eXFmSmUzeF9WQmRKMTVCNmkwM0lnQy1vNV96Z0tvdDl3VlpveDIyN1drSV9PTkxfNXU2QzNQeWRyS2dYZnFYNA?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-07c349ae8aa4.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-1-98-163400092.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-480664abee11",
@@ -4805,9 +4835,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
+    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
+    "image_credit": "On-Site Magazine"
   },
   {
     "id": "news-28b59b949d4f",
