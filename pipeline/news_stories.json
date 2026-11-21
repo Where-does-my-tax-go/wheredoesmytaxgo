@@ -22,7 +22,7 @@
     "image_credit": null
   },
   {
-    "id": "news-5ae77f207327",
+    "id": "news-057bcfe24bb6",
     "title": "Dominion Dynamics wins $17M Canadian minehunter contract",
     "summary": "Dominion Dynamics has secured a $17 million contract to provide minehunter equipment for Canada.",
     "amount": 17000000,
@@ -37,11 +37,15 @@
       {
         "label": "Wisevoter",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWDB2SDRVeVFWTkRJblJtQnlxc2dma2NpaDBwRE5zTnZTY2V5WXBfUXphd3pNN0xZRzJzbEVnR1pxLWk3VWV5MkVPaGFBeUR5WjhLcU5TTVlQZXc4SnlQR1VBVWFWZ05ZR1BGNlZ4QkJIcWJCX3RzbVNDRURmZ1B5Tmo4dmlVNjZfODhVMkwxLVhINGs0VnJJ?oc=5"
+      },
+      {
+        "label": "The Logic",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVGhiMGdUMElkT293eVZNVTFiS2RMS1N3ejN3WVlRaEpNLWtnRng3QzFGTmNnNnlHbXUwQy1ldGtpVXpYVDRXWjE0QTA1eXNpd2FUZXdhb1QtU2E5aklTb0pIOWhuOFBtT0FOM0VVNUhHUQ?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-5ae77f207327.webp",
-    "image_source_url": "https://wisevoter.com/world/ca/2026/11/20/dominion-dynamics-17m-canadian-minehunter-contract",
-    "image_credit": "Wisevoter"
+    "image_url": "/story-images/news/news-057bcfe24bb6.webp",
+    "image_source_url": "https://thelogic.co/news/exclusive/dominion-minehunter-contract/",
+    "image_credit": "The Logic"
   },
   {
     "id": "news-f49c29a0e563",
@@ -541,9 +545,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEpLekQ5UmxuZ20tcGhRYlpHR21nVVIzbGdzVzlLcmlEbGNpSmhVTEYwTWdHQ2lHTDFsVUtfWW44OXl0R2Z4OW4zNFFfSGV0UDNvOXp0NHlhU1hRY215UUJFYkRGbHowNXVLcHY4NUhCSUI4NWZzS2VGaGtKbnM3bGU5UWJ3QlZMWVZ5Vm9YNUtWN3pudXNxWnJsTENuVFhOWHVOYVVLSWplR19u?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-aa580b1e8948.webp",
+    "image_source_url": "https://canadianinquirer.net/2026/11/09/canada-unveils-600m-funding-boost-for-film-tv-music-and-local-media/",
+    "image_credit": "Philippine Canadian Inquirer"
   },
   {
     "id": "news-3a76664dd5ec",
@@ -1913,9 +1917,9 @@
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZDBUMUowdThIVjlyNldocTNSemdZbklHU2JLQzJKekRmaGZfVHgxeUVKTU1kSFVFeG5fX0xQdVkya0otSDhZbkgyN0kwQ2pMRTF3SXF5SndBQlAycmRsUVVNQ0ZnUDdDM1pBeFJ2dW1KOUhJREoxVUZMLWQ1ZEdBWVQzcmFfb1FQdXYwNjhnbTUwd3d2LUI3Wk5mVEhnSjdaZF9HQTBwV2tkclFrb3h2RTdHTHZ0TFZTeGc4dl94NlhYcmFpQTMxQWhocDdCck56bjJFdXM5aEVHdVBLbEJHUA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-3145818ec14e.webp",
-    "image_source_url": "https://ca.sports.yahoo.com/news/ottawa-announce-funding-60-national-162957438.html",
-    "image_credit": "Yahoo"
+    "image_url": "/story-images/news/news-1228bb72dec0.webp",
+    "image_source_url": "https://www.ipolitics.ca/2026/10/22/ottawa-touts-new-era-with-60-million-in-new-funding-to-national-sport-bodies/",
+    "image_credit": "iPolitics"
   },
   {
     "id": "news-edaa8612c334",
@@ -2308,7 +2312,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -2719,9 +2723,9 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUtIVkc3c2hXZFRPS2FvbEMtVUU4elZBNURBUFFMRm9KTnFtSTBzVjV6ZDgtMlZZX0QzcEVRNmV2OHpBVU96YklVcTlBYTlJbXRyTk1pNHlENkJZZUNEQ0psY1Y1Mk5TSV95T2RxLWl5dEk3QkpmVmVpYWpScXlhbzJSb2x2R3JmLVU1TTFibm0zMmgzM0VaekJBYktIMHBMVWdVMW03S01XQVdRYkJ6SWpTMnNPNXRkWkhqZA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-2244fb9aa8d6.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/ottawa-investing-50-million-high-123516419.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-4bdcfd85f89f.webp",
+    "image_source_url": "https://www.ctvnews.ca/atlantic/new-brunswick/article/ottawa-investing-50-million-in-high-tech-forestry-centre-in-new-brunswick/",
+    "image_credit": "CP24"
   },
   {
     "id": "news-dea6df21d0f8",
@@ -2745,9 +2749,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ292VWZnTHpvb0p2bjl2OXFOdFJjUjEzYTBjdWxaLTVKc3RfY3RaLXNOQTRxMEFXeHBmVXI4QmZfRkNVazRGN1F2djRDNm5mbHlad1hyVmdrcW9HZnQzZ3hEVm9YaURRNnpmM2ZvcTlNcnJOYlprY3kxdm45TzQ1ZmNwZDlLV1Npa1J2UlFIRmZobXVvY2JOVEJob2tUd0ZycjE0R2diTWp1MlhHNXFHRl9mVjdQSVNqQVpadGZMWnZWTjNlU056WFRSSFNiVjRabnMxcXBkRDVfdnl3ZEJoQ216Z1JNdDVRX0NjQ09LdnNsbHV1eGlNM054TkNWcXRB?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-2577605b3e08.webp",
-    "image_source_url": "https://www.winnipegsun.com/national-news/health-canada-announces-6m-for-black-canadians-mental-health-addiction-supports/article_3b54a8b7-1993-4a66-a048-81a9ba179834.html",
-    "image_credit": "Winnipeg Sun"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-3082c44a5636",
@@ -2851,9 +2855,9 @@
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1ExZjB2MU9tcWl5bC1RcFRjMmFHQlVZODhqbGZwMThsQTY2SUp6aDU5Q05tVjVSQmEzcTVWd3FtYXFpNmtvRzhPMHJFUnFmdmhMWFhuUWxwVy1vaHpZbHA0TS1kb20tWDB0aDNrWVA0V0VNeTR6aTFTMjFCZlUzUUYySm53UXpFWjJfMTYzQU5tOS10T0w0UFloS2tmd19lanJJWGJVMVFsNm44eVlkUXZGdzNzU3hJTWFfeGd3?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-2fd414882785.webp",
+    "image_url": "/story-images/news/news-892ecc3337ea.webp",
     "image_source_url": "https://www.ctvnews.ca/atlantic/new-brunswick/article/new-brunswick-gets-219-million-loan-from-ottawa-for-hydroelectric-dam-repair-work/",
-    "image_credit": "BNN Bloomberg"
+    "image_credit": "CTV News"
   },
   {
     "id": "news-7dbcab29cbb6",
@@ -2877,9 +2881,9 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc3dqc0w2cU00X2p3d1ZPR0sybFRSNnNnTll6dEJtX1IwLWVRRlpwTS1RQ2g3MnhYWVZjWWVxTEl1UUhjQXNkSHplYzZUOUxFWVBmdldhOERaNTZENUlMVnBnUEJqcmo2bnJ6YnFFUWZuSjA3N2FadFdqaFd1SFA3SDdHc05mN3pyMlp2OGs1RXM0akUzU3Z1RXVOM0V6cENxdGc0a1BUZlZmTkF0ZmE4RA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-cfad1312e010.webp",
-    "image_source_url": "https://www.renewcanada.net/feds-make-269m-clean-energy-investment-in-new-brunswick/",
-    "image_credit": "ReNew Canada"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-65eb6bc71249",
@@ -2899,9 +2903,9 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGJoMFJaa1d2UEJXdmQwYk12MnZGTkp1ajhZOV9aM0pKMHluWkJtOC1HUW03M1BVN0lXTzZZQy0xUmhEeEhhdW1uZC1Zbi1YaTczMHl3VVFzbmZsVkozSUowLVItR1NyeVRyZG5BRnB0N2Q3cUYxd1F4VFJ3Rk04UkZBVXFoNjF6S1UyejlTeUhJejUwc0RuaDI1TXRUMXBmRGJ0Yl9vY3Nva3ZGNmM4MUh6T3N1bmZ4Um80RWVYa1l1VTJNNjZIclZ2NGx3a0dp?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-65eb6bc71249.webp",
-    "image_source_url": "https://constructionreviewonline.com/c357m-via-rail-montreal-assembly-and-maintenance-facility-pomerleau-begins-construction-in-quebec/",
-    "image_credit": "Construction Review"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-9171f2abb740",
@@ -2965,9 +2969,9 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnFMVThQNDE2YTZSMDlENktnSVZMZTZFdTFIUU1KOTAwdzN0eTQ1SUV4THRyX2ZZcThTT2ZpSHdHenRrdUpzc19GWExKUkJBajB2dm9GVWFBSFRuVTdjZkJVRVU5ZUQtMllyaXU0djJENXdBLUJtSmo5RGtTZlNQSFVmS1Ridi1Oc3BkWGxmTnpiTHFLTGt0eS1BV2Q5QklLNjlxWnBiZU9OQkdIdWVUWkVGNkpGM2Z2Q2xzZ045eXd5WFg0RnVyYS1ieFhQRlk?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-616a29b13b73.webp",
-    "image_source_url": "https://www.thecarillon.com/local/2026/10/12/government-of-canada-invests-up-to-2-million-to-develop-sustainable-fertilizer-technology",
-    "image_credit": "The Carillon"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-bba0d2a69dae",
@@ -2987,9 +2991,9 @@
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRlAzVXFNTVJ4S2lHVFZndnhNTEEzdzhreHhGbGstQkhrZk1wV2NDckxWZjFERGhWTm1HcjdOQXZTWW1ITjVSbk1US0p0SFgwWXVnN0JrS2JfNV9sZE1uTWV2SW1YeDlpZ0daT2pQMXhlRlcwSkNIa2ttUlVaVTNGR2pjX1hZZy1IZXNic2FyV2c4SVZHejlLX0FFY2tZNmZyaHBDWS1WMXVwUHhMVXIyWE4waEZFMGFvUTNZWWdacWduSXhNNWlIaVI2SnVlTWphT3A1Ym5HWnBXeGZHaHJxQmhuNUJ6b2U3UEZBOTRNemU0QQ?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-bba0d2a69dae.webp",
-    "image_source_url": "https://nationalpost.com/news/canadian-politics/federal-government-spent-over-half-a-billion-dollars-in-2015-on-legal-settlements-and-damages-against-the-crown/",
-    "image_credit": "National Post"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-5b0fb41bf8d5",
@@ -3061,9 +3065,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFZzS2tydzRFYnZQTXNKSFE0RUtBUjNEN0diZzdGeU1xZHMyTDdpR0lvWXZSNzFNbzVKSFpHd2FHMWw2MDFfX3hqZ2hQUXpMNV9TQ3MxUWZGd05aUEtqRVRBZ1dHRHVCLUtPQ2N1bTVWSjFpQkRNTmt3ZTR4Umh1NEVYV0RWdDNKRzJmZG16Rk1kdlN2b1pyLTZ2NA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-99c99e4cab5b.webp",
-    "image_source_url": "https://www.ctvnews.ca/politics/article/2b-heat-pump-rebate-program-unveiled-by-federal-government/",
-    "image_credit": "CTV News"
+    "image_url": "/story-images/news/news-f9b04eb5c0a3.webp",
+    "image_source_url": "https://ontarioconstructionnews.com/hvacr-industry-welcomes-2-billion-federal-heat-pump-program",
+    "image_credit": "Ontario Construction News"
   },
   {
     "id": "news-2a6af56aac81",
@@ -3099,9 +3103,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzFCUmZFOTZLYXZvWkZ5czNqWkZMTm9YMmxXQlh0dGVfcFlkdWFFOFVxTGpYdHJ3c2Y2RGFlMEpSUGVubjNGOXlxaWl6SmtCRmV6WlIxV3IyOHgxWF9fQmxFRTY4X1gtU2FxRjZMcHYzNjdQYy1HQnpmeVNQdHdiY0RmZkM4NjZmbWdrdGVxcXhBQTlISlhnTURjV1plblU0NWc3NW5UdU8xN2RW?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-88a849cd23a2.webp",
-    "image_source_url": "https://todayinbc.com/2026/10/07/federal-government-announces-8-billion-in-military-spending-in-alberta/",
-    "image_credit": "Today in BC"
+    "image_url": "/story-images/news/news-8fcfa68b1e4c.webp",
+    "image_source_url": "https://chatnewstoday.ca/2026/10/07/canadian-forces-base-suffield-included-in-8b-alberta-defence-investment/",
+    "image_credit": "CHAT News Today"
   },
   {
     "id": "news-4db42ff33698",
@@ -3129,9 +3133,9 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQWVWMFd6U2ppdVIwUVJhVWttX1NnODdnVnhiT29ZS0VLS25RX2w4WG5QUTl6cFhFYTU4SU9lZ3FQeEpRUDFCc3B6aDBXaUwzLWVqelFKTVdEcFZUbW5OYnpDeFBtSXVvUzhWcl9mODFJRTd4SEZHNmhBRGxaWktrN09fVjVoWGVHQlVkQnNTV2lQeWhQRDBIcmpuVTl0V0VNSWc3UVJsWEhIa3RrQVZFbnlQVWxhV2JlbmtJc19fMmNMWUNoOGg0RA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-64f5800d46e5.webp",
-    "image_source_url": "https://www.ckom.com/2026/10/07/269m-in-federal-funding-announced-for-first-nations-led-child-welfare-agreement/",
-    "image_credit": "650 CKOM"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-ca846b49a11c",
@@ -3629,9 +3633,9 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUUk1R2NGNnpidzc5Yy0zUDdwcGdKTkwxN2ZfdDliN0VLTjFRYmdsbFRrSFhHN2Rzam1KczBFVEZDQUJwR0ZkdXRVQUlZeDVuZ1Jyams2WlRpakxrY2kwZEx1d0E3YzFhelpPM2lYOFVRRmg1aGlIRzRacGoxcUUzYVE0OHJ6VE80WkMtMw?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-49759a60c6c4.webp",
+    "image_source_url": "https://halifax.citynews.ca/2026/09/29/nearly-2m-dedicated-to-preventing-gun-gang-violence-in-halifax/",
+    "image_credit": "CityNews Halifax"
   },
   {
     "id": "news-05746d9a4102",
@@ -3674,7 +3678,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=JEf01r",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=s0Cutr",
     "image_credit": "IntraFish"
   },
   {
@@ -5021,9 +5025,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3ZYc296ejNBV01oWEpmbHY5ak1iSFdiWndPTmY4Q0FCMkFiRGNJUWRIdkVsTndMdHBUREpWY0szRlpRWExjcWZJQVNKRFZnWTBrOTlVdzg4Y0VOVFBfZ0dIMW9OVlpWcXNKWFhoVUdxdHVPOTF3TzlPclNTbm1yeC1LMGlWb0pvNzdkS1VhUW5OcVJWT2R5eEdEbw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-31e0dea067b2.webp",
-    "image_source_url": "https://www.saltwire.com/cape-breton/130-million-for-parks-canada-historic-sites-in-cape-breton",
-    "image_credit": "saltwire.com"
+    "image_url": "/story-images/news/news-bd9dcbfbb8c3.webp",
+    "image_source_url": "https://www.ctvnews.ca/atlantic/nova-scotia/article/ottawa-spending-nearly-130m-on-improvements-to-parks-canada-sites-in-cape-breton-canso/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-bbcbea65de3f",
@@ -5066,7 +5070,7 @@
       }
     ],
     "image_url": "/story-images/news/news-b6e6ec730cb2.webp",
-    "image_source_url": "https://www.saltwire.com/nova-scotia/federal-government-commits-14-1-million-to-nova-scotia-businesses-affected-by-tariff-war-with-u-s",
+    "image_source_url": "https://halifaxherald.com/news/nova-scotia-news/federal-government-commits-14-1-million-to-nova-scotia-businesses-affected-by-tariff-war-with-u-s/",
     "image_credit": "saltwire.com"
   },
   {
