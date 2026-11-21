@@ -22,6 +22,50 @@
     "image_credit": null
   },
   {
+    "id": "news-5ae77f207327",
+    "title": "Dominion Dynamics wins $17M Canadian minehunter contract",
+    "summary": "Dominion Dynamics has secured a $17 million contract to provide minehunter equipment for Canada.",
+    "amount": 17000000,
+    "date": "2026-11-20",
+    "fiscal_year": "2026-27",
+    "department": "National Defence",
+    "dept_code": "ND",
+    "program_code": "BUR01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Wisevoter",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWDB2SDRVeVFWTkRJblJtQnlxc2dma2NpaDBwRE5zTnZTY2V5WXBfUXphd3pNN0xZRzJzbEVnR1pxLWk3VWV5MkVPaGFBeUR5WjhLcU5TTVlQZXc4SnlQR1VBVWFWZ05ZR1BGNlZ4QkJIcWJCX3RzbVNDRURmZ1B5Tmo4dmlVNjZfODhVMkwxLVhINGs0VnJJ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-5ae77f207327.webp",
+    "image_source_url": "https://wisevoter.com/world/ca/2026/11/20/dominion-dynamics-17m-canadian-minehunter-contract",
+    "image_credit": "Wisevoter"
+  },
+  {
+    "id": "news-f49c29a0e563",
+    "title": "Budget promises $11B for First Nations housing over 10 years",
+    "summary": "The federal budget allocates $11 billion over 10 years to address housing needs in First Nations communities.",
+    "amount": 11000000000,
+    "date": "2026-11-20",
+    "fiscal_year": "2026-27",
+    "department": "Department of Indigenous Services",
+    "dept_code": "INDSC",
+    "program_code": "BYP13",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS3R0S2cyeVJEUkpVZEtjUWFDYmh5TlRUcTZMNUs0Ul91OHRQcjdKUnI2bzZLYUw4TmRBbUhnaWlZd0tqNmZZbUVxT3pQR1JiSk45UUpSYm1ZNzlhd0NxenpUVHl4djNXdWdGX1UtZERwc3g0N0xnQzNDei1iRHM4bGJNWkxzVjBJR1FSdkVxYVN5b3M4WXdQQVJHd28?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-f092bc6df740",
     "title": "Canada funds $2.2M forest market challenge",
     "summary": "The Government of Canada is providing $2.2 million in funding for a forest market challenge.",
@@ -497,9 +541,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEpLekQ5UmxuZ20tcGhRYlpHR21nVVIzbGdzVzlLcmlEbGNpSmhVTEYwTWdHQ2lHTDFsVUtfWW44OXl0R2Z4OW4zNFFfSGV0UDNvOXp0NHlhU1hRY215UUJFYkRGbHowNXVLcHY4NUhCSUI4NWZzS2VGaGtKbnM3bGU5UWJ3QlZMWVZ5Vm9YNUtWN3pudXNxWnJsTENuVFhOWHVOYVVLSWplR19u?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-aa580b1e8948.webp",
-    "image_source_url": "https://canadianinquirer.net/2026/11/09/canada-unveils-600m-funding-boost-for-film-tv-music-and-local-media/",
-    "image_credit": "Philippine Canadian Inquirer"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-3a76664dd5ec",
@@ -1869,9 +1913,9 @@
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZDBUMUowdThIVjlyNldocTNSemdZbklHU2JLQzJKekRmaGZfVHgxeUVKTU1kSFVFeG5fX0xQdVkya0otSDhZbkgyN0kwQ2pMRTF3SXF5SndBQlAycmRsUVVNQ0ZnUDdDM1pBeFJ2dW1KOUhJREoxVUZMLWQ1ZEdBWVQzcmFfb1FQdXYwNjhnbTUwd3d2LUI3Wk5mVEhnSjdaZF9HQTBwV2tkclFrb3h2RTdHTHZ0TFZTeGc4dl94NlhYcmFpQTMxQWhocDdCck56bjJFdXM5aEVHdVBLbEJHUA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-1228bb72dec0.webp",
-    "image_source_url": "https://www.ipolitics.ca/2026/10/22/ottawa-touts-new-era-with-60-million-in-new-funding-to-national-sport-bodies/",
-    "image_credit": "iPolitics"
+    "image_url": "/story-images/news/news-3145818ec14e.webp",
+    "image_source_url": "https://ca.sports.yahoo.com/news/ottawa-announce-funding-60-national-162957438.html",
+    "image_credit": "Yahoo"
   },
   {
     "id": "news-edaa8612c334",
@@ -2264,7 +2308,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -2401,9 +2445,9 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiYzJKQ1BIRHM0bG9EQ1YwUWF0d2Z6cUVoS21tZXhVVWNkTEdmczRwTi1OX1FrTkhKWjhkUnVOZWt2MDdreXBkdnloTzRNV21DMFh0RXA4Z1o?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-be9e72da6578.webp",
-    "image_source_url": "https://www.quintenews.com/2026/10/16/393157/",
-    "image_credit": "Quinte News"
+    "image_url": "/story-images/news/news-b2d50b8d9865.webp",
+    "image_source_url": "https://www.intelligencer.ca/news/federal-investment-accessible-transit-belleville/",
+    "image_credit": "Belleville Intelligencer"
   },
   {
     "id": "news-14bc176613dd",
@@ -3585,9 +3629,9 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUUk1R2NGNnpidzc5Yy0zUDdwcGdKTkwxN2ZfdDliN0VLTjFRYmdsbFRrSFhHN2Rzam1KczBFVEZDQUJwR0ZkdXRVQUlZeDVuZ1Jyams2WlRpakxrY2kwZEx1d0E3YzFhelpPM2lYOFVRRmg1aGlIRzRacGoxcUUzYVE0OHJ6VE80WkMtMw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-49759a60c6c4.webp",
-    "image_source_url": "https://halifax.citynews.ca/2026/09/29/nearly-2m-dedicated-to-preventing-gun-gang-violence-in-halifax/",
-    "image_credit": "CityNews Halifax"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-05746d9a4102",
@@ -3630,7 +3674,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=Q97Ffm",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=JEf01r",
     "image_credit": "IntraFish"
   },
   {
@@ -3715,9 +3759,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVXZKS0hXUUZUMFpWLTB3VXFwYmdjSVp2Ynd2dHhVdWNFaGdUanVXZ2RvQTI4QWZibUNFcjMyNTRJaHdiazl0dDZnQnhpR1QzRnNBdnJaOHlUSGE0aEZuTjA0SENaenIyUVBvVHlRdkt6SE8tQnlYdDRZeTJWVTU3UlRpUnBPQzBFZkpORmRRTms0YkRoYm1tU0dxQWdRc3hWVmRScjBiTE9lQjg2?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-a9b6f26c6ace.webp",
+    "image_source_url": "https://www.ipolitics.ca/2026/09/28/ottawa-steers-300m-of-housing-strategy-funds-to-indigenous-led-projects/",
+    "image_credit": "iPolitics"
   },
   {
     "id": "news-3ece593ee56a",
@@ -3975,9 +4019,9 @@
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSXo0bktSNmc0SlptalVPcWk0N3dKRkd3SS1td2ZWb25XYTNfMDNEemVwcVZySVM0ODlsbUJRLUttenhEMm9KQTJzNmhJZG5uMkFZQVo4cklTN3dBZ2VsS090UjVEaFZlamlxSXJQSUZET2tQVzFZM1Etd1kzdHBtYUNVbzBPMkN2clA5ckluMVBjbmJkVy1NdDczazhObDIydW82OXAtYkJEVUFlUVdDb1ZlQ1RXRkdZY1NKYmNZNEc1VUxsOE9rOWluTXlZQldrNWdfQUk1TXdzODdHWWdUcng4OVVZaEE2Z1FIRlg5R3NKYUtRRE1Zb01CMUNpbmZl?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-a334f81f4892.webp",
-    "image_source_url": "https://www.ctvnews.ca/ottawa/article/federal-government-selects-non-profit-to-manage-15b-rental-protection-fund/",
-    "image_credit": "CTV News"
+    "image_url": "/story-images/news/news-70d90f0218d4.webp",
+    "image_source_url": "https://www.thestar.com/real-estate/federal-government-launches-1-5-billion-program-to-preserve-affordable-rental-housing/article_2278ee41-6025-453e-94e7-654c72cb0c12.html",
+    "image_credit": "Toronto Star"
   },
   {
     "id": "news-95682aaf5c9c",
@@ -4359,9 +4403,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjdabEdRZzRqc3hhUk0yVDlrYU5YYUNHNjJuZ3ZoRWZrRThSM3NSb3BlRXFBcHlndnQ0RDZLdExUTi1BTXctb0p4Sktud09yM1h2cE9EOVJLaUQ4eXFmSmUzeF9WQmRKMTVCNmkwM0lnQy1vNV96Z0tvdDl3VlpveDIyN1drSV9PTkxfNXU2QzNQeWRyS2dYZnFYNA?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-07c349ae8aa4.webp",
-    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-1-98-163400092.html",
-    "image_credit": "Yahoo Finance"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-480664abee11",
