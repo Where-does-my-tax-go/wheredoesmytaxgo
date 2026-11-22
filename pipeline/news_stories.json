@@ -70,6 +70,72 @@
     "image_credit": null
   },
   {
+    "id": "news-383ea5886666",
+    "title": "Government announces $464.5M for Ford plant in Oakville",
+    "summary": "Funding of $464.5 million was announced for the Ford Motor Co. plant in Oakville, Ontario.",
+    "amount": 464500000,
+    "date": "2026-11-20",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CHCH",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQjZoTWtBamNvcE0ycFA3VGpSUm1PbVZ0Si1jdDhNN2F0UFFGamdxT3BfbXpXejlBZjI5ZVNtSXNvSDNheUs2QlJGY2xxMFRTZzFRaGk3TEdmdjhxLXk3cnh4YXZFZDhLS1hmUWV3b0FDaXY1RGRmNzRPak5xODFMd1ViVGNtcE1VNnpXS0JZcmhickpfQ1JPVXhRR09rUldMbGZabHZRVXdLd2pyS2JhR2V0OFFFY21vbjNldg?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-ecacb466d9f9",
+    "title": "Sault Ste. Marie port project lands $250M to cut US trade reliance",
+    "summary": "A port project in Sault Ste. Marie secured $250 million to help reduce reliance on trade with the United States.",
+    "amount": 250000000,
+    "date": "2026-11-20",
+    "fiscal_year": "2026-27",
+    "department": "Transport Canada",
+    "dept_code": "TC",
+    "program_code": "BTY04",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd0MyZUxBT2UyX2hWTENqaWxKcjVfMmQ2MDFPMmJ6YjcyaGtReXpnMkpUeXkwaU51OHIzWGlnSTBMS3FhX1Q2dFh6T0Fqc2pKWWJVdFpkdVNqaGlrRmxHSVQ1V1NndS1pV0k5VzY3T1RvME9BUTVmUlBMcGxwR0trRm9BUzhWMFdKZTBuUGIxcHQ3M3RVd2x6WkFjcktEdWVEZHc4SDcwWTNXLS1ZNl9ELUR5WQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-ecacb466d9f9.webp",
+    "image_source_url": "https://www.ctvnews.ca/northern-ontario/article/sault-ste-marie-port-project-lands-250m-to-cut-us-trade-reliance/",
+    "image_credit": "CTV News"
+  },
+  {
+    "id": "news-690c2f3d3e54",
+    "title": "Canada commits $5M to support electric vehicles in Senegal",
+    "summary": "Canada has committed $5 million to support electric vehicles in Senegal.",
+    "amount": 5000000,
+    "date": "2026-11-20",
+    "fiscal_year": "2026-27",
+    "department": "Global Affairs Canada",
+    "dept_code": "EA",
+    "program_code": "BVD12",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Drive Tesla Canada",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YWC1VdWFsb2RPZ1JyZXZrdlJBTHYza3V6VFFZbzdhV1M2WkxsNXU2OU13NlJvM2NldXBsZWp3aG56WDFrQXNwNlNSeUM1dWwtSVlvVmRKUjRLUzZ2eWtuT1ZWMlRmTVRxc2c0TV8zdS1ucjNVWXc?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-690c2f3d3e54.webp",
+    "image_source_url": "https://driveteslacanada.ca/news/carney-senegal-e-mobility-funding/",
+    "image_credit": "Drive Tesla Canada"
+  },
+  {
     "id": "news-f092bc6df740",
     "title": "Canada funds $2.2M forest market challenge",
     "summary": "The Government of Canada is providing $2.2 million in funding for a forest market challenge.",
@@ -87,9 +153,9 @@
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaG5Cbm04dlBqbmJzOWoxSzUtMUZGVGRZZ2otNXFiM0hwZ3VfUTBKUmF6V2ItR3VwcTN4eHpWdXNYYW43QWZqdmxWVmtFRnRTX2VmdDBsVU9BYjN2S2xHSkxzMk9nNTZ6SXFJanVmeTVBMGxTSFNudlZiYUp2UkUtNE56UU0?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-f092bc6df740.webp",
+    "image_source_url": "https://wisevoter.com/world/ca/2026/11/19/canada-funds-forest-market-challenge",
+    "image_credit": "Wisevoter"
   },
   {
     "id": "news-470e6868a988",
@@ -545,9 +611,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEpLekQ5UmxuZ20tcGhRYlpHR21nVVIzbGdzVzlLcmlEbGNpSmhVTEYwTWdHQ2lHTDFsVUtfWW44OXl0R2Z4OW4zNFFfSGV0UDNvOXp0NHlhU1hRY215UUJFYkRGbHowNXVLcHY4NUhCSUI4NWZzS2VGaGtKbnM3bGU5UWJ3QlZMWVZ5Vm9YNUtWN3pudXNxWnJsTENuVFhOWHVOYVVLSWplR19u?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-aa580b1e8948.webp",
+    "image_source_url": "https://canadianinquirer.net/2026/11/09/canada-unveils-600m-funding-boost-for-film-tv-music-and-local-media/",
+    "image_credit": "Philippine Canadian Inquirer"
   },
   {
     "id": "news-3a76664dd5ec",
@@ -1939,9 +2005,9 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbGVSQTZGQkdtVnRsaDdQbUQwTmtvN2NvY0RXMnFWc0xVRTdMTkR1Q1VYc1BsUUJmdXZ5d2JIM243Z2xBeG9RcDlCdXVLbDlfUXl3LWk4M0tMSTVsNENZSENHSFFpdzV5RXJJa1NDR0pSRjJzdmNta195Y0RIaDY1cU5nM0hzMHB6VWp4a21hZ3lzQ19tNF9iZDRQU2pPMktNU0J3UEFlQlpfQWdRaWlwMzNfRnNEZmV1MlcxN2ZlOXpxb01IZ3N4dm92WUhfeHJ4V2VBN0RB?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-edaa8612c334.webp",
-    "image_source_url": "https://www.manitoulin.com/government-of-canada-invests-close-to-5-million-to-fuel-economic-development-and-growth-across-northern-ontario/",
-    "image_credit": "The Manitoulin Expositor"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-d58b1c95e756",
@@ -2312,7 +2378,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -2621,9 +2687,9 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQVEwU01sN2VjRDlqOXdjT1V3R1lHNXhtV2ltbkdlMHZSb0xpcjdlYjFqcU1hWTF3ZG92TTRHZTg1ZkMxaG9rZVhxMm5GcEhUZXpGM3I5VGhHdXB5cTdBVklPYzdoaDlYS0tieVhYVTFReVJkQlFWcnJhb09iZTljMGV4RjkzVm9pVlYtb2xIR2xLQVpaZTVyOVdTZXBkd1JyZjAzS3NvWkN2Qjhrb0ZKeWRQWnlHZjFYTFplTkJ1WmdTUllRZFFjaHEzRVFIV3BqR2t4dVk1MkV1MERRV2xTaFFHbw?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-68c1ae6d8999.webp",
+    "image_source_url": "https://www.winnipegsun.com/news/manitoba/winnipeg-hosts-announcement-of-new-17-million-sport-boost/article_4aef6a2f-074d-48b7-be27-b9c9c44c8333.html",
+    "image_credit": "Winnipeg Sun"
   },
   {
     "id": "news-647c84241e24",
@@ -3678,7 +3744,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=ox3rqu",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=9u7JL8",
     "image_credit": "IntraFish"
   },
   {
@@ -4515,9 +4581,9 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjBsSXAwcGFCcjA0TzdweDBjNmJSTkpza1FKYTBPOGRfaTgxZ3RucTJuTUpVUGdZQWpOUVowN0lPb3JBZFZqUUxxVTJ4OWxZUWtfRV9LU3RGSVU0d2dQWFhKWEd3TG9ONTVpMUIwZmRnYVNPX3ZlNFF6Q2VIcHgzNEdYbE95eDV6?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-aec23c9f8e08.webp",
-    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-over-1-172500463.html",
-    "image_credit": "Yahoo! Finance Canada"
+    "image_url": "/story-images/news/news-631c30f4a1ce.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/government-canada-invests-over-1-172500169.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-961d68580751",
@@ -4813,9 +4879,9 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaTZrSnNjcjF5Z05vd0hYdzluVFQ0U0ozWnBoQnR2MGFRZXJsNEotV3g5S3RMMW5TS2FCUXlvdmE2TVhXZ2hWZXVGZHRlRzhmbHRTQ1lNb2RxMWh4UlM2eXhyWDJUT0h3OHowdjJHQWlnVlFSdUVKNF9FV1plako3d25Fckp5M3laQWt3VWpvb1Fhb3BMRF96ZER0VldoUERL?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-8a3fbe1df937.webp",
+    "image_source_url": "https://finance.yahoo.com/economy/policy/articles/canada-paid-stellantis-222-million-140000309.html",
+    "image_credit": "Yahoo Finance"
   },
   {
     "id": "news-376176735177",
@@ -5047,9 +5113,9 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV0FMZ2ZWVl9HTmpyQ1h0RXJsNWo0NEFrZkJxRW95TkNhekp5QjlKRzFHRFJpNGs4ZnNjdFVzSHBEcUNhc2VocDgtQ1RDWXItZ3hvajJkNlZmbTB3dTc2NUdrd2VxOXh0T2xOaTM4cGRVb3FPSGI0SGJTZ0NralJYNUNSX1VlQl9KTXc?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-bbcbea65de3f.webp",
-    "image_source_url": "https://money.ca/news/economy/bc-salmon-hatcheries-ottawa-50-million-local-economy",
-    "image_credit": "Money.ca"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-b6e6ec730cb2",
