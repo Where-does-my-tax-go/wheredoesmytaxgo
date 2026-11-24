@@ -136,6 +136,28 @@
     "image_credit": "Drive Tesla Canada"
   },
   {
+    "id": "news-aa879268eb68",
+    "title": "Canada provides $324 million to Ford for Oakville plant retooling",
+    "summary": "The federal government is providing $324 million to Ford to retool its Oakville plant for Super Duty truck production.",
+    "amount": 324000000,
+    "date": "2026-11-20",
+    "fiscal_year": "2026-27",
+    "department": "Innovation, Science and Economic Development Canada",
+    "dept_code": "ISC",
+    "program_code": "BNP01",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Quartz",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81TEhSSkFZVHVJRWRvZGc1QU1RMWZuRkw5Y0RqTkNRR0xZX01lMzIzeDE1a19MVEp0LXFLYU1BQTNTMUxjdnhuVGotZjVldGJSTURzN3g3dmRsSXhDV0dnSWJtbW1XUnFlVGc2eDNCY1NDbFlfS2RaMg?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
     "id": "news-f092bc6df740",
     "title": "Canada funds $2.2M forest market challenge",
     "summary": "The Government of Canada is providing $2.2 million in funding for a forest market challenge.",
@@ -477,6 +499,10 @@
       {
         "label": "Yahoo! Finance Canada",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2NkcVpqOHo1SWtUa2NOS1V1V2ZmWmdaMjJwS2h3M1JJZERnSjFGdTFZWVpqbW5WWmpSRUk5b1FFYVRZaTh1ODMzcXFjbkw3Sk5sN0czQk02UVRsaGtIRHFoNTNvbUZ4Um13X2pQSG9IMTZTN2drb283OUl2RGduYmdTVkt4M1pX?oc=5"
+      },
+      {
+        "label": "Canadian Manufacturing",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeVh0X3FyclN3ZTFydndaQmtKRVV2eGJud1J4QS1TTHQ0ZnF0RzViMWM5dk1xd1VuRjF2OG1IZmI5QTNoU0ZKQUZZRmlzMmEtOFo1TTR5U2tCcUpfLXlKQ01XUlRjZWJSeEtJUUtxRE84Q0N6Z2UxczNMTGhkSzBRTGtHTms5MjNTZzRnTU0weWQzTzhsUHFmQWtCWlVzdmRmVTMwbWthMVc4aThkZFVjUVg3bHZhYi1tdHZzSHBDWW5TNENuczNSRlJSdkM1cEFrcWNn?oc=5"
       }
     ],
     "image_url": "/story-images/news/news-9f8c0382b81b.webp",
@@ -847,6 +873,50 @@
       {
         "label": "Daily Hive",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWmVPblZXZ3l1bWpsMUpLUEJ6ckVqQ3E5UzVWazllYWxWdnNaMi1RZ3oxQW9WaWFOQTJtRmRHeG9yY29oeW9xQmVxWENJOWZsR1RrZ2I5MG5XVzNMMnVvaGpmcy1NZDZ5Zl9rSGItUmIzQWdGYXdwb3RrS1oycTlJc0RVVmJtSmctXzEyUHp3SFZDcFZnYkV1UFFWTjJhUQ?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-6ee7dc6e3143.webp",
+    "image_source_url": "https://dailyhive.com/vancouver/canada-160-fund-federal-government-program-160th-anniversary-2027",
+    "image_credit": "Daily Hive"
+  },
+  {
+    "id": "news-959151728801",
+    "title": "Canada allocates $28 million following CFB Wainwright fire",
+    "summary": "The federal government is allocating $28 million to support recovery efforts following a fire at Canadian Forces Base Wainwright in Alberta.",
+    "amount": 28000000,
+    "date": "2026-11-06",
+    "fiscal_year": "2026-27",
+    "department": "National Defence",
+    "dept_code": "ND",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "arabcanadanews.ca",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMTRhV0VhRFh3Q1UzTjRKQ09pUmxveVVMYmhPUUZHN2ZSMzFSMjUwMzF6VVRXOTBjdUtnSUpwOWNUUHAtVlUtelZQcU1JTXF6Tk9iSWpDYnBRSUI4OTRwaXAyekNfNVpfYWQ2MlI3U0NELV82QlNNUWdBMUtfLUJ6LW1FXzB2V05LS0xrdGtlRTdFc3NBTG55TExrT01qRFNRZ3BIZVZKMl9fSEpLT1hNVjM1dXdnWFFqNDFqZEk2YW8wekRVUzV3S285V01jRi1hUDVj?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-bf58f27c3e0e",
+    "title": "Ottawa commits $634 million for EV charging infrastructure",
+    "summary": "The federal government committed $634 million in its budget to expand zero-emission vehicle charging infrastructure.",
+    "amount": 634000000,
+    "date": "2026-11-06",
+    "fiscal_year": "2026-27",
+    "department": "Natural Resources Canada",
+    "dept_code": "NR",
+    "program_code": "BTM08",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Auto123",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUV4NUE2NmRsckd2NWJycTdwWV9PUVFka0dKeUFqMXlRWjREdGNZNFBlV2Q5c2lOOW9VUU5tV3dNcllfTFdnSHJkZUM3akliWG1CYUdWZzVfWExldXR5TnNFekZiUEFNbTJsYmtlOW5KQmJtYVlrZnpPbnIwMWF2ZdIBhgFBVV95cUxNWDNSbVhVRHYtczFpRndON0lTUFlHRFhkOUVUbUFjbzdLVXRUX3B3bjR0dkZvUUNISUxiT3hQOVllaXNSUThmV0RKMTBZYzV6SklnRVFrSVNfZUN4QTJqUmJWTlp6UVRiMXI1bVAwbWd4QVVXeEVsMjg3TjEtY3c0T0NHNnhQdw?oc=5"
       }
     ],
     "image_url": null,
@@ -1666,28 +1736,6 @@
     "image_credit": null
   },
   {
-    "id": "news-4a56e22820e6",
-    "title": "$15.6M investment aims to strengthen Red Cross disaster response",
-    "summary": "A $15.6 million investment aims to strengthen Red Cross disaster response across Canada.",
-    "amount": 15600000,
-    "date": "2026-10-27",
-    "fiscal_year": "2026-27",
-    "department": "Public Safety Canada",
-    "dept_code": "PSEP",
-    "program_code": "BVU02",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "WestCentralOnline",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUGRKZ0pOTm5Nbk1wSm52MmVkaUh5SnpnOG1RT2ZseElLLV9BamNpR1FMZ2g5czVnem9BSkdDbTU1OXlmYU5GeTg0clpOTml6a3Y2YklSNVItT0FQUVVSQ2piNC1jbzRHSzFKeFpRWFV5UWxzSy1qQTcyS3N0NFptU1lqckIzdGdxWGVzSk9UaFd1QjZzaDRjRDdkbUhiWkU3ZTRSOHJzSERXeXR5UFFvTzNkN1lMTWtfdV8yRzJsYVVZeDdQ?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-4a56e22820e6.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/156-million-investment-aims-to-strengthen-red-cross-disaster-response-across-canada",
-    "image_credit": "WestCentralOnline"
-  },
-  {
     "id": "news-a0e90d834e9c",
     "title": "Ottawa announces up to $2M to conserve heritage places",
     "summary": "The federal government has announced up to $2 million in funding dedicated to the conservation of heritage places.",
@@ -1712,6 +1760,28 @@
     "image_url": null,
     "image_source_url": null,
     "image_credit": null
+  },
+  {
+    "id": "news-d62f005c2fc5",
+    "title": "$15.6M investment aims to strengthen Red Cross disaster response",
+    "summary": "A $15.6 million investment aims to strengthen Red Cross disaster response across Canada.",
+    "amount": 15600000,
+    "date": "2026-10-26",
+    "fiscal_year": "2026-27",
+    "department": "Public Safety Canada",
+    "dept_code": "PSEP",
+    "program_code": "BVU02",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "WestCentralOnline",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONDBLNGF4LXlVMkNYcVlJSnYwdFlJcUtNRm5SeDR0OGxuNEFLVjlzOGdIM01Md2c4OWhjb3JLTlZGbDdsTXBYOENNczVIN0t5eVZiMHRuYlRhcGUtVkRrUC1tUlUzc0RfbkwwbTF0bzY0YTBKVm92QjlfNWhneUFueFU3U1dKMC1xQWV4R0YtT25NMHdkLW80MHo0MDVQVGRFVjdIVFBqbEF5RzJJSkkzLU5mYmxxS3UwckxQR19Jbw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-d62f005c2fc5.webp",
+    "image_source_url": "https://westcentralonline.com/articles/156-million-investment-aims-to-strengthen-red-cross-disaster-response-across-canada",
+    "image_credit": "WestCentralOnline"
   },
   {
     "id": "news-4c3705c08ddd",
@@ -2386,7 +2456,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -2673,9 +2743,9 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFZBOW1qWlltekJWYWFsejl5UnI4dExBS3dSVkJZN2c5LUZPdF9lRWtJNElRcEpnYl9iN3BIX2sydEZWRHp4b0N5VEVGY0NJVFpDOFNEc05IYlNNa1dKbm81ZENIU1FvTFQ3VUpMMEtHYTVnbmRTUDFvQXNzcUZWQUFFTmhoc29JMExkTERzLUVYVkdBbWJibl82ODE5SzQ?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-65618e625be7.webp",
-    "image_source_url": "https://www.ctvnews.ca/ottawa/article/data-centre-for-canadas-cyber-spy-agency-to-be-built-in-ottawa-area/",
-    "image_credit": "CTV News"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-68c1ae6d8999",
@@ -3752,7 +3822,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=X0cAdW",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=fB60xU",
     "image_credit": "IntraFish"
   },
   {
@@ -4655,9 +4725,9 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2RxRXdyOVF0ejQtalpkTjB6Qk9Nblh2cHlBdUZEV3JyZFhMRk0ya2RSWThmU2NrUnd5VzA1NW04c0VnWXVTSktINGxleldDdnV4aTZmeEZVb0JBakNtbHItVHZmSnVoR1hUYVJEOXBrX1Z5MXlrUEtGZDBrczZOZjZLWHRKYldYTjByc0VYWkdkVDNQdnQxRkR0Zm1Ba0NTeGRzdGdwSk91VjM4cmc?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-a49f84fd54b2.webp",
+    "image_source_url": "https://www.hpcwire.com/off-the-wire/qubic-wins-ca1-5m-canadian-government-contract-for-cryogenic-amplifiers/",
+    "image_credit": "HPCwire"
   },
   {
     "id": "news-c4098e4bdd5c",
@@ -4957,9 +5027,9 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlNxSDJGNGdrQzYyMEhFRnNMTFFDU1c5Z1hEaFROSXdWemg5OVBBcGtkN3A2SjZwLXFhelpPNU02Q1VTWnVnRkdUWmtQTEFOd0RXOTBmMzhzdm9EbDliNXkyS3dVSmdTZnhmcExETzNhb1RmZjhlUHpiSS1EZ2RxSFFVM0FQTWt5YUxrWWVzWFBHUFpXSDAzaVNManRteUplakJmZGhGbm9HYVJwaEYtOUJR?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-0ed6f37bf9c8.webp",
-    "image_source_url": "https://www.on-sitemag.com/construction/pomerleau-lands-121-6m-federal-building-contract-in-st-johns/1003987929/",
-    "image_credit": "On-Site Magazine"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-28b59b949d4f",
@@ -5099,9 +5169,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3ZYc296ejNBV01oWEpmbHY5ak1iSFdiWndPTmY4Q0FCMkFiRGNJUWRIdkVsTndMdHBUREpWY0szRlpRWExjcWZJQVNKRFZnWTBrOTlVdzg4Y0VOVFBfZ0dIMW9OVlpWcXNKWFhoVUdxdHVPOTF3TzlPclNTbm1yeC1LMGlWb0pvNzdkS1VhUW5OcVJWT2R5eEdEbw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-31e0dea067b2.webp",
-    "image_source_url": "https://capebretonpost.com/news/130-million-for-parks-canada-historic-sites-in-cape-breton/",
-    "image_credit": "saltwire.com"
+    "image_url": "/story-images/news/news-bd9dcbfbb8c3.webp",
+    "image_source_url": "https://www.ctvnews.ca/atlantic/nova-scotia/article/ottawa-spending-nearly-130m-on-improvements-to-parks-canada-sites-in-cape-breton-canso/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-bbcbea65de3f",
@@ -5209,9 +5279,9 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM3c2dURwa3N0MTlmOHhvZmZiR3QteVhWdGNxa09FTHU0NGRKRDFDMHNMZ1psTVF2bHFGYWNqME9XZGxZRG50cFZhcVpCOFNuRVpqUmhiMFZvdGFlTXNLME92VnRvcHUtZm1WNi0zc0JzMXhZOFFDVGhZV0Z1TlE1YmN4NFEySURvNW0xcnpBSF8tNHdkLWFDSm5TQ0ZWN0FMQVZtUEd3YWl5NkNSc195Q29NdFZLTm5mRF9fTnY3TlRsQkp6eDRGaE1tZ1dPR3M?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-9b4ed288629b.webp",
+    "image_source_url": "https://www.verticalfarmdaily.com/article/9868531/50-million-investment-in-the-canadian-agri-food-automation-and-intelligence-network/",
+    "image_credit": "Vertical Farm Daily"
   },
   {
     "id": "news-5b475691404a",
