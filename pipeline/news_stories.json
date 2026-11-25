@@ -1,5 +1,53 @@
 [
   {
+    "id": "news-f98f32b49739",
+    "title": "Ottawa's $2.3B drone program faces staff and audit concerns",
+    "summary": "A federal drone program valued at $2.3 billion operates with five staff members and lacks performance measures and audits.",
+    "amount": 2300000000,
+    "date": "2026-11-25",
+    "fiscal_year": "2026-27",
+    "department": "National Defence",
+    "dept_code": "ND",
+    "program_code": "BUR03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Rebel News",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NcEs1STFxdGZVMkVRRWxUWXduVG1aNVNZZWlzYzlGOHAyaEhJM2NDcVpRQ0lJcEJmenZlVzFHN3JBMDAxSkpqVlA3V0N1T2d5OUpTY19SaDZIZElhbFVaX1p4M084VkxWRk51TTlMNXZtNThkQnc?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-e1b748013926",
+    "title": "Coast guard hovercraft Siyay awarded $8M overhaul contract",
+    "summary": "A Richmond firm has been awarded an $8 million contract to overhaul the Canadian Coast Guard hovercraft Siyay.",
+    "amount": 8000000,
+    "date": "2026-11-24",
+    "fiscal_year": "2026-27",
+    "department": "Fisheries and Oceans Canada",
+    "dept_code": "FO",
+    "program_code": "BTI05",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "www.vanguarddefence.ca",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMW9Ic2h5VFhtNlJEZ2ktUFhRUGRaU2ZvdXB0akZFN2JGV3VrY01CVV9WY3dwcGJqSnNMOFkwdGhyTWpzOU04TUs3SElVdi1YeUNFVDBtakNLQ19xdkNnd3M4VzZMTnBsclplZlcwdHNsbkpHYWVpYzFNR2VURXRldTJpaHVBRTB6Sjh5b3J3QnhqaU5Ba3Qya3VqbnM0bGh6WEROMW14WHN4VWhwOWJOWm11UnkzcnNFRG50aUUtZ2VfZjlWNXNrdFJCWkE?oc=5"
+      },
+      {
+        "label": "thinkpol.ca",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazExVnV4cFUtTndIOEFlb09ta0xiLU5aMWxrMGVvZjBFNU9zWHlKQkZiYXRSTlVGcGlXbTQxeEw0Si1zdE1MNkw5ZVVsNC1WaUtrM0lkN1VEQzFoakt5VmNkQ3Nsc3VBY2Ewdm93eDZlZ1plZm5hcVhRM1BXTDhIalA4YTQ4TTVrRllTbTFZcHNnRi1Xal9jZTR6b0lrWTlCTC00ODh4emZveWgyTHo4dzBCZzh0aDJqZ2cwRkhiYw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-e1b748013926.webp",
+    "image_source_url": "https://www.vanguarddefence.ca/p/richmond-s-commodore-s-boats-wins-8-million-contract-to-extend-life-of-coast-guard-hovercraft-siyay",
+    "image_credit": "www.vanguarddefence.ca"
+  },
+  {
     "id": "news-74b6468dabc5",
     "title": "Special Olympics Canada receives $8.4 million in federal funding",
     "summary": "Special Olympics Canada has received an $8.4 million federal funding boost.",
@@ -17,31 +65,9 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFBuZk80WXY1dE1vOUkwamwzckNNS1FlSWFIUFNZTUFJbVhnRFczdUUxTmNfOEtTeGJmYUZpdDI1aUVDVlo3U0ZPVkdXZFVjdS01bWxMTzZMWVdTaTg2bDFkckJHRUdoTWd0bGdCOFZJc05BQTlndHNjNDZDTkR6TVAwOVJhT21VTWY3WjVVTnpBZzJJM0FZSE83WWc5dnZjRjR6aW9oYjJfRTZ1bUFKMg?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
-  },
-  {
-    "id": "news-e1b748013926",
-    "title": "Commodore's Boats wins $8 million contract for Coast Guard hovercraft",
-    "summary": "Commodore's Boats in Richmond has been awarded an $8 million contract to extend the service life of the Coast Guard hovercraft Siyay.",
-    "amount": 8000000,
-    "date": "2026-11-24",
-    "fiscal_year": "2026-27",
-    "department": "Fisheries and Oceans Canada",
-    "dept_code": "FO",
-    "program_code": null,
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "www.vanguarddefence.ca",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMW9Ic2h5VFhtNlJEZ2ktUFhRUGRaU2ZvdXB0akZFN2JGV3VrY01CVV9WY3dwcGJqSnNMOFkwdGhyTWpzOU04TUs3SElVdi1YeUNFVDBtakNLQ19xdkNnd3M4VzZMTnBsclplZlcwdHNsbkpHYWVpYzFNR2VURXRldTJpaHVBRTB6Sjh5b3J3QnhqaU5Ba3Qya3VqbnM0bGh6WEROMW14WHN4VWhwOWJOWm11UnkzcnNFRG50aUUtZ2VfZjlWNXNrdFJCWkE?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-e1b748013926.webp",
-    "image_source_url": "https://www.vanguarddefence.ca/p/richmond-s-commodore-s-boats-wins-8-million-contract-to-extend-life-of-coast-guard-hovercraft-siyay",
-    "image_credit": "www.vanguarddefence.ca"
+    "image_url": "/story-images/news/news-74b6468dabc5.webp",
+    "image_source_url": "https://www.westcentralonline.com/articles/special-olympics-canada-receives-84-million-in-federal-funding-boost",
+    "image_credit": "WestCentralOnline"
   },
   {
     "id": "news-ca516fc6ad97",
@@ -61,9 +87,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDlNZllHdHY4Z2g2RnpCOGVsLW85eWk1SGwwdV9nMmJNTFlmM1pQRVF2bzFJeXMtbDRiMmQ0dHFvM2Q1V0prWkZ5TmR2LTdlSGVjRDZiV0prWS0tTW1sSTlMX3I3WkNPVHJTYWJGT25mSXZqM3RPT2JNUzZCRnlXME1VaXhnU1AyVnVLSEduZXdkRFhINkxZSUY1NXJYTTl2WGpRbGItWnFMbVhB?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-ca516fc6ad97.webp",
-    "image_source_url": "https://cabinradio.ca/322494/news/economy/mining/ottawa-spends-3m-scanning-nwts-drill-cores-for-new-library/",
-    "image_credit": "Cabin Radio"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-617d4440eae9",
@@ -83,9 +109,9 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSnJvSXFWWlJnbnVLX3NFU2MzQkxpbkxfeUdhMFZMeUZtdkZTV2tDQk16SnVCcWFVQ0w0dWZNbFlEZDI4ZmRGQVUyTVhEOFYxSTJTSGR4cDdwdmozZkpGX1ZmZjdPdV9NeGpsbjU1LUNHY01lRkN1MjJmZVdpcjdWb3Q2R2Q0NDVabVNrbTlPMG9qUkxiWjdfbUFnTzJSTmE0a2Vmdnl4dTJrUnZTOU9VLVhmQjdtSUN1aEFyZ2QzSEg0OUVZb01XSW1ORzJvLXQy?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-617d4440eae9.webp",
-    "image_source_url": "https://arabcanadanews.ca/en/article/canada-raises-funding-for-the-2028-indigenous-games-to-62-million-to-support-thousands-of-athletes",
-    "image_credit": "arabcanadanews.ca"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-683dc60093bc",
@@ -219,9 +245,9 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YWC1VdWFsb2RPZ1JyZXZrdlJBTHYza3V6VFFZbzdhV1M2WkxsNXU2OU13NlJvM2NldXBsZWp3aG56WDFrQXNwNlNSeUM1dWwtSVlvVmRKUjRLUzZ2eWtuT1ZWMlRmTVRxc2c0TV8zdS1ucjNVWXc?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-690c2f3d3e54.webp",
-    "image_source_url": "https://driveteslacanada.ca/news/carney-senegal-e-mobility-funding/",
-    "image_credit": "Drive Tesla Canada"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-aa879268eb68",
@@ -289,9 +315,9 @@
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaG5Cbm04dlBqbmJzOWoxSzUtMUZGVGRZZ2otNXFiM0hwZ3VfUTBKUmF6V2ItR3VwcTN4eHpWdXNYYW43QWZqdmxWVmtFRnRTX2VmdDBsVU9BYjN2S2xHSkxzMk9nNTZ6SXFJanVmeTVBMGxTSFNudlZiYUp2UkUtNE56UU0?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-f092bc6df740.webp",
+    "image_source_url": "https://wisevoter.com/world/ca/2026/11/19/canada-funds-forest-market-challenge",
+    "image_credit": "Wisevoter"
   },
   {
     "id": "news-710e1b9ee8b8",
@@ -437,9 +463,9 @@
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qR3k0Q3ZERXFMTU55c1NqWmNJRWtGa1YzZkwwMjdqUjE1T3Q2N1M0b2xjUDBxZUJ0LVhKWHdzMkVsMDhFMmxvNGpCWmM1T1J1VURpZEFsWGh5OFdOSXJaVTVBRmZjejFaaUtkM1FXRlh3OTVTNXFvUW50cw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-c9b9566766c4.webp",
-    "image_source_url": "https://nationalpost.com/opinion/first-reading-canada-money-brazil-richer-country/",
-    "image_credit": "Yahoo News Canada"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-2f83a5df4df6",
@@ -667,9 +693,9 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fWHFULWJyZU9VUUJtMWgxVTg5enZaWlo2bU1VcEwtQWpkTlRDSjVXOHhxMVd2THVVQXVhbGlrU1lwSk1pblJNaXl4bGpTXy16WXZ2WVJEY3ZRZ1NVZThSdWlWTFA3VGU2N0JsenZuZTBRMk9MeFE?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-693979ffec49.webp",
-    "image_source_url": "https://www.junonews.com/p/exclusive-rcmp-spends-58m-on-black-hawks",
-    "image_credit": "Juno News"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-9ed3c7dbcf89",
@@ -715,9 +741,9 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHpjVHpJY1h5bkRPNWpKbW1iZ3lYbm1iajRvMnM4REtXRXFrMDRGNXdVU1h1NnZqcDFhcGJBakJNdExqQkV5Mkx2QjM0eXJ5UTdCVGYtQll2UjZtS1UzUEtMTkZrWjd3N2VaNGxmUWVBWV9BbmgtRHhoQUoxY1JYRUMwOGM0aFBXdjRzM1gzcm52Qk40Z0c4ZzdwN20?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-38982505c028.webp",
-    "image_source_url": "https://ca.billboard.com/business/business-news/canada-music-fund-67-million",
-    "image_credit": "Billboard"
+    "image_url": "/story-images/news/news-716af2564bef.webp",
+    "image_source_url": "https://exclaim.ca/music/article/canada-music-fund-gets-67-million-boost-with-new-federal-budget",
+    "image_credit": "Exclaim!"
   },
   {
     "id": "news-aa580b1e8948",
@@ -737,9 +763,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEpLekQ5UmxuZ20tcGhRYlpHR21nVVIzbGdzVzlLcmlEbGNpSmhVTEYwTWdHQ2lHTDFsVUtfWW44OXl0R2Z4OW4zNFFfSGV0UDNvOXp0NHlhU1hRY215UUJFYkRGbHowNXVLcHY4NUhCSUI4NWZzS2VGaGtKbnM3bGU5UWJ3QlZMWVZ5Vm9YNUtWN3pudXNxWnJsTENuVFhOWHVOYVVLSWplR19u?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-aa580b1e8948.webp",
+    "image_source_url": "https://canadianinquirer.net/2026/11/09/canada-unveils-600m-funding-boost-for-film-tv-music-and-local-media/",
+    "image_credit": "Philippine Canadian Inquirer"
   },
   {
     "id": "news-3a76664dd5ec",
@@ -2548,7 +2574,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -3914,7 +3940,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=Xf7Sac",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=mEIEiP",
     "image_credit": "IntraFish"
   },
   {
@@ -4041,9 +4067,9 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUFYZVpHaXVzM2lTb2hPYjVkbnh1U0ZBNUJvcUlBTzVUdHN0aGU4OFdBQmtPSGZkcTEwMTNwX1NlMFpvYTd1Z2tJWlZEaGc4Z1FsRmJWdkRsVHl1QVRXMndHckZYRVFhZldJaHRDODBqTlI1YW0yUXlfUlRydGlkZGtuUE5ySldVTUdDZlZZdlk1Rk1GbkpRWkQwSzNzUWdGejJN?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-3ece593ee56a.webp",
-    "image_source_url": "https://kelownacapnews.com/2026/09/28/kelowna-international-airport-receiving-22-4m-from-federal-government/",
-    "image_credit": "Kelowna Capital News"
+    "image_url": "/story-images/news/news-580fcf54c2b1.webp",
+    "image_source_url": "https://vicnews.com/2026/09/28/kelowna-international-airport-receiving-22-4m-from-federal-government/",
+    "image_credit": "Victoria News"
   },
   {
     "id": "news-54680293248a",
@@ -4167,9 +4193,9 @@
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMWJGQnFNM3NTcU9FV0dWOGZuNXhTSm9jakxvb1RlS0owNGRzUmJDc0twbVBWbGtjbG42ZVZ0bzQxYUpFZDdoT0NxTTRYeWl4cm84YVJjNU10a3lUNDB1Vm5vOE1mYVhuZzMxN0xIc3FtLWN5cmhnSnptQTEzRG12dnRFdVpEOVBGeE9iRTZ0WHMxeHlTNTFZQ180a0JtRVpFOHluR3RmTy1NTENyaHYwYlNreFowTmpJOXU0dlBQN3JwU2RVNjF1RzBuMXltT3BFdVE?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-1ea76d425f6a.webp",
-    "image_source_url": "https://www.netnewsledger.com/2026/09/24/canada-commits-82-million-as-oceaneye-alliance-secures-339-million-for-global-ocean-monitoring/",
-    "image_credit": "NetNewsLedger"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-ea665235c5a4",
@@ -5153,9 +5179,9 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjdFZTFLcFpTc2V0bGhvMzdYUURJZ3daTEFmNVRQU0sxYlFCZ3N6TzktTU5SdUxzVzdJOUp1XzFYdVdvOG9qeXZoVk11dmtYRVZhUWVJQUtGaVZ6eTR5cU5GLWlkTGpkTFoyQmo3UWFfek1GSVJGY09DelM0T0tnLUNsb1U3ejZ3Q2dTMWN4VWYxRjRoNVhmQTd0SUt6TWVoTkJvMlpKd3Qwc2JuTDhPSktFZXY?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-28b59b949d4f.webp",
+    "image_url": "/story-images/news/news-3bad748a137f.webp",
     "image_source_url": "https://www.ctvnews.ca/northern-ontario/article/ottawa-spending-47b-on-new-made-in-canada-via-rail-passenger-cars/",
-    "image_credit": "CTV News"
+    "image_credit": "BNN Bloomberg"
   },
   {
     "id": "news-3d3817a9a717",
@@ -5283,9 +5309,9 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV0FMZ2ZWVl9HTmpyQ1h0RXJsNWo0NEFrZkJxRW95TkNhekp5QjlKRzFHRFJpNGs4ZnNjdFVzSHBEcUNhc2VocDgtQ1RDWXItZ3hvajJkNlZmbTB3dTc2NUdrd2VxOXh0T2xOaTM4cGRVb3FPSGI0SGJTZ0NralJYNUNSX1VlQl9KTXc?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-bbcbea65de3f.webp",
-    "image_source_url": "https://money.ca/news/economy/bc-salmon-hatcheries-ottawa-50-million-local-economy",
-    "image_credit": "Money.ca"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-b6e6ec730cb2",
