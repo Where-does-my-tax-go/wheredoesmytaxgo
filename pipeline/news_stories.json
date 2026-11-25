@@ -1,5 +1,93 @@
 [
   {
+    "id": "news-74b6468dabc5",
+    "title": "Special Olympics Canada receives $8.4 million in federal funding",
+    "summary": "Special Olympics Canada has received an $8.4 million federal funding boost.",
+    "amount": 8400000,
+    "date": "2026-11-24",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "WestCentralOnline",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFBuZk80WXY1dE1vOUkwamwzckNNS1FlSWFIUFNZTUFJbVhnRFczdUUxTmNfOEtTeGJmYUZpdDI1aUVDVlo3U0ZPVkdXZFVjdS01bWxMTzZMWVdTaTg2bDFkckJHRUdoTWd0bGdCOFZJc05BQTlndHNjNDZDTkR6TVAwOVJhT21VTWY3WjVVTnpBZzJJM0FZSE83WWc5dnZjRjR6aW9oYjJfRTZ1bUFKMg?oc=5"
+      }
+    ],
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
+  },
+  {
+    "id": "news-e1b748013926",
+    "title": "Commodore's Boats wins $8 million contract for Coast Guard hovercraft",
+    "summary": "Commodore's Boats in Richmond has been awarded an $8 million contract to extend the service life of the Coast Guard hovercraft Siyay.",
+    "amount": 8000000,
+    "date": "2026-11-24",
+    "fiscal_year": "2026-27",
+    "department": "Fisheries and Oceans Canada",
+    "dept_code": "FO",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "www.vanguarddefence.ca",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMW9Ic2h5VFhtNlJEZ2ktUFhRUGRaU2ZvdXB0akZFN2JGV3VrY01CVV9WY3dwcGJqSnNMOFkwdGhyTWpzOU04TUs3SElVdi1YeUNFVDBtakNLQ19xdkNnd3M4VzZMTnBsclplZlcwdHNsbkpHYWVpYzFNR2VURXRldTJpaHVBRTB6Sjh5b3J3QnhqaU5Ba3Qya3VqbnM0bGh6WEROMW14WHN4VWhwOWJOWm11UnkzcnNFRG50aUUtZ2VfZjlWNXNrdFJCWkE?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-e1b748013926.webp",
+    "image_source_url": "https://www.vanguarddefence.ca/p/richmond-s-commodore-s-boats-wins-8-million-contract-to-extend-life-of-coast-guard-hovercraft-siyay",
+    "image_credit": "www.vanguarddefence.ca"
+  },
+  {
+    "id": "news-ca516fc6ad97",
+    "title": "Ottawa spends $3 million scanning N.W.T. drill cores for new library",
+    "summary": "The federal government is spending $3 million to scan drill cores in the Northwest Territories for a new library.",
+    "amount": 3000000,
+    "date": "2026-11-23",
+    "fiscal_year": "2026-27",
+    "department": "Natural Resources Canada",
+    "dept_code": "NR",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "Cabin Radio",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDlNZllHdHY4Z2g2RnpCOGVsLW85eWk1SGwwdV9nMmJNTFlmM1pQRVF2bzFJeXMtbDRiMmQ0dHFvM2Q1V0prWkZ5TmR2LTdlSGVjRDZiV0prWS0tTW1sSTlMX3I3WkNPVHJTYWJGT25mSXZqM3RPT2JNUzZCRnlXME1VaXhnU1AyVnVLSEduZXdkRFhINkxZSUY1NXJYTTl2WGpRbGItWnFMbVhB?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-ca516fc6ad97.webp",
+    "image_source_url": "https://cabinradio.ca/322494/news/economy/mining/ottawa-spends-3m-scanning-nwts-drill-cores-for-new-library/",
+    "image_credit": "Cabin Radio"
+  },
+  {
+    "id": "news-617d4440eae9",
+    "title": "Canada increases funding for 2028 Indigenous Games to $6.2 million",
+    "summary": "The federal government has increased funding for the 2028 Indigenous Games to $6.2 million.",
+    "amount": 6200000,
+    "date": "2026-11-23",
+    "fiscal_year": "2026-27",
+    "department": "Canadian Heritage",
+    "dept_code": "CH",
+    "program_code": null,
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "arabcanadanews.ca",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSnJvSXFWWlJnbnVLX3NFU2MzQkxpbkxfeUdhMFZMeUZtdkZTV2tDQk16SnVCcWFVQ0w0dWZNbFlEZDI4ZmRGQVUyTVhEOFYxSTJTSGR4cDdwdmozZkpGX1ZmZjdPdV9NeGpsbjU1LUNHY01lRkN1MjJmZVdpcjdWb3Q2R2Q0NDVabVNrbTlPMG9qUkxiWjdfbUFnTzJSTmE0a2Vmdnl4dTJrUnZTOU9VLVhmQjdtSUN1aEFyZ2QzSEg0OUVZb01XSW1ORzJvLXQy?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-617d4440eae9.webp",
+    "image_source_url": "https://arabcanadanews.ca/en/article/canada-raises-funding-for-the-2028-indigenous-games-to-62-million-to-support-thousands-of-athletes",
+    "image_credit": "arabcanadanews.ca"
+  },
+  {
     "id": "news-683dc60093bc",
     "title": "Ford receives $760 million from taxpayers for Ontario plant",
     "summary": "Ford is receiving $760 million from taxpayers for its manufacturing facility in Ontario.",
@@ -158,6 +246,32 @@
     "image_credit": null
   },
   {
+    "id": "news-470e6868a988",
+    "title": "Robotics Centre awarded $4.5M DND contract for 80 Canadian-built drones",
+    "summary": "The Department of National Defence has awarded a $4.5-million contract to Robotics Centre for 80 drones built in Canada.",
+    "amount": 4500000,
+    "date": "2026-11-19",
+    "fiscal_year": "2026-27",
+    "department": "National Defence",
+    "dept_code": "ND",
+    "program_code": "BUR03",
+    "source_type": "news",
+    "level": "federal",
+    "sources": [
+      {
+        "label": "www.vanguarddefence.ca",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkI2eFRXYUxKT1c2OG9TQkdqVHh3dlpkeFl4OWdkUWY0bDBzMnZWeVBLZ2J3YW85eUtDcjJqSS1oblFDcWY3NkxYOGllSGhTMnhpWFRWSThQZkMzNjYwYmJjQWhyUmVCQVUyWTE1cnJVaUJoUDdOS3JydTZvTzViNUNxRHo5V01PdVhCTHZrOUc2ZmJTXzRueDVDY3VibU96WThMR0dpYw?oc=5"
+      },
+      {
+        "label": "CTV News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2pfMkpSSGhocXZ4YTRIMGhoMkEzTG5GaHotOTZLeDZYYm5QN1F2RDNPaEFVcmxzcnktR3B3eW1RanQ5T2JEN2YxX2YxeXRRWDA0NEM1MEVhSTJOWkxaNXlMT01CVTNzNHRxa2RtVmlQSzNDWEdNUXJ3VDhlS2lWMXhEa0FGemp0S3MwdVY1QU0wZHA4WTRleWV3MjhVYnVhN0JVbUF5NHJWMGRtc0pocWdLdw?oc=5"
+      }
+    ],
+    "image_url": "/story-images/news/news-470e6868a988.webp",
+    "image_source_url": "https://www.vanguarddefence.ca/p/robotics-centre-lands-4-5-million-dnd-deal-for-80-canadian-built-drones",
+    "image_credit": "www.vanguarddefence.ca"
+  },
+  {
     "id": "news-f092bc6df740",
     "title": "Canada funds $2.2M forest market challenge",
     "summary": "The Government of Canada is providing $2.2 million in funding for a forest market challenge.",
@@ -175,31 +289,9 @@
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaG5Cbm04dlBqbmJzOWoxSzUtMUZGVGRZZ2otNXFiM0hwZ3VfUTBKUmF6V2ItR3VwcTN4eHpWdXNYYW43QWZqdmxWVmtFRnRTX2VmdDBsVU9BYjN2S2xHSkxzMk9nNTZ6SXFJanVmeTVBMGxTSFNudlZiYUp2UkUtNE56UU0?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-f092bc6df740.webp",
-    "image_source_url": "https://wisevoter.com/world/ca/2026/11/19/canada-funds-forest-market-challenge",
-    "image_credit": "Wisevoter"
-  },
-  {
-    "id": "news-470e6868a988",
-    "title": "Robotics Centre awarded $4.5M DND contract for 80 Canadian-built drones",
-    "summary": "The Department of National Defence has awarded a $4.5-million contract to Robotics Centre for 80 drones built in Canada.",
-    "amount": 4500000,
-    "date": "2026-11-19",
-    "fiscal_year": "2026-27",
-    "department": "National Defence",
-    "dept_code": "ND",
-    "program_code": "BUR03",
-    "source_type": "news",
-    "level": "federal",
-    "sources": [
-      {
-        "label": "www.vanguarddefence.ca",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkI2eFRXYUxKT1c2OG9TQkdqVHh3dlpkeFl4OWdkUWY0bDBzMnZWeVBLZ2J3YW85eUtDcjJqSS1oblFDcWY3NkxYOGllSGhTMnhpWFRWSThQZkMzNjYwYmJjQWhyUmVCQVUyWTE1cnJVaUJoUDdOS3JydTZvTzViNUNxRHo5V01PdVhCTHZrOUc2ZmJTXzRueDVDY3VibU96WThMR0dpYw?oc=5"
-      }
-    ],
-    "image_url": "/story-images/news/news-470e6868a988.webp",
-    "image_source_url": "https://www.vanguarddefence.ca/p/robotics-centre-lands-4-5-million-dnd-deal-for-80-canadian-built-drones",
-    "image_credit": "www.vanguarddefence.ca"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-710e1b9ee8b8",
@@ -645,9 +737,9 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEpLekQ5UmxuZ20tcGhRYlpHR21nVVIzbGdzVzlLcmlEbGNpSmhVTEYwTWdHQ2lHTDFsVUtfWW44OXl0R2Z4OW4zNFFfSGV0UDNvOXp0NHlhU1hRY215UUJFYkRGbHowNXVLcHY4NUhCSUI4NWZzS2VGaGtKbnM3bGU5UWJ3QlZMWVZ5Vm9YNUtWN3pudXNxWnJsTENuVFhOWHVOYVVLSWplR19u?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-aa580b1e8948.webp",
-    "image_source_url": "https://canadianinquirer.net/2026/11/09/canada-unveils-600m-funding-boost-for-film-tv-music-and-local-media/",
-    "image_credit": "Philippine Canadian Inquirer"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-3a76664dd5ec",
@@ -1207,9 +1299,9 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnhSeHRBdTNaQy1ZR3dIMGxVUUQ2dUExcldTRW1ST25hZmtEYURGZ3RvZ3hramxqSUpIMVVWY1ZQNzc3SG9yZ2pwLTNfRmVzQVp4QlcxWTE3SlQtVVRPYWlzeWR4TTRPZkw0dVVMRTQ3NkZiZzd6MndBUC1OUnNITXpESU8zbHdPU0FZbFlmQy1idEs5Wk9xOVlVNDZlMXNpVXJCNzg1Zw?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-cdca2d370219.webp",
+    "image_source_url": "https://ontarioconstructionnews.com/ottawa-makes-15-million-available-for-zero-emission-transit-planning",
+    "image_credit": "Ontario Construction News"
   },
   {
     "id": "news-19531230382c",
@@ -1329,9 +1421,9 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVVRKODJ5SDRQT3FJZ3g5aHdCdnNIZ3BTcFZpNy0yVnBuc194aFlUZ2hsd0NHZFpLUXNfdFFKdnRFYVk0dXdJWFpOQVN3WDkwQTFkZGNLeHRDWmFsNVlUYXBILWpjRkdTTzhiQ3lsdEdVRjdrZU53ZUpzLXBIR2VYeTFPTkRjZw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-e375952e5d00.webp",
-    "image_source_url": "https://www.freshplaza.com/north-america/article/9888446/government-of-canada-invests-750-million-in-domestic-cea-growing/",
-    "image_credit": "FreshPlaza"
+    "image_url": "/story-images/news/news-1f94651d7ed4.webp",
+    "image_source_url": "https://ca.finance.yahoo.com/news/government-canada-invests-750-million-164500642.html",
+    "image_credit": "Yahoo! Finance Canada"
   },
   {
     "id": "news-145353ce2b28",
@@ -1559,9 +1651,9 @@
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80QzFvaVEtR1JBancxd3BTNGhyRkJYTVN1cnE4ZUtua2VQMlBNU0VPZXVZMzA0M2tJc3FPVHVYUkd1UEkzVzJyYURpZVhteGE3X3J2cTF3cWVyWll2NzdzT093SkxxSjM2eEVrVVFrVmJwSWg0R0ROcmVn?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-62217be23d25.webp",
+    "image_source_url": "https://www.theglobeandmail.com/business/article-ottawa-buys-stake-in-cohere-357-billion-in-new-financing/",
+    "image_credit": "The Globe and Mail"
   },
   {
     "id": "news-127ea1223b45",
@@ -2456,7 +2548,7 @@
       }
     ],
     "image_url": "/story-images/news/news-08d2e3ddf011.webp",
-    "image_source_url": "https://westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
+    "image_source_url": "https://www.westcentralonline.com/articles/ottawa-announces-162-million-for-10000-ai-work-placements-across-canada",
     "image_credit": "WestCentralOnline"
   },
   {
@@ -2545,9 +2637,9 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHdPNUVsWmZkcG1FUEdzb2ZEVHBvcW9jLXBNNE14QjlnRmFDMFN3SUVybVp4STJ5U1NGQkVodDllcUlkZDlzRWhpS0VUczRpZTQ2LVRrZVRhOFJ3aFdZOTBQRmRVaUNZd3V5VUZKYUdNLWgyWUFWei1vcTZhcFdVcV9xRmVHWG82SlpIdTJad2lHbXRZV09SYUszX3V3eTJFUXRPcGRpMGZXRG8?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-1db5094d403e.webp",
-    "image_source_url": "https://canada.constructconnect.com/dcn/news/labour/2026/10/liberals-announce-258-6m-fund-for-skilled-worker-training-in-critical-sectors",
-    "image_credit": "constructconnect.com"
+    "image_url": "/story-images/news/news-086732d628cb.webp",
+    "image_source_url": "https://www.ctvnews.ca/canada/article/liberals-announce-2586m-fund-for-skilled-worker-training-in-critical-sectors/",
+    "image_credit": "BNN Bloomberg"
   },
   {
     "id": "news-bb6638faed17",
@@ -3822,7 +3914,7 @@
       }
     ],
     "image_url": "/story-images/news/news-ec12e7d9d9ae.webp",
-    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=GcEoMb",
+    "image_source_url": "https://www.intrafish.com/fisheries/canada-to-expand-fisheries-enforcement-with-drones-new-officers-under-845m-plan/2-1-2051357?zephr_sso_ott=Xf7Sac",
     "image_credit": "IntraFish"
   },
   {
@@ -4725,9 +4817,9 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2RxRXdyOVF0ejQtalpkTjB6Qk9Nblh2cHlBdUZEV3JyZFhMRk0ya2RSWThmU2NrUnd5VzA1NW04c0VnWXVTSktINGxleldDdnV4aTZmeEZVb0JBakNtbHItVHZmSnVoR1hUYVJEOXBrX1Z5MXlrUEtGZDBrczZOZjZLWHRKYldYTjByc0VYWkdkVDNQdnQxRkR0Zm1Ba0NTeGRzdGdwSk91VjM4cmc?oc=5"
       }
     ],
-    "image_url": null,
-    "image_source_url": null,
-    "image_credit": null
+    "image_url": "/story-images/news/news-a49f84fd54b2.webp",
+    "image_source_url": "https://www.hpcwire.com/off-the-wire/qubic-wins-ca1-5m-canadian-government-contract-for-cryogenic-amplifiers/",
+    "image_credit": "HPCwire"
   },
   {
     "id": "news-c4098e4bdd5c",
@@ -5169,9 +5261,9 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3ZYc296ejNBV01oWEpmbHY5ak1iSFdiWndPTmY4Q0FCMkFiRGNJUWRIdkVsTndMdHBUREpWY0szRlpRWExjcWZJQVNKRFZnWTBrOTlVdzg4Y0VOVFBfZ0dIMW9OVlpWcXNKWFhoVUdxdHVPOTF3TzlPclNTbm1yeC1LMGlWb0pvNzdkS1VhUW5OcVJWT2R5eEdEbw?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-31e0dea067b2.webp",
-    "image_source_url": "https://capebretonpost.com/news/130-million-for-parks-canada-historic-sites-in-cape-breton/",
-    "image_credit": "saltwire.com"
+    "image_url": "/story-images/news/news-bd9dcbfbb8c3.webp",
+    "image_source_url": "https://www.ctvnews.ca/atlantic/nova-scotia/article/ottawa-spending-nearly-130m-on-improvements-to-parks-canada-sites-in-cape-breton-canso/",
+    "image_credit": "CTV News"
   },
   {
     "id": "news-bbcbea65de3f",
@@ -5213,9 +5305,9 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd3o2S01PeldUQlRQS2ZmcHdCbVotQnZad3QtTU9rUmJOeUhlSEV2X09lUWRwSTd4a0VwUmpGcDlJMElPY1AtNFBzZG13RnR3d0VQOFRoYzdZWVdsOWtPOXpSMEc2bzNlUGFmOU1NU0Q1ZWw0cDE1SlN5RmhHSXE0dkQ2eHhKakhmQjd5SDR6MnVXQm4zZFVmdlRsMFNseE1OSENSVzFaMkVOR3JKbFVibWE1blUzY0xHVDFTVk9HcDZuV1FuNlU2NHgzTnh6Rkk?oc=5"
       }
     ],
-    "image_url": "/story-images/news/news-b6e6ec730cb2.webp",
-    "image_source_url": "https://halifaxherald.com/news/nova-scotia-news/federal-government-commits-14-1-million-to-nova-scotia-businesses-affected-by-tariff-war-with-u-s/",
-    "image_credit": "saltwire.com"
+    "image_url": null,
+    "image_source_url": null,
+    "image_credit": null
   },
   {
     "id": "news-7b0f1d5d4b0e",
